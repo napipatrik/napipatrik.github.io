@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+<h1>A nap Patrikja</h1>
+
+<blockquote id="napituti"></blockquote>
+
+<script type="text/javascript" src="assets/js/moment.min.js"></script>
+<script type="text/javascript">
+    var patrikok = [
+        'Én megmondtam',
+        'Éhes vagyok'
+    ];
+
+    var offset = moment().year() * moment().dayOfYear();
+    var napituti = patrikok[offset % patrikok.length];
+    document.getElementById('napituti').innerText = napituti;
+</script>
