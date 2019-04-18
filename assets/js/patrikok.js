@@ -11,5 +11,9 @@ var patrikok = [
     'Kéne a devops szemed',
     'Felgyújtom a gecibe ....',
     'Anyáddal ne menjek? Csak annak nem tudom a jelszavát ...',
-    'Írok a Mikernek, faszom kínlódik itt ...'
+    'Írok a Mikernek, faszom kínlódik itt ...',
+    'András majd jól megcsillagozlak én téged!',
+    'Gyűlölöm ezt a manuál munkát, olyan faszságot írnak...',
+    'Ezt kértétek ez lesz, meg lesz baszódva!',
+    'Mondd még egyszer!'
 ];
