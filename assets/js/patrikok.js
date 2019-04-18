@@ -8,5 +8,6 @@ var patrikok = [
     'Hát Én mindjárt hazamegyek',
     'Tudod kiről tegyél ki képet..... ANYÁÁÁÁÁDRÓÓÓÓÓL',
     'ANYÁDÉÉÉÉÉ',
-    'Kéne a devops szemed'
+    'Kéne a devops szemed',
+    'Felgyujtom a gecibe ....'
 ];
