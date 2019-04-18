@@ -15,5 +15,6 @@ var patrikok = [
     'András majd jól megcsillagozlak én téged!',
     'Gyűlölöm ezt a manuál munkát, olyan faszságot írnak...',
     'Ezt kértétek ez lesz, meg lesz baszódva!',
-    'Mondd még egyszer!'
+    'Mondd még egyszer!',
+    'Jóképű vagyok, magas, szerény...'
 ];
