@@ -10,5 +10,6 @@ var patrikok = [
     'ANYÁDÉÉÉÉÉ',
     'Kéne a devops szemed',
     'Felgyújtom a gecibe ....',
-    'Anyáddal ne menjek? Csak annak nem tudom a jelszavát ...'
+    'Anyáddal ne menjek? Csak annak nem tudom a jelszavát ...',
+    'Írok a Mikernek, faszom kínlódik itt ...'
 ];
