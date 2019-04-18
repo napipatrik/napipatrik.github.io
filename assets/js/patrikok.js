@@ -9,5 +9,6 @@ var patrikok = [
     'Tudod kiről tegyél ki képet..... ANYÁÁÁÁÁDRÓÓÓÓÓL',
     'ANYÁDÉÉÉÉÉ',
     'Kéne a devops szemed',
-    'Felgyujtom a gecibe ....'
+    'Felgyújtom a gecibe ....',
+    'Anyáddal ne menjek? Csak annak nem tudom a jelszavát ...'
 ];
