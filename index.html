@@ -6,14 +6,26 @@ layout: page
 
 <blockquote id="napituti"></blockquote>
 
-<script type="text/javascript" src="assets/js/moment.min.js"></script>
-<script type="text/javascript">
-    var patrikok = [
-        'Én megmondtam',
-        'Éhes vagyok'
-    ];
+<a href="#" onclick="shuffle(); return false;">Véletlen tuti</a> | <a href="#" id="permalink">Permalink</a>
 
-    var offset = moment().year() * moment().dayOfYear();
-    var napituti = patrikok[offset % patrikok.length];
-    document.getElementById('napituti').innerText = napituti;
+<script type="text/javascript" src="assets/js/moment.min.js"></script>
+<script type="text/javascript" src="assets/js/patrikok.js"></script>
+<script type="text/javascript">
+    function showPatrik(i) {
+        let index = i % patrikok.length;
+
+        document.getElementById('napituti').innerText = patrikok[index];
+        document.getElementById('permalink').href = window.location.href.replace(window.location.hash, '') + '#' + index;
+    }
+
+    function shuffle() {
+        showPatrik(Math.floor(Math.random() * patrikok.length));
+    }
+
+    if (window.location.hash) {
+        showPatrik(window.location.hash.replace('#', ''));
+    } else {
+        let offset = moment().year() * moment().dayOfYear();
+        showPatrik(offset);
+    }
 </script>
