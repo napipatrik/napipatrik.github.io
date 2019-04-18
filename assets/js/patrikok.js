@@ -7,5 +7,6 @@ var patrikok = [
     'Hát ez végülis működhet ...',
     'Hát Én mindjárt hazamegyek',
     'Tudod kiről tegyél ki képet..... ANYÁÁÁÁÁDRÓÓÓÓÓL',
-    'ANYÁDÉÉÉÉÉ'
+    'ANYÁDÉÉÉÉÉ',
+    'Kéne a devops szemed'
 ];
