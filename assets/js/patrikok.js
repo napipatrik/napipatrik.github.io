@@ -21,5 +21,7 @@ var patrikok = [
     'Rádhajlítom a permeteződet!',
     'Apád faszát, jó?',
     'Az én inputomat te nem kapod meg',
-    'Majd kapjalak el amikor nem figyelsz...'
+    'Majd kapjalak el amikor nem figyelsz...',
+    'Felgyújtom az összeset',
+    'A script hibázhat, a kezed nem'
 ];
