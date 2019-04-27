@@ -2,3 +2,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# API
+/api/node_modules
+/api/config/production.json

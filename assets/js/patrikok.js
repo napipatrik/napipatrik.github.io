@@ -19,3 +19,7 @@ var patrikok = [
     'Jóképű vagyok, magas, szerény...',
     'Én mindent is tudok :D'
 ];
+
+if (typeof exports !== 'undefined') {
+    module.exports = patrikok;
+}

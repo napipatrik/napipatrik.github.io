@@ -10,22 +10,11 @@ layout: page
 
 <script type="text/javascript" src="assets/js/moment.min.js"></script>
 <script type="text/javascript" src="assets/js/patrikok.js"></script>
+<script type="text/javascript" src="assets/js/functions.js"></script>
 <script type="text/javascript">
-    function showPatrik(i) {
-        let index = i % patrikok.length;
-
-        document.getElementById('napituti').innerText = patrikok[index];
-        document.getElementById('permalink').href = window.location.href.replace(window.location.hash, '') + '#' + index;
-    }
-
-    function shuffle() {
-        showPatrik(Math.floor(Math.random() * patrikok.length));
-    }
-
     if (window.location.hash) {
         showPatrik(window.location.hash.replace('#', ''));
     } else {
-        let offset = moment().year() * moment().dayOfYear();
-        showPatrik(offset);
+        showPatrik(getDefaultOffset());
     }
 </script>
