@@ -23,9 +23,13 @@ var patrikok = [
     'Az én inputomat te nem kapod meg',
     'Majd kapjalak el amikor nem figyelsz...',
     'Felgyújtom az összeset',
-    'A script hibázhat, a kezed nem'
+    'A script hibázhat, a kezed nem',
+    'Mindegy, mindegy, csak legyen pinája... na csőő',
+    'Akinek nincsen esze legyen notesze',
+    'Tátott szájjal szaladunk a faszerdőbe\''
 ];
 
 if (typeof exports !== 'undefined') {
     module.exports = patrikok;
 }
+
