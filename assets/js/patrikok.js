@@ -27,7 +27,8 @@ var patrikok = [
     'Mindegy, mindegy, csak legyen pinája... na csőő',
     'Akinek nincsen esze legyen notesze',
     'Tátott szájjal szaladunk a faszerdőbe\'',
-    'Azt még megeszed?'
+    'Azt még megeszed?',
+    'Én már jól nem járok ...'
 ];
 
 if (typeof exports !== 'undefined') {
