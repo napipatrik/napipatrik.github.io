@@ -28,7 +28,9 @@ var patrikok = [
     'Akinek nincsen esze legyen notesze',
     'Tátott szájjal szaladunk a faszerdőbe\'',
     'Azt még megeszed?',
-    'Én már jól nem járok ...'
+    'Én már jól nem járok ...',
+    'Én lusta geci vagyok',
+    'A hónap dolgozója, meg is lennék lepődve ha ne te töltenéd ki először'
 ];
 
 if (typeof exports !== 'undefined') {
