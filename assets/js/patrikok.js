@@ -5,7 +5,7 @@ var patrikok = [
     'De ezek fogyatékosak!',
     'Úúú...',
     'Hát ez végülis működhet ...',
-    'Hát Én mindjárt hazamegyek',
+    'Hát én mindjárt hazamegyek',
     'Tudod kiről tegyél ki képet..... ANYÁÁÁÁÁDRÓÓÓÓÓL',
     'ANYÁDÉÉÉÉÉ',
     'Kéne a devops szemed',
@@ -30,7 +30,14 @@ var patrikok = [
     'Azt még megeszed?',
     'Én már jól nem járok ...',
     'Én lusta geci vagyok',
-    'A hónap dolgozója, meg is lennék lepődve ha ne te töltenéd ki először'
+    'A hónap dolgozója, meg is lennék lepődve ha ne te töltenéd ki először',
+    'Ezt a tránya gány melót aki ezt idebaszta',
+    'Szeretek pukkantgatni',
+    'Ez mi a faszooom? Komolyan, arrrgggghhhh...',
+    'Tudod hogy érzem most magam Balázs? Mint egy kibaszott majom, íííÍÍíííííÍííí...',
+    'Rá kell igazítani a szarra, nyomjunk rá egy kis tejszínhabot',
+    '...nem érdekel, rúgjanak ki, le is szarom...',
+    'Majd mindjárt rádhajtogatom a napipatrikot!'
 ];
 
 if (typeof exports !== 'undefined') {
