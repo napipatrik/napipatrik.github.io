@@ -37,7 +37,8 @@ var patrikok = [
     'Tudod hogy érzem most magam Balázs? Mint egy kibaszott majom, íííÍÍíííííÍííí...',
     'Rá kell igazítani a szarra, nyomjunk rá egy kis tejszínhabot',
     '...nem érdekel, rúgjanak ki, le is szarom...',
-    'Majd mindjárt rádhajtogatom a napipatrikot!'
+    'Majd mindjárt rádhajtogatom a napipatrikot!',
+    'A bu*iknak adok access-t, ehhez a szarhoz ...'
 ];
 
 if (typeof exports !== 'undefined') {
