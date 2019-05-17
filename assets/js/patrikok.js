@@ -38,7 +38,8 @@ var patrikok = [
     'Rá kell igazítani a szarra, nyomjunk rá egy kis tejszínhabot',
     '...nem érdekel, rúgjanak ki, le is szarom...',
     'Majd mindjárt rádhajtogatom a napipatrikot!',
-    'A bu*iknak adok access-t, ehhez a szarhoz ...'
+    'A bu*iknak adok access-t, ehhez a szarhoz ...',
+    '- Mire gondolsz Patrik?\n- A pinára, de hogy jön ez ide?'
 ];
 
 if (typeof exports !== 'undefined') {

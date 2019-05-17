@@ -1,7 +1,7 @@
 function showPatrik(i) {
     let index = i % patrikok.length;
 
-    document.getElementById('napituti').innerText = patrikok[index];
+    document.getElementById('napituti').innerHTML = patrikok[index].replace('\n', '<br/>');
     document.getElementById('permalink').href = window.location.href.replace(window.location.hash, '') + '#' + index;
 }
 
