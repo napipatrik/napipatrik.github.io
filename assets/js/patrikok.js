@@ -39,7 +39,9 @@ var patrikok = [
     '...nem érdekel, rúgjanak ki, le is szarom...',
     'Majd mindjárt rádhajtogatom a napipatrikot!',
     'A bu*iknak adok access-t, ehhez a szarhoz ...',
-    '- Mire gondolsz Patrik?\n- A pinára, de hogy jön ez ide?'
+    '- Mire gondolsz Patrik?\n- A pinára, de hogy jön ez ide?',
+    'Laci mi ez a sok piros? A kurva anyja!',
+    'Látod, mondtam én, hogy veszélyes dolgozni!'
 ];
 
 if (typeof exports !== 'undefined') {
