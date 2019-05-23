@@ -41,7 +41,17 @@ var patrikok = [
     'A bu*iknak adok access-t, ehhez a szarhoz ...',
     '- Mire gondolsz Patrik?\n- A pinára, de hogy jön ez ide?',
     'Laci mi ez a sok piros? A kurva anyja!',
-    'Látod, mondtam én, hogy veszélyes dolgozni!'
+    'Látod, mondtam én, hogy veszélyes dolgozni!',
+    'De ezt így mondják Balázs: fogyatékosok.... szellemileg visszamaradottak!',
+    'Ezt tudod, hogy mondják? Dilettantizmus!',
+    'Majd át kell állni Ashburnbe, az is szar lesz... ááhhhh',
+    'Mivel HA-ban van, ezért nem redundáns',
+    'Szar ez a fos!',
+    'Vegyünk már egy latex búslakodót, olyan devopsosat!',
+    'Apád faszát kéne kitenni a napipatrikra!',
+    'Full mesh az amit reggel kitoltam, az a full mesh',
+    'Vertek meg már managert a Logmeinben?',
+    'Hallod, megpiszkálták, szarabb lett'
 ];
 
 if (typeof exports !== 'undefined') {
