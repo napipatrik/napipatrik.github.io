@@ -51,7 +51,8 @@ var patrikok = [
     'Apád faszát kéne kitenni a napipatrikra!',
     'Full mesh az amit reggel kitoltam, az a full mesh',
     'Vertek meg már managert a Logmeinben?',
-    'Hallod, megpiszkálták, szarabb lett'
+    'Hallod, megpiszkálták, szarabb lett',
+    'Hallod András, gyere mááááár ide, ezt nem hiszem el'
 ];
 
 if (typeof exports !== 'undefined') {
