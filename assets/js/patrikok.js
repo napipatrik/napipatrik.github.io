@@ -55,7 +55,8 @@ var patrikok = [
     'You cannot make wine from tablettas',
     'Elment Ákos? Pedig most kezdtem érezni az [pénz] energiát csak',
     'Odaguggol és rádszarik',
-    'Mondd azt, hogy nincs igazam!'
+    'Mondd azt, hogy nincs igazam!',
+    'Hallod András, gyere mááááár ide, ezt nem hiszem el'
 ];
 
 if (typeof exports !== 'undefined') {
