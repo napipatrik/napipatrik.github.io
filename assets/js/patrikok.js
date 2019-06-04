@@ -56,7 +56,11 @@ var patrikok = [
     'Elment Ákos? Pedig most kezdtem érezni az [pénz] energiát csak',
     'Odaguggol és rádszarik',
     'Mondd azt, hogy nincs igazam!',
-    'Hallod András, gyere mááááár ide, ezt nem hiszem el'
+    'Hallod András, gyere mááááár ide, ezt nem hiszem el',
+    'Se citromlé, se fizetés, mintha a Nokiában lennék... és még András is buzi',
+    'Faszom a csillagodba, hogy így kellett ezt idehákolni?!',
+    'Ennyi mert csak gányol bazmeg, komolyan, ez a kódrészlet...',
+    'Ez, ez, ez az undormány kódrészlet!'
 ];
 
 if (typeof exports !== 'undefined') {
