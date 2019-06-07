@@ -60,7 +60,10 @@ var patrikok = [
     'Se citromlé, se fizetés, mintha a Nokiában lennék... és még András is buzi',
     'Faszom a csillagodba, hogy így kellett ezt idehákolni?!',
     'Ennyi mert csak gányol bazmeg, komolyan, ez a kódrészlet...',
-    'Ez, ez, ez az undormány kódrészlet!'
+    'Ez, ez, ez az undormány kódrészlet!',
+    'Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg',
+    'Együnk, mert enni jó',
+    'HAMMERYOLO'
 ];
 
 if (typeof exports !== 'undefined') {
