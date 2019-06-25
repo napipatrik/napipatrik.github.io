@@ -63,7 +63,15 @@ var patrikok = [
     'Ez, ez, ez az undormány kódrészlet!',
     'Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg',
     'Együnk, mert enni jó',
-    'HAMMERYOLO'
+    'HAMMERYOLO',
+    'Mátyás! Egy staff van közöttünk.',
+    'Az nem vicces hogy, Patrikloss',
+    'Ezt a trágya, gány melót!',
+    'Herndont én ledosolom otthon a routeremről',
+    'Most is itt dolgozom helyetted',
+    'A kurva anyádat, az baszd meg!',
+    'Látod miért jó a mechanikus billentyűzet? Az bírja a baszódást! Egy igazi cherry switches, úgy nyeli a faszt mint kacsa a nokedlit...',
+    'Húúúú, most lehet, hogy megbasztam'
 ];
 
 if (typeof exports !== 'undefined') {
