@@ -71,7 +71,10 @@ var patrikok = [
     'Most is itt dolgozom helyetted',
     'A kurva anyádat, az baszd meg!',
     'Látod miért jó a mechanikus billentyűzet? Az bírja a baszódást! Egy igazi cherry switches, úgy nyeli a faszt mint kacsa a nokedlit...',
-    'Húúúú, most lehet, hogy megbasztam'
+    'Húúúú, most lehet, hogy megbasztam',
+    'A devops szállít',
+    '- Hívnának Indiából?\n- Nem\n- Akkor sztahanovkodsz',
+    'Ugyanitt körszakáll ingyen átvehető'
 ];
 
 if (typeof exports !== 'undefined') {
