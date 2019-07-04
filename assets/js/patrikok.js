@@ -74,7 +74,14 @@ var patrikok = [
     'Húúúú, most lehet, hogy megbasztam',
     'A devops szállít',
     '- Hívnának Indiából?\n- Nem\n- Akkor sztahanovkodsz',
-    'Ugyanitt körszakáll ingyen átvehető'
+    'Ugyanitt körszakáll ingyen átvehető',
+    'Köszönöm, Isten fizesse meg!',
+    'A scheduler elkeni a szart, azért van',
+    'Most adok neked jogot, aztán megverem Balázs bácsit. Mi fog eltűnni? A fogai.',
+    'A zseni átlát a káoszon',
+    'Balázs te szereted a lófaszt, mondtam én!',
+    'Egy-két gubics el van gurulva az nem érdekel, amikor ott a nagy szarhegy',
+    'Balázs bácsi mindjárt megrázza a pofonfát, de olyan szüret esik rá...'
 ];
 
 if (typeof exports !== 'undefined') {

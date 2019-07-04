@@ -10,5 +10,5 @@ function shuffle() {
 }
 
 function getDefaultOffset() {
-    return moment().year() * moment().dayOfYear();
+    return (moment().year() - 1970) * 365 + moment().dayOfYear();
 }
