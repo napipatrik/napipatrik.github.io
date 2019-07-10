@@ -64,7 +64,7 @@ var patrikok = [
     'Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg',
     'Együnk, mert enni jó',
     'HAMMERYOLO',
-    'Mátyás! Egy staff van közöttünk.',
+    'Mátyás, egy staff van közöttünk.',
     'Az nem vicces hogy, Patrikloss',
     'Ezt a trágya, gány melót!',
     'Herndont én ledosolom otthon a routeremről',
@@ -81,7 +81,9 @@ var patrikok = [
     'A zseni átlát a káoszon',
     'Balázs te szereted a lófaszt, mondtam én!',
     'Egy-két gubics el van gurulva az nem érdekel, amikor ott a nagy szarhegy',
-    'Balázs bácsi mindjárt megrázza a pofonfát, de olyan szüret esik rá...'
+    'Balázs bácsi mindjárt megrázza a pofonfát, de olyan szüret esik rá...',
+    'Ma nincs kedvem dolgozni',
+    'Elbasztam. Faszom számok vannak, egyik a másik... elbasztam.'
 ];
 
 if (typeof exports !== 'undefined') {
