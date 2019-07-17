@@ -83,7 +83,8 @@ var patrikok = [
     'Egy-két gubics el van gurulva az nem érdekel, amikor ott a nagy szarhegy',
     'Balázs bácsi mindjárt megrázza a pofonfát, de olyan szüret esik rá...',
     'Ma nincs kedvem dolgozni',
-    'Elbasztam. Faszom számok vannak, egyik a másik... elbasztam.'
+    'Elbasztam. Faszom számok vannak, egyik a másik... elbasztam.',
+    'Nem bizom benne. Neked mondjad?!'
 ];
 
 if (typeof exports !== 'undefined') {
