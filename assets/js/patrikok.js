@@ -84,7 +84,14 @@ var patrikok = [
     'Balázs bácsi mindjárt megrázza a pofonfát, de olyan szüret esik rá...',
     'Ma nincs kedvem dolgozni',
     'Elbasztam. Faszom számok vannak, egyik a másik... elbasztam.',
-    'Nem bizom benne. Neked mondjad?!'
+    'Nem bizom benne. Neked mondjad?!',
+    'Azért váltunk mindig DC-t, mert annyi szar van, kinőjük, nem fér el annyi szar',
+    '...megyünk hazafelé, én panaszkodok szokás szerint...',
+    'Honnan jön a backup? Hát anyámból!',
+    'Én nem akarom a faszomat rátenni erre a szemétdombra',
+    'Keressük meg, de van egy olyan érzésem, hogy a faszerdőben van',
+    'Szarjunk rá, majd kitolok én is egy kupacot és még nagyobb szarkupac lesz',
+    'Eddig is szar volt, ez után is szar lesz. Én már látom.'
 ];
 
 if (typeof exports !== 'undefined') {
