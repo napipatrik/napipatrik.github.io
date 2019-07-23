@@ -98,11 +98,12 @@ var patrikok = [
     'Végtelen kezünk van már, nekem van 10...',
     'Mit nézünk az agymosó tévén?',
     'Az előző napi viselet adja meg a következő nap bukéját',
-    'Balázs, megtaláltalak egy Timmy Trumpet számban'
+    'Balázs, megtaláltalak egy Timmy Trumpet számban',
     '- Tudjátok mi kéne még?\n- Egy DevOpsos vacsi!',
     'Szopott meggymag fejed van',
     'Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben',
-    'Két füle van és mégsem szatyor'
+    'Két füle van és mégsem szatyor',
+    'Nyilván hol tesztel?! Prodban tesztel.'
 ];
 
 if (typeof exports !== 'undefined') {
