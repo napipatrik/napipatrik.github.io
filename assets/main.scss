@@ -29,6 +29,11 @@ body {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1), 0px 14px 30px 0 rgba(0, 0, 0, 0.2);
   background: rgba(0, 0, 0, .2);
   color: #fff;
+
+  a, a:hover {
+    color: #fff;
+    text-decoration: none;
+  }
 }
 
 .site-footer {
@@ -169,12 +174,16 @@ blockquote::after {
   transition: 325ms ease-out;
   display: inline-flex;
   transform: none;
-  min-height: 44px;
+  text-decoration: none;
+  font-family: Arial;
 }
 
 .button:hover {
   background-color: rgba(255, 255, 255, .4);
   transition: 325ms ease-out;
+  color: #fff;
+  text-decoration: none;
+  font-family: Arial;
 }
 
 .footer-col p {
