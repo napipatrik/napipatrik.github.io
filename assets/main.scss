@@ -30,7 +30,7 @@ body {
   background: rgba(0, 0, 0, .2);
   color: #fff;
 
-  a, a:hover {
+  a, a:hover, a:visited, a:focus {
     color: #fff;
     text-decoration: none;
   }
