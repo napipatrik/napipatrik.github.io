@@ -103,7 +103,9 @@ var patrikok = [
     'Szopott meggymag fejed van',
     'Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben',
     'Két füle van és mégsem szatyor',
-    'Nyilván hol tesztel?! Prodban tesztel.'
+    'Nyilván hol tesztel?! Prodban tesztel.',
+    'Egy kicsit erdészkedj',
+    'Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit'
 ];
 
 if (typeof exports !== 'undefined') {
