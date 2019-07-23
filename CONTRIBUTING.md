@@ -1,4 +1,4 @@
 CONTRIBUTING
 ============
 
-Ha bővíted a listát mindig aa végére írd az új bejegyzéseket, hogy a permalinkek megmaradjanak!
+Ha bővíted a listát mindig a végére írd az új bejegyzéseket, hogy a permalinkek megmaradjanak!
