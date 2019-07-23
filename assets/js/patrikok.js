@@ -105,7 +105,10 @@ var patrikok = [
     'Két füle van és mégsem szatyor',
     'Nyilván hol tesztel?! Prodban tesztel.',
     'Egy kicsit erdészkedj',
-    'Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit'
+    'Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit',
+    'Az bükéből bükébe',
+    'Olyan meleg van már ebben az irodában, mintha nem lenne holnap',
+    'Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!'
 ];
 
 if (typeof exports !== 'undefined') {
