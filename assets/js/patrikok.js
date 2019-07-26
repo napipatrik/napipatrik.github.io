@@ -108,7 +108,15 @@ var patrikok = [
     'Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit',
     'Az bükéből bükébe',
     'Olyan meleg van már ebben az irodában, mintha nem lenne holnap',
-    'Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!'
+    'Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!',
+    'Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?',
+    'A faszerdőbe ki megy be ha nem mi?',
+    'Keresték a faszodat és nem lett meg',
+    'Tudod mi simogasson téged?! A 220!',
+    'Ha te nem veszed be, a másik erdész beveszi',
+    'Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...',
+    'Ha bennem eltörik valami akkor benned fog!',
+    'Laci, a varázslóakhoz értesz?'
 ];
 
 if (typeof exports !== 'undefined') {
