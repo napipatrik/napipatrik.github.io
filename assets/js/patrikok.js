@@ -128,7 +128,8 @@ var patrikok = [
     'Tudod, hogy szaporodik a puppet master? VM clone...',
     'Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.',
     'Tamás, le fog csökkenni a... mindegy, kerekesszékben is tud dolgozni András',
-    'András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.'
+    'András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.',
+    'Kérdezte, hogy mondhatja e a customernek, hogy nincsen log? Nekem mind1, de nincsen róla log'
 ];
 
 if (typeof exports !== 'undefined') {
