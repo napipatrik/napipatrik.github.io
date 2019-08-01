@@ -116,7 +116,19 @@ var patrikok = [
     'Ha te nem veszed be, a másik erdész beveszi',
     'Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...',
     'Ha bennem eltörik valami akkor benned fog!',
-    'Laci, a varázslóakhoz értesz?'
+    'Laci, a varázslóakhoz értesz?',
+    'Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit',
+    'Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg',
+    'Hívhatnánk így a control repót: házibarkács',
+    'Örök lesz mint a nyomor, vagy mint a trágya termékben',
+    'Furikkal hozzák a szar, furikkal!',
+    'Mi a faszom vagyok én? Erdész?',
+    'Mi a szaros gödörben vagyunk Gábor, csak kicsit belekortyoltunk',
+    'Ez bazmeg, a hónap dolgozója képtelen erre...',
+    'Tudod, hogy szaporodik a puppet master? VM clone...',
+    'Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.',
+    'Tamás, le fog csökkenni a... mindegy, kerekesszékben is tud dolgozni András',
+    'András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.'
 ];
 
 if (typeof exports !== 'undefined') {
