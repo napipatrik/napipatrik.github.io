@@ -116,7 +116,8 @@ var patrikok = [
     'Ha te nem veszed be, a másik erdész beveszi',
     'Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...',
     'Ha bennem eltörik valami akkor benned fog!',
-    'Laci, a varázslóakhoz értesz?'
+    'Laci, a varázslóakhoz értesz?',
+    'Kérdezte, hogy mondhatja e a customernek, hogy nincsen log? Nekem mind1, de nincsen róla log'
 ];
 
 if (typeof exports !== 'undefined') {
