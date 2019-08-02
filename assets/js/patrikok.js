@@ -129,7 +129,13 @@ var patrikok = [
     'Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.',
     'Tamás, le fog csökkenni a... mindegy, kerekesszékben is tud dolgozni András',
     'András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.',
-    'Kérdezte, hogy mondhatja e a customernek, hogy nincsen log? Nekem mind1, de nincsen róla log'
+    'Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.',
+    'Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!',
+    'A devops miatt nincs backup... Anyád miatt nincs backup!',
+    'Csaba, gombokért vagyunk itt!',
+    'Szerinted staffot vertek már meg?',
+    'A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!',
+    'A faszerdő nem vár, elindult már...'
 ];
 
 if (typeof exports !== 'undefined') {
