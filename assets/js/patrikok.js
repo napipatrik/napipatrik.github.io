@@ -135,7 +135,8 @@ var patrikok = [
     'Csaba, gombokért vagyunk itt!',
     'Szerinted staffot vertek már meg?',
     'A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!',
-    'A faszerdő nem vár, elindult már...'
+    'A faszerdő nem vár, elindult már...',
+    'Lassan ott tartunk, hogy egy kukászsák okosabb ...'
 ];
 
 if (typeof exports !== 'undefined') {
