@@ -93,7 +93,7 @@ var patrikok = [
     'Szarjunk rá, majd kitolok én is egy kupacot és még nagyobb szarkupac lesz',
     'Eddig is szar volt, ez után is szar lesz. Én már látom.',
     'Ezt én voltam',
-    'A TechOps jobban teljesít',
+    'Fel kéne hívnom a szüret miatt az albérlőt',
     'Közöttük ő egy szamuráj kard, de közöttünk egy vajazó kés',
     'Végtelen kezünk van már, nekem van 10...',
     'Mit nézünk az agymosó tévén?',
@@ -135,7 +135,8 @@ var patrikok = [
     'Csaba, gombokért vagyunk itt!',
     'Szerinted staffot vertek már meg?',
     'A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!',
-    'A faszerdő nem vár, elindult már...'
+    'A faszerdő nem vár, elindult már...',
+    'Én ma letettem már a kisbaltát, átadom nektek a faszerdőt'
 ];
 
 if (typeof exports !== 'undefined') {
