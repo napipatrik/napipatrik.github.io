@@ -136,7 +136,8 @@ var patrikok = [
     'Szerinted staffot vertek már meg?',
     'A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!',
     'A faszerdő nem vár, elindult már...',
-    'Én ma letettem már a kisbaltát, átadom nektek a faszerdőt'
+    'Én ma letettem már a kisbaltát, átadom nektek a faszerdőt',
+    'Lassan ott tartunk, hogy egy kukászsák okosabb ...'
 ];
 
 if (typeof exports !== 'undefined') {
