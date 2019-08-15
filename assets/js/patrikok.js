@@ -121,7 +121,7 @@ var patrikok = [
     'Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg',
     'Hívhatnánk így a control repót: házibarkács',
     'Örök lesz mint a nyomor, vagy mint a trágya termékben',
-    'Furikkal hozzák a szar, furikkal!',
+    'Furikkal hozzák a szart, furikkal!',
     'Mi a faszom vagyok én? Erdész?',
     'Mi a szaros gödörben vagyunk Gábor, csak kicsit belekortyoltunk',
     'Ez bazmeg, a hónap dolgozója képtelen erre...',
@@ -137,7 +137,11 @@ var patrikok = [
     'A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!',
     'A faszerdő nem vár, elindult már...',
     'Én ma letettem már a kisbaltát, átadom nektek a faszerdőt',
-    'Lassan ott tartunk, hogy egy kukászsák okosabb ...'
+    'Lassan ott tartunk, hogy egy kukászsák okosabb ...',
+    'Hjahjj, menjünk vissza a faszerdőbe',
+    'Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört',
+    'Én már majdnem elkezdtem gondolkodni',
+    'Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni'
 ];
 
 if (typeof exports !== 'undefined') {
