@@ -12,12 +12,13 @@ body {
   font-family: 'DM Serif Display', serif;
   background-image: url("https://source.unsplash.com/1920x1080/?nature,calm");
   background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
   animation-name: fadeIn;
   animation-duration: 2s;
 }
 
-.header {
+.site-header {
   position: absolute;
   height: 68px;
   display: flex;
@@ -28,12 +29,23 @@ body {
   right: 0;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1), 0px 14px 30px 0 rgba(0, 0, 0, 0.2);
   background: rgba(0, 0, 0, .2);
+  border: none;
   color: #fff;
 
-  a, a:hover, a:visited, a:focus {
+  .site-title, a, a:hover, a:visited, a:focus {
     color: #fff;
     text-decoration: none;
   }
+}
+
+.site-nav {
+  float: none;
+  display: flex;
+}
+
+.site-nav-spacing {
+  display: flex;
+  flex-grow: 1;
 }
 
 .site-footer {
@@ -54,14 +66,14 @@ body {
   margin-bottom: 0;
 }
 
-.header h1 {
+.site-header h1 {
   margin: 0;
   letter-spacing: .02em;
   display: flex;
   align-items: center;
 }
 
-.header small {
+.site-header small {
   margin-left: 12px;
 }
 
@@ -71,7 +83,7 @@ body {
     font-size: 28px;
   }
 
-  .header {
+  .site-header {
     padding: 12px 0;
   }
 }
