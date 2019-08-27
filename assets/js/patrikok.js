@@ -137,11 +137,12 @@ var patrikok = [
     'A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!',
     'A faszerdő nem vár, elindult már...',
     'Én ma letettem már a kisbaltát, átadom nektek a faszerdőt',
-    'Lassan ott tartunk, hogy egy kukászsák okosabb ...',
+    'Lassan ott tartunk, hogy egy kukászsák okosabb...',
     'Hjahjj, menjünk vissza a faszerdőbe',
     'Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört',
     'Én már majdnem elkezdtem gondolkodni',
-    'Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni'
+    'Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni',
+    'A legélesebb vajazónk... a meleg vajat ííígy viszi'
 ];
 
 if (typeof exports !== 'undefined') {
