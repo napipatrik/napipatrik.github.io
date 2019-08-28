@@ -142,7 +142,9 @@ var patrikok = [
     'Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört',
     'Én már majdnem elkezdtem gondolkodni',
     'Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni',
-    'A legélesebb vajazónk... a meleg vajat ííígy viszi'
+    'A legélesebb vajazónk... a meleg vajat ííígy viszi',
+    '- Nektek bejön a Sentry?\n- Nem, sosem szerettem',
+    'Nem értek hozzá! Itt ülök, de minek?!'
 ];
 
 if (typeof exports !== 'undefined') {
