@@ -144,7 +144,10 @@ var patrikok = [
     'Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni',
     'A legélesebb vajazónk... a meleg vajat ííígy viszi',
     '- Nektek bejön a Sentry?\n- Nem, sosem szerettem',
-    'Nem értek hozzá! Itt ülök, de minek?!'
+    'Nem értek hozzá! Itt ülök, de minek?!',
+    'Mert nem értek hozzá! Dilettáns vagyok!',
+    'Ha tennénk bele reklámot még pénz is jönne belőle',
+    'Én írtam, nem lehet rossz'
 ];
 
 if (typeof exports !== 'undefined') {
