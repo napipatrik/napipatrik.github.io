@@ -147,7 +147,10 @@ var patrikok = [
     'Nem értek hozzá! Itt ülök, de minek?!',
     'Mert nem értek hozzá! Dilettáns vagyok!',
     'Ha tennénk bele reklámot még pénz is jönne belőle',
-    'Én írtam, nem lehet rossz'
+    'Én írtam, nem lehet rossz',
+    'Szeretem a fospermetet',
+    'Feriék felfogják a fospermetet, ide már csak cseppek jutnak',
+    'Odamegyek és felgyújtom az egészet!'
 ];
 
 if (typeof exports !== 'undefined') {
