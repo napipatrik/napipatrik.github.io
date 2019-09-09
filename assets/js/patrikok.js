@@ -150,7 +150,9 @@ var patrikok = [
     'Én írtam, nem lehet rossz',
     'Szeretem a fospermetet',
     'Feriék felfogják a fospermetet, ide már csak cseppek jutnak',
-    'Odamegyek és felgyújtom az egészet!'
+    'Odamegyek és felgyújtom az egészet!',
+    'Otthon fogok íííígy helikopterezni',
+    'Szeretem a fospermetet'
 ];
 
 if (typeof exports !== 'undefined') {
