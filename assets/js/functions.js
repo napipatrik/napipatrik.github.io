@@ -1,3 +1,7 @@
+if (typeof moment === 'undefined') {
+    var moment = require('./moment.min');
+}
+
 function showPatrik(i) {
     let index = i % patrikok.length;
 
@@ -12,3 +16,10 @@ function shuffle() {
 function getDefaultOffset() {
     return (moment().year() - 1970) * 365 + moment().dayOfYear();
 }
+
+if (typeof exports !== 'undefined') {
+    exports.showPatrik = showPatrik;
+    exports.shuffle = shuffle;
+    exports.getDefaultOffset = getDefaultOffset;
+}
+
