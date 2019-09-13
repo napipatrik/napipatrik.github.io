@@ -152,7 +152,11 @@ var patrikok = [
     'Feriék felfogják a fospermetet, ide már csak cseppek jutnak',
     'Odamegyek és felgyújtom az egészet!',
     'Otthon fogok íííígy helikopterezni',
-    'Szeretem a fospermetet'
+    'Szeretem a fospermetet',
+    'Majd beírok valamit és lesz valami',
+    'Nem úgy elfújja, megboríjja',
+    'Balázs, adj valamit! ...nem kell, megbaszom én',
+    'Balázs bácsi undorító, a szakállából csöpög a nyála!'
 ];
 
 if (typeof exports !== 'undefined') {

@@ -1,0 +1,28 @@
+#!/bin/bash
+
+function fetch_file {
+  if command -v curl >/dev/null 2>&1; then
+    curl -s -m 5 $1
+  elif command -v wget >/dev/null 2>&1; then
+    wget -T 5 -qO- $1
+  else
+    echo "Install either wget or curl!"
+    exit 1
+  fi
+}
+
+if [ "$1" = "" ]; then
+  fetch_file 'https://napipatrik.hu/napipatrik'
+
+  exit
+fi
+
+
+LIST_JS=$(fetch_file 'https://napipatrik.hu/assets/js/patrikok.js')
+IFS=$'\n'
+LIST=($(echo "$LIST_JS" | egrep "^\s*'[^']+',?" | sed "s/[',]//g"))
+OFFSET=$(($(($1)) % ${#LIST[@]} ))
+DAILY_PATRIK=${LIST[$OFFSET]}
+
+echo $DAILY_PATRIK | sed "s/^[[:space:]]*//"
+
