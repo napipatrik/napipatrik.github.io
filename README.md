@@ -3,8 +3,15 @@ Napi Patrik
 
 Ha bővítenéd a listát olvasd el a [CONTRIBUTING](CONTRIBUTING.md) útmutatót!
 
-MOTD
-----
+Napipatrik toolset
+------------------
 
-A motd használatához a `motd.sh` fájl másold a `vim /etc/update-motd.d/99-napipatrik` útvonalra.
+Telepítés:
+* Klónozd le a repót
+* Futtasd az `install.sh` fájlt
+
+Ez a következő komponenseket telepíti:
+
+* MOTD
+* `napipatrik` cli script
 
