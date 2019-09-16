@@ -5,7 +5,7 @@ layout: page
 <h1 class="title">A mai napra: </h1>
 
 <blockquote>
-  <p id="napituti"></p>
+  <p id="napituti">{% include_relative napipatrik %}</p>
 </blockquote>
 <div class="buttonContainer">
   <button class="button" onclick="shuffle(); return false;">Véletlen tuti</button>
@@ -19,7 +19,5 @@ layout: page
 <script type="text/javascript">
     if (window.location.hash) {
         showPatrik(window.location.hash.replace('#', ''));
-    } else {
-        showPatrik(getDefaultOffset());
     }
 </script>
