@@ -11,6 +11,14 @@ function fetch_file {
   fi
 }
 
+if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
+  echo "Használat: napipatrik [id]"
+  echo
+  echo "Paraméter nélkül az aktuális napipatrikot adja, egy adott idval hívva az adott napipatrikot"
+
+  exit
+fi
+
 if [ "$1" = "" ]; then
   fetch_file 'https://napipatrik.hu/napipatrik'
 
