@@ -1,5 +1,10 @@
 #!/bin/sh
 
+if [ "$TRAVIS_EVENT_TYPE" != "cron" ]; then
+  echo "This build is for cron only!"
+  exit 0
+fi
+
 node napipatrik.js > napipatrik
 
 git config --global user.email "travis@travis-ci.org"
