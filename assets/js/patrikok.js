@@ -156,7 +156,8 @@ var patrikok = [
     'Majd beírok valamit és lesz valami',
     'Nem úgy elfújja, megboríjja',
     'Balázs, adj valamit! ...nem kell, megbaszom én',
-    'Balázs bácsi undorító, a szakállából csöpög a nyála!'
+    'Balázs bácsi undorító, a szakállából csöpög a nyála!',
+    'Meg fogok halni. Enni sincs már kedvem, ez a vég'
 ];
 
 if (typeof exports !== 'undefined') {

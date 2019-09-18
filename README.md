@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/napipatrik/napipatrik.github.io.svg?branch=master)](https://travis-ci.org/napipatrik/napipatrik.github.io)
+
 Napi Patrik
 ===========
 
