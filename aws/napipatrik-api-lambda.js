@@ -59,7 +59,7 @@ exports.handler = (event, context, callback) => {
                 "Content-Type": "application/json"
             },
             body: JSON.stringify({
-                "response_type": "in_channel",
+                "response_type": "ephemeral",
                 "text": body
             })
         });

@@ -71,7 +71,7 @@ var patrikok = [
     'Most is itt dolgozom helyetted',
     'A kurva anyádat, az baszd meg!',
     'Látod miért jó a mechanikus billentyűzet? Az bírja a baszódást! Egy igazi cherry switches, úgy nyeli a faszt mint kacsa a nokedlit...',
-    'Húúúú, most lehet, hogy megbasztam',
+    'Úúúú, most lehet, hogy megbasztam',
     'A devops szállít',
     '- Hívnának Indiából?\n- Nem\n- Akkor sztahanovkodsz',
     'Ugyanitt körszakáll ingyen átvehető',
@@ -157,7 +157,11 @@ var patrikok = [
     'Nem úgy elfújja, megboríjja',
     'Balázs, adj valamit! ...nem kell, megbaszom én',
     'Balázs bácsi undorító, a szakállából csöpög a nyála!',
-    'Meg fogok halni. Enni sincs már kedvem, ez a vég'
+    'Meg fogok halni. Enni sincs már kedvem, ez a vég',
+    'A következő megálló: a Faszerdő',
+    'Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!',
+    'Laci, kéz nélkül nehezen leszel staff',
+    'Majd kiosztom a pofonfáról a szüretet'
 ];
 
 if (typeof exports !== 'undefined') {
