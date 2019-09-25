@@ -161,7 +161,8 @@ var patrikok = [
     'A következő megálló: a Faszerdő',
     'Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!',
     'Laci, kéz nélkül nehezen leszel staff',
-    'Majd kiosztom a pofonfáról a szüretet'
+    'Majd kiosztom a pofonfáról a szüretet',
+    'Rábassza az enkriptáciot, azt működik'
 ];
 
 if (typeof exports !== 'undefined') {
