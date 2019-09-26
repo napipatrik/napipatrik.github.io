@@ -163,8 +163,8 @@ var patrikok = [
     'Laci, kéz nélkül nehezen leszel staff',
     'Majd kiosztom a pofonfáról a szüretet',
     'Rábassza az enkriptáciot, azt működik',
-    'Lehet, hogy csak azért szopunk mert ez szar',
-    'Lacit félbejahtom, aztán még egyszer félbehajtom... lesz dobozolható Laci'
+    'Lehet, hogy csak azért szopunk, mert ez szar',
+    'Lacit félbehajtom, aztán még egyszer félbehajtom... lesz dobozolható Laci'
 ];
 
 if (typeof exports !== 'undefined') {
