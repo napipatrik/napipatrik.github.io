@@ -165,7 +165,8 @@ var patrikok = [
     'Rábassza az enkriptáciot, azt működik',
     'Lehet, hogy csak azért szopunk, mert ez szar',
     'Lacit félbehajtom, aztán még egyszer félbehajtom... lesz dobozolható Laci',
-    'Faszom se segit ennek a fogyatékosnak'
+    'Faszom se segit ennek a fogyatékosnak',
+    'Most dolgozzak? Már hétfőn?'
 ];
 
 if (typeof exports !== 'undefined') {
