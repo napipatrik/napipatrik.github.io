@@ -166,7 +166,8 @@ var patrikok = [
     'Lehet, hogy csak azért szopunk, mert ez szar',
     'Lacit félbehajtom, aztán még egyszer félbehajtom... lesz dobozolható Laci',
     'Faszom se segit ennek a fogyatékosnak',
-    'Most dolgozzak? Már hétfőn?'
+    'Most dolgozzak? Már hétfőn?',
+    'Igen gazdám! Megyek gazdám!'
 ];
 
 if (typeof exports !== 'undefined') {
