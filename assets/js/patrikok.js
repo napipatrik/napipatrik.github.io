@@ -167,7 +167,12 @@ var patrikok = [
     'Lacit félbehajtom, aztán még egyszer félbehajtom... lesz dobozolható Laci',
     'Faszom se segit ennek a fogyatékosnak',
     'Most dolgozzak? Már hétfőn?',
-    'Igen gazdám! Megyek gazdám!'
+    'Igen gazdám! Megyek gazdám!',
+    'Takaríthatom utánatok ezt a sok redvát...',
+    'Itt tákoltok, kinek kell kitakarítania?! Én fogom meg a kisbaltát...',
+    'Ezt ne írd fel te buzi',
+    'Te buzi, miattad volt!',
+    'Te is már butulsz bazmeg, mész a staffra'
 ];
 
 if (typeof exports !== 'undefined') {
