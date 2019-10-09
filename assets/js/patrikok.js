@@ -173,7 +173,8 @@ var patrikok = [
     'Ezt ne írd fel te buzi',
     'Te buzi, miattad volt!',
     'Te is már butulsz bazmeg, mész a staffra',
-    'Legyen ez a devops jelmondata: gányolni mindig jó!'
+    'Legyen ez a devops jelmondata: gányolni mindig jó!',
+    'A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben'
 ];
 
 if (typeof exports !== 'undefined') {
