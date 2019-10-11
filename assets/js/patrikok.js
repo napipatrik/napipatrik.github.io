@@ -174,7 +174,10 @@ var patrikok = [
     'Te buzi, miattad volt!',
     'Te is már butulsz bazmeg, mész a staffra',
     'Legyen ez a devops jelmondata: gányolni mindig jó!',
-    'A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben'
+    'A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben',
+    '- Patrik dolgozik...\n- András, mindjárt odamegyek és megdolgozlak én téged!',
+    'Nyilván hol tesztelsz mint prodban?!',
+    '...mert nem értek hozzá!'
 ];
 
 if (typeof exports !== 'undefined') {
