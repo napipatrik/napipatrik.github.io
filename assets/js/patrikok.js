@@ -177,7 +177,8 @@ var patrikok = [
     'A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben',
     '- Patrik dolgozik...\n- András, mindjárt odamegyek és megdolgozlak én téged!',
     'Nyilván hol tesztelsz mint prodban?!',
-    '...mert nem értek hozzá!'
+    '...mert nem értek hozzá!',
+    '(Trófea grillben) Ne pofázz, egyél, csak két óránk van!'
 ];
 
 if (typeof exports !== 'undefined') {
