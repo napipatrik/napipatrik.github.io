@@ -178,7 +178,17 @@ var patrikok = [
     '- Patrik dolgozik...\n- András, mindjárt odamegyek és megdolgozlak én téged!',
     'Nyilván hol tesztelsz mint prodban?!',
     '...mert nem értek hozzá!',
-    '(Trófea grillben) Ne pofázz, egyél, csak két óránk van!'
+    '(Trófea grillben) Ne pofázz, egyél, csak két óránk van!',
+    'A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne',
+    'Leszarom, gyere már segíts!',
+    'Dhoppe, Dhoppe bazmeg, nyilván ezt húztam volna be! 19000 letöltés...',
+    'Túlfizetett állatok ezek',
+    'András, Laci: pippantást kérek!',
+    'Tudod mi kéne? Rendes munkahely!',
+    'Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze',
+    'Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]',
+    'Konkrétan fogyatékosokkal dolgozunk!',
+    'Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!'
 ];
 
 if (typeof exports !== 'undefined') {
