@@ -188,7 +188,9 @@ var patrikok = [
     'Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze',
     'Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]',
     'Konkrétan fogyatékosokkal dolgozunk!',
-    'Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!'
+    'Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!',
+    'És leszakad! Leszakad...! ...na visszajött András, meghallotta, hogy fel vagyok baszódva',
+    'A dilettantizmus melegágya vagyunk'
 ];
 
 if (typeof exports !== 'undefined') {
