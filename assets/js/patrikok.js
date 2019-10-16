@@ -190,7 +190,8 @@ var patrikok = [
     'Konkrétan fogyatékosokkal dolgozunk!',
     'Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!',
     'És leszakad! Leszakad! ...na visszajött, András, meghallotta, hogy fel vagyok baszódva',
-    'A dilettantizmus melegágya vagyunk'
+    'A dilettantizmus melegágya vagyunk',
+    'Menjünk haza, hátha holnap jobb lesz...'
 ];
 
 if (typeof exports !== 'undefined') {
