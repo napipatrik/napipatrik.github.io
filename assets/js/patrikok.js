@@ -195,7 +195,8 @@ var patrikok = [
     'Nem ölöm meg, csak összehajtogatom, hogy beleférjen a táskájába',
     'Laci, a lófasz nem mennek ki, azok bejönnek',
     '- Dolgozol Patrik?\n- Tudom undorító így szerdán, de hát ez van',
-    'Menjünk haza, hátha holnap jobb lesz...'
+    'Menjünk haza, hátha holnap jobb lesz...',
+    'A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted'
 ];
 
 if (typeof exports !== 'undefined') {
