@@ -196,7 +196,11 @@ var patrikok = [
     'Laci, a lófasz nem mennek ki, azok bejönnek',
     '- Dolgozol Patrik?\n- Tudom undorító így szerdán, de hát ez van',
     'Menjünk haza, hátha holnap jobb lesz...',
-    'A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted'
+    'A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted',
+    'Ha a dilettantizmus fájna, már nem élnénk',
+    'Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak',
+    'Az erdő választja az erdészt, nem fordítva',
+    'Az a baj András, az erdő nem ritkul meg önmagától'
 ];
 
 if (typeof exports !== 'undefined') {
