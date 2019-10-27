@@ -36,11 +36,36 @@ body {
     color: #fff;
     text-decoration: none;
   }
+
+  small {
+    white-space: nowrap;
+  }
+
+  .wrapper {
+    display: flex;
+    width: 100%;
+    padding-left: 60px;
+    padding-right: 0;
+  }
 }
 
 .site-nav {
   float: none;
   display: flex;
+  flex-direction: row-reverse;
+
+  .page-link {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    a, a:hover, a:visited, a:focus {
+      color: #000;
+    }
+  }
 }
 
 .site-nav-spacing {
@@ -55,7 +80,7 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  align-items: center;;
+  align-items: center;
 }
 
 .footer-col-wrapper {
@@ -71,10 +96,6 @@ body {
   letter-spacing: .02em;
   display: flex;
   align-items: center;
-}
-
-.site-header small {
-  margin-left: 12px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -143,6 +164,9 @@ blockquote::after {
 
 .post {
   display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-size: 24px;
   min-height: 300px;
   align-items: center;
 
@@ -152,6 +176,40 @@ blockquote::after {
   border-radius: 8px;
   padding: 24px 36px;
   box-shadow: 18px 10px 20px 0 rgba(0, 0, 0, 0.1), -14px -9px 30px 0 rgba(0, 0, 0, 0.2);
+
+  a, a:hover, a:visited, a:focus {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  &.post-home {
+    align-items: normal;
+  }
+
+  .external-links {
+    text-align: left;
+  }
+}
+
+.insta-gallery {
+  .insta-photo {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 0;
+    }
+
+    width: 48%;
+    float: left;
+    margin: 1%;
+  }
+}
+
+.insta-follow-us {
+  margin: 15px 0 0;
+
+  a, a:hover, a:visited, a:focus {
+    text-decoration: none;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -163,6 +221,7 @@ blockquote::after {
 .post-content {
   margin-bottom: 0;
   min-height: 300px;
+  width: 100%;
   position: relative;
 }
 
