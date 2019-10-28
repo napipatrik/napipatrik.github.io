@@ -200,7 +200,10 @@ var patrikok = [
     'Ha a dilettantizmus fájna, már nem élnénk',
     'Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak',
     'Az erdő választja az erdészt, nem fordítva',
-    'Az a baj András, az erdő nem ritkul meg önmagától'
+    'Az a baj András, az erdő nem ritkul meg önmagától',
+    'Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új',
+    'András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd',
+    'Ha a hülyeségért fizetnének már 4 lakásom lenne'
 ];
 
 if (typeof exports !== 'undefined') {
