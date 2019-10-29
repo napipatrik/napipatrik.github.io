@@ -203,7 +203,11 @@ var patrikok = [
     'Az a baj András, az erdő nem ritkul meg önmagától',
     'Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új',
     'András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd',
-    'Ha a hülyeségért fizetnének már 4 lakásom lenne'
+    'Ha a hülyeségért fizetnének már 4 lakásom lenne',
+    'Laci, nem jól vágod, visszanőtt!',
+    'Mi ugye tölgyesben vagyunk, mert ott hullik a makk',
+    'Szerénységemtől csak a tudásom nagyobb',
+    'Lehetnék egy védőszent: a munkakerülés védőszentje'
 ];
 
 if (typeof exports !== 'undefined') {
