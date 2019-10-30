@@ -207,7 +207,11 @@ var patrikok = [
     'Laci, nem jól vágod, visszanőtt!',
     'Mi ugye tölgyesben vagyunk, mert ott hullik a makk',
     'Szerénységemtől csak a tudásom nagyobb',
-    'Lehetnék egy védőszent: a munkakerülés védőszentje'
+    'Lehetnék egy védőszent: a munkakerülés védőszentje',
+    'Gratulálok, ön sikeresen dilettáns lett',
+    'Verjünk már meg egy staffot András, vajon milyen érzés lehet?!',
+    '[büfizés] Mindjárt idehányok... de te frontendes leszel?',
+    'A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket'
 ];
 
 if (typeof exports !== 'undefined') {
