@@ -211,7 +211,12 @@ var patrikok = [
     'Gratulálok, ön sikeresen dilettáns lett',
     'Verjünk már meg egy staffot András, vajon milyen érzés lehet?!',
     '[büfizés] Mindjárt idehányok... de te frontendes leszel?',
-    'A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket'
+    'A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket',
+    'Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen',
+    'Nem kell redundánsnak lenni, mert nem romolhat el',
+    'Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne',
+    'Nem szállítunk csak szart',
+    'Missionünk... hát András, én úgy látom, hogy no clue'
 ];
 
 if (typeof exports !== 'undefined') {
