@@ -62,7 +62,7 @@ body {
 
 @media screen and (max-width: 600px) {
   .site-nav {
-    a, a:hover, a:visited, a:focus {
+    a.page-link, a.page-link:hover, a.page-link:visited, a.page-link:focus {
       color: #000;
     }
   }
