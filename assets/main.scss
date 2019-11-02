@@ -156,8 +156,6 @@ blockquote::after {
 
 
 .page-content {
-  height: 100vh;
-  width: 100vw;
   display: flex;
   align-items: center;
 }
@@ -169,6 +167,7 @@ blockquote::after {
   font-size: 24px;
   min-height: 300px;
   align-items: center;
+  margin-top: 35px;
 
   max-width: 1400px;
   width: 100%;
