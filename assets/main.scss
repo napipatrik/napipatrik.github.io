@@ -212,6 +212,18 @@ blockquote::after {
   }
 }
 
+.tool-box {
+  margin: 0 0 30px;
+
+  &:last-child {
+    margin: 0;
+  }
+
+  code {
+    color: #000;
+  }
+}
+
 @media only screen and (min-width: 768px) {
   .post {
     min-width: 740px;
