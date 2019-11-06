@@ -100,7 +100,7 @@ var patrikok = [
     'Az előző napi viselet adja meg a következő nap bukéját',
     'Balázs, megtaláltalak egy Timmy Trumpet számban',
     '- Tudjátok mi kéne még?\n- Egy DevOpsos vacsi!',
-    'Szopott meggymag fejed van',
+    'Olyan szopott meggymag fejed van',
     'Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben',
     'Két füle van és mégsem szatyor',
     'Nyilván hol tesztel?! Prodban tesztel.',
@@ -216,7 +216,11 @@ var patrikok = [
     'Nem kell redundánsnak lenni, mert nem romolhat el',
     'Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne',
     'Nem szállítunk csak szart',
-    'Missionünk... hát András, én úgy látom, hogy no clue'
+    'Missionünk... hát András, én úgy látom, hogy no clue',
+    'Az erdész nem gondolkodik, az erdész vág',
+    'Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat',
+    'Minek nyúltam hozzá?! Ez egy kártyavár!',
+    'Én hülye, Laci, éééén hülye! Dolgozni akartam...'
 ];
 
 if (typeof exports !== 'undefined') {
