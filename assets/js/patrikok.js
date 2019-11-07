@@ -152,7 +152,7 @@ var patrikok = [
     'Feriék felfogják a fospermetet, ide már csak cseppek jutnak',
     'Odamegyek és felgyújtom az egészet!',
     'Otthon fogok íííígy helikopterezni',
-    'Szeretem a fospermetet',
+    'Az erdész ott gallyaz, ahol tud',
     'Majd beírok valamit és lesz valami',
     'Nem úgy elfújja, megboríjja',
     'Balázs, adj valamit! ...nem kell, megbaszom én',
@@ -220,7 +220,13 @@ var patrikok = [
     'Az erdész nem gondolkodik, az erdész vág',
     'Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat',
     'Minek nyúltam hozzá?! Ez egy kártyavár!',
-    'Én hülye, Laci, éééén hülye! Dolgozni akartam...'
+    'Én hülye, Laci, éééén hülye! Dolgozni akartam...',
+    '...mint valami félkatonai szervezet: roger, copy',
+    'Mint krumpliszsákban a híg fos: így kifolyik',
+    'Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!',
+    'Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!',
+    'Ennek így semmi érteme... jaaaaajjj, decline',
+    '(megcsörren a telefon) Na, megérezték, hogy jó kedvem van'
 ];
 
 if (typeof exports !== 'undefined') {
