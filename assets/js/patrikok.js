@@ -232,7 +232,8 @@ var patrikok = [
     'Mi mezítlábas favágók vagyunk egy szál... baltával',
     'De miért mi?',
     'Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar',
-    'Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból'
+    'Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból',
+    'Írjuk meg Gábornak: a szar arrébb van lapátolva'
 ];
 
 if (typeof exports !== 'undefined') {
