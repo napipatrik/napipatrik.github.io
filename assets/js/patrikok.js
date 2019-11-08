@@ -226,7 +226,13 @@ var patrikok = [
     'Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!',
     'Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!',
     'Ennek így semmi érteme... jaaaaajjj, decline',
-    '(megcsörren a telefon) Na, megérezték, hogy jó kedvem van'
+    '(megcsörren a telefon) Na, megérezték, hogy jó kedvem van',
+    'Írok egy könyvet',
+    'Jön a fasz, jön a fasz... ééés a Patrik bekapja!',
+    'Mi mezítlábas favágók vagyunk egy szál... baltával',
+    'De miért mi?',
+    'Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar',
+    'Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból'
 ];
 
 if (typeof exports !== 'undefined') {
