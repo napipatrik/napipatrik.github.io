@@ -233,7 +233,17 @@ var patrikok = [
     'De miért mi?',
     'Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar',
     'Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból',
-    'Írjuk meg Gábornak: a szar arrébb van lapátolva'
+    'Írjuk meg Gábornak: a szar arrébb van lapátolva',
+    'Az egyik erdő nagyobb mint a másik',
+    'Két slash az jobb mint a nulla slash',
+    'Érted mire gondolok...? Nem érted mert nem mondtam még el',
+    'Foresters: termel, ápol, gondoz',
+    'Peti, te mennyire vagy boldog itt az erdőben?',
+    'De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá',
+    'Csaba, nem látod az erdőtől a tisztást - mert nincs',
+    'Bullshit nélkül nincs enterprise',
+    'Ez úgy megy le, mint a motivációm [részvény]',
+    '(All hands meeting a háttérben) Mátyás! A misét nem nézed?'
 ];
 
 if (typeof exports !== 'undefined') {
