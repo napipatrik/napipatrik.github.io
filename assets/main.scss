@@ -179,6 +179,10 @@ blockquote::after {
   a, a:hover, a:visited, a:focus {
     color: #fff;
     text-decoration: underline;
+
+    &.button {
+      text-decoration: none;
+    }
   }
 
   &.post-home {
