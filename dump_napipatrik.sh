@@ -8,6 +8,9 @@ fi
 node napipatrik.js > napipatrik
 node napipatrik.js --index > napipatrik.id
 
+npm i request request-promise-native jimp
+node napipatrik.js --image
+
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 git config --global push.default simple
@@ -16,6 +19,7 @@ git remote set-url origin https://${GH_TOKEN}@github.com/napipatrik/napipatrik.g
 git checkout master
 git add $TRAVIS_BUILD_DIR/napipatrik
 git add $TRAVIS_BUILD_DIR/napipatrik.id
+git add $TRAVIS_BUILD_DIR/napipatrik.jpg
 git commit -m "Rotate napipatrik"
 git push
 

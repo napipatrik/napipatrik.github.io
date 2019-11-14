@@ -243,7 +243,10 @@ var patrikok = [
     'Csaba, nem látod az erdőtől a tisztást - mert nincs',
     'Bullshit nélkül nincs enterprise',
     'Ez úgy megy le, mint a motivációm [részvény]',
-    '(All hands meeting a háttérben) Mátyás! A misét nem nézed?'
+    '(All hands meeting a háttérben) Mátyás! A misét nem nézed?',
+    'Ez nem csontváz Enikő, ez Balázs bácsi teste',
+    'Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!',
+    '- Olyan tengerbe értünk, hogy nem ér le a lábunk!\n- Milyen tenger?\n- Fostenger!'
 ];
 
 if (typeof exports !== 'undefined') {
