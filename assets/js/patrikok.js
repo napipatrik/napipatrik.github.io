@@ -215,7 +215,7 @@ var patrikok = [
     'Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen',
     'Nem kell redundánsnak lenni, mert nem romolhat el',
     'Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne',
-    'Nem szállítunk csak szart',
+    'Nem szállítunk, csak szart',
     'Missionünk... hát András, én úgy látom, hogy no clue',
     'Az erdész nem gondolkodik, az erdész vág',
     'Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat',
@@ -246,7 +246,10 @@ var patrikok = [
     '(All hands meeting a háttérben) Mátyás! A misét nem nézed?',
     'Ez nem csontváz Enikő, ez Balázs bácsi teste',
     'Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!',
-    '- Olyan tengerbe értünk, hogy nem ér le a lábunk!\n- Milyen tenger?\n- Fostenger!'
+    '- Olyan tengerbe értünk, hogy nem ér le a lábunk!\n- Milyen tenger?\n- Fostenger!',
+    '- Én egy kis szart szeretnék látni, Csaba\n- András, javaslom bármelyik repónkat',
+    'Ez az erdő most meg lesz ritkítva. Nem kicsit, nagyon!',
+    'András, adok hozzá pálcikát... hohóóó, ez öngól lett'
 ];
 
 if (typeof exports !== 'undefined') {
