@@ -249,7 +249,9 @@ var patrikok = [
     '- Olyan tengerbe értünk, hogy nem ér le a lábunk!\n- Milyen tenger?\n- Fostenger!',
     '- Én egy kis szart szeretnék látni, Csaba\n- András, javaslom bármelyik repónkat',
     'Ez az erdő most meg lesz ritkítva. Nem kicsit, nagyon!',
-    'András, adok hozzá pálcikát... hohóóó, ez öngól lett'
+    'András, adok hozzá pálcikát... hohóóó, ez öngól lett',
+    'Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném',
+    'Csaba, mit csinálunk? Dilettánskodunk!'
 ];
 
 if (typeof exports !== 'undefined') {
