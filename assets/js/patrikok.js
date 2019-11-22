@@ -251,7 +251,10 @@ var patrikok = [
     'Ez az erdő most meg lesz ritkítva. Nem kicsit, nagyon!',
     'András, adok hozzá pálcikát... hohóóó, ez öngól lett',
     'Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném',
-    'Csaba, mit csinálunk? Dilettánskodunk!'
+    'Csaba, mit csinálunk? Dilettánskodunk!',
+    'Erdő mindig volt, van és lesz',
+    'Remélem nem az én on-callomon fog felrobbanni',
+    'Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!'
 ];
 
 if (typeof exports !== 'undefined') {
