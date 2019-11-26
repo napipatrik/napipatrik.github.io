@@ -247,14 +247,17 @@ var patrikok = [
     'Ez nem csontváz Enikő, ez Balázs bácsi teste',
     'Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!',
     '- Olyan tengerbe értünk, hogy nem ér le a lábunk!\n- Milyen tenger?\n- Fostenger!',
-    '- Én egy kis szart szeretnék látni, Csaba\n- András, javaslom bármelyik repónkat',
+    'András: Én egy kis szart szeretnék látni, Csaba\nPatrik: András, javaslom bármelyik repónkat',
     'Ez az erdő most meg lesz ritkítva. Nem kicsit, nagyon!',
     'András, adok hozzá pálcikát... hohóóó, ez öngól lett',
     'Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném',
     'Csaba, mit csinálunk? Dilettánskodunk!',
     'Erdő mindig volt, van és lesz',
     'Remélem nem az én on-callomon fog felrobbanni',
-    'Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!'
+    'Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!',
+    'Nagyon szép, mint egy köröm a farkam végére',
+    'Dávid, használd az erőt és pattintsd le a mamát',
+    'Ami Észak-Korában anonym, az nekünk HA-ban van'
 ];
 
 if (typeof exports !== 'undefined') {
