@@ -257,7 +257,12 @@ var patrikok = [
     'Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!',
     'Nagyon szép, mint egy köröm a farkam végére',
     'Dávid, használd az erőt és pattintsd le a mamát',
-    'Ami Észak-Korában anonym, az nekünk HA-ban van'
+    'Ami Észak-Korában anonym, az nekünk HA-ban van',
+    'Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee',
+    'Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt',
+    'Az erdőben is jön a hosszú lófasz és nem látom a végét',
+    'Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?\nPatrik: Faszerdőt!',
+    'Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz'
 ];
 
 if (typeof exports !== 'undefined') {
