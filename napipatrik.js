@@ -16,7 +16,7 @@ if (args.length && args[0] === '--image') {
     const image = await Jimp.read('./napipatrik.jpg');
     const shadow = await Jimp.read('./shadow.png');
     await image.blit(shadow, 0, 0);
-    const font = await Jimp.loadFont(Jimp.FONT_SANS_32_WHITE);
+    const font = await Jimp.loadFont('./assets/Serif.fnt');
     await image.print(font, 100, 250, {text: patrikok[index], alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER, alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE}, 400);
     await image.write('napipatrik.jpg');
   })();
