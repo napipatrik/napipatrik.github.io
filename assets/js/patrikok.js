@@ -263,7 +263,8 @@ var patrikok = [
     'Az erdőben is jön a hosszú lófasz és nem látom a végét',
     'Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?\nPatrik: Faszerdőt!',
     'Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz',
-    'Peti: ...hát nem lettem okosabb...\nPatrik: ez nem az a hely'
+    'Peti: ...hát nem lettem okosabb...\nPatrik: ez nem az a hely',
+    'Szar... ja legyünk pozitívak: szép szar'
 ];
 
 if (typeof exports !== 'undefined') {
