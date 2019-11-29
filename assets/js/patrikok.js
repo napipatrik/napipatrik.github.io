@@ -264,7 +264,16 @@ var patrikok = [
     'Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?\nPatrik: Faszerdőt!',
     'Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz',
     'Peti: ...hát nem lettem okosabb...\nPatrik: ez nem az a hely',
-    'Szar... ja legyünk pozitívak: szép szar'
+    'Szar... ja legyünk pozitívak: szép szar',
+    'Próbálok kicsit komoly lenni, de nem lehet!',
+    'Nem jó helyen álltam, pont a fospermetben aztán elkapott',
+    'András! Egyre kevesebb a szar!',
+    'Ha egy DC-t láttál, láttad az összeset',
+    'A legélesebb nyél',
+    'Slackről slackre terjed...',
+    'András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején :D',
+    'Laci, szeretnél undorítóskodni?',
+    'Kurva customerek, csak a baj van velük',
 ];
 
 if (typeof exports !== 'undefined') {
