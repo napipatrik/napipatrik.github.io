@@ -274,6 +274,9 @@ var patrikok = [
     'András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején :D',
     'Laci, szeretnél undorítóskodni?',
     'Kurva customerek, csak a baj van velük',
+    'Egy termék mind felett!',
+    'Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi',
+    'Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele',
 ];
 
 if (typeof exports !== 'undefined') {
