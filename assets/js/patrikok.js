@@ -277,7 +277,7 @@ var patrikok = [
     'Egy termék mind felett!',
     'Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi',
     'Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele',
-    'Tamás, lehajolsz és adsz egy socketet Csabának',
+    'Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának',
     'Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.',
 ];
 
