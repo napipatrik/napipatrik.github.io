@@ -279,6 +279,12 @@ var patrikok = [
     'Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele',
     'Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának',
     'Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.',
+    'Nincs pénzünk socketekre!',
+    'Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et',
+    'Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot',
+    'Ide nem kell doksi, a jó engineer reverseli',
+    'Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod',
+    'Ezek ténylek, ezt alap igazságba kéne tenni',
 ];
 
 if (typeof exports !== 'undefined') {
