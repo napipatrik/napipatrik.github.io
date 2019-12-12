@@ -284,7 +284,7 @@ var patrikok = [
     'Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot',
     'Ide nem kell doksi, a jó engineer reverseli',
     'Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod',
-    'Ezek ténylek, ezt alap igazságba kéne tenni',
+    'Ezek tények, ezt alap igazságba kéne tenni',
 ];
 
 if (typeof exports !== 'undefined') {
