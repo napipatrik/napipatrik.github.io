@@ -285,6 +285,7 @@ var patrikok = [
     'Ide nem kell doksi, a jó engineer reverseli',
     'Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod',
     'Ezek tények, ezt alap igazságba kéne tenni',
+    'Az a baj a tojással, hogy... tojás',
 ];
 
 if (typeof exports !== 'undefined') {
