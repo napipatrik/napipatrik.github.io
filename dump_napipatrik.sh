@@ -20,6 +20,10 @@ git checkout master
 git add $TRAVIS_BUILD_DIR/napipatrik
 git add $TRAVIS_BUILD_DIR/napipatrik.id
 git add $TRAVIS_BUILD_DIR/napipatrik.jpg
-git commit -m "Rotate napipatrik"
+if [ "$(git log --format='%ae' 'HEAD^!')" = "travis@travis-ci.org" ] && [ "$(git log --format='%s' 'HEAD^!')" = "Rotate napipatrik" ]; then
+  git commit --amend -m "Rotate napipatrik"
+else
+  git commit -m "Rotate napipatrik"
+fi
 git push
 
