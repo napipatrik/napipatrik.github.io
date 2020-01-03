@@ -286,6 +286,11 @@ var patrikok = [
     'Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod',
     'Ezek tények, ezt alap igazságba kéne tenni',
     'Az a baj a tojással, hogy... tojás',
+    'A fasza egy csúnya szó: kicsi Laci, zseb devopsos!',
+    'Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.',
+    'Fér még oda',
+    'Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod',
+    'Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok',
 ];
 
 if (typeof exports !== 'undefined') {
