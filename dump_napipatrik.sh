@@ -22,8 +22,9 @@ git add $TRAVIS_BUILD_DIR/napipatrik.id
 git add $TRAVIS_BUILD_DIR/napipatrik.jpg
 if [ "$(git log --format='%ae' 'HEAD^!')" = "travis@travis-ci.org" ] && [ "$(git log --format='%s' 'HEAD^!')" = "Rotate napipatrik" ]; then
   git commit --amend -m "Rotate napipatrik"
+  git push --force
 else
   git commit -m "Rotate napipatrik"
+  git push
 fi
-git push
 
