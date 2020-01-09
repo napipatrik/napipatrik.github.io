@@ -19,7 +19,7 @@ author: András
 description: >-
   Mi megmondjuk a tutit!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://napipatrik.hu/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://napipatrik.hu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 #github_username:
 google_analytics: UA-151721588-1
