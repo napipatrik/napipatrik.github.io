@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>NapiPatrik napi tuti</title>
+  <link>https://napipatrik.hu</link>
+  <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
+  <category>DevOps</category>
+  <language>hu-HU</language>
+  <lastBuildDate>Thu Jan 09 2020</lastBuildDate>
+  <item>
+    <title>Nem úgy elfújja, megboríjja</title>
+    <link>https://napipatrik.hu/#155</link>
+    <description>Nem úgy elfújja, megboríjja</description>
+    <pubDate>Thu Jan 09 2020</pubDate>
+  </item>
+</channel>
+</rss>

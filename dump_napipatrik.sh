@@ -11,6 +11,9 @@ node napipatrik.js --index > napipatrik.id
 npm i request request-promise-native jimp
 node napipatrik.js --image
 
+npm i xml2js
+node napipatrik.js --rss > rss.xml
+
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 git config --global push.default simple
