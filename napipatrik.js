@@ -22,6 +22,27 @@ if (args.length && args[0] === '--image') {
   })();
 } else if (args.length && args[0] === '--index') {
   console.log(index);
+} else if (args.length && args[0] === '--rss') {
+  const fs = require('fs');
+  const xml2js = require('xml2js');
+  
+  const parser = new xml2js.Parser();
+  fs.readFile(__dirname + '/rss.xml', function(err, data) {
+    parser.parseString(data, function (err, rss) {
+      rss.rss.channel[0].lastBuildDate = (new Date()).toDateString();
+      rss.rss.channel[0].item.unshift({
+        title: [patrikok[index]],
+        description: [patrikok[index]],
+        link: ['https://napipatrik.hu/#' + index],
+        pubDate: [(new Date()).toDateString()]
+      });
+      rss.rss.channel[0].item = rss.rss.channel[0].item.slice(0, 10);
+
+      builder = new xml2js.Builder();
+      const output = builder.buildObject(rss);
+      console.log(output);
+    });
+});
 } else {
   console.log(patrikok[index]);
 }
