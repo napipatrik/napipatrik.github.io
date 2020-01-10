@@ -12,7 +12,7 @@ npm i request request-promise-native jimp
 node napipatrik.js --image
 
 npm i xml2js
-node napipatrik.js --rss > rss.xml
+node napipatrik.js --rss > rss.new.xml && mv rss.new.xml rss.xml
 
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
@@ -23,6 +23,7 @@ git checkout master
 git add $TRAVIS_BUILD_DIR/napipatrik
 git add $TRAVIS_BUILD_DIR/napipatrik.id
 git add $TRAVIS_BUILD_DIR/napipatrik.jpg
+git add $TRAVIS_BUILD_DIR/rss.xml
 if [ "$(git log --format='%ae' 'HEAD^!')" = "travis@travis-ci.org" ] && [ "$(git log --format='%s' 'HEAD^!')" = "Rotate napipatrik" ]; then
   git commit --amend -m "Rotate napipatrik"
   git push --force
