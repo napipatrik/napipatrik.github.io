@@ -291,6 +291,7 @@ var patrikok = [
     'Fér még oda',
     'Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod',
     'Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok',
+    'András, vajazó késsel beleztek már ki embert?',
 ];
 
 if (typeof exports !== 'undefined') {
