@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Feb 24 2020</lastBuildDate>
+    <lastBuildDate>Wed Feb 26 2020</lastBuildDate>
+    <item>
+      <title>Én már majdnem elkezdtem gondolkodni</title>
+      <description>Én már majdnem elkezdtem gondolkodni</description>
+      <link>https://napipatrik.hu/#141</link>
+      <pubDate>Wed Feb 26 2020</pubDate>
+    </item>
+    <item>
+      <title>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</title>
+      <description>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</description>
+      <link>https://napipatrik.hu/#140</link>
+      <pubDate>Tue Feb 25 2020</pubDate>
+    </item>
     <item>
       <title>Az a baj András, az erdő nem ritkul meg önmagától</title>
       <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
@@ -56,18 +68,6 @@
       <description>Laci, a lófasz nem mennek ki, azok bejönnek</description>
       <link>https://napipatrik.hu/#194</link>
       <pubDate>Mon Feb 17 2020</pubDate>
-    </item>
-    <item>
-      <title>Nem ölöm meg, csak összehajtogatom, hogy beleférjen a táskájába</title>
-      <description>Nem ölöm meg, csak összehajtogatom, hogy beleférjen a táskájába</description>
-      <link>https://napipatrik.hu/#193</link>
-      <pubDate>Sun Feb 16 2020</pubDate>
-    </item>
-    <item>
-      <title>Kezdjük meg az étkezést, én nem várok senkire</title>
-      <description>Kezdjük meg az étkezést, én nem várok senkire</description>
-      <link>https://napipatrik.hu/#192</link>
-      <pubDate>Sat Feb 15 2020</pubDate>
     </item>
   </channel>
 </rss>
