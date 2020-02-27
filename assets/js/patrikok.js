@@ -292,6 +292,7 @@ var patrikok = [
     'Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod',
     'Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok',
     'András, vajazó késsel beleztek már ki embert?',
+    'Minek alerting ha van szemed és tvd?',
 ];
 
 if (typeof exports !== 'undefined') {
