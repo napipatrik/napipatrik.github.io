@@ -293,6 +293,7 @@ var patrikok = [
     'Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok',
     'András, vajazó késsel beleztek már ki embert?',
     'Minek alerting ha van szemed és tvd?',
+    'Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla',
 ];
 
 if (typeof exports !== 'undefined') {
