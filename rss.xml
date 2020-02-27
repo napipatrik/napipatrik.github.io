@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Feb 26 2020</lastBuildDate>
+    <lastBuildDate>Thu Feb 27 2020</lastBuildDate>
+    <item>
+      <title>Balázs te szereted a lófaszt, mondtam én!</title>
+      <description>Balázs te szereted a lófaszt, mondtam én!</description>
+      <link>https://napipatrik.hu/#80</link>
+      <pubDate>Thu Feb 27 2020</pubDate>
+    </item>
     <item>
       <title>Én már majdnem elkezdtem gondolkodni</title>
       <description>Én már majdnem elkezdtem gondolkodni</description>
@@ -62,12 +68,6 @@
 - Tudom undorító így szerdán, de hát ez van</description>
       <link>https://napipatrik.hu/#195</link>
       <pubDate>Tue Feb 18 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci, a lófasz nem mennek ki, azok bejönnek</title>
-      <description>Laci, a lófasz nem mennek ki, azok bejönnek</description>
-      <link>https://napipatrik.hu/#194</link>
-      <pubDate>Mon Feb 17 2020</pubDate>
     </item>
   </channel>
 </rss>
