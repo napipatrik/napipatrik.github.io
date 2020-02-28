@@ -6,7 +6,37 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Feb 27 2020</lastBuildDate>
+    <lastBuildDate>Tue Mar 03 2020</lastBuildDate>
+    <item>
+      <title>Felgyújtom az összeset</title>
+      <description>Felgyújtom az összeset</description>
+      <link>https://napipatrik.hu/#23</link>
+      <pubDate>Tue Mar 03 2020</pubDate>
+    </item>
+    <item>
+      <title>Majd kapjalak el amikor nem figyelsz...</title>
+      <description>Majd kapjalak el amikor nem figyelsz...</description>
+      <link>https://napipatrik.hu/#22</link>
+      <pubDate>Mon Mar 02 2020</pubDate>
+    </item>
+    <item>
+      <title>Az én inputomat te nem kapod meg</title>
+      <description>Az én inputomat te nem kapod meg</description>
+      <link>https://napipatrik.hu/#21</link>
+      <pubDate>Sun Mar 01 2020</pubDate>
+    </item>
+    <item>
+      <title>Apád faszát, jó?</title>
+      <description>Apád faszát, jó?</description>
+      <link>https://napipatrik.hu/#20</link>
+      <pubDate>Sat Feb 29 2020</pubDate>
+    </item>
+    <item>
+      <title>Rádhajlítom a permeteződet!</title>
+      <description>Rádhajlítom a permeteződet!</description>
+      <link>https://napipatrik.hu/#19</link>
+      <pubDate>Fri Feb 28 2020</pubDate>
+    </item>
     <item>
       <title>Balázs te szereted a lófaszt, mondtam én!</title>
       <description>Balázs te szereted a lófaszt, mondtam én!</description>
@@ -36,38 +66,6 @@
       <description>Az erdő választja az erdészt, nem fordítva</description>
       <link>https://napipatrik.hu/#200</link>
       <pubDate>Sun Feb 23 2020</pubDate>
-    </item>
-    <item>
-      <title>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</title>
-      <description>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</description>
-      <link>https://napipatrik.hu/#199</link>
-      <pubDate>Sat Feb 22 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha a dilettantizmus fájna, már nem élnénk</title>
-      <description>Ha a dilettantizmus fájna, már nem élnénk</description>
-      <link>https://napipatrik.hu/#198</link>
-      <pubDate>Fri Feb 21 2020</pubDate>
-    </item>
-    <item>
-      <title>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</title>
-      <description>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</description>
-      <link>https://napipatrik.hu/#197</link>
-      <pubDate>Thu Feb 20 2020</pubDate>
-    </item>
-    <item>
-      <title>Menjünk haza, hátha holnap jobb lesz...</title>
-      <description>Menjünk haza, hátha holnap jobb lesz...</description>
-      <link>https://napipatrik.hu/#196</link>
-      <pubDate>Wed Feb 19 2020</pubDate>
-    </item>
-    <item>
-      <title>- Dolgozol Patrik?
-- Tudom undorító így szerdán, de hát ez van</title>
-      <description>- Dolgozol Patrik?
-- Tudom undorító így szerdán, de hát ez van</description>
-      <link>https://napipatrik.hu/#195</link>
-      <pubDate>Tue Feb 18 2020</pubDate>
     </item>
   </channel>
 </rss>
