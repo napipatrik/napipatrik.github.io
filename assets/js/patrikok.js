@@ -294,6 +294,7 @@ var patrikok = [
     'András, vajazó késsel beleztek már ki embert?',
     'Minek alerting ha van szemed és tvd?',
     'Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla',
+    '...de attól ne basszon fel a faszságával!',
 ];
 
 if (typeof exports !== 'undefined') {
