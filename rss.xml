@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Mar 03 2020</lastBuildDate>
+    <lastBuildDate>Wed Mar 04 2020</lastBuildDate>
+    <item>
+      <title>Ami Észak-Korában anonym, az nekünk HA-ban van</title>
+      <description>Ami Észak-Korában anonym, az nekünk HA-ban van</description>
+      <link>https://napipatrik.hu/#258</link>
+      <pubDate>Wed Mar 04 2020</pubDate>
+    </item>
     <item>
       <title>Felgyújtom az összeset</title>
       <description>Felgyújtom az összeset</description>
@@ -60,12 +66,6 @@
       <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
       <link>https://napipatrik.hu/#201</link>
       <pubDate>Mon Feb 24 2020</pubDate>
-    </item>
-    <item>
-      <title>Az erdő választja az erdészt, nem fordítva</title>
-      <description>Az erdő választja az erdészt, nem fordítva</description>
-      <link>https://napipatrik.hu/#200</link>
-      <pubDate>Sun Feb 23 2020</pubDate>
     </item>
   </channel>
 </rss>
