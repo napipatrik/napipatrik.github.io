@@ -296,6 +296,7 @@ var patrikok = [
     'Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla',
     '...de attól ne basszon fel a faszságával!',
     'De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok',
+    'Én kurva vagyok: pénzért dolgozom, nem a munka öröméért',
 ];
 
 if (typeof exports !== 'undefined') {
