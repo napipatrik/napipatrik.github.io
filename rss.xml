@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Mar 09 2020</lastBuildDate>
+    <lastBuildDate>Tue Mar 10 2020</lastBuildDate>
+    <item>
+      <title>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</title>
+      <description>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</description>
+      <link>https://napipatrik.hu/#203</link>
+      <pubDate>Tue Mar 10 2020</pubDate>
+    </item>
     <item>
       <title>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</title>
       <description>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</description>
@@ -62,12 +68,6 @@ Patrik: Faszerdőt!</description>
       <description>Az én inputomat te nem kapod meg</description>
       <link>https://napipatrik.hu/#21</link>
       <pubDate>Sun Mar 01 2020</pubDate>
-    </item>
-    <item>
-      <title>Apád faszát, jó?</title>
-      <description>Apád faszát, jó?</description>
-      <link>https://napipatrik.hu/#20</link>
-      <pubDate>Sat Feb 29 2020</pubDate>
     </item>
   </channel>
 </rss>
