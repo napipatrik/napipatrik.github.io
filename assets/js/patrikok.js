@@ -297,6 +297,7 @@ var patrikok = [
     '...de attól ne basszon fel a faszságával!',
     'De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok',
     'Én kurva vagyok: pénzért dolgozom, nem a munka öröméért',
+    'A férfiak jobb szakácsok',
 ];
 
 if (typeof exports !== 'undefined') {
