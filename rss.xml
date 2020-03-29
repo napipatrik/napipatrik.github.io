@@ -6,7 +6,27 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Mar 28 2020</lastBuildDate>
+    <lastBuildDate>Tue Mar 31 2020</lastBuildDate>
+    <item>
+      <title>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</title>
+      <description>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</description>
+      <link>https://napipatrik.hu/#102</link>
+      <pubDate>Tue Mar 31 2020</pubDate>
+    </item>
+    <item>
+      <title>Olyan szopott meggymag fejed van</title>
+      <description>Olyan szopott meggymag fejed van</description>
+      <link>https://napipatrik.hu/#101</link>
+      <pubDate>Mon Mar 30 2020</pubDate>
+    </item>
+    <item>
+      <title>- Tudjátok mi kéne még?
+- Egy DevOpsos vacsi!</title>
+      <description>- Tudjátok mi kéne még?
+- Egy DevOpsos vacsi!</description>
+      <link>https://napipatrik.hu/#100</link>
+      <pubDate>Sun Mar 29 2020</pubDate>
+    </item>
     <item>
       <title>Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!</title>
       <description>Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!</description>
@@ -48,24 +68,6 @@
       <description>Majd beírok valamit és lesz valami</description>
       <link>https://napipatrik.hu/#154</link>
       <pubDate>Sun Mar 22 2020</pubDate>
-    </item>
-    <item>
-      <title>Az erdész ott gallyaz, ahol tud</title>
-      <description>Az erdész ott gallyaz, ahol tud</description>
-      <link>https://napipatrik.hu/#153</link>
-      <pubDate>Sat Mar 21 2020</pubDate>
-    </item>
-    <item>
-      <title>Otthon fogok íííígy helikopterezni</title>
-      <description>Otthon fogok íííígy helikopterezni</description>
-      <link>https://napipatrik.hu/#152</link>
-      <pubDate>Fri Mar 20 2020</pubDate>
-    </item>
-    <item>
-      <title>Odamegyek és felgyújtom az egészet!</title>
-      <description>Odamegyek és felgyújtom az egészet!</description>
-      <link>https://napipatrik.hu/#151</link>
-      <pubDate>Thu Mar 19 2020</pubDate>
     </item>
   </channel>
 </rss>
