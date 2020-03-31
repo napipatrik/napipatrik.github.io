@@ -298,6 +298,7 @@ var patrikok = [
     'De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok',
     'Én kurva vagyok: pénzért dolgozom, nem a munka öröméért',
     'A férfiak jobb szakácsok',
+    'Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te\nPatrik: Hát annyira senki',
 ];
 
 if (typeof exports !== 'undefined') {
