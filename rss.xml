@@ -6,7 +6,25 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Mar 31 2020</lastBuildDate>
+    <lastBuildDate>Fri Apr 03 2020</lastBuildDate>
+    <item>
+      <title>Ezt tudod, hogy mondják? Dilettantizmus!</title>
+      <description>Ezt tudod, hogy mondják? Dilettantizmus!</description>
+      <link>https://napipatrik.hu/#44</link>
+      <pubDate>Fri Apr 03 2020</pubDate>
+    </item>
+    <item>
+      <title>De ezt így mondják Balázs: fogyatékosok, szellemileg visszamaradottak!</title>
+      <description>De ezt így mondják Balázs: fogyatékosok, szellemileg visszamaradottak!</description>
+      <link>https://napipatrik.hu/#43</link>
+      <pubDate>Thu Apr 02 2020</pubDate>
+    </item>
+    <item>
+      <title>Látod, mondtam én, hogy veszélyes dolgozni!</title>
+      <description>Látod, mondtam én, hogy veszélyes dolgozni!</description>
+      <link>https://napipatrik.hu/#42</link>
+      <pubDate>Wed Apr 01 2020</pubDate>
+    </item>
     <item>
       <title>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</title>
       <description>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</description>
@@ -50,24 +68,6 @@
       <description>Balázs bácsi undorító, a szakállából csöpög a nyála!</description>
       <link>https://napipatrik.hu/#157</link>
       <pubDate>Wed Mar 25 2020</pubDate>
-    </item>
-    <item>
-      <title>Balázs, adj valamit! ...nem kell, megbaszom én</title>
-      <description>Balázs, adj valamit! ...nem kell, megbaszom én</description>
-      <link>https://napipatrik.hu/#156</link>
-      <pubDate>Tue Mar 24 2020</pubDate>
-    </item>
-    <item>
-      <title>Nem úgy elfújja, megboríjja</title>
-      <description>Nem úgy elfújja, megboríjja</description>
-      <link>https://napipatrik.hu/#155</link>
-      <pubDate>Mon Mar 23 2020</pubDate>
-    </item>
-    <item>
-      <title>Majd beírok valamit és lesz valami</title>
-      <description>Majd beírok valamit és lesz valami</description>
-      <link>https://napipatrik.hu/#154</link>
-      <pubDate>Sun Mar 22 2020</pubDate>
     </item>
   </channel>
 </rss>
