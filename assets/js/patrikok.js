@@ -299,6 +299,7 @@ var patrikok = [
     'Én kurva vagyok: pénzért dolgozom, nem a munka öröméért',
     'A férfiak jobb szakácsok',
     'Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te\nPatrik: Hát annyira senki',
+    '...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll',
 ];
 
 if (typeof exports !== 'undefined') {
