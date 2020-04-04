@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Apr 03 2020</lastBuildDate>
+    <lastBuildDate>Sun Apr 05 2020</lastBuildDate>
+    <item>
+      <title>Az a baj a tojással, hogy... tojás</title>
+      <description>Az a baj a tojással, hogy... tojás</description>
+      <link>https://napipatrik.hu/#286</link>
+      <pubDate>Sun Apr 05 2020</pubDate>
+    </item>
+    <item>
+      <title>Ezek tények, ezt alap igazságba kéne tenni</title>
+      <description>Ezek tények, ezt alap igazságba kéne tenni</description>
+      <link>https://napipatrik.hu/#285</link>
+      <pubDate>Sat Apr 04 2020</pubDate>
+    </item>
     <item>
       <title>Ezt tudod, hogy mondják? Dilettantizmus!</title>
       <description>Ezt tudod, hogy mondják? Dilettantizmus!</description>
@@ -56,18 +68,6 @@
       <description>A következő megálló: a Faszerdő</description>
       <link>https://napipatrik.hu/#159</link>
       <pubDate>Fri Mar 27 2020</pubDate>
-    </item>
-    <item>
-      <title>Meg fogok halni. Enni sincs már kedvem, ez a vég</title>
-      <description>Meg fogok halni. Enni sincs már kedvem, ez a vég</description>
-      <link>https://napipatrik.hu/#158</link>
-      <pubDate>Thu Mar 26 2020</pubDate>
-    </item>
-    <item>
-      <title>Balázs bácsi undorító, a szakállából csöpög a nyála!</title>
-      <description>Balázs bácsi undorító, a szakállából csöpög a nyála!</description>
-      <link>https://napipatrik.hu/#157</link>
-      <pubDate>Wed Mar 25 2020</pubDate>
     </item>
   </channel>
 </rss>
