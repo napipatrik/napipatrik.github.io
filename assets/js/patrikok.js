@@ -300,6 +300,7 @@ var patrikok = [
     'A férfiak jobb szakácsok',
     'Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te\nPatrik: Hát annyira senki',
     '...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll',
+    'Laci: Datadog hogy fut egyébként?\nPatrik: 4 lábon',
 ];
 
 if (typeof exports !== 'undefined') {
