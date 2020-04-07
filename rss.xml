@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Apr 05 2020</lastBuildDate>
+    <lastBuildDate>Wed Apr 08 2020</lastBuildDate>
+    <item>
+      <title>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</title>
+      <description>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</description>
+      <link>https://napipatrik.hu/#229</link>
+      <pubDate>Wed Apr 08 2020</pubDate>
+    </item>
+    <item>
+      <title>Írok egy könyvet</title>
+      <description>Írok egy könyvet</description>
+      <link>https://napipatrik.hu/#228</link>
+      <pubDate>Tue Apr 07 2020</pubDate>
+    </item>
     <item>
       <title>Az a baj a tojással, hogy... tojás</title>
       <description>Az a baj a tojással, hogy... tojás</description>
@@ -56,18 +68,6 @@
 - Egy DevOpsos vacsi!</description>
       <link>https://napipatrik.hu/#100</link>
       <pubDate>Sun Mar 29 2020</pubDate>
-    </item>
-    <item>
-      <title>Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!</title>
-      <description>Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!</description>
-      <link>https://napipatrik.hu/#160</link>
-      <pubDate>Sat Mar 28 2020</pubDate>
-    </item>
-    <item>
-      <title>A következő megálló: a Faszerdő</title>
-      <description>A következő megálló: a Faszerdő</description>
-      <link>https://napipatrik.hu/#159</link>
-      <pubDate>Fri Mar 27 2020</pubDate>
     </item>
   </channel>
 </rss>
