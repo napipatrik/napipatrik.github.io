@@ -6,7 +6,43 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Apr 08 2020</lastBuildDate>
+    <lastBuildDate>Tue Apr 14 2020</lastBuildDate>
+    <item>
+      <title>Az egyik erdő nagyobb mint a másik</title>
+      <description>Az egyik erdő nagyobb mint a másik</description>
+      <link>https://napipatrik.hu/#235</link>
+      <pubDate>Tue Apr 14 2020</pubDate>
+    </item>
+    <item>
+      <title>Írjuk meg Gábornak: a szar arrébb van lapátolva</title>
+      <description>Írjuk meg Gábornak: a szar arrébb van lapátolva</description>
+      <link>https://napipatrik.hu/#234</link>
+      <pubDate>Mon Apr 13 2020</pubDate>
+    </item>
+    <item>
+      <title>Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból</title>
+      <description>Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból</description>
+      <link>https://napipatrik.hu/#233</link>
+      <pubDate>Sun Apr 12 2020</pubDate>
+    </item>
+    <item>
+      <title>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</title>
+      <description>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</description>
+      <link>https://napipatrik.hu/#232</link>
+      <pubDate>Sat Apr 11 2020</pubDate>
+    </item>
+    <item>
+      <title>De miért mi?</title>
+      <description>De miért mi?</description>
+      <link>https://napipatrik.hu/#231</link>
+      <pubDate>Fri Apr 10 2020</pubDate>
+    </item>
+    <item>
+      <title>Mi mezítlábas favágók vagyunk egy szál... baltával</title>
+      <description>Mi mezítlábas favágók vagyunk egy szál... baltával</description>
+      <link>https://napipatrik.hu/#230</link>
+      <pubDate>Thu Apr 09 2020</pubDate>
+    </item>
     <item>
       <title>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</title>
       <description>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</description>
@@ -30,44 +66,6 @@
       <description>Ezek tények, ezt alap igazságba kéne tenni</description>
       <link>https://napipatrik.hu/#285</link>
       <pubDate>Sat Apr 04 2020</pubDate>
-    </item>
-    <item>
-      <title>Ezt tudod, hogy mondják? Dilettantizmus!</title>
-      <description>Ezt tudod, hogy mondják? Dilettantizmus!</description>
-      <link>https://napipatrik.hu/#44</link>
-      <pubDate>Fri Apr 03 2020</pubDate>
-    </item>
-    <item>
-      <title>De ezt így mondják Balázs: fogyatékosok, szellemileg visszamaradottak!</title>
-      <description>De ezt így mondják Balázs: fogyatékosok, szellemileg visszamaradottak!</description>
-      <link>https://napipatrik.hu/#43</link>
-      <pubDate>Thu Apr 02 2020</pubDate>
-    </item>
-    <item>
-      <title>Látod, mondtam én, hogy veszélyes dolgozni!</title>
-      <description>Látod, mondtam én, hogy veszélyes dolgozni!</description>
-      <link>https://napipatrik.hu/#42</link>
-      <pubDate>Wed Apr 01 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</title>
-      <description>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</description>
-      <link>https://napipatrik.hu/#102</link>
-      <pubDate>Tue Mar 31 2020</pubDate>
-    </item>
-    <item>
-      <title>Olyan szopott meggymag fejed van</title>
-      <description>Olyan szopott meggymag fejed van</description>
-      <link>https://napipatrik.hu/#101</link>
-      <pubDate>Mon Mar 30 2020</pubDate>
-    </item>
-    <item>
-      <title>- Tudjátok mi kéne még?
-- Egy DevOpsos vacsi!</title>
-      <description>- Tudjátok mi kéne még?
-- Egy DevOpsos vacsi!</description>
-      <link>https://napipatrik.hu/#100</link>
-      <pubDate>Sun Mar 29 2020</pubDate>
     </item>
   </channel>
 </rss>
