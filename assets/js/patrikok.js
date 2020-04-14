@@ -301,6 +301,7 @@ var patrikok = [
     'Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te\nPatrik: Hát annyira senki',
     '...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll',
     'Laci: Datadog hogy fut egyébként?\nPatrik: 4 lábon',
+    'Nah, találtam egy kis körszakállat, amit reflexből be is kaptam',
 ];
 
 if (typeof exports !== 'undefined') {
