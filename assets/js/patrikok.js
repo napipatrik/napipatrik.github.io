@@ -302,6 +302,8 @@ var patrikok = [
     '...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll',
     'Laci: Datadog hogy fut egyébként?\nPatrik: 4 lábon',
     'Nah, találtam egy kis körszakállat, amit reflexből be is kaptam',
+    'Permetezte ránk a körszakállt',
+    'Lehetett volna írni locsoló verset:\nFaszerdőben jártam\nPiros makkot láttam\nBe akart cuppanni\nSzabad e locsolni',
 ];
 
 if (typeof exports !== 'undefined') {
