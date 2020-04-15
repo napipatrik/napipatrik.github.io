@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Apr 14 2020</lastBuildDate>
+    <lastBuildDate>Thu Apr 16 2020</lastBuildDate>
+    <item>
+      <title>Hallod András, gyere mááááár ide, ezt nem hiszem el</title>
+      <description>Hallod András, gyere mááááár ide, ezt nem hiszem el</description>
+      <link>https://napipatrik.hu/#57</link>
+      <pubDate>Thu Apr 16 2020</pubDate>
+    </item>
+    <item>
+      <title>Mondd azt, hogy nincs igazam!</title>
+      <description>Mondd azt, hogy nincs igazam!</description>
+      <link>https://napipatrik.hu/#56</link>
+      <pubDate>Wed Apr 15 2020</pubDate>
+    </item>
     <item>
       <title>Az egyik erdő nagyobb mint a másik</title>
       <description>Az egyik erdő nagyobb mint a másik</description>
@@ -54,18 +66,6 @@
       <description>Írok egy könyvet</description>
       <link>https://napipatrik.hu/#228</link>
       <pubDate>Tue Apr 07 2020</pubDate>
-    </item>
-    <item>
-      <title>Az a baj a tojással, hogy... tojás</title>
-      <description>Az a baj a tojással, hogy... tojás</description>
-      <link>https://napipatrik.hu/#286</link>
-      <pubDate>Sun Apr 05 2020</pubDate>
-    </item>
-    <item>
-      <title>Ezek tények, ezt alap igazságba kéne tenni</title>
-      <description>Ezek tények, ezt alap igazságba kéne tenni</description>
-      <link>https://napipatrik.hu/#285</link>
-      <pubDate>Sat Apr 04 2020</pubDate>
     </item>
   </channel>
 </rss>
