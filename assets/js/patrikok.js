@@ -304,6 +304,9 @@ var patrikok = [
     'Nah, találtam egy kis körszakállat, amit reflexből be is kaptam',
     'Permetezte ránk a körszakállt',
     'Lehetett volna írni locsoló verset:\nFaszerdőben jártam\nPiros makkot láttam\nBe akart cuppanni\nSzabad e locsolni',
+    'A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe',
+    'Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel',
+    'Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat',
 ];
 
 if (typeof exports !== 'undefined') {
