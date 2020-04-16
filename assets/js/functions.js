@@ -7,7 +7,7 @@ function loadSearch() {
 	for (var i in patrikok) {
 		var a = document.createElement('a');
 		a.href = '#' + i;
-		a.innerText = patrikok[i].replace('\n', '<br/>');
+		a.innerHTML = patrikok[i].replace('\n', '<br/>');
 		a.onclick = showPatrikSearchFactory(i);
 		list.appendChild(a);
 	}
