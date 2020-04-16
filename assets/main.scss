@@ -327,3 +327,53 @@ blockquote::after {
 .fadeIn {
   animation-name: fadeIn;
 }
+
+/* Tutikereső */
+
+#tuti-search {
+  box-sizing: border-box;
+  padding: 10px 5px 10px 10px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  width: 100%;
+  font-size: 18px;
+}
+
+.searchbox {
+  position: relative;
+  display: inline-block;
+}
+
+.searchbox-content {
+  display: none;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  min-width: 200px;
+  z-index: 1;
+}
+
+.searchbox-content div {
+  overflow-y: scroll;
+  max-height: 260px;
+}
+
+.searchbox-content a,
+.searchbox-content a:hover,
+.searchbox-content a:visited,
+.searchbox-content a:focus {
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  font-family: Arial;
+}
+
+.searchbox-content a:hover {
+  color: black;
+  background-color: rgba(241, 241, 241, 0.7);
+}
+
+.searchbox .show {
+  display:block;
+}
