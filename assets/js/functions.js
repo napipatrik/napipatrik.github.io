@@ -15,6 +15,7 @@ function loadSearch() {
 
 function showSearch() {
 	document.getElementById("tutilist").classList.toggle("show");
+	document.getElementById("tuti-search").focus();
 }
 
 function filterTuti() {
