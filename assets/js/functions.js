@@ -7,7 +7,7 @@ function loadSearch() {
 	for (var i in patrikok) {
 		var a = document.createElement('a');
 		a.href = '#' + i;
-		a.innerHTML = patrikok[i].replace('\n', '<br/>');
+		a.innerHTML = patrikok[i].replace(/\n/g, '<br/>');
 		a.onclick = showPatrikSearchFactory(i);
 		list.appendChild(a);
 	}
@@ -43,8 +43,7 @@ function showPatrikSearchFactory(i) {
 
 function showPatrik(i) {
     let index = i % patrikok.length;
-console.log(i);
-    document.getElementById('napituti').innerHTML = patrikok[index].replace('\n', '<br/>');
+    document.getElementById('napituti').innerHTML = patrikok[index].replace(/\n/g, '<br/>');
     document.getElementById('permalink').href = window.location.href.replace(window.location.hash, '') + '#' + index;
 }
 
