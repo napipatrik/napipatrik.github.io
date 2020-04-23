@@ -308,6 +308,7 @@ var patrikok = [
     'Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel',
     'Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat',
     'Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet',
+    'Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét',
 ];
 
 if (typeof exports !== 'undefined') {
