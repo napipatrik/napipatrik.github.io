@@ -307,6 +307,7 @@ var patrikok = [
     'A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe',
     'Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel',
     'Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat',
+    'Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet',
 ];
 
 if (typeof exports !== 'undefined') {
