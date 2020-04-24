@@ -6,7 +6,25 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Apr 22 2020</lastBuildDate>
+    <lastBuildDate>Sun Apr 26 2020</lastBuildDate>
+    <item>
+      <title>A scheduler elkeni a szart, azért van</title>
+      <description>A scheduler elkeni a szart, azért van</description>
+      <link>https://napipatrik.hu/#77</link>
+      <pubDate>Sun Apr 26 2020</pubDate>
+    </item>
+    <item>
+      <title>Köszönöm, Isten fizesse meg!</title>
+      <description>Köszönöm, Isten fizesse meg!</description>
+      <link>https://napipatrik.hu/#76</link>
+      <pubDate>Sat Apr 25 2020</pubDate>
+    </item>
+    <item>
+      <title>Ugyanitt körszakáll ingyen átvehető</title>
+      <description>Ugyanitt körszakáll ingyen átvehető</description>
+      <link>https://napipatrik.hu/#75</link>
+      <pubDate>Fri Apr 24 2020</pubDate>
+    </item>
     <item>
       <title>A dilettantizmus melegágya vagyunk</title>
       <description>A dilettantizmus melegágya vagyunk</description>
@@ -48,24 +66,6 @@
       <description>Hallod András, gyere mááááár ide, ezt nem hiszem el</description>
       <link>https://napipatrik.hu/#57</link>
       <pubDate>Thu Apr 16 2020</pubDate>
-    </item>
-    <item>
-      <title>Mondd azt, hogy nincs igazam!</title>
-      <description>Mondd azt, hogy nincs igazam!</description>
-      <link>https://napipatrik.hu/#56</link>
-      <pubDate>Wed Apr 15 2020</pubDate>
-    </item>
-    <item>
-      <title>Az egyik erdő nagyobb mint a másik</title>
-      <description>Az egyik erdő nagyobb mint a másik</description>
-      <link>https://napipatrik.hu/#235</link>
-      <pubDate>Tue Apr 14 2020</pubDate>
-    </item>
-    <item>
-      <title>Írjuk meg Gábornak: a szar arrébb van lapátolva</title>
-      <description>Írjuk meg Gábornak: a szar arrébb van lapátolva</description>
-      <link>https://napipatrik.hu/#234</link>
-      <pubDate>Mon Apr 13 2020</pubDate>
     </item>
   </channel>
 </rss>
