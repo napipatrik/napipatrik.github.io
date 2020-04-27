@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Apr 26 2020</lastBuildDate>
+    <lastBuildDate>Tue Apr 28 2020</lastBuildDate>
+    <item>
+      <title>Apád faszát, jó?</title>
+      <description>Apád faszát, jó?</description>
+      <link>https://napipatrik.hu/#20</link>
+      <pubDate>Tue Apr 28 2020</pubDate>
+    </item>
+    <item>
+      <title>Rádhajlítom a permeteződet!</title>
+      <description>Rádhajlítom a permeteződet!</description>
+      <link>https://napipatrik.hu/#19</link>
+      <pubDate>Mon Apr 27 2020</pubDate>
+    </item>
     <item>
       <title>A scheduler elkeni a szart, azért van</title>
       <description>A scheduler elkeni a szart, azért van</description>
@@ -54,18 +66,6 @@
       <description>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</description>
       <link>https://napipatrik.hu/#187</link>
       <pubDate>Sat Apr 18 2020</pubDate>
-    </item>
-    <item>
-      <title>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</title>
-      <description>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</description>
-      <link>https://napipatrik.hu/#186</link>
-      <pubDate>Fri Apr 17 2020</pubDate>
-    </item>
-    <item>
-      <title>Hallod András, gyere mááááár ide, ezt nem hiszem el</title>
-      <description>Hallod András, gyere mááááár ide, ezt nem hiszem el</description>
-      <link>https://napipatrik.hu/#57</link>
-      <pubDate>Thu Apr 16 2020</pubDate>
     </item>
   </channel>
 </rss>
