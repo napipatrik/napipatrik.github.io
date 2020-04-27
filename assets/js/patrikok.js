@@ -309,6 +309,7 @@ var patrikok = [
     'Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat',
     'Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet',
     'Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét',
+    'Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem',
 ];
 
 if (typeof exports !== 'undefined') {
