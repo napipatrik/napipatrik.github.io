@@ -311,6 +311,7 @@ var patrikok = [
     'Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét',
     'Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem',
     'Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni',
+    'Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős',
 ];
 
 if (typeof exports !== 'undefined') {
