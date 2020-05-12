@@ -313,6 +313,7 @@ var patrikok = [
     'Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni',
     'Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős',
     'Egy rendes ember magának pasztázza a processzorát',
+    'Hisz aki dilettáns, az mindenhol dilettáns',
 ];
 
 if (typeof exports !== 'undefined') {
