@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon May 11 2020</lastBuildDate>
+    <lastBuildDate>Tue May 12 2020</lastBuildDate>
+    <item>
+      <title>Ezt ne írd fel te buzi</title>
+      <description>Ezt ne írd fel te buzi</description>
+      <link>https://napipatrik.hu/#171</link>
+      <pubDate>Tue May 12 2020</pubDate>
+    </item>
     <item>
       <title>Írok egy könyvet</title>
       <description>Írok egy könyvet</description>
@@ -60,12 +66,6 @@
       <description>Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának</description>
       <link>https://napipatrik.hu/#278</link>
       <pubDate>Sun May 03 2020</pubDate>
-    </item>
-    <item>
-      <title>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</title>
-      <description>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</description>
-      <link>https://napipatrik.hu/#277</link>
-      <pubDate>Sat May 02 2020</pubDate>
     </item>
   </channel>
 </rss>
