@@ -314,6 +314,8 @@ var patrikok = [
     'Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős',
     'Egy rendes ember magának pasztázza a processzorát',
     'Hisz aki dilettáns, az mindenhol dilettáns',
+    'Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább',
+    'Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett',
 ];
 
 if (typeof exports !== 'undefined') {
