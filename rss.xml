@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon May 18 2020</lastBuildDate>
+    <lastBuildDate>Fri May 22 2020</lastBuildDate>
+    <item>
+      <title>Tudod kiről tegyél ki képet... ANYÁÁÁÁÁDRÓÓÓÓÓL</title>
+      <description>Tudod kiről tegyél ki képet... ANYÁÁÁÁÁDRÓÓÓÓÓL</description>
+      <link>https://napipatrik.hu/#7</link>
+      <pubDate>Fri May 22 2020</pubDate>
+    </item>
+    <item>
+      <title>Hát én mindjárt hazamegyek</title>
+      <description>Hát én mindjárt hazamegyek</description>
+      <link>https://napipatrik.hu/#6</link>
+      <pubDate>Thu May 21 2020</pubDate>
+    </item>
+    <item>
+      <title>Hát ez végülis működhet...</title>
+      <description>Hát ez végülis működhet...</description>
+      <link>https://napipatrik.hu/#5</link>
+      <pubDate>Wed May 20 2020</pubDate>
+    </item>
+    <item>
+      <title>Úúú...</title>
+      <description>Úúú...</description>
+      <link>https://napipatrik.hu/#4</link>
+      <pubDate>Tue May 19 2020</pubDate>
+    </item>
     <item>
       <title>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</title>
       <description>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</description>
@@ -42,30 +66,6 @@
       <description>Ha te nem veszed be, a másik erdész beveszi</description>
       <link>https://napipatrik.hu/#114</link>
       <pubDate>Wed May 13 2020</pubDate>
-    </item>
-    <item>
-      <title>Ezt ne írd fel te buzi</title>
-      <description>Ezt ne írd fel te buzi</description>
-      <link>https://napipatrik.hu/#171</link>
-      <pubDate>Tue May 12 2020</pubDate>
-    </item>
-    <item>
-      <title>Írok egy könyvet</title>
-      <description>Írok egy könyvet</description>
-      <link>https://napipatrik.hu/#228</link>
-      <pubDate>Mon May 11 2020</pubDate>
-    </item>
-    <item>
-      <title>(megcsörren a telefon) Na, megérezték, hogy jó kedvem van</title>
-      <description>(megcsörren a telefon) Na, megérezték, hogy jó kedvem van</description>
-      <link>https://napipatrik.hu/#227</link>
-      <pubDate>Sun May 10 2020</pubDate>
-    </item>
-    <item>
-      <title>Ennek így semmi érteme... jaaaaajjj, decline</title>
-      <description>Ennek így semmi érteme... jaaaaajjj, decline</description>
-      <link>https://napipatrik.hu/#226</link>
-      <pubDate>Sat May 09 2020</pubDate>
     </item>
   </channel>
 </rss>
