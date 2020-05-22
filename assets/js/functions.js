@@ -44,7 +44,8 @@ function showPatrikSearchFactory(i) {
 function showPatrik(i) {
     let index = i % patrikok.length;
     document.getElementById('napituti').innerHTML = patrikok[index].replace(/\n/g, '<br/>');
-    document.getElementById('permalink').href = window.location.href.replace(window.location.hash, '') + '#' + index;
+    window.location.hash = index;
+    document.getElementById('permalink').href = window.location.href;
 }
 
 function shuffle() {
