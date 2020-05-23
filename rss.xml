@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri May 22 2020</lastBuildDate>
+    <lastBuildDate>Sun May 24 2020</lastBuildDate>
+    <item>
+      <title>Kéne a devops szemed</title>
+      <description>Kéne a devops szemed</description>
+      <link>https://napipatrik.hu/#9</link>
+      <pubDate>Sun May 24 2020</pubDate>
+    </item>
+    <item>
+      <title>ANYÁDÉÉÉÉÉ</title>
+      <description>ANYÁDÉÉÉÉÉ</description>
+      <link>https://napipatrik.hu/#8</link>
+      <pubDate>Sat May 23 2020</pubDate>
+    </item>
     <item>
       <title>Tudod kiről tegyél ki képet... ANYÁÁÁÁÁDRÓÓÓÓÓL</title>
       <description>Tudod kiről tegyél ki képet... ANYÁÁÁÁÁDRÓÓÓÓÓL</description>
@@ -54,18 +66,6 @@
       <description>Ha bennem eltörik valami akkor benned fog!</description>
       <link>https://napipatrik.hu/#116</link>
       <pubDate>Fri May 15 2020</pubDate>
-    </item>
-    <item>
-      <title>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</title>
-      <description>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</description>
-      <link>https://napipatrik.hu/#115</link>
-      <pubDate>Thu May 14 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha te nem veszed be, a másik erdész beveszi</title>
-      <description>Ha te nem veszed be, a másik erdész beveszi</description>
-      <link>https://napipatrik.hu/#114</link>
-      <pubDate>Wed May 13 2020</pubDate>
     </item>
   </channel>
 </rss>
