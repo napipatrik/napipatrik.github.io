@@ -316,6 +316,7 @@ var patrikok = [
     'Hisz aki dilettáns, az mindenhol dilettáns',
     'Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább',
     'Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett',
+    'De nekem mindig igazam van',
 ];
 
 if (typeof exports !== 'undefined') {
