@@ -6,7 +6,49 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun May 24 2020</lastBuildDate>
+    <lastBuildDate>Sun May 31 2020</lastBuildDate>
+    <item>
+      <title>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</title>
+      <description>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</description>
+      <link>https://napipatrik.hu/#276</link>
+      <pubDate>Sun May 31 2020</pubDate>
+    </item>
+    <item>
+      <title>Egy termék mind felett!</title>
+      <description>Egy termék mind felett!</description>
+      <link>https://napipatrik.hu/#275</link>
+      <pubDate>Sat May 30 2020</pubDate>
+    </item>
+    <item>
+      <title>Kurva customerek, csak a baj van velük</title>
+      <description>Kurva customerek, csak a baj van velük</description>
+      <link>https://napipatrik.hu/#274</link>
+      <pubDate>Fri May 29 2020</pubDate>
+    </item>
+    <item>
+      <title>Laci, szeretnél undorítóskodni?</title>
+      <description>Laci, szeretnél undorítóskodni?</description>
+      <link>https://napipatrik.hu/#273</link>
+      <pubDate>Thu May 28 2020</pubDate>
+    </item>
+    <item>
+      <title>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején :D</title>
+      <description>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején :D</description>
+      <link>https://napipatrik.hu/#272</link>
+      <pubDate>Wed May 27 2020</pubDate>
+    </item>
+    <item>
+      <title>Slackről slackre terjed...</title>
+      <description>Slackről slackre terjed...</description>
+      <link>https://napipatrik.hu/#271</link>
+      <pubDate>Tue May 26 2020</pubDate>
+    </item>
+    <item>
+      <title>A legélesebb nyél</title>
+      <description>A legélesebb nyél</description>
+      <link>https://napipatrik.hu/#270</link>
+      <pubDate>Mon May 25 2020</pubDate>
+    </item>
     <item>
       <title>Kéne a devops szemed</title>
       <description>Kéne a devops szemed</description>
@@ -24,48 +66,6 @@
       <description>Tudod kiről tegyél ki képet... ANYÁÁÁÁÁDRÓÓÓÓÓL</description>
       <link>https://napipatrik.hu/#7</link>
       <pubDate>Fri May 22 2020</pubDate>
-    </item>
-    <item>
-      <title>Hát én mindjárt hazamegyek</title>
-      <description>Hát én mindjárt hazamegyek</description>
-      <link>https://napipatrik.hu/#6</link>
-      <pubDate>Thu May 21 2020</pubDate>
-    </item>
-    <item>
-      <title>Hát ez végülis működhet...</title>
-      <description>Hát ez végülis működhet...</description>
-      <link>https://napipatrik.hu/#5</link>
-      <pubDate>Wed May 20 2020</pubDate>
-    </item>
-    <item>
-      <title>Úúú...</title>
-      <description>Úúú...</description>
-      <link>https://napipatrik.hu/#4</link>
-      <pubDate>Tue May 19 2020</pubDate>
-    </item>
-    <item>
-      <title>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</title>
-      <description>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</description>
-      <link>https://napipatrik.hu/#119</link>
-      <pubDate>Mon May 18 2020</pubDate>
-    </item>
-    <item>
-      <title>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</title>
-      <description>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</description>
-      <link>https://napipatrik.hu/#118</link>
-      <pubDate>Sun May 17 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci, a varázslóakhoz értesz?</title>
-      <description>Laci, a varázslóakhoz értesz?</description>
-      <link>https://napipatrik.hu/#117</link>
-      <pubDate>Sat May 16 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha bennem eltörik valami akkor benned fog!</title>
-      <description>Ha bennem eltörik valami akkor benned fog!</description>
-      <link>https://napipatrik.hu/#116</link>
-      <pubDate>Fri May 15 2020</pubDate>
     </item>
   </channel>
 </rss>
