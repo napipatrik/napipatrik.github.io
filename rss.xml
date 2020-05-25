@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun May 24 2020</lastBuildDate>
+    <lastBuildDate>Tue May 26 2020</lastBuildDate>
+    <item>
+      <title>Slackről slackre terjed...</title>
+      <description>Slackről slackre terjed...</description>
+      <link>https://napipatrik.hu/#271</link>
+      <pubDate>Tue May 26 2020</pubDate>
+    </item>
+    <item>
+      <title>A legélesebb nyél</title>
+      <description>A legélesebb nyél</description>
+      <link>https://napipatrik.hu/#270</link>
+      <pubDate>Mon May 25 2020</pubDate>
+    </item>
     <item>
       <title>Kéne a devops szemed</title>
       <description>Kéne a devops szemed</description>
@@ -54,18 +66,6 @@
       <description>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</description>
       <link>https://napipatrik.hu/#118</link>
       <pubDate>Sun May 17 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci, a varázslóakhoz értesz?</title>
-      <description>Laci, a varázslóakhoz értesz?</description>
-      <link>https://napipatrik.hu/#117</link>
-      <pubDate>Sat May 16 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha bennem eltörik valami akkor benned fog!</title>
-      <description>Ha bennem eltörik valami akkor benned fog!</description>
-      <link>https://napipatrik.hu/#116</link>
-      <pubDate>Fri May 15 2020</pubDate>
     </item>
   </channel>
 </rss>
