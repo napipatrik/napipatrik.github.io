@@ -317,6 +317,9 @@ var patrikok = [
     'Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább',
     'Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett',
     'De nekem mindig igazam van',
+    'Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon',
+    'Hát Laci, a sírás kerülget',
+    'Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen',
 ];
 
 if (typeof exports !== 'undefined') {
