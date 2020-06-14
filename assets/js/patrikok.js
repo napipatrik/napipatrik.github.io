@@ -320,6 +320,7 @@ var patrikok = [
     'Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon',
     'Hát Laci, a sírás kerülget',
     'Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen',
+    'Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek',
 ];
 
 if (typeof exports !== 'undefined') {
