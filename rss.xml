@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jun 13 2020</lastBuildDate>
+    <lastBuildDate>Wed Jun 17 2020</lastBuildDate>
+    <item>
+      <title>Mátyás, egy staff van közöttünk.</title>
+      <description>Mátyás, egy staff van közöttünk.</description>
+      <link>https://napipatrik.hu/#65</link>
+      <pubDate>Wed Jun 17 2020</pubDate>
+    </item>
+    <item>
+      <title>HAMMERYOLO</title>
+      <description>HAMMERYOLO</description>
+      <link>https://napipatrik.hu/#64</link>
+      <pubDate>Tue Jun 16 2020</pubDate>
+    </item>
+    <item>
+      <title>Együnk, mert enni jó</title>
+      <description>Együnk, mert enni jó</description>
+      <link>https://napipatrik.hu/#63</link>
+      <pubDate>Mon Jun 15 2020</pubDate>
+    </item>
+    <item>
+      <title>Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg</title>
+      <description>Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg</description>
+      <link>https://napipatrik.hu/#62</link>
+      <pubDate>Sun Jun 14 2020</pubDate>
+    </item>
     <item>
       <title>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</title>
       <description>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</description>
@@ -42,30 +66,6 @@
       <description>Tudod mi simogasson téged?! A 220!</description>
       <link>https://napipatrik.hu/#113</link>
       <pubDate>Mon Jun 08 2020</pubDate>
-    </item>
-    <item>
-      <title>Keresték a faszodat és nem lett meg</title>
-      <description>Keresték a faszodat és nem lett meg</description>
-      <link>https://napipatrik.hu/#112</link>
-      <pubDate>Sun Jun 07 2020</pubDate>
-    </item>
-    <item>
-      <title>A faszerdőbe ki megy be ha nem mi?</title>
-      <description>A faszerdőbe ki megy be ha nem mi?</description>
-      <link>https://napipatrik.hu/#111</link>
-      <pubDate>Sat Jun 06 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</title>
-      <description>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</description>
-      <link>https://napipatrik.hu/#110</link>
-      <pubDate>Fri Jun 05 2020</pubDate>
-    </item>
-    <item>
-      <title>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</title>
-      <description>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</description>
-      <link>https://napipatrik.hu/#109</link>
-      <pubDate>Thu Jun 04 2020</pubDate>
     </item>
   </channel>
 </rss>
