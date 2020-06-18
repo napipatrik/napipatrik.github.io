@@ -321,6 +321,10 @@ var patrikok = [
     'Hát Laci, a sírás kerülget',
     'Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen',
     'Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek',
+    'A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt',
+    'Nekem nem tudsz újat mondani, ezt a körszakállt ismerem',
+    '...hisz a piros error az csak egy warning',
+    'Ennyi idiótaságot a stackoverflown nem tudnál összeszedni',
 ];
 
 if (typeof exports !== 'undefined') {
