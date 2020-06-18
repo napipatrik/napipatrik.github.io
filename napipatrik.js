@@ -4,20 +4,23 @@ const patrikok = require('./assets/js/patrikok');
 const args = process.argv.slice(2);
 
 
-let index = patrikFn.getDefaultOffset() % patrikok.length;
+let index = process.env.NAPIPATRIK_ID ? process.env.NAPIPATRIK_ID : patrikFn.getDefaultOffset() % patrikok.length;
 if (args.length && args[0] === '--image') {
   (async function () {
     const Jimp = require('jimp');
     const request = require('request-promise-native');
     const fs = require('fs');
 
+    const text = patrikok[index];
+    const lines = Math.ceil(text.length / 28);
+
     const imageOriginal = await request({url: 'https://source.unsplash.com/600x600/?nature,calm', encoding: null});
     fs.writeFileSync('./napipatrik.jpg', imageOriginal);
     const image = await Jimp.read('./napipatrik.jpg');
-    const shadow = await Jimp.read('./shadow.png');
+    const shadow = await Jimp.read(lines < 4 ? './shadow.png' : './shadow_thick.png');
     await image.blit(shadow, 0, 0);
     const font = await Jimp.loadFont('./assets/Serif.fnt');
-    await image.print(font, 100, 250, {text: patrikok[index], alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER, alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE}, 400);
+    await image.print(font, 100, 330 - lines * 28 - (lines <= 2 ? 20 / lines : 0), {text: text, alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER, alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE}, 400);
     await image.write('napipatrik.jpg');
   })();
 } else if (args.length && args[0] === '--index') {
@@ -42,7 +45,7 @@ if (args.length && args[0] === '--image') {
       const output = builder.buildObject(rss);
       console.log(output);
     });
-});
+  });
 } else {
   console.log(patrikok[index]);
 }
