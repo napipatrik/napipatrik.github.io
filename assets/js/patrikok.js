@@ -325,6 +325,8 @@ var patrikok = [
     'Nekem nem tudsz újat mondani, ezt a körszakállt ismerem',
     '...hisz a piros error az csak egy warning',
     'Ennyi idiótaságot a stackoverflown nem tudnál összeszedni',
+    'Egy szót mondok, hogy értsd: BI',
+    'Laci: vannak jó problémák is, pl. Mac cluster\nPatrik: az a jó? akkor milyen a rossz?',
 ];
 
 if (typeof exports !== 'undefined') {
