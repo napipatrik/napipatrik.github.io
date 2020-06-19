@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+ 
+    "name": "Napi Patrik", 
+    "description": "Napi Patrik - az elégedetlen DevOpsos toolja",
+    "version": "1.0",
+    "author": "András Rutkai",
+    "homepage_url": "https://napipatrik.hu",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html",
+        "default_title": "NapiPatrik"
+    },
+    "permissions": [
+        "activeTab"
+     ]
+}

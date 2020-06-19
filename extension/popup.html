@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Napi Patrik - az elégedetlen DevOpsos extensionje | Mi megmondjuk a tutit!</title>
+        <meta name="theme-color" content="#ffffff">
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <script src="popup.js"></script>
+        <style type="text/css">
+            body {
+                margin: 10px;
+                background-image: url("bg.jpg");
+                background-repeat: no-repeat;
+            }
+            .container-fluid {
+                width: 400px;
+                padding: 5px;
+                margin: 0;
+                background-color: rgba(0,0,0,0.6);
+                color: #fff;
+                border-radius: 5px;
+            }
+            #napipatrik {
+                font-weight: bold;
+                font-size: 1.2em;
+            }
+            #tutikereso-gomb-container {
+                margin-top: 5px;
+            }
+            .tutikereso {
+                display: none;
+            }
+            #tuti-search {
+                margin: 10px 0 5px;
+            }
+            .tutilist-container {
+                margin-right: 0;
+            }
+            #tutilist {
+                max-height: 220px;
+                overflow-y: auto;
+            }
+            #tutilist > div {
+                margin-bottom: 2px;
+            }
+            #tutilist p {
+                margin-bottom: 0;
+                margin-top: 2px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col">
+                    <p id="napipatrik"></p>
+                </div>
+                <div class="col-4">
+                    <button type="button" class="btn btn-outline-light btn-block" onclick="copyPermalink()">Permalink</button>
+                    <button type="button" class="btn btn-outline-light btn-block" onclick="copyNapiKep()">Napi kép</button>
+                </div>
+            </div>
+            <div class="row" id="tutikereso-gomb-container">
+                <div class="col">
+                    <button type="button" class="btn btn-outline-light btn-block" onclick="expandTutikereso()">Tutikereső</button>
+                </div>
+            </div>
+            <div class="row tutikereso">
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="tutikereső..." id="tuti-search" onkeyup="searchInList()">
+                </div>
+            </div>
+            <div class="row tutikereso tutilist-container">
+                <div class="col" id="tutilist">
+
+                </div>
+            </div>
+        </div>
+        <script src="jquery-3.5.1.min.js"></script>
+        <script src="bootstrap.min.js"></script>
+        <script src="https://napipatrik.hu/assets/js/patrikok.js"></script>
+        <script>
+            var napiId;
+
+            fetch('https://napipatrik.hu/napipatrik')
+                .then(response => response.text())
+                .then(raw => raw.trim().replace(/\n/g, '<br/>'))
+                .then(data => document.getElementById('napipatrik').innerHTML = data);
+
+            fetch('https://napipatrik.hu/napipatrik.id')
+                .then(response => response.text())
+                .then(raw => raw.trim())
+                .then(data => napiId = data);
+
+            loadSearch();
+        </script>
+    </body>
+</html>
