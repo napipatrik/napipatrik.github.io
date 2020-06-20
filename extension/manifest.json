@@ -17,6 +17,5 @@
         "default_title": "NapiPatrik"
     },
     "permissions": [
-        "activeTab"
-     ]
+    ]
 }
