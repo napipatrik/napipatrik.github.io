@@ -6,7 +6,21 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jun 19 2020</lastBuildDate>
+    <lastBuildDate>Sun Jun 21 2020</lastBuildDate>
+    <item>
+      <title>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</title>
+      <description>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</description>
+      <link>https://napipatrik.hu/#328</link>
+      <pubDate>Sun Jun 21 2020</pubDate>
+    </item>
+    <item>
+      <title>Laci: vannak jó problémák is, pl. Mac cluster
+Patrik: az a jó? akkor milyen a rossz?</title>
+      <description>Laci: vannak jó problémák is, pl. Mac cluster
+Patrik: az a jó? akkor milyen a rossz?</description>
+      <link>https://napipatrik.hu/#327</link>
+      <pubDate>Sat Jun 20 2020</pubDate>
+    </item>
     <item>
       <title>Egy szót mondok, hogy értsd: BI</title>
       <description>Egy szót mondok, hogy értsd: BI</description>
@@ -54,18 +68,6 @@
       <description>Laci, a varázslóakhoz értesz?</description>
       <link>https://napipatrik.hu/#117</link>
       <pubDate>Fri Jun 12 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha bennem eltörik valami akkor benned fog!</title>
-      <description>Ha bennem eltörik valami akkor benned fog!</description>
-      <link>https://napipatrik.hu/#116</link>
-      <pubDate>Thu Jun 11 2020</pubDate>
-    </item>
-    <item>
-      <title>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</title>
-      <description>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</description>
-      <link>https://napipatrik.hu/#115</link>
-      <pubDate>Wed Jun 10 2020</pubDate>
     </item>
   </channel>
 </rss>
