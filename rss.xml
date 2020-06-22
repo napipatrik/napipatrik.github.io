@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jun 21 2020</lastBuildDate>
+    <lastBuildDate>Tue Jun 23 2020</lastBuildDate>
+    <item>
+      <title>Éhes vagyok</title>
+      <description>Éhes vagyok</description>
+      <link>https://napipatrik.hu/#1</link>
+      <pubDate>Tue Jun 23 2020</pubDate>
+    </item>
+    <item>
+      <title>Én megmondtam</title>
+      <description>Én megmondtam</description>
+      <link>https://napipatrik.hu/#0</link>
+      <pubDate>Mon Jun 22 2020</pubDate>
+    </item>
     <item>
       <title>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</title>
       <description>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</description>
@@ -56,18 +68,6 @@ Patrik: az a jó? akkor milyen a rossz?</description>
       <description>Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg</description>
       <link>https://napipatrik.hu/#62</link>
       <pubDate>Sun Jun 14 2020</pubDate>
-    </item>
-    <item>
-      <title>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</title>
-      <description>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</description>
-      <link>https://napipatrik.hu/#118</link>
-      <pubDate>Sat Jun 13 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci, a varázslóakhoz értesz?</title>
-      <description>Laci, a varázslóakhoz értesz?</description>
-      <link>https://napipatrik.hu/#117</link>
-      <pubDate>Fri Jun 12 2020</pubDate>
     </item>
   </channel>
 </rss>
