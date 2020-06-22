@@ -4,5 +4,5 @@ _site
 .jekyll-metadata
 node_modules
 
-# API
-/api/config/production.json
+# Extension
+/extension/extension.zip
