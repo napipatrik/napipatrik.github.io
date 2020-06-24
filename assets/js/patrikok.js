@@ -328,6 +328,7 @@ var patrikok = [
     'Egy szót mondok, hogy értsd: BI',
     'Laci: vannak jó problémák is, pl. Mac cluster\nPatrik: az a jó? akkor milyen a rossz?',
     'Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll',
+    'Egy termék épült a /tmpre',
 ];
 
 if (typeof exports !== 'undefined') {
