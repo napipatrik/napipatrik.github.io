@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jun 23 2020</lastBuildDate>
+    <lastBuildDate>Wed Jun 24 2020</lastBuildDate>
+    <item>
+      <title>Én hülye, Laci, éééén hülye! Dolgozni akartam...</title>
+      <description>Én hülye, Laci, éééén hülye! Dolgozni akartam...</description>
+      <link>https://napipatrik.hu/#221</link>
+      <pubDate>Wed Jun 24 2020</pubDate>
+    </item>
     <item>
       <title>Éhes vagyok</title>
       <description>Éhes vagyok</description>
@@ -62,12 +68,6 @@ Patrik: az a jó? akkor milyen a rossz?</description>
       <description>Együnk, mert enni jó</description>
       <link>https://napipatrik.hu/#63</link>
       <pubDate>Mon Jun 15 2020</pubDate>
-    </item>
-    <item>
-      <title>Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg</title>
-      <description>Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg</description>
-      <link>https://napipatrik.hu/#62</link>
-      <pubDate>Sun Jun 14 2020</pubDate>
     </item>
   </channel>
 </rss>
