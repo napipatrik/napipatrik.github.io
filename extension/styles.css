@@ -1,8 +1,15 @@
+@font-face {
+    font-family: 'DM Serif Display';
+    src: url('fonts/DMSerifDisplay-Regular.ttf') format('truetype'),
+         url('fonts/DMSerifDisplay-Italic.ttf') format('truetype'); 
+}
+
 body {
     margin: 10px;
     background-image: url("bg.jpg");
     background-repeat: no-repeat;
-    background-position: center bottom;
+    background-position: left bottom;
+    font-family: Arial;
 }
 
 .container-fluid {
@@ -15,8 +22,10 @@ body {
 }
 
 #napipatrik {
-    font-weight: bold;
+    font-weight: 400;
     font-size: 1.2em;
+    font-family: 'DM Serif Display', serif;
+    font-style: italic;
 }
 
 #tutikereso-gomb-container {
@@ -41,7 +50,7 @@ body {
 }
 
 #tutilist > div {
-    margin-bottom: 2px;
+    margin-bottom: 7px;
 }
 
 #tutilist p {
