@@ -21,6 +21,16 @@ body {
     border-radius: 5px;
 }
 
+h1 {
+    font-size: 1.3em;
+    text-align: center;
+    width: 100%;
+}
+
+h1 a:link, h1 a:hover, h1 a:visited, h1 a:focus {
+    color: #fff;
+}
+
 #napipatrik {
     font-weight: 400;
     font-size: 1.2em;
