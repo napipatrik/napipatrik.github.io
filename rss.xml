@@ -6,7 +6,55 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jul 19 2020</lastBuildDate>
+    <lastBuildDate>Tue Jul 28 2020</lastBuildDate>
+    <item>
+      <title>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</title>
+      <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
+      <link>https://napipatrik.hu/#316</link>
+      <pubDate>Tue Jul 28 2020</pubDate>
+    </item>
+    <item>
+      <title>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</title>
+      <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
+      <link>https://napipatrik.hu/#315</link>
+      <pubDate>Mon Jul 27 2020</pubDate>
+    </item>
+    <item>
+      <title>Hisz aki dilettáns, az mindenhol dilettáns</title>
+      <description>Hisz aki dilettáns, az mindenhol dilettáns</description>
+      <link>https://napipatrik.hu/#314</link>
+      <pubDate>Sun Jul 26 2020</pubDate>
+    </item>
+    <item>
+      <title>Egy rendes ember magának pasztázza a processzorát</title>
+      <description>Egy rendes ember magának pasztázza a processzorát</description>
+      <link>https://napipatrik.hu/#313</link>
+      <pubDate>Sat Jul 25 2020</pubDate>
+    </item>
+    <item>
+      <title>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</title>
+      <description>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</description>
+      <link>https://napipatrik.hu/#312</link>
+      <pubDate>Fri Jul 24 2020</pubDate>
+    </item>
+    <item>
+      <title>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</title>
+      <description>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</description>
+      <link>https://napipatrik.hu/#311</link>
+      <pubDate>Thu Jul 23 2020</pubDate>
+    </item>
+    <item>
+      <title>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem</title>
+      <description>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem</description>
+      <link>https://napipatrik.hu/#310</link>
+      <pubDate>Wed Jul 22 2020</pubDate>
+    </item>
+    <item>
+      <title>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét</title>
+      <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét</description>
+      <link>https://napipatrik.hu/#309</link>
+      <pubDate>Tue Jul 21 2020</pubDate>
+    </item>
     <item>
       <title>A faszerdő nem vár, elindult már...</title>
       <description>A faszerdő nem vár, elindult már...</description>
@@ -18,54 +66,6 @@
       <description>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</description>
       <link>https://napipatrik.hu/#135</link>
       <pubDate>Sat Jul 18 2020</pubDate>
-    </item>
-    <item>
-      <title>Szerinted staffot vertek már meg?</title>
-      <description>Szerinted staffot vertek már meg?</description>
-      <link>https://napipatrik.hu/#134</link>
-      <pubDate>Fri Jul 17 2020</pubDate>
-    </item>
-    <item>
-      <title>Csaba, gombokért vagyunk itt!</title>
-      <description>Csaba, gombokért vagyunk itt!</description>
-      <link>https://napipatrik.hu/#133</link>
-      <pubDate>Thu Jul 16 2020</pubDate>
-    </item>
-    <item>
-      <title>A devops miatt nincs backup... Anyád miatt nincs backup!</title>
-      <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
-      <link>https://napipatrik.hu/#132</link>
-      <pubDate>Wed Jul 15 2020</pubDate>
-    </item>
-    <item>
-      <title>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</title>
-      <description>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</description>
-      <link>https://napipatrik.hu/#131</link>
-      <pubDate>Tue Jul 14 2020</pubDate>
-    </item>
-    <item>
-      <title>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</title>
-      <description>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</description>
-      <link>https://napipatrik.hu/#130</link>
-      <pubDate>Mon Jul 13 2020</pubDate>
-    </item>
-    <item>
-      <title>András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.</title>
-      <description>András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.</description>
-      <link>https://napipatrik.hu/#129</link>
-      <pubDate>Sun Jul 12 2020</pubDate>
-    </item>
-    <item>
-      <title>Tamás, le fog csökkenni a... mindegy, kerekesszékben is tud dolgozni András</title>
-      <description>Tamás, le fog csökkenni a... mindegy, kerekesszékben is tud dolgozni András</description>
-      <link>https://napipatrik.hu/#128</link>
-      <pubDate>Sat Jul 11 2020</pubDate>
-    </item>
-    <item>
-      <title>Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.</title>
-      <description>Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.</description>
-      <link>https://napipatrik.hu/#127</link>
-      <pubDate>Fri Jul 10 2020</pubDate>
     </item>
   </channel>
 </rss>
