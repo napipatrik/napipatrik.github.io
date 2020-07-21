@@ -332,6 +332,9 @@ var patrikok = [
     'Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?',
     'Csaba, nem ér befolyásolni a művészetemet',
     'Csaba, a buzizásnak nincs köze a szexuális beállítottsághoz',
+    'Majd az erdő megbosszul, nekem nincs erőm',
+    'Ne legyél buzi, vedd fel szépen a szopó álarcot és a gumicsizmát, aztán menj be az erdőbe és kapdosd be azokat a repkedő körszakállakat',
+    '...a munkám hagyatéka - ritka dolog',
 ];
 
 if (typeof exports !== 'undefined') {
