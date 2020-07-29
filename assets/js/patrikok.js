@@ -335,6 +335,9 @@ var patrikok = [
     'Majd az erdő megbosszul, nekem nincs erőm',
     'Ne legyél buzi, vedd fel szépen a szopó álarcot és a gumicsizmát, aztán menj be az erdőbe és kapdosd be azokat a repkedő körszakállakat',
     '...a munkám hagyatéka - ritka dolog',
+    'De nem vagy építész, talpas vagy. A gyapott meg nem szedi le önmagát, szóval az normális, hogy neked szedni kell.',
+    'Mondhatnánk, hogy szar a Jenkins, de hát nem értek hozzá',
+    'Máté: ez a Patrik nagyon bölcs volt\nPatrik: nem volt!!!!! Csak nagyon bölcs.',
 ];
 
 if (typeof exports !== 'undefined') {
