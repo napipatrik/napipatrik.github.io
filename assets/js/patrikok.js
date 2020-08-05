@@ -338,6 +338,7 @@ var patrikok = [
     'De nem vagy építész, talpas vagy. A gyapott meg nem szedi le önmagát, szóval az normális, hogy neked szedni kell.',
     'Mondhatnánk, hogy szar a Jenkins, de hát nem értek hozzá',
     'Máté: ez a Patrik nagyon bölcs volt\nPatrik: nem volt!!!!! Csak nagyon bölcs.',
+    'Tudjátok miért jó az NFS? Mert egy szar! Komolyan, erdőből erdőbe érzésem van.',
 ];
 
 if (typeof exports !== 'undefined') {
