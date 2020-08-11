@@ -339,6 +339,9 @@ var patrikok = [
     'Mondhatnánk, hogy szar a Jenkins, de hát nem értek hozzá',
     'Máté: ez a Patrik nagyon bölcs volt\nPatrik: nem volt!!!!! Csak nagyon bölcs.',
     'Tudjátok miért jó az NFS? Mert egy szar! Komolyan, erdőből erdőbe érzésem van.',
+    'Légy igazi erdész: nagyratát, baltát a kézbe és mész az erdő sötét mélyére. Nem kíméled a kisbaltát és az állkapcsod... és elmeséled milyen volt.',
+    'Sajnos rossz úton jársz: 4 óra elmúlt és még munkán jár az eszed. Messze vagy még a principaltól.',
+    'Nekünk most akkora őstölgyes lett az Atlantissal Laci, érted, azt hiszed takarítod az erdőt, erre kiderült, hogy tápláltad',
 ];
 
 if (typeof exports !== 'undefined') {
