@@ -6,7 +6,61 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Aug 13 2020</lastBuildDate>
+    <lastBuildDate>Thu Aug 20 2020</lastBuildDate>
+    <item>
+      <title>Lehetett volna írni locsoló verset:
+Faszerdőben jártam
+Piros makkot láttam
+Be akart cuppanni
+Szabad e locsolni</title>
+      <description>Lehetett volna írni locsoló verset:
+Faszerdőben jártam
+Piros makkot láttam
+Be akart cuppanni
+Szabad e locsolni</description>
+      <link>https://napipatrik.hu/#304</link>
+      <pubDate>Thu Aug 20 2020</pubDate>
+    </item>
+    <item>
+      <title>Permetezte ránk a körszakállt</title>
+      <description>Permetezte ránk a körszakállt</description>
+      <link>https://napipatrik.hu/#303</link>
+      <pubDate>Wed Aug 19 2020</pubDate>
+    </item>
+    <item>
+      <title>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</title>
+      <description>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</description>
+      <link>https://napipatrik.hu/#302</link>
+      <pubDate>Tue Aug 18 2020</pubDate>
+    </item>
+    <item>
+      <title>Laci: Datadog hogy fut egyébként?
+Patrik: 4 lábon</title>
+      <description>Laci: Datadog hogy fut egyébként?
+Patrik: 4 lábon</description>
+      <link>https://napipatrik.hu/#301</link>
+      <pubDate>Mon Aug 17 2020</pubDate>
+    </item>
+    <item>
+      <title>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</title>
+      <description>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</description>
+      <link>https://napipatrik.hu/#300</link>
+      <pubDate>Sun Aug 16 2020</pubDate>
+    </item>
+    <item>
+      <title>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
+Patrik: Hát annyira senki</title>
+      <description>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
+Patrik: Hát annyira senki</description>
+      <link>https://napipatrik.hu/#299</link>
+      <pubDate>Sat Aug 15 2020</pubDate>
+    </item>
+    <item>
+      <title>A férfiak jobb szakácsok</title>
+      <description>A férfiak jobb szakácsok</description>
+      <link>https://napipatrik.hu/#298</link>
+      <pubDate>Fri Aug 14 2020</pubDate>
+    </item>
     <item>
       <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
       <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
@@ -24,48 +78,6 @@
       <description>Ha te nem veszed be, a másik erdész beveszi</description>
       <link>https://napipatrik.hu/#114</link>
       <pubDate>Tue Aug 11 2020</pubDate>
-    </item>
-    <item>
-      <title>Tudod mi simogasson téged?! A 220!</title>
-      <description>Tudod mi simogasson téged?! A 220!</description>
-      <link>https://napipatrik.hu/#113</link>
-      <pubDate>Mon Aug 10 2020</pubDate>
-    </item>
-    <item>
-      <title>Keresték a faszodat és nem lett meg</title>
-      <description>Keresték a faszodat és nem lett meg</description>
-      <link>https://napipatrik.hu/#112</link>
-      <pubDate>Sun Aug 09 2020</pubDate>
-    </item>
-    <item>
-      <title>A faszerdőbe ki megy be ha nem mi?</title>
-      <description>A faszerdőbe ki megy be ha nem mi?</description>
-      <link>https://napipatrik.hu/#111</link>
-      <pubDate>Sat Aug 08 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</title>
-      <description>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</description>
-      <link>https://napipatrik.hu/#110</link>
-      <pubDate>Fri Aug 07 2020</pubDate>
-    </item>
-    <item>
-      <title>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</title>
-      <description>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</description>
-      <link>https://napipatrik.hu/#109</link>
-      <pubDate>Thu Aug 06 2020</pubDate>
-    </item>
-    <item>
-      <title>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</title>
-      <description>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</description>
-      <link>https://napipatrik.hu/#108</link>
-      <pubDate>Wed Aug 05 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci, kéz nélkül nehezen leszel staff</title>
-      <description>Laci, kéz nélkül nehezen leszel staff</description>
-      <link>https://napipatrik.hu/#161</link>
-      <pubDate>Tue Aug 04 2020</pubDate>
     </item>
   </channel>
 </rss>
