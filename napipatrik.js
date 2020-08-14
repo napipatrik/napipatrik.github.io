@@ -24,7 +24,7 @@ if (args.length && args[0] === '--image') {
     await image.write('napipatrik.jpg');
   })();
 } else if (args.length && args[0] === '--index') {
-  console.log(index);
+  process.stdout.write("" + index);
 } else if (args.length && args[0] === '--rss') {
   const fs = require('fs');
   const xml2js = require('xml2js');

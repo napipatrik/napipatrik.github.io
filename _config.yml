@@ -36,6 +36,7 @@ plugins:
 exclude:
   - aws/
   - node_modules/
+  - .idea/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
