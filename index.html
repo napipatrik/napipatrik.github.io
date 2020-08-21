@@ -4,7 +4,7 @@ layout: home
 <h1 class="title">A mai napra: </h1>
 
 <blockquote>
-  <p id="napituti">{% include_relative napipatrik %}</p>
+  <p id="napituti">{% capture napituti %}{% include_relative napipatrik %}{% endcapture %}{{ napituti | newline_to_br }}</p>
 </blockquote>
 <div class="buttonContainer">
   <button class="button" onclick="shuffle(); return false;">Véletlen tuti</button>
