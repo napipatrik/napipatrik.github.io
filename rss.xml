@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Aug 20 2020</lastBuildDate>
+    <lastBuildDate>Mon Aug 24 2020</lastBuildDate>
+    <item>
+      <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
+      <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
+      <link>https://napipatrik.hu/#308</link>
+      <pubDate>Mon Aug 24 2020</pubDate>
+    </item>
+    <item>
+      <title>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</title>
+      <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
+      <link>https://napipatrik.hu/#307</link>
+      <pubDate>Sun Aug 23 2020</pubDate>
+    </item>
+    <item>
+      <title>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</title>
+      <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
+      <link>https://napipatrik.hu/#306</link>
+      <pubDate>Sat Aug 22 2020</pubDate>
+    </item>
+    <item>
+      <title>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</title>
+      <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
+      <link>https://napipatrik.hu/#305</link>
+      <pubDate>Fri Aug 21 2020</pubDate>
+    </item>
     <item>
       <title>Lehetett volna írni locsoló verset:
 Faszerdőben jártam
@@ -54,30 +78,6 @@ Patrik: Hát annyira senki</title>
 Patrik: Hát annyira senki</description>
       <link>https://napipatrik.hu/#299</link>
       <pubDate>Sat Aug 15 2020</pubDate>
-    </item>
-    <item>
-      <title>A férfiak jobb szakácsok</title>
-      <description>A férfiak jobb szakácsok</description>
-      <link>https://napipatrik.hu/#298</link>
-      <pubDate>Fri Aug 14 2020</pubDate>
-    </item>
-    <item>
-      <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
-      <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
-      <link>https://napipatrik.hu/#297</link>
-      <pubDate>Thu Aug 13 2020</pubDate>
-    </item>
-    <item>
-      <title>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</title>
-      <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
-      <link>https://napipatrik.hu/#296</link>
-      <pubDate>Wed Aug 12 2020</pubDate>
-    </item>
-    <item>
-      <title>Ha te nem veszed be, a másik erdész beveszi</title>
-      <description>Ha te nem veszed be, a másik erdész beveszi</description>
-      <link>https://napipatrik.hu/#114</link>
-      <pubDate>Tue Aug 11 2020</pubDate>
     </item>
   </channel>
 </rss>
