@@ -335,13 +335,19 @@ var patrikok = [
     'Majd az erdő megbosszul, nekem nincs erőm',
     'Ne legyél buzi, vedd fel szépen a szopó álarcot és a gumicsizmát, aztán menj be az erdőbe és kapdosd be azokat a repkedő körszakállakat',
     '...a munkám hagyatéka - ritka dolog',
-    'De nem vagy építész, talpas vagy. A gyapott meg nem szedi le önmagát, szóval az normális, hogy neked szedni kell.',
+    'De nem vagy építész, talpas vagy. A gyapot meg nem szedi le önmagát, szóval az normális, hogy neked szedni kell.',
     'Mondhatnánk, hogy szar a Jenkins, de hát nem értek hozzá',
     'Máté: ez a Patrik nagyon bölcs volt\nPatrik: nem volt!!!!! Csak nagyon bölcs.',
     'Tudjátok miért jó az NFS? Mert egy szar! Komolyan, erdőből erdőbe érzésem van.',
     'Légy igazi erdész: nagyratát, baltát a kézbe és mész az erdő sötét mélyére. Nem kíméled a kisbaltát és az állkapcsod... és elmeséled milyen volt.',
     'Sajnos rossz úton jársz: 4 óra elmúlt és még munkán jár az eszed. Messze vagy még a principaltól.',
     'Nekünk most akkora őstölgyes lett az Atlantissal Laci, érted, azt hiszed takarítod az erdőt, erre kiderült, hogy tápláltad',
+    'Korán menne mert későn.. akarom mondani korán jött',
+    'Hallod, nővel ne kezdjen az ember!',
+    'Az erdész tenné ki a kis changejét, éppen örülne, hogy nesze itt csak tisztás lesz, semmi őstölgy vagy kóbor körszakáll, erre belépsz és hopp, már tele is a szád',
+    'Egy munkájára igényes principal úgy megtrágyázta, hogy csak úgy sűrűsödött az erdő! De fokozta a sűrűsségét az is, hogy váratlanul kaptad be, hisz már abban a tudatban mentél bele, hogy rendbe van téve.',
+    'Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.',
+    'Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki',
 ];
 
 if (typeof exports !== 'undefined') {
