@@ -348,6 +348,8 @@ var patrikok = [
     'Egy munkájára igényes principal úgy megtrágyázta, hogy csak úgy sűrűsödött az erdő! De fokozta a sűrűsségét az is, hogy váratlanul kaptad be, hisz már abban a tudatban mentél bele, hogy rendbe van téve.',
     'Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.',
     'Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki',
+    'Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.',
+    'Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.',
 ];
 
 if (typeof exports !== 'undefined') {
