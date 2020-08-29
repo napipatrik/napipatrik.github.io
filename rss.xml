@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Aug 24 2020</lastBuildDate>
+    <lastBuildDate>Fri Aug 28 2020</lastBuildDate>
+    <item>
+      <title>Korán menne mert későn.. akarom mondani korán jött</title>
+      <description>Korán menne mert későn.. akarom mondani korán jött</description>
+      <link>https://napipatrik.hu/#343</link>
+      <pubDate>Fri Aug 28 2020</pubDate>
+    </item>
+    <item>
+      <title>Nekünk most akkora őstölgyes lett az Atlantissal Laci, érted, azt hiszed takarítod az erdőt, erre kiderült, hogy tápláltad</title>
+      <description>Nekünk most akkora őstölgyes lett az Atlantissal Laci, érted, azt hiszed takarítod az erdőt, erre kiderült, hogy tápláltad</description>
+      <link>https://napipatrik.hu/#342</link>
+      <pubDate>Thu Aug 27 2020</pubDate>
+    </item>
+    <item>
+      <title>Sajnos rossz úton jársz: 4 óra elmúlt és még munkán jár az eszed. Messze vagy még a principaltól.</title>
+      <description>Sajnos rossz úton jársz: 4 óra elmúlt és még munkán jár az eszed. Messze vagy még a principaltól.</description>
+      <link>https://napipatrik.hu/#341</link>
+      <pubDate>Wed Aug 26 2020</pubDate>
+    </item>
+    <item>
+      <title>Légy igazi erdész: nagyratát, baltát a kézbe és mész az erdő sötét mélyére. Nem kíméled a kisbaltát és az állkapcsod... és elmeséled milyen volt.</title>
+      <description>Légy igazi erdész: nagyratát, baltát a kézbe és mész az erdő sötét mélyére. Nem kíméled a kisbaltát és az állkapcsod... és elmeséled milyen volt.</description>
+      <link>https://napipatrik.hu/#340</link>
+      <pubDate>Tue Aug 25 2020</pubDate>
+    </item>
     <item>
       <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
       <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
@@ -50,34 +74,6 @@ Szabad e locsolni</description>
       <description>Permetezte ránk a körszakállt</description>
       <link>https://napipatrik.hu/#303</link>
       <pubDate>Wed Aug 19 2020</pubDate>
-    </item>
-    <item>
-      <title>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</title>
-      <description>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</description>
-      <link>https://napipatrik.hu/#302</link>
-      <pubDate>Tue Aug 18 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci: Datadog hogy fut egyébként?
-Patrik: 4 lábon</title>
-      <description>Laci: Datadog hogy fut egyébként?
-Patrik: 4 lábon</description>
-      <link>https://napipatrik.hu/#301</link>
-      <pubDate>Mon Aug 17 2020</pubDate>
-    </item>
-    <item>
-      <title>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</title>
-      <description>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</description>
-      <link>https://napipatrik.hu/#300</link>
-      <pubDate>Sun Aug 16 2020</pubDate>
-    </item>
-    <item>
-      <title>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
-Patrik: Hát annyira senki</title>
-      <description>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
-Patrik: Hát annyira senki</description>
-      <link>https://napipatrik.hu/#299</link>
-      <pubDate>Sat Aug 15 2020</pubDate>
     </item>
   </channel>
 </rss>
