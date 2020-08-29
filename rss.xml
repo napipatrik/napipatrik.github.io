@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Aug 28 2020</lastBuildDate>
+    <lastBuildDate>Tue Sep 01 2020</lastBuildDate>
+    <item>
+      <title>Ez úgy megy le, mint a motivációm [részvény]</title>
+      <description>Ez úgy megy le, mint a motivációm [részvény]</description>
+      <link>https://napipatrik.hu/#243</link>
+      <pubDate>Tue Sep 01 2020</pubDate>
+    </item>
+    <item>
+      <title>Bullshit nélkül nincs enterprise</title>
+      <description>Bullshit nélkül nincs enterprise</description>
+      <link>https://napipatrik.hu/#242</link>
+      <pubDate>Mon Aug 31 2020</pubDate>
+    </item>
+    <item>
+      <title>Csaba, nem látod az erdőtől a tisztást - mert nincs</title>
+      <description>Csaba, nem látod az erdőtől a tisztást - mert nincs</description>
+      <link>https://napipatrik.hu/#241</link>
+      <pubDate>Sun Aug 30 2020</pubDate>
+    </item>
+    <item>
+      <title>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</title>
+      <description>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</description>
+      <link>https://napipatrik.hu/#240</link>
+      <pubDate>Sat Aug 29 2020</pubDate>
+    </item>
     <item>
       <title>Korán menne mert későn.. akarom mondani korán jött</title>
       <description>Korán menne mert későn.. akarom mondani korán jött</description>
@@ -42,38 +66,6 @@
       <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
       <link>https://napipatrik.hu/#307</link>
       <pubDate>Sun Aug 23 2020</pubDate>
-    </item>
-    <item>
-      <title>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</title>
-      <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
-      <link>https://napipatrik.hu/#306</link>
-      <pubDate>Sat Aug 22 2020</pubDate>
-    </item>
-    <item>
-      <title>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</title>
-      <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
-      <link>https://napipatrik.hu/#305</link>
-      <pubDate>Fri Aug 21 2020</pubDate>
-    </item>
-    <item>
-      <title>Lehetett volna írni locsoló verset:
-Faszerdőben jártam
-Piros makkot láttam
-Be akart cuppanni
-Szabad e locsolni</title>
-      <description>Lehetett volna írni locsoló verset:
-Faszerdőben jártam
-Piros makkot láttam
-Be akart cuppanni
-Szabad e locsolni</description>
-      <link>https://napipatrik.hu/#304</link>
-      <pubDate>Thu Aug 20 2020</pubDate>
-    </item>
-    <item>
-      <title>Permetezte ránk a körszakállt</title>
-      <description>Permetezte ránk a körszakállt</description>
-      <link>https://napipatrik.hu/#303</link>
-      <pubDate>Wed Aug 19 2020</pubDate>
     </item>
   </channel>
 </rss>
