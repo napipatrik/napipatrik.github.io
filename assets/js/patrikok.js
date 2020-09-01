@@ -350,6 +350,8 @@ var patrikok = [
     'Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki',
     'Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.',
     'Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.',
+    'Patrik: de most őszintén, történt bármi változás mióta elmentem?\nLaci: Szerintem a csapat össz tömege csökkent',
+    'Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.',
 ];
 
 if (typeof exports !== 'undefined') {
