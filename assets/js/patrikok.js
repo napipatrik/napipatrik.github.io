@@ -352,6 +352,11 @@ var patrikok = [
     'Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.',
     'Patrik: de most őszintén, történt bármi változás mióta elmentem?\nLaci: Szerintem a csapat össz tömege csökkent',
     'Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.',
+    'Ha nincs idő panaszkodni, akkor nem fogsz',
+    'Ha nem vagy az irodában, nem tudsz panaszkoidni, nem hallod meg más ember panaszát, nem erősíti benned, hogy szar, csak szépen ücsörögsz a híg fosban és mosolyogsz',
+    'Én nem panaszkodok',
+    'Csaba, ami szar, az szar',
+    'Mint egy könnyed reggeli fing, ami átszalad a nadrágon',
 ];
 
 if (typeof exports !== 'undefined') {
