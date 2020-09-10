@@ -6,7 +6,57 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Sep 01 2020</lastBuildDate>
+    <lastBuildDate>Wed Sep 09 2020</lastBuildDate>
+    <item>
+      <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
+      <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
+      <link>https://napipatrik.hu/#147</link>
+      <pubDate>Wed Sep 09 2020</pubDate>
+    </item>
+    <item>
+      <title>Mert nem értek hozzá! Dilettáns vagyok!</title>
+      <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
+      <link>https://napipatrik.hu/#146</link>
+      <pubDate>Tue Sep 08 2020</pubDate>
+    </item>
+    <item>
+      <title>Nem értek hozzá! Itt ülök, de minek?!</title>
+      <description>Nem értek hozzá! Itt ülök, de minek?!</description>
+      <link>https://napipatrik.hu/#145</link>
+      <pubDate>Mon Sep 07 2020</pubDate>
+    </item>
+    <item>
+      <title>- Nektek bejön a Sentry?
+- Nem, sosem szerettem</title>
+      <description>- Nektek bejön a Sentry?
+- Nem, sosem szerettem</description>
+      <link>https://napipatrik.hu/#144</link>
+      <pubDate>Sun Sep 06 2020</pubDate>
+    </item>
+    <item>
+      <title>A legélesebb vajazónk... a meleg vajat ííígy viszi</title>
+      <description>A legélesebb vajazónk... a meleg vajat ííígy viszi</description>
+      <link>https://napipatrik.hu/#143</link>
+      <pubDate>Sat Sep 05 2020</pubDate>
+    </item>
+    <item>
+      <title>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</title>
+      <description>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</description>
+      <link>https://napipatrik.hu/#142</link>
+      <pubDate>Fri Sep 04 2020</pubDate>
+    </item>
+    <item>
+      <title>Én már majdnem elkezdtem gondolkodni</title>
+      <description>Én már majdnem elkezdtem gondolkodni</description>
+      <link>https://napipatrik.hu/#141</link>
+      <pubDate>Thu Sep 03 2020</pubDate>
+    </item>
+    <item>
+      <title>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</title>
+      <description>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</description>
+      <link>https://napipatrik.hu/#140</link>
+      <pubDate>Wed Sep 02 2020</pubDate>
+    </item>
     <item>
       <title>Ez úgy megy le, mint a motivációm [részvény]</title>
       <description>Ez úgy megy le, mint a motivációm [részvény]</description>
@@ -18,54 +68,6 @@
       <description>Bullshit nélkül nincs enterprise</description>
       <link>https://napipatrik.hu/#242</link>
       <pubDate>Mon Aug 31 2020</pubDate>
-    </item>
-    <item>
-      <title>Csaba, nem látod az erdőtől a tisztást - mert nincs</title>
-      <description>Csaba, nem látod az erdőtől a tisztást - mert nincs</description>
-      <link>https://napipatrik.hu/#241</link>
-      <pubDate>Sun Aug 30 2020</pubDate>
-    </item>
-    <item>
-      <title>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</title>
-      <description>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</description>
-      <link>https://napipatrik.hu/#240</link>
-      <pubDate>Sat Aug 29 2020</pubDate>
-    </item>
-    <item>
-      <title>Korán menne mert későn.. akarom mondani korán jött</title>
-      <description>Korán menne mert későn.. akarom mondani korán jött</description>
-      <link>https://napipatrik.hu/#343</link>
-      <pubDate>Fri Aug 28 2020</pubDate>
-    </item>
-    <item>
-      <title>Nekünk most akkora őstölgyes lett az Atlantissal Laci, érted, azt hiszed takarítod az erdőt, erre kiderült, hogy tápláltad</title>
-      <description>Nekünk most akkora őstölgyes lett az Atlantissal Laci, érted, azt hiszed takarítod az erdőt, erre kiderült, hogy tápláltad</description>
-      <link>https://napipatrik.hu/#342</link>
-      <pubDate>Thu Aug 27 2020</pubDate>
-    </item>
-    <item>
-      <title>Sajnos rossz úton jársz: 4 óra elmúlt és még munkán jár az eszed. Messze vagy még a principaltól.</title>
-      <description>Sajnos rossz úton jársz: 4 óra elmúlt és még munkán jár az eszed. Messze vagy még a principaltól.</description>
-      <link>https://napipatrik.hu/#341</link>
-      <pubDate>Wed Aug 26 2020</pubDate>
-    </item>
-    <item>
-      <title>Légy igazi erdész: nagyratát, baltát a kézbe és mész az erdő sötét mélyére. Nem kíméled a kisbaltát és az állkapcsod... és elmeséled milyen volt.</title>
-      <description>Légy igazi erdész: nagyratát, baltát a kézbe és mész az erdő sötét mélyére. Nem kíméled a kisbaltát és az állkapcsod... és elmeséled milyen volt.</description>
-      <link>https://napipatrik.hu/#340</link>
-      <pubDate>Tue Aug 25 2020</pubDate>
-    </item>
-    <item>
-      <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
-      <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
-      <link>https://napipatrik.hu/#308</link>
-      <pubDate>Mon Aug 24 2020</pubDate>
-    </item>
-    <item>
-      <title>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</title>
-      <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
-      <link>https://napipatrik.hu/#307</link>
-      <pubDate>Sun Aug 23 2020</pubDate>
     </item>
   </channel>
 </rss>
