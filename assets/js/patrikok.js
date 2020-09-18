@@ -357,6 +357,12 @@ var patrikok = [
     'Én nem panaszkodok',
     'Csaba, ami szar, az szar',
     'Mint egy könnyed reggeli fing, ami átszalad a nadrágon',
+    'De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja',
+    'Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell',
+    'Érted, ha már nem legacy, majd csinálunk belőle legacyt! Jól megfospermeteljük, a terraform meg jól megnöveszti.',
+    'Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!',
+    'Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.',
+    'Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék',
 ];
 
 if (typeof exports !== 'undefined') {
