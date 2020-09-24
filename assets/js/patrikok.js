@@ -363,6 +363,9 @@ var patrikok = [
     'Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!',
     'Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.',
     'Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék',
+    'Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!',
+    'Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték',
+    'Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D',
 ];
 
 if (typeof exports !== 'undefined') {
