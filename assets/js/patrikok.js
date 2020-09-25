@@ -73,7 +73,7 @@ var patrikok = [
     'Látod miért jó a mechanikus billentyűzet? Az bírja a baszódást! Egy igazi cherry switches, úgy nyeli a faszt mint kacsa a nokedlit...',
     'Úúúú, most lehet, hogy megbasztam',
     'A devops szállít',
-    '- Hívnának Indiából?\n- Nem\n- Akkor sztahanovkodsz',
+    '[Laci dolgozik munkaidőn kívül]\nPatrik: Hívnának Indiából?\nLaci: Nem\nPatrik: Akkor sztahanovkodsz',
     'Ugyanitt körszakáll ingyen átvehető',
     'Köszönöm, Isten fizesse meg!',
     'A scheduler elkeni a szart, azért van',

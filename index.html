@@ -4,7 +4,7 @@ layout: home
 <h1 class="title">A mai napra: </h1>
 
 <blockquote>
-  <p id="napituti">{% if page.quote %}{{ page.quote }}{% else %}{% capture napituti %}{% include_relative napipatrik %}{% endcapture %}{{ napituti | newline_to_br }}{% endif %}</p>
+  <p id="napituti">{% if page.quote %}{{ page.quote | newline_to_br }}{% else %}{% capture napituti %}{% include_relative napipatrik %}{% endcapture %}{{ napituti | newline_to_br }}{% endif %}</p>
 </blockquote>
 <div class="buttonContainer">
   <button class="button" onclick="shuffle(); return false;">Véletlen tuti</button>

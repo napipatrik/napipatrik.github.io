@@ -21,7 +21,7 @@ module Jekyll
       read_yaml(base, 'index.html')
       self.data = {
           "layout" => "home",
-          "quote" => quote.gsub("\\n", "<br/>"),
+          "quote" => quote,
           "quote_id" => quote_id,
       }
     end
