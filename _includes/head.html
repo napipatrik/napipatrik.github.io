@@ -25,6 +25,6 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <meta name="description" content="{% if page.quote %}{{ page.quote | strip_newlines }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
-  <meta property="og:description" content="{% if page.quote %}{{ page.quote | strip_newlines }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
+  <meta name="description" content="{% if page.quote_stripped %}{{ page.quote_stripped }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
+  <meta property="og:description" content="{% if page.quote_stripped %}{{ page.quote_stripped }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
 </head>
