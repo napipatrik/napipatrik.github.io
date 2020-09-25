@@ -19,7 +19,7 @@ git config --global user.name "Travis CI"
 git config --global push.default simple
 
 git remote set-url origin https://${GH_TOKEN}@github.com/napipatrik/napipatrik.github.io.git > /dev/null 2>&1
-git checkout master
+git checkout develop
 git add $TRAVIS_BUILD_DIR/napipatrik
 git add $TRAVIS_BUILD_DIR/napipatrik.id
 git add $TRAVIS_BUILD_DIR/napipatrik.jpg

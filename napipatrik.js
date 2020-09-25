@@ -36,7 +36,7 @@ if (args.length && args[0] === '--image') {
       rss.rss.channel[0].item.unshift({
         title: [patrikok[index]],
         description: [patrikok[index]],
-        link: ['https://napipatrik.hu/#' + index],
+        link: ['https://napipatrik.hu/' + index + '/'],
         pubDate: [(new Date()).toDateString()]
       });
       rss.rss.channel[0].item = rss.rss.channel[0].item.slice(0, 10);
