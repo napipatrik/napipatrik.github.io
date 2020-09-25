@@ -4,11 +4,11 @@ layout: home
 <h1 class="title">A mai napra: </h1>
 
 <blockquote>
-  <p id="napituti">{% capture napituti %}{% include_relative napipatrik %}{% endcapture %}{{ napituti | newline_to_br }}</p>
+  <p id="napituti">{% if page.quote %}{{ page.quote }}{% else %}{% capture napituti %}{% include_relative napipatrik %}{% endcapture %}{{ napituti | newline_to_br }}{% endif %}</p>
 </blockquote>
 <div class="buttonContainer">
   <button class="button" onclick="shuffle(); return false;">Véletlen tuti</button>
-  <a class="button" id="permalink" href="/#{% include_relative napipatrik.id %}">Permalink</a>
+  <a class="button" id="permalink" href="/{% if page.quote_id %}{{ page.quote_id }}{% else %}{% include_relative napipatrik.id %}{% endif %}/">Permalink</a>
   <a class="button" href="/napipatrik.jpg" target="_blank">Napi kép</a>
   <div class="searchbox">
     <button class="button" onclick="showSearch(); return false;">Tutikereső</button>
@@ -20,12 +20,21 @@ layout: home
 </div>
 
 
-<script type="text/javascript" src="assets/js/moment.min.js"></script>
-<script type="text/javascript" src="assets/js/patrikok.js"></script>
-<script type="text/javascript" src="assets/js/functions.js"></script>
+<script type="text/javascript" src="/assets/js/moment.min.js"></script>
+<script type="text/javascript" src="/assets/js/patrikok.js"></script>
+<script type="text/javascript" src="/assets/js/functions.js"></script>
 <script type="text/javascript">
+    // Backward compatibility
     if (window.location.hash) {
         showPatrik(window.location.hash.replace('#', ''));
+        window.location.hash = '';
     }
+
     loadSearch();
+    window.onpopstate = function (e) {
+      console.log(e)
+      if (e.state) {
+        showPatrik(e.state, true);
+      }
+    };
 </script>

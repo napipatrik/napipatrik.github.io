@@ -1,5 +1,5 @@
 function copyPermalink(i) {
-	const link = 'https://napipatrik.hu/#' + (i ? i : napiId);
+	const link = 'https://napipatrik.hu/' + (i ? i : napiId) + '/';
 	copyTextToClipboard(link);
 	document.getElementById("tuti-search").value = '';
 	window.close();

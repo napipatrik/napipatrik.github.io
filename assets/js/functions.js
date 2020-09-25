@@ -6,7 +6,7 @@ function loadSearch() {
 	var list = document.getElementById("tutilist-inner");
 	for (var i in patrikok) {
 		var a = document.createElement('a');
-		a.href = '#' + i;
+		a.href = '/' + i + '/';
 		a.innerHTML = patrikok[i].replace(/\n/g, '<br/>');
 		a.onclick = showPatrikSearchFactory(i);
 		list.appendChild(a);
@@ -35,17 +35,19 @@ function filterTuti() {
 function showPatrikSearchFactory(i) {
 	return function () {
 	    showPatrik(i);
-	    window.location.hash = i;
 	    document.getElementById("tutilist").classList.toggle("show");
 	    return false;
 	}
 }
 
-function showPatrik(i) {
+function showPatrik(i, skipAddHistory) {
     let index = i % patrikok.length;
     document.getElementById('napituti').innerHTML = patrikok[index].replace(/\n/g, '<br/>');
-    window.location.hash = index;
     document.getElementById('permalink').href = window.location.href;
+
+    if (!skipAddHistory) {
+        window.history.pushState(index, "Napi Patrik - az elégedetlen DevOpsos oldala", '/' + index + '/');
+    }
 }
 
 function shuffle() {

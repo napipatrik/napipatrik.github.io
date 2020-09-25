@@ -16,8 +16,7 @@
 title: Napi Patrik - az elégedetlen DevOpsos oldala
 author: András
 #email: info@napipatrik.hu
-description: >-
-  Mi megmondjuk a tutit!
+description: "" # Generated dynamically
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://napipatrik.hu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
@@ -34,9 +33,12 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - aws/
-  - node_modules/
-  - .idea/
+  - aws
+  - node_modules
+  - .idea
+  - vendor
+  - _site
+  - .sass-cache
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
