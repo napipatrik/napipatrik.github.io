@@ -37,7 +37,7 @@ jobs:
         github-token: $GH_TOKEN
         keep-history: true
         on:
-          branch: master
+          branch: develop
         env:
           global:
             secure: pwnp9z6t1HQyjko6W9IYyXouMtX2QpRjzeIsksp7zDRTcuxyUW45KVKY7M1OfX5PZArQHqnc10zv3ae2DnL156FIjCXxcuuqDDmMZt/77re8T99upj5gR9twRFNVruPP/H1JyZ/pfR/LHBp2qgSdkvzfWfKbjq2rzmupg1GguAjhfm9ErcZhmfa/q1oRi4WB4Fa9Ict1TVHlm5WO0Slactm5COJUZQVfLlwhotHrX8ShdXJ9zSQJhZPZzt/WXdD2Ixz8tyio5WfrJWKgjP98Lh1/T4KcIvwXrbnT0fmFYEHL17ASw2cgRIIfmnKJZFZ1UTAI6BJgC0eIqz50F5aDrliBLpHnw1H+8Ld1vo4WdFP1VoeyU0HXM/mT4OB4teeew3p536WvIwWA0J9ioLgTnNdTWfZx85H0RJGwkVqc+S7enNmZk/hnNohnbrVLQEX4r7MAttdT2lg4xfSndNL1rePY0m119wCtU75I1NqFSX4l/YMI5m8Rg4NWzsH+6oHnAYLutKvQJjRJv3JltXLVTOw/UlpsGMzNAmWx7UbfWVXPRLELifCDunXdLtpQ7npMY9ZfmdLl4Rh/3WpSsARVRE6LM1bN/hncNK5JDOj2NpoOeXKGElunRFoN1LwLiYADNIjbwlhbPQEnyJRwyBseKpMAgd1cFGO146wmjv3TrdA=
