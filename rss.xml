@@ -6,66 +6,68 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 24 2020</lastBuildDate>
+    <lastBuildDate>Wed Oct 07 2020</lastBuildDate>
+    <item>
+      <title>Leszarom, gyere már segíts!</title>
+      <description>Leszarom, gyere már segíts!</description>
+      <link>https://napipatrik.hu/181/</link>
+      <pubDate>Wed Oct 07 2020</pubDate>
+    </item>
+    <item>
+      <title>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</title>
+      <description>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</description>
+      <link>https://napipatrik.hu/180/</link>
+      <pubDate>Tue Oct 06 2020</pubDate>
+    </item>
+    <item>
+      <title>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</title>
+      <description>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</description>
+      <link>https://napipatrik.hu/179/</link>
+      <pubDate>Mon Oct 05 2020</pubDate>
+    </item>
+    <item>
+      <title>...mert nem értek hozzá!</title>
+      <description>...mert nem értek hozzá!</description>
+      <link>https://napipatrik.hu/178/</link>
+      <pubDate>Sun Oct 04 2020</pubDate>
+    </item>
+    <item>
+      <title>Nyilván hol tesztelsz mint prodban?!</title>
+      <description>Nyilván hol tesztelsz mint prodban?!</description>
+      <link>https://napipatrik.hu/177/</link>
+      <pubDate>Sat Oct 03 2020</pubDate>
+    </item>
+    <item>
+      <title>- Patrik dolgozik...
+- András, mindjárt odamegyek és megdolgozlak én téged!</title>
+      <description>- Patrik dolgozik...
+- András, mindjárt odamegyek és megdolgozlak én téged!</description>
+      <link>https://napipatrik.hu/176/</link>
+      <pubDate>Fri Oct 02 2020</pubDate>
+    </item>
+    <item>
+      <title>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</title>
+      <description>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</description>
+      <link>https://napipatrik.hu/175/</link>
+      <pubDate>Thu Oct 01 2020</pubDate>
+    </item>
+    <item>
+      <title>Legyen ez a devops jelmondata: gányolni mindig jó!</title>
+      <description>Legyen ez a devops jelmondata: gányolni mindig jó!</description>
+      <link>https://napipatrik.hu/174/</link>
+      <pubDate>Wed Sep 30 2020</pubDate>
+    </item>
+    <item>
+      <title>Te is már butulsz bazmeg, mész a staffra</title>
+      <description>Te is már butulsz bazmeg, mész a staffra</description>
+      <link>https://napipatrik.hu/173/</link>
+      <pubDate>Tue Sep 29 2020</pubDate>
+    </item>
     <item>
       <title>Igen gazdám! Megyek gazdám!</title>
       <description>Igen gazdám! Megyek gazdám!</description>
       <link>https://napipatrik.hu/#168</link>
       <pubDate>Thu Sep 24 2020</pubDate>
-    </item>
-    <item>
-      <title>De nekem mindig igazam van</title>
-      <description>De nekem mindig igazam van</description>
-      <link>https://napipatrik.hu/#317</link>
-      <pubDate>Wed Sep 23 2020</pubDate>
-    </item>
-    <item>
-      <title>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</title>
-      <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
-      <link>https://napipatrik.hu/#316</link>
-      <pubDate>Tue Sep 22 2020</pubDate>
-    </item>
-    <item>
-      <title>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</title>
-      <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
-      <link>https://napipatrik.hu/#315</link>
-      <pubDate>Mon Sep 21 2020</pubDate>
-    </item>
-    <item>
-      <title>Hisz aki dilettáns, az mindenhol dilettáns</title>
-      <description>Hisz aki dilettáns, az mindenhol dilettáns</description>
-      <link>https://napipatrik.hu/#314</link>
-      <pubDate>Sun Sep 20 2020</pubDate>
-    </item>
-    <item>
-      <title>Egy rendes ember magának pasztázza a processzorát</title>
-      <description>Egy rendes ember magának pasztázza a processzorát</description>
-      <link>https://napipatrik.hu/#313</link>
-      <pubDate>Sat Sep 19 2020</pubDate>
-    </item>
-    <item>
-      <title>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</title>
-      <description>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</description>
-      <link>https://napipatrik.hu/#312</link>
-      <pubDate>Fri Sep 18 2020</pubDate>
-    </item>
-    <item>
-      <title>Erdő mindig volt, van és lesz</title>
-      <description>Erdő mindig volt, van és lesz</description>
-      <link>https://napipatrik.hu/#253</link>
-      <pubDate>Thu Sep 17 2020</pubDate>
-    </item>
-    <item>
-      <title>Csaba, mit csinálunk? Dilettánskodunk!</title>
-      <description>Csaba, mit csinálunk? Dilettánskodunk!</description>
-      <link>https://napipatrik.hu/#252</link>
-      <pubDate>Wed Sep 16 2020</pubDate>
-    </item>
-    <item>
-      <title>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</title>
-      <description>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</description>
-      <link>https://napipatrik.hu/#251</link>
-      <pubDate>Tue Sep 15 2020</pubDate>
     </item>
   </channel>
 </rss>
