@@ -19,12 +19,14 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/assets/images/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-  <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Napi Patrik - az elégedetlen DevOpsos oldala">
+  <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="{{ site.title }}">
   {%- seo -%}
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="/assets/images/site_icon.png" />
+  <meta property="og:description" content="{% if page.quote_stripped %}{{ page.quote_stripped }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
+  <meta name="description" content="{% if page.quote_stripped %}{{ page.quote_stripped }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <meta name="description" content="{% if page.quote_stripped %}{{ page.quote_stripped }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
-  <meta property="og:description" content="{% if page.quote_stripped %}{{ page.quote_stripped }}{% else %}Mi megmondjuk a tutit!{% endif %}" />
 </head>

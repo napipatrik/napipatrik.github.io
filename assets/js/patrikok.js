@@ -73,7 +73,7 @@ var patrikok = [
     'Látod miért jó a mechanikus billentyűzet? Az bírja a baszódást! Egy igazi cherry switches, úgy nyeli a faszt mint kacsa a nokedlit...',
     'Úúúú, most lehet, hogy megbasztam',
     'A devops szállít',
-    '[Laci dolgozik munkaidőn kívül]\nPatrik: Hívnának Indiából?\nLaci: Nem\nPatrik: Akkor sztahanovkodsz',
+    '[Laci dolgozik munkaidőn kívül.]\nPatrik: Hívnának Indiából?\nLaci: Nem\nPatrik: Akkor sztahanovkodsz',
     'Ugyanitt körszakáll ingyen átvehető',
     'Köszönöm, Isten fizesse meg!',
     'A scheduler elkeni a szart, azért van',
@@ -366,6 +366,7 @@ var patrikok = [
     'Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!',
     'Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték',
     'Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D',
+    'Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól',
 ];
 
 if (typeof exports !== 'undefined') {

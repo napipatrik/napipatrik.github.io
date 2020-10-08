@@ -16,6 +16,7 @@
 title: Napi Patrik - az elégedetlen DevOpsos oldala
 author: András
 #email: info@napipatrik.hu
+lang: hu_HU
 description: "" # Generated dynamically
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://napipatrik.hu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,6 +35,7 @@ plugins:
 # to override the default setting.
 exclude:
   - aws
+  - extension
   - node_modules
   - .idea
   - vendor
