@@ -6,7 +6,57 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Oct 11 2020</lastBuildDate>
+    <lastBuildDate>Mon Oct 19 2020</lastBuildDate>
+    <item>
+      <title>De ezt így mondják Balázs: fogyatékosok, szellemileg visszamaradottak!</title>
+      <description>De ezt így mondják Balázs: fogyatékosok, szellemileg visszamaradottak!</description>
+      <link>https://napipatrik.hu/43/</link>
+      <pubDate>Mon Oct 19 2020</pubDate>
+    </item>
+    <item>
+      <title>Látod, mondtam én, hogy veszélyes dolgozni!</title>
+      <description>Látod, mondtam én, hogy veszélyes dolgozni!</description>
+      <link>https://napipatrik.hu/42/</link>
+      <pubDate>Sun Oct 18 2020</pubDate>
+    </item>
+    <item>
+      <title>Laci mi ez a sok piros? A kurva anyja!</title>
+      <description>Laci mi ez a sok piros? A kurva anyja!</description>
+      <link>https://napipatrik.hu/41/</link>
+      <pubDate>Sat Oct 17 2020</pubDate>
+    </item>
+    <item>
+      <title>- Mire gondolsz Patrik?
+- A pinára, de hogy jön ez ide?</title>
+      <description>- Mire gondolsz Patrik?
+- A pinára, de hogy jön ez ide?</description>
+      <link>https://napipatrik.hu/40/</link>
+      <pubDate>Fri Oct 16 2020</pubDate>
+    </item>
+    <item>
+      <title>A bu*iknak adok access-t, ehhez a szarhoz...</title>
+      <description>A bu*iknak adok access-t, ehhez a szarhoz...</description>
+      <link>https://napipatrik.hu/39/</link>
+      <pubDate>Thu Oct 15 2020</pubDate>
+    </item>
+    <item>
+      <title>Majd mindjárt rádhajtogatom a napipatrikot!</title>
+      <description>Majd mindjárt rádhajtogatom a napipatrikot!</description>
+      <link>https://napipatrik.hu/38/</link>
+      <pubDate>Wed Oct 14 2020</pubDate>
+    </item>
+    <item>
+      <title>...nem érdekel, rúgjanak ki, le is szarom...</title>
+      <description>...nem érdekel, rúgjanak ki, le is szarom...</description>
+      <link>https://napipatrik.hu/37/</link>
+      <pubDate>Tue Oct 13 2020</pubDate>
+    </item>
+    <item>
+      <title>Rá kell igazítani a szarra, nyomjunk rá egy kis tejszínhabot</title>
+      <description>Rá kell igazítani a szarra, nyomjunk rá egy kis tejszínhabot</description>
+      <link>https://napipatrik.hu/36/</link>
+      <pubDate>Mon Oct 12 2020</pubDate>
+    </item>
     <item>
       <title>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</title>
       <description>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</description>
@@ -18,56 +68,6 @@
       <description>Szerinted staffot vertek már meg?</description>
       <link>https://napipatrik.hu/134/</link>
       <pubDate>Sat Oct 10 2020</pubDate>
-    </item>
-    <item>
-      <title>Csaba, gombokért vagyunk itt!</title>
-      <description>Csaba, gombokért vagyunk itt!</description>
-      <link>https://napipatrik.hu/133/</link>
-      <pubDate>Fri Oct 09 2020</pubDate>
-    </item>
-    <item>
-      <title>A devops miatt nincs backup... Anyád miatt nincs backup!</title>
-      <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
-      <link>https://napipatrik.hu/132/</link>
-      <pubDate>Thu Oct 08 2020</pubDate>
-    </item>
-    <item>
-      <title>Leszarom, gyere már segíts!</title>
-      <description>Leszarom, gyere már segíts!</description>
-      <link>https://napipatrik.hu/181/</link>
-      <pubDate>Wed Oct 07 2020</pubDate>
-    </item>
-    <item>
-      <title>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</title>
-      <description>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</description>
-      <link>https://napipatrik.hu/180/</link>
-      <pubDate>Tue Oct 06 2020</pubDate>
-    </item>
-    <item>
-      <title>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</title>
-      <description>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</description>
-      <link>https://napipatrik.hu/179/</link>
-      <pubDate>Mon Oct 05 2020</pubDate>
-    </item>
-    <item>
-      <title>...mert nem értek hozzá!</title>
-      <description>...mert nem értek hozzá!</description>
-      <link>https://napipatrik.hu/178/</link>
-      <pubDate>Sun Oct 04 2020</pubDate>
-    </item>
-    <item>
-      <title>Nyilván hol tesztelsz mint prodban?!</title>
-      <description>Nyilván hol tesztelsz mint prodban?!</description>
-      <link>https://napipatrik.hu/177/</link>
-      <pubDate>Sat Oct 03 2020</pubDate>
-    </item>
-    <item>
-      <title>- Patrik dolgozik...
-- András, mindjárt odamegyek és megdolgozlak én téged!</title>
-      <description>- Patrik dolgozik...
-- András, mindjárt odamegyek és megdolgozlak én téged!</description>
-      <link>https://napipatrik.hu/176/</link>
-      <pubDate>Fri Oct 02 2020</pubDate>
     </item>
   </channel>
 </rss>
