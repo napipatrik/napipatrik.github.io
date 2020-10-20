@@ -369,6 +369,9 @@ var patrikok = [
     'Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól',
     'Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet',
     'Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.',
+    'Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.',
+    'Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.',
+    '...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.',
 ];
 
 if (typeof exports !== 'undefined') {
