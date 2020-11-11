@@ -372,6 +372,9 @@ var patrikok = [
     'Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.',
     'Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.',
     '...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.',
+    '...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja',
+    'Faszom bazdmeg\nhttps://napipatrik.hu/267/\nÉs ma is aktuális',
+    'Mit ad az?',
 ];
 
 if (typeof exports !== 'undefined') {
