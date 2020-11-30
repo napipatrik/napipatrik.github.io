@@ -375,6 +375,10 @@ var patrikok = [
     '...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja',
     'Faszom bazdmeg\nhttps://napipatrik.hu/267/\nÉs ma is aktuális',
     'Mit ad az?',
+    'Nagy buzi enterprise lettünk.',
+    'Ott az erdő zamata, minek attól több tudás? Az építészek majd irányba állítanak, neked csak a kisbaltát kell forgatni. Majd csak úgy suhog a balta, az arcodon nagymosoly, hisz a tömés boldoggá tesz',
+    'Tudod mi a jó? Hogy igazam volt!',
+    '...a baltádat csak lóbálod, de nem ér törzset, még a cserjésbe sem tudsz rendesen ritkítani, építész kell, hogy megmutassa, hogy kell kisbaltázni. De hát mit várunk? Ahogy lépkedsz felfelé a poziba, úgy butulsz.',
 ];
 
 if (typeof exports !== 'undefined') {
