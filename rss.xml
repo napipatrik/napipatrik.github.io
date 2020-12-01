@@ -6,66 +6,70 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 30 2020</lastBuildDate>
+    <lastBuildDate>Wed Dec 30 2020</lastBuildDate>
     <item>
-      <title>Laci, kéz nélkül nehezen leszel staff</title>
-      <description>Laci, kéz nélkül nehezen leszel staff</description>
-      <link>https://napipatrik.hu/161/</link>
-      <pubDate>Mon Nov 30 2020</pubDate>
+      <title>Mit ad az?</title>
+      <description>Mit ad az?</description>
+      <link>https://napipatrik.hu/375/</link>
+      <pubDate>Wed Dec 30 2020</pubDate>
     </item>
     <item>
-      <title>Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!</title>
-      <description>Kisbalta és a faszerdő... komolyan Laci, ilyeneket magyarázni kell?!</description>
-      <link>https://napipatrik.hu/160/</link>
-      <pubDate>Sun Nov 29 2020</pubDate>
+      <title>Faszom bazdmeg
+https://napipatrik.hu/267/
+És ma is aktuális</title>
+      <description>Faszom bazdmeg
+https://napipatrik.hu/267/
+És ma is aktuális</description>
+      <link>https://napipatrik.hu/374/</link>
+      <pubDate>Tue Dec 29 2020</pubDate>
     </item>
     <item>
-      <title>A következő megálló: a Faszerdő</title>
-      <description>A következő megálló: a Faszerdő</description>
-      <link>https://napipatrik.hu/159/</link>
-      <pubDate>Sat Nov 28 2020</pubDate>
+      <title>...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja</title>
+      <description>...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja</description>
+      <link>https://napipatrik.hu/373/</link>
+      <pubDate>Mon Dec 28 2020</pubDate>
     </item>
     <item>
-      <title>Meg fogok halni. Enni sincs már kedvem, ez a vég</title>
-      <description>Meg fogok halni. Enni sincs már kedvem, ez a vég</description>
-      <link>https://napipatrik.hu/158/</link>
-      <pubDate>Fri Nov 27 2020</pubDate>
+      <title>...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.</title>
+      <description>...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.</description>
+      <link>https://napipatrik.hu/372/</link>
+      <pubDate>Sun Dec 27 2020</pubDate>
     </item>
     <item>
-      <title>Balázs bácsi undorító, a szakállából csöpög a nyála!</title>
-      <description>Balázs bácsi undorító, a szakállából csöpög a nyála!</description>
-      <link>https://napipatrik.hu/157/</link>
-      <pubDate>Thu Nov 26 2020</pubDate>
+      <title>Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.</title>
+      <description>Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.</description>
+      <link>https://napipatrik.hu/371/</link>
+      <pubDate>Sat Dec 26 2020</pubDate>
     </item>
     <item>
-      <title>Balázs, adj valamit! ...nem kell, megbaszom én</title>
-      <description>Balázs, adj valamit! ...nem kell, megbaszom én</description>
-      <link>https://napipatrik.hu/156/</link>
-      <pubDate>Wed Nov 25 2020</pubDate>
+      <title>Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.</title>
+      <description>Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.</description>
+      <link>https://napipatrik.hu/370/</link>
+      <pubDate>Fri Dec 25 2020</pubDate>
     </item>
     <item>
-      <title>Nem úgy elfújja, megboríjja</title>
-      <description>Nem úgy elfújja, megboríjja</description>
-      <link>https://napipatrik.hu/155/</link>
-      <pubDate>Tue Nov 24 2020</pubDate>
+      <title>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</title>
+      <description>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</description>
+      <link>https://napipatrik.hu/369/</link>
+      <pubDate>Thu Dec 24 2020</pubDate>
     </item>
     <item>
-      <title>Majd beírok valamit és lesz valami</title>
-      <description>Majd beírok valamit és lesz valami</description>
-      <link>https://napipatrik.hu/154/</link>
-      <pubDate>Mon Nov 23 2020</pubDate>
+      <title>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</title>
+      <description>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</description>
+      <link>https://napipatrik.hu/368/</link>
+      <pubDate>Wed Dec 23 2020</pubDate>
     </item>
     <item>
-      <title>Az erdész ott gallyaz, ahol tud</title>
-      <description>Az erdész ott gallyaz, ahol tud</description>
-      <link>https://napipatrik.hu/153/</link>
-      <pubDate>Sun Nov 22 2020</pubDate>
+      <title>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</title>
+      <description>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</description>
+      <link>https://napipatrik.hu/367/</link>
+      <pubDate>Tue Dec 22 2020</pubDate>
     </item>
     <item>
-      <title>Otthon fogok íííígy helikopterezni</title>
-      <description>Otthon fogok íííígy helikopterezni</description>
-      <link>https://napipatrik.hu/152/</link>
-      <pubDate>Sat Nov 21 2020</pubDate>
+      <title>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</title>
+      <description>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</description>
+      <link>https://napipatrik.hu/366/</link>
+      <pubDate>Mon Dec 21 2020</pubDate>
     </item>
   </channel>
 </rss>
