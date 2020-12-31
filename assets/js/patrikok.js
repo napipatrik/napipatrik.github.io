@@ -387,8 +387,8 @@ var patrikok = [
     '...neked örömkönnyeid voltak! Az erdőlátáshoz izzadsággal keveredett könnyekre volt szükség, akkor látod csak igazán az erdő valóját.',
     'De hát neked és Csabának csak örömkönnyeitek vannak! Nem láthatjátok az erdőt, hisz ha megcsurranna egy kis fos, a tömés mindent áthidaló ereje akkor is mosolyt csal az arcotokra.',
     'Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.',
-    'Laci: tudod mi jó?\nPatrik: a körszakáll?'
-    'András az erdőben vígan bandukál,\nKisbaltával kezében várja a körszakált,\nTátott szájjal előre bekapja ami jár,\nTudja jól hogy így lesz staffból principál.'
+    'Laci: tudod mi jó?\nPatrik: a körszakáll?',
+    'András az erdőben vígan bandukál,\nKisbaltával kezében várja a körszakált,\nTátott szájjal előre bekapja ami jár,\nTudja jól hogy így lesz staffból principál.',
 ];
 
 if (typeof exports !== 'undefined') {
