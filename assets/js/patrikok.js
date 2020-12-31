@@ -379,6 +379,16 @@ var patrikok = [
     'Ott az erdő zamata, minek attól több tudás? Az építészek majd irányba állítanak, neked csak a kisbaltát kell forgatni. Majd csak úgy suhog a balta, az arcodon nagymosoly, hisz a tömés boldoggá tesz',
     'Tudod mi a jó? Hogy igazam volt!',
     '...a baltádat csak lóbálod, de nem ér törzset, még a cserjésbe sem tudsz rendesen ritkítani, építész kell, hogy megmutassa, hogy kell kisbaltázni. De hát mit várunk? Ahogy lépkedsz felfelé a poziba, úgy butulsz.',
+    'Nah, a reggeli erdőnél nincs is jobb ebben a borús időben. Az első íz amit megérzel, az a fosé ami az arcodba csap, pedig meg a csipát törlöd ki a szemedből.',
+    'Hát látom megint nem tudod megoldani',
+    '...egy nagy buzi enterpriseba azok a katonák valók: érted, nem gondolkodik, nem akarja átlátni, odamegy a cserjésbe, előveszi a baltáját - lehet, hogy fordítva tartja -, de akkor is elkezdi ritkítani. Lehet, hogy lassan, de meg lesz ritkítva.',
+    'A gondolkodó erdész nem való nagy buzi enterpriseba. Csak problémát okoz: visszakérdez, szembe száll, nem nyeli le a hígfost, csak a gondot okozza.',
+    'Nyomtad neki mint Balázsbá a Youtubeot munkaidőben',
+    '...neked örömkönnyeid voltak! Az erdőlátáshoz izzadsággal keveredett könnyekre volt szükség, akkor látod csak igazán az erdő valóját.',
+    'De hát neked és Csabának csak örömkönnyeitek vannak! Nem láthatjátok az erdőt, hisz ha megcsurranna egy kis fos, a tömés mindent áthidaló ereje akkor is mosolyt csal az arcotokra.',
+    'Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.',
+    'Laci: tudod mi jó?\nPatrik: a körszakáll?'
+    'András az erdőben vígan bandukál,\nKisbaltával kezében várja a körszakált,\nTátott szájjal előre bekapja ami jár,\nTudja jól hogy így lesz staffból principál.'
 ];
 
 if (typeof exports !== 'undefined') {
