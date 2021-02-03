@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Feb 02 2021</lastBuildDate>
+    <lastBuildDate>Sat Feb 06 2021</lastBuildDate>
+    <item>
+      <title>Leszarom, gyere már segíts!</title>
+      <description>Leszarom, gyere már segíts!</description>
+      <link>https://napipatrik.hu/181/</link>
+      <pubDate>Sat Feb 06 2021</pubDate>
+    </item>
+    <item>
+      <title>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</title>
+      <description>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</description>
+      <link>https://napipatrik.hu/180/</link>
+      <pubDate>Fri Feb 05 2021</pubDate>
+    </item>
+    <item>
+      <title>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</title>
+      <description>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</description>
+      <link>https://napipatrik.hu/179/</link>
+      <pubDate>Thu Feb 04 2021</pubDate>
+    </item>
+    <item>
+      <title>...mert nem értek hozzá!</title>
+      <description>...mert nem értek hozzá!</description>
+      <link>https://napipatrik.hu/178/</link>
+      <pubDate>Wed Feb 03 2021</pubDate>
+    </item>
     <item>
       <title>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</title>
       <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
@@ -42,30 +66,6 @@
       <description>Egy rendes ember magának pasztázza a processzorát</description>
       <link>https://napipatrik.hu/313/</link>
       <pubDate>Thu Jan 28 2021</pubDate>
-    </item>
-    <item>
-      <title>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</title>
-      <description>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</description>
-      <link>https://napipatrik.hu/312/</link>
-      <pubDate>Wed Jan 27 2021</pubDate>
-    </item>
-    <item>
-      <title>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</title>
-      <description>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</description>
-      <link>https://napipatrik.hu/311/</link>
-      <pubDate>Tue Jan 26 2021</pubDate>
-    </item>
-    <item>
-      <title>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem</title>
-      <description>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem</description>
-      <link>https://napipatrik.hu/310/</link>
-      <pubDate>Mon Jan 25 2021</pubDate>
-    </item>
-    <item>
-      <title>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét</title>
-      <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét</description>
-      <link>https://napipatrik.hu/309/</link>
-      <pubDate>Sun Jan 24 2021</pubDate>
     </item>
   </channel>
 </rss>
