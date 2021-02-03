@@ -389,6 +389,9 @@ var patrikok = [
     'Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.',
     'Laci: tudod mi jó?\nPatrik: a körszakáll?',
     'András az erdőben vígan bandukál,\nKisbaltával kezében várja a körszakált,\nTátott szájjal előre bekapja ami jár,\nTudja jól hogy így lesz staffból principál.',
+    'Aztán lehetne számolgatni, mennyi volt az erdőt gyarapító ticket és mennyi a ritkító, de nem akartok ilyen számokat látni, mert kijönne, hogy nem hogy ritkul az erdő, csak növekszik! Ültetitek, kis cserjés, aztán jól megtrágyázzátok és bumm, ott is egy új őstölgyes. Így lesz az új dolgokból legacy szar.',
+    'Mikor írod az RDSt, van cluster meg instance és látod, hogy cluster van. Akkor nyilván az instancet teszed le 2x és nem a clustert.',
+    'Megleptél. A jó Ferenc is ott hagyja a süllyedő... akarom mondani előretörő hajót.',
 ];
 
 if (typeof exports !== 'undefined') {
