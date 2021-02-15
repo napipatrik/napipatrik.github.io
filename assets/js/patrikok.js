@@ -392,6 +392,11 @@ var patrikok = [
     'Aztán lehetne számolgatni, mennyi volt az erdőt gyarapító ticket és mennyi a ritkító, de nem akartok ilyen számokat látni, mert kijönne, hogy nem hogy ritkul az erdő, csak növekszik! Ültetitek, kis cserjés, aztán jól megtrágyázzátok és bumm, ott is egy új őstölgyes. Így lesz az új dolgokból legacy szar.',
     'Mikor írod az RDSt, van cluster meg instance és látod, hogy cluster van. Akkor nyilván az instancet teszed le 2x és nem a clustert.',
     'Megleptél. A jó Ferenc is ott hagyja a süllyedő... akarom mondani előretörő hajót.',
+    'Ki vagy égve, mint egy kibaszott tea mécses',
+    'Ma is az erdőben jártam. Tartottam is a számat, a körszakállak nem voltak rest, meg is tömtek rendesen.',
+    'Mindig meglep, mint a körszakáll. Tudod, ami csak beugrik a szádba, tudod, hogy meg fog történni, de mindig csodálkozva meglepődsz.',
+    'Mindig mikor elmentek emberek meg volt mondva: nem azért megy el, mert szar itt minden, hanem azért, mert máshol még szarabb.',
+    'Hiszen ha nem beszélsz róla, akkor nincs is!',
 ];
 
 if (typeof exports !== 'undefined') {
