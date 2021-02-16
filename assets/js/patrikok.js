@@ -397,6 +397,7 @@ var patrikok = [
     'Mindig meglep, mint a körszakáll. Tudod, ami csak beugrik a szádba, tudod, hogy meg fog történni, de mindig csodálkozva meglepődsz.',
     'Mindig mikor elmentek emberek meg volt mondva: nem azért megy el, mert szar itt minden, hanem azért, mert máshol még szarabb.',
     'Hiszen ha nem beszélsz róla, akkor nincs is!',
+    'Szerinted lehetek úgy vega, hogy mellette csak kolbászt tolok? Semmi hús, csak kolbi... meg szalonna, bacon. Így tökre tudnék vegán is lenni.',
 ];
 
 if (typeof exports !== 'undefined') {
