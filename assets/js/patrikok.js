@@ -380,7 +380,7 @@ var patrikok = [
     'Tudod mi a jó? Hogy igazam volt!',
     '...a baltádat csak lóbálod, de nem ér törzset, még a cserjésbe sem tudsz rendesen ritkítani, építész kell, hogy megmutassa, hogy kell kisbaltázni. De hát mit várunk? Ahogy lépkedsz felfelé a poziba, úgy butulsz.',
     'Nah, a reggeli erdőnél nincs is jobb ebben a borús időben. Az első íz amit megérzel, az a fosé ami az arcodba csap, pedig meg a csipát törlöd ki a szemedből.',
-    'Hát látom megint nem tudod megoldani',
+    'Hát látom megint nem tudod megoldani.',
     '...egy nagy buzi enterpriseba azok a katonák valók: érted, nem gondolkodik, nem akarja átlátni, odamegy a cserjésbe, előveszi a baltáját - lehet, hogy fordítva tartja -, de akkor is elkezdi ritkítani. Lehet, hogy lassan, de meg lesz ritkítva.',
     'A gondolkodó erdész nem való nagy buzi enterpriseba. Csak problémát okoz: visszakérdez, szembe száll, nem nyeli le a hígfost, csak a gondot okozza.',
     'Nyomtad neki mint Balázsbá a Youtubeot munkaidőben',
@@ -398,6 +398,7 @@ var patrikok = [
     'Mindig mikor elmentek emberek meg volt mondva: nem azért megy el, mert szar itt minden, hanem azért, mert máshol még szarabb.',
     'Hiszen ha nem beszélsz róla, akkor nincs is!',
     'Szerinted lehetek úgy vega, hogy mellette csak kolbászt tolok? Semmi hús, csak kolbi... meg szalonna, bacon. Így tökre tudnék vegán is lenni.',
+    'Hiszen ha nem panaszkodsz, akkor nincs probléma.',
 ];
 
 if (typeof exports !== 'undefined') {
