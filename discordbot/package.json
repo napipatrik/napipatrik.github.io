@@ -1,0 +1,23 @@
+{
+  "name": "napipatrik-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for napipatrik integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napipatrik/napipatrik.github.io.git"
+  },
+  "author": "András Rutkai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/napipatrik/napipatrik.github.io/issues"
+  },
+  "homepage": "https://github.com/napipatrik/napipatrik.github.io#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

@@ -75,11 +75,11 @@ exports.handler = (event, context, callback) => {
                 }
             });
         });
-    })
+    });
 
     request.on('error', error => {
         console.error(error);
-    })
+    });
 
     request.write(data);
     request.end();
