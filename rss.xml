@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Mar 10 2021</lastBuildDate>
+    <lastBuildDate>Thu Mar 11 2021</lastBuildDate>
+    <item>
+      <title>Ezek tények, ezt alap igazságba kéne tenni</title>
+      <description>Ezek tények, ezt alap igazságba kéne tenni</description>
+      <link>https://napipatrik.hu/285/</link>
+      <pubDate>Thu Mar 11 2021</pubDate>
+    </item>
     <item>
       <title>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</title>
       <description>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</description>
@@ -62,12 +68,6 @@ Patrik: az a jó? akkor milyen a rossz?</description>
       <description>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</description>
       <link>https://napipatrik.hu/322/</link>
       <pubDate>Tue Mar 02 2021</pubDate>
-    </item>
-    <item>
-      <title>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</title>
-      <description>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</description>
-      <link>https://napipatrik.hu/321/</link>
-      <pubDate>Mon Mar 01 2021</pubDate>
     </item>
   </channel>
 </rss>
