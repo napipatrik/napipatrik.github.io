@@ -399,6 +399,8 @@ var patrikok = [
     'Hiszen ha nem beszélsz róla, akkor nincs is!',
     'Szerinted lehetek úgy vega, hogy mellette csak kolbászt tolok? Semmi hús, csak kolbi... meg szalonna, bacon. Így tökre tudnék vegán is lenni.',
     'Hiszen ha nem panaszkodsz, akkor nincs probléma.',
+    'A sör egészséges. Tiszta vitamin, nyugtató komló.',
+    'Laci: Nem értem az összefüggést az erdő és a tudni akarja, hogy mikor fossák össze magát a konténerek között.\nPatrik: Nem érted az összefüggést az erdő és a szopás között.',
 ];
 
 if (typeof exports !== 'undefined') {

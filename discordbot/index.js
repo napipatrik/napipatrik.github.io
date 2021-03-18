@@ -45,6 +45,39 @@ client.on('message', message => {
     return;
   }
 
+  if (parts[1] === 'random' || parts[1] === 'véletlen') {
+    console.log('Random lekérdezés');
+    let tuti = patrikok.get(Math.floor(Math.random() * patrikok.count()));
+    message.channel
+        .send(tuti)
+        .catch(console.error);
+    return;
+  }
+
+  if (parts[1] === 'keres' || parts[1] === 'keress' || parts[1] === 'kereső') {
+    const keywords = Object.assign([], parts.splice(2));
+
+    if (keywords.length > 20) {
+      message.channel
+          .send('Ezt én nem csinálom!')
+          .catch(console.error);
+      return;
+    }
+    console.log('Tuti keresés alapján: ' + keywords.join(' '));
+
+    let tuti = patrikok.find(keywords);
+    if (tuti) {
+      message.channel
+          .send(tuti)
+          .catch(console.error);
+    } else {
+      message.channel
+          .send('Ilyen nincs bazmeg!')
+          .catch(console.error);
+    }
+    return;
+  }
+
   if (Number.isInteger(+parts[1])) {
     console.log('Tuti ID alapján: ' + parts[1]);
 
@@ -62,7 +95,7 @@ client.on('message', message => {
   }
 
   message.channel
-    .send('Hallod, nem értem. Ezt mondjad:\n`napipatrik` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik <id>` -> adott tuti')
+    .send('Hallod, nem értem. Ezt mondjad:\n`napipatrik` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat')
     .catch(console.error);
 });
 

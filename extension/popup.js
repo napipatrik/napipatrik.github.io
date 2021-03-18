@@ -23,12 +23,17 @@ function expandTutikereso() {
 function loadSearch() {
 	var list = document.getElementById("tutilist");
 	for (var i in patrikok) {
+		var id = document.createElement('span');
+		id.classList.add('tuti-id');
+		id.innerHTML = '#' + i;
+
 		var p = document.createElement('p');
 		p.href = '#' + i;
 		p.innerHTML = patrikok[i].replace(/\n/g, '<br/>');
 
 		var pContainer = document.createElement('div');
 		pContainer.classList.add('col');
+		pContainer.appendChild(id);
 		pContainer.appendChild(p);
 
 		var copyBtn = document.createElement('button');

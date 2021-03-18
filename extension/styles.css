@@ -13,7 +13,7 @@ body {
 }
 
 .container-fluid {
-    width: 400px;
+    width: 440px;
     padding: 5px;
     margin: 0;
     background-color: rgba(0,0,0,0.6);
@@ -63,7 +63,14 @@ h1 a:link, h1 a:hover, h1 a:visited, h1 a:focus {
     margin-bottom: 7px;
 }
 
+#tutilist span {
+    display: inline-block;
+    margin-right: 10px;
+    width: 30px;
+}
+
 #tutilist p {
     margin-bottom: 0;
     margin-top: 2px;
+    display: inline;
 }

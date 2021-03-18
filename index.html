@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-<h1 class="title">A mai napra: </h1>
+<p id="tuti-id">#{% if page.quote_id %}{{ page.quote_id }}{% else %}{% include_relative napipatrik.id %}{% endif %}</p>
+<h1 class="title">A mai napra:</h1>
 
 <blockquote>
   <p id="napituti">{% if page.quote %}{{ page.quote | newline_to_br }}{% else %}{% capture napituti %}{% include_relative napipatrik %}{% endcapture %}{{ napituti | newline_to_br }}{% endif %}</p>
@@ -32,7 +33,6 @@ layout: home
 
     loadSearch();
     window.onpopstate = function (e) {
-      console.log(e)
       if (e.state) {
         showPatrik(e.state, true);
       }

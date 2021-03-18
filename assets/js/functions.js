@@ -43,6 +43,7 @@ function showPatrikSearchFactory(i) {
 function showPatrik(i, skipAddHistory) {
     let index = i % patrikok.length;
     document.getElementById('napituti').innerHTML = patrikok[index].replace(/\n/g, '<br/>');
+    document.getElementById('tuti-id').innerHTML = '#' + index;
     document.getElementById('permalink').href = window.location.href;
 
     if (!skipAddHistory) {
