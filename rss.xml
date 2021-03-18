@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Mar 17 2021</lastBuildDate>
+    <lastBuildDate>Thu Mar 18 2021</lastBuildDate>
+    <item>
+      <title>Az erdő választja az erdészt, nem fordítva</title>
+      <description>Az erdő választja az erdészt, nem fordítva</description>
+      <link>https://napipatrik.hu/200/</link>
+      <pubDate>Thu Mar 18 2021</pubDate>
+    </item>
     <item>
       <title>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</title>
       <description>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</description>
@@ -60,12 +66,6 @@
       <description>Egy termék épült a /tmpre</description>
       <link>https://napipatrik.hu/329/</link>
       <pubDate>Tue Mar 09 2021</pubDate>
-    </item>
-    <item>
-      <title>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</title>
-      <description>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</description>
-      <link>https://napipatrik.hu/328/</link>
-      <pubDate>Mon Mar 08 2021</pubDate>
     </item>
   </channel>
 </rss>
