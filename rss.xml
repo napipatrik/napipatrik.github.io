@@ -6,7 +6,25 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Mar 18 2021</lastBuildDate>
+    <lastBuildDate>Sun Mar 21 2021</lastBuildDate>
+    <item>
+      <title>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</title>
+      <description>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</description>
+      <link>https://napipatrik.hu/203/</link>
+      <pubDate>Sun Mar 21 2021</pubDate>
+    </item>
+    <item>
+      <title>Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új</title>
+      <description>Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új</description>
+      <link>https://napipatrik.hu/202/</link>
+      <pubDate>Sat Mar 20 2021</pubDate>
+    </item>
+    <item>
+      <title>Az a baj András, az erdő nem ritkul meg önmagától</title>
+      <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
+      <link>https://napipatrik.hu/201/</link>
+      <pubDate>Fri Mar 19 2021</pubDate>
+    </item>
     <item>
       <title>Az erdő választja az erdészt, nem fordítva</title>
       <description>Az erdő választja az erdészt, nem fordítva</description>
@@ -48,24 +66,6 @@
       <description>Az a baj a tojással, hogy... tojás</description>
       <link>https://napipatrik.hu/286/</link>
       <pubDate>Fri Mar 12 2021</pubDate>
-    </item>
-    <item>
-      <title>Ezek tények, ezt alap igazságba kéne tenni</title>
-      <description>Ezek tények, ezt alap igazságba kéne tenni</description>
-      <link>https://napipatrik.hu/285/</link>
-      <pubDate>Thu Mar 11 2021</pubDate>
-    </item>
-    <item>
-      <title>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</title>
-      <description>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</description>
-      <link>https://napipatrik.hu/330/</link>
-      <pubDate>Wed Mar 10 2021</pubDate>
-    </item>
-    <item>
-      <title>Egy termék épült a /tmpre</title>
-      <description>Egy termék épült a /tmpre</description>
-      <link>https://napipatrik.hu/329/</link>
-      <pubDate>Tue Mar 09 2021</pubDate>
     </item>
   </channel>
 </rss>
