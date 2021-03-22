@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Mar 21 2021</lastBuildDate>
+    <lastBuildDate>Mon Mar 22 2021</lastBuildDate>
+    <item>
+      <title>Ha a hülyeségért fizetnének már 4 lakásom lenne</title>
+      <description>Ha a hülyeségért fizetnének már 4 lakásom lenne</description>
+      <link>https://napipatrik.hu/204/</link>
+      <pubDate>Mon Mar 22 2021</pubDate>
+    </item>
     <item>
       <title>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</title>
       <description>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</description>
@@ -60,12 +66,6 @@
       <description>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</description>
       <link>https://napipatrik.hu/287/</link>
       <pubDate>Sat Mar 13 2021</pubDate>
-    </item>
-    <item>
-      <title>Az a baj a tojással, hogy... tojás</title>
-      <description>Az a baj a tojással, hogy... tojás</description>
-      <link>https://napipatrik.hu/286/</link>
-      <pubDate>Fri Mar 12 2021</pubDate>
     </item>
   </channel>
 </rss>
