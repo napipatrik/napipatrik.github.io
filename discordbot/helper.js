@@ -21,3 +21,7 @@ exports.fetchContent = function (path, callback) {
   });
   request.end();
 }
+
+exports.unaccent = function (str) {
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}

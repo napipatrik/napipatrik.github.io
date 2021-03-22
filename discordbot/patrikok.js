@@ -32,12 +32,10 @@ exports.find = function (keywords) {
     return '';
   }
 
-  keywords = keywords.map(keyword => unaccent(keyword.toLowerCase()));
-
   try {
     let filteredList = patrikok;
     for (const keyword of keywords) {
-      filteredList = filteredList.filter(tuti => unaccent(tuti.toLowerCase()).includes(keyword));
+      filteredList = filteredList.filter(tuti => helper.unaccent(tuti.toLowerCase()).includes(keyword));
     }
 
     if (filteredList.length) {
@@ -66,8 +64,4 @@ function shuffle(array) {
   }
 
   return array;
-}
-
-function unaccent(str) {
-  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }

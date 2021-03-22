@@ -10,7 +10,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-  const parts = message.content.split(' ');
+  const parts = helper.unaccent(message.content.toLowerCase()).split(' ');
 
   if (parts[0] !== 'napipatrik') {
     return;
@@ -32,7 +32,7 @@ client.on('message', message => {
     return;
   }
 
-  if (['kép', 'kep', 'napikép', 'napikep', 'pic', 'picture'].includes(parts[1])) {
+  if (['kep', 'napikep', 'pic', 'picture'].includes(parts[1])) {
     console.log('Napikép lekérdezés');
     message.channel
       .send({
@@ -45,7 +45,7 @@ client.on('message', message => {
     return;
   }
 
-  if (['random', 'véletelen', 'veletlen'].includes(parts[1])) {
+  if (['random', 'veletlen'].includes(parts[1])) {
     console.log('Random lekérdezés');
     let tuti = patrikok.get(Math.floor(Math.random() * patrikok.count()));
     message.channel
@@ -54,7 +54,7 @@ client.on('message', message => {
     return;
   }
 
-  if (['keres', 'keress', 'kereső', 'kereso', 'find'].includes(parts[1])) {
+  if (['keres', 'keress', 'kereso', 'find'].includes(parts[1])) {
     const keywords = Object.assign([], parts.splice(2));
 
     if (keywords.length > 20) {
