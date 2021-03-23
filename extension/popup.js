@@ -62,7 +62,7 @@ function searchInList() {
     var filter = input.value.toUpperCase();
     var items = document.getElementById("tutilist").children;
     for (var i = 0; i < items.length; i++) {
-    	const p = items[i].firstChild.firstChild;
+    	const p = items[i].querySelector('p');
         txtValue = p.textContent || p.innerText;
         if (txtValue.toUpperCase().indexOf(filter) > -1) {
             items[i].style.display = "";
