@@ -401,6 +401,10 @@ var patrikok = [
     'Hiszen ha nem panaszkodsz, akkor nincs probléma.',
     'A sör egészséges. Tiszta vitamin, nyugtató komló.',
     'Laci: Nem értem az összefüggést az erdő és a tudni akarja, hogy mikor fossák össze magát a konténerek között.\nPatrik: Nem érted az összefüggést az erdő és a szopás között.',
+    'Bónusz az minden nap van - körszakáll formájában.',
+    'A körszakááll az erdő ajándéka.',
+    'A null az null. Az nem hiba Laci. Nem kaptál semmit, de le is okézhatod. Ez olyan lehetett, mint András fizetés emelés köre.',
+    'Lehet mossák az agyát... mármint bocsánat, hisz a termékben.',
 ];
 
 if (typeof exports !== 'undefined') {
