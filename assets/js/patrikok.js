@@ -405,6 +405,8 @@ var patrikok = [
     'A körszakáll az erdő ajándéka.',
     'A null az null. Az nem hiba Laci. Nem kaptál semmit, de le is okézhatod. Ez olyan lehetett, mint András fizetés emelés köre.',
     'Lehet mossák az agyát... mármint bocsánat, hisz a termékben.',
+    'Uhh az idióta, nyilván principal.',
+    'Excelbe felveszik és a talpasok megoldják, fejlődik a termék.',
 ];
 
 if (typeof exports !== 'undefined') {
