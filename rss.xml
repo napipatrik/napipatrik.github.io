@@ -6,7 +6,57 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Apr 01 2021</lastBuildDate>
+    <lastBuildDate>Fri Apr 09 2021</lastBuildDate>
+    <item>
+      <title>Ha nem vagy az irodában, nem tudsz panaszkodni, nem hallod meg más ember panaszát, nem erősíti benned, hogy szar, csak szépen ücsörögsz a híg fosban és mosolyogsz</title>
+      <description>Ha nem vagy az irodában, nem tudsz panaszkodni, nem hallod meg más ember panaszát, nem erősíti benned, hogy szar, csak szépen ücsörögsz a híg fosban és mosolyogsz</description>
+      <link>https://napipatrik.hu/354/</link>
+      <pubDate>Fri Apr 09 2021</pubDate>
+    </item>
+    <item>
+      <title>Ha nincs idő panaszkodni, akkor nem fogsz</title>
+      <description>Ha nincs idő panaszkodni, akkor nem fogsz</description>
+      <link>https://napipatrik.hu/353/</link>
+      <pubDate>Thu Apr 08 2021</pubDate>
+    </item>
+    <item>
+      <title>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</title>
+      <description>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</description>
+      <link>https://napipatrik.hu/352/</link>
+      <pubDate>Wed Apr 07 2021</pubDate>
+    </item>
+    <item>
+      <title>Patrik: de most őszintén, történt bármi változás mióta elmentem?
+Laci: Szerintem a csapat össz tömege csökkent</title>
+      <description>Patrik: de most őszintén, történt bármi változás mióta elmentem?
+Laci: Szerintem a csapat össz tömege csökkent</description>
+      <link>https://napipatrik.hu/351/</link>
+      <pubDate>Tue Apr 06 2021</pubDate>
+    </item>
+    <item>
+      <title>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</title>
+      <description>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</description>
+      <link>https://napipatrik.hu/350/</link>
+      <pubDate>Mon Apr 05 2021</pubDate>
+    </item>
+    <item>
+      <title>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</title>
+      <description>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</description>
+      <link>https://napipatrik.hu/349/</link>
+      <pubDate>Sun Apr 04 2021</pubDate>
+    </item>
+    <item>
+      <title>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</title>
+      <description>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</description>
+      <link>https://napipatrik.hu/348/</link>
+      <pubDate>Sat Apr 03 2021</pubDate>
+    </item>
+    <item>
+      <title>Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.</title>
+      <description>Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.</description>
+      <link>https://napipatrik.hu/347/</link>
+      <pubDate>Fri Apr 02 2021</pubDate>
+    </item>
     <item>
       <title>Én lusta geci vagyok</title>
       <description>Én lusta geci vagyok</description>
@@ -18,54 +68,6 @@
       <description>Én már jól nem járok...</description>
       <link>https://napipatrik.hu/29/</link>
       <pubDate>Wed Mar 31 2021</pubDate>
-    </item>
-    <item>
-      <title>Azt még megeszed?</title>
-      <description>Azt még megeszed?</description>
-      <link>https://napipatrik.hu/28/</link>
-      <pubDate>Tue Mar 30 2021</pubDate>
-    </item>
-    <item>
-      <title>Tátott szájjal szaladunk a faszerdőbe'</title>
-      <description>Tátott szájjal szaladunk a faszerdőbe'</description>
-      <link>https://napipatrik.hu/27/</link>
-      <pubDate>Mon Mar 29 2021</pubDate>
-    </item>
-    <item>
-      <title>Akinek nincsen esze legyen notesze</title>
-      <description>Akinek nincsen esze legyen notesze</description>
-      <link>https://napipatrik.hu/26/</link>
-      <pubDate>Sun Mar 28 2021</pubDate>
-    </item>
-    <item>
-      <title>Mindegy, mindegy, csak legyen pinája... na csőő</title>
-      <description>Mindegy, mindegy, csak legyen pinája... na csőő</description>
-      <link>https://napipatrik.hu/25/</link>
-      <pubDate>Sat Mar 27 2021</pubDate>
-    </item>
-    <item>
-      <title>A script hibázhat, a kezed nem</title>
-      <description>A script hibázhat, a kezed nem</description>
-      <link>https://napipatrik.hu/24/</link>
-      <pubDate>Fri Mar 26 2021</pubDate>
-    </item>
-    <item>
-      <title>Felgyújtom az összeset</title>
-      <description>Felgyújtom az összeset</description>
-      <link>https://napipatrik.hu/23/</link>
-      <pubDate>Thu Mar 25 2021</pubDate>
-    </item>
-    <item>
-      <title>Majd kapjalak el amikor nem figyelsz...</title>
-      <description>Majd kapjalak el amikor nem figyelsz...</description>
-      <link>https://napipatrik.hu/22/</link>
-      <pubDate>Wed Mar 24 2021</pubDate>
-    </item>
-    <item>
-      <title>Laci, nem jól vágod, visszanőtt!</title>
-      <description>Laci, nem jól vágod, visszanőtt!</description>
-      <link>https://napipatrik.hu/205/</link>
-      <pubDate>Tue Mar 23 2021</pubDate>
     </item>
   </channel>
 </rss>
