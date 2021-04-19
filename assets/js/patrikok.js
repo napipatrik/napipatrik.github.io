@@ -407,6 +407,11 @@ var patrikok = [
     'Lehet mossák az agyát... mármint bocsánat, hisz a termékben.',
     'Uhh az idióta, nyilván principal.',
     'Excelbe felveszik és a talpasok megoldják, fejlődik a termék.',
+    'András: Lehet ott is dolgozik egy Patrik\nPatrik: Most ha azt mondanám, hogy ez ellentmondás, az öngól lenne?',
+    'Nah, megjött a körszakállka: performance development plan 2021. Egy órás training és utána a bullshit bingo, akarom mondani a saját plan.',
+    'Számokat akarok látni!',
+    'Én egyszerű ember vagyok, szeretem a lóvét.',
+    'Én nem vagyok irigy.',
 ];
 
 if (typeof exports !== 'undefined') {
