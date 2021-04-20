@@ -6,7 +6,57 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Apr 19 2021</lastBuildDate>
+    <lastBuildDate>Tue Apr 27 2021</lastBuildDate>
+    <item>
+      <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
+      <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
+      <link>https://napipatrik.hu/147/</link>
+      <pubDate>Tue Apr 27 2021</pubDate>
+    </item>
+    <item>
+      <title>Mert nem értek hozzá! Dilettáns vagyok!</title>
+      <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
+      <link>https://napipatrik.hu/146/</link>
+      <pubDate>Mon Apr 26 2021</pubDate>
+    </item>
+    <item>
+      <title>Nem értek hozzá! Itt ülök, de minek?!</title>
+      <description>Nem értek hozzá! Itt ülök, de minek?!</description>
+      <link>https://napipatrik.hu/145/</link>
+      <pubDate>Sun Apr 25 2021</pubDate>
+    </item>
+    <item>
+      <title>- Nektek bejön a Sentry?
+- Nem, sosem szerettem</title>
+      <description>- Nektek bejön a Sentry?
+- Nem, sosem szerettem</description>
+      <link>https://napipatrik.hu/144/</link>
+      <pubDate>Sat Apr 24 2021</pubDate>
+    </item>
+    <item>
+      <title>A legélesebb vajazónk... a meleg vajat ííígy viszi</title>
+      <description>A legélesebb vajazónk... a meleg vajat ííígy viszi</description>
+      <link>https://napipatrik.hu/143/</link>
+      <pubDate>Fri Apr 23 2021</pubDate>
+    </item>
+    <item>
+      <title>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</title>
+      <description>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</description>
+      <link>https://napipatrik.hu/142/</link>
+      <pubDate>Thu Apr 22 2021</pubDate>
+    </item>
+    <item>
+      <title>Én már majdnem elkezdtem gondolkodni</title>
+      <description>Én már majdnem elkezdtem gondolkodni</description>
+      <link>https://napipatrik.hu/141/</link>
+      <pubDate>Wed Apr 21 2021</pubDate>
+    </item>
+    <item>
+      <title>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</title>
+      <description>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</description>
+      <link>https://napipatrik.hu/140/</link>
+      <pubDate>Tue Apr 20 2021</pubDate>
+    </item>
     <item>
       <title>Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!</title>
       <description>Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!</description>
@@ -18,54 +68,6 @@
       <description>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</description>
       <link>https://napipatrik.hu/363/</link>
       <pubDate>Sun Apr 18 2021</pubDate>
-    </item>
-    <item>
-      <title>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</title>
-      <description>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</description>
-      <link>https://napipatrik.hu/362/</link>
-      <pubDate>Sat Apr 17 2021</pubDate>
-    </item>
-    <item>
-      <title>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</title>
-      <description>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</description>
-      <link>https://napipatrik.hu/361/</link>
-      <pubDate>Fri Apr 16 2021</pubDate>
-    </item>
-    <item>
-      <title>Érted, ha már nem legacy, majd csinálunk belőle legacyt! Jól megfospermeteljük, a terraform meg jól megnöveszti.</title>
-      <description>Érted, ha már nem legacy, majd csinálunk belőle legacyt! Jól megfospermeteljük, a terraform meg jól megnöveszti.</description>
-      <link>https://napipatrik.hu/360/</link>
-      <pubDate>Thu Apr 15 2021</pubDate>
-    </item>
-    <item>
-      <title>Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell</title>
-      <description>Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell</description>
-      <link>https://napipatrik.hu/359/</link>
-      <pubDate>Wed Apr 14 2021</pubDate>
-    </item>
-    <item>
-      <title>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</title>
-      <description>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</description>
-      <link>https://napipatrik.hu/358/</link>
-      <pubDate>Tue Apr 13 2021</pubDate>
-    </item>
-    <item>
-      <title>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</title>
-      <description>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</description>
-      <link>https://napipatrik.hu/357/</link>
-      <pubDate>Mon Apr 12 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba, ami szar, az szar</title>
-      <description>Csaba, ami szar, az szar</description>
-      <link>https://napipatrik.hu/356/</link>
-      <pubDate>Sun Apr 11 2021</pubDate>
-    </item>
-    <item>
-      <title>Én nem panaszkodok</title>
-      <description>Én nem panaszkodok</description>
-      <link>https://napipatrik.hu/355/</link>
-      <pubDate>Sat Apr 10 2021</pubDate>
     </item>
   </channel>
 </rss>
