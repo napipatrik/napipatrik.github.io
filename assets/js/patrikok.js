@@ -412,6 +412,10 @@ var patrikok = [
     'Számokat akarok látni!',
     'Én egyszerű ember vagyok, szeretem a lóvét.',
     'Én nem vagyok irigy.',
+    'Kiszoptam amit ki kell. Tisztább lett az erdő, kevesebb a tölgyes, több a rét.',
+    'De minek üzemeltet valaki olyan dolgot, amihez nem ért?',
+    'Érted, ha nem csinálok semmit, nem okozok gondot.',
+    'Ahova nyúlok, ott szar terem.',
 ];
 
 if (typeof exports !== 'undefined') {
