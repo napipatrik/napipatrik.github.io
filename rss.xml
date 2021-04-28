@@ -6,7 +6,25 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Apr 27 2021</lastBuildDate>
+    <lastBuildDate>Fri Apr 30 2021</lastBuildDate>
+    <item>
+      <title>Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.</title>
+      <description>Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.</description>
+      <link>https://napipatrik.hu/387/</link>
+      <pubDate>Fri Apr 30 2021</pubDate>
+    </item>
+    <item>
+      <title>De hát neked és Csabának csak örömkönnyeitek vannak! Nem láthatjátok az erdőt, hisz ha megcsurranna egy kis fos, a tömés mindent áthidaló ereje akkor is mosolyt csal az arcotokra.</title>
+      <description>De hát neked és Csabának csak örömkönnyeitek vannak! Nem láthatjátok az erdőt, hisz ha megcsurranna egy kis fos, a tömés mindent áthidaló ereje akkor is mosolyt csal az arcotokra.</description>
+      <link>https://napipatrik.hu/386/</link>
+      <pubDate>Thu Apr 29 2021</pubDate>
+    </item>
+    <item>
+      <title>...neked örömkönnyeid voltak! Az erdőlátáshoz izzadsággal keveredett könnyekre volt szükség, akkor látod csak igazán az erdő valóját.</title>
+      <description>...neked örömkönnyeid voltak! Az erdőlátáshoz izzadsággal keveredett könnyekre volt szükség, akkor látod csak igazán az erdő valóját.</description>
+      <link>https://napipatrik.hu/385/</link>
+      <pubDate>Wed Apr 28 2021</pubDate>
+    </item>
     <item>
       <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
       <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
@@ -50,24 +68,6 @@
       <description>Én már majdnem elkezdtem gondolkodni</description>
       <link>https://napipatrik.hu/141/</link>
       <pubDate>Wed Apr 21 2021</pubDate>
-    </item>
-    <item>
-      <title>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</title>
-      <description>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</description>
-      <link>https://napipatrik.hu/140/</link>
-      <pubDate>Tue Apr 20 2021</pubDate>
-    </item>
-    <item>
-      <title>Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!</title>
-      <description>Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!</description>
-      <link>https://napipatrik.hu/364/</link>
-      <pubDate>Mon Apr 19 2021</pubDate>
-    </item>
-    <item>
-      <title>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</title>
-      <description>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</description>
-      <link>https://napipatrik.hu/363/</link>
-      <pubDate>Sun Apr 18 2021</pubDate>
     </item>
   </channel>
 </rss>
