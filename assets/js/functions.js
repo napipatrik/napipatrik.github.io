@@ -8,7 +8,7 @@ function loadSearch() {
 		var a = document.createElement('a');
 		a.href = '/' + i + '/';
 		a.innerHTML = patrikok[i].replace(/\n/g, '<br/>');
-		a.onclick = showPatrikSearchFactory(i);
+		a.onclick = showTutiSearchFactory(i);
 		list.appendChild(a);
 	}
 }
@@ -32,7 +32,7 @@ function filterTuti() {
     }
 }
 
-function showPatrikSearchFactory(i) {
+function showTutiSearchFactory(i) {
 	return function () {
 	    showTuti(i);
 	    document.getElementById("tutilist").classList.toggle("show");
