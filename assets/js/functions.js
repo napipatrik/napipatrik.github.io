@@ -44,7 +44,7 @@ function showTuti(i, skipAddHistory) {
     let index = i % patrikok.length;
     document.getElementById('napituti').innerHTML = patrikok[index].replace(/\n/g, '<br/>');
     document.getElementById('tuti-id').innerHTML = '#' + index;
-    document.getElementById('permalink').href = window.location.href;
+    document.getElementById('permalink').href = window.location.href.replace(/\d+/, index);
 
     if (!skipAddHistory) {
         window.history.pushState(index, "Napi Patrik - az elégedetlen DevOpsos oldala", '/' + index + '/');
