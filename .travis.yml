@@ -10,6 +10,7 @@ jobs:
           - develop
       deploy:
         provider: s3
+        edge: true
         access_key_id:
           secure: eILvMZKJZiyUIWD0a1NEPC/ERSLsHPu/9dzWEPI3m8ul6PQSfzhXLF0tSHeIbeNrX0bnotyPfIFYshJRGNhTtmwNEvC9EDAmdfRpntk+xLWSYqxO3eJEWrqY6FcM10rELPxcFhR7P17wzp5daKF/Dsg1Ayxoh+O4dha/EAuG2uA0vCjII0ea6BbeLkPTAhLV+i5dlv0TFUBScthDCbCFOf978W5kNTsAZYBOiLhmqDGX3kG5DyjdJeUKtzvG5b60q+IVk6EXOegV7AzC3UUFItQikSxNiWasDMubzNaiMVqx37qn5IKm5eoHZOUO+PNUm5E1O+9myXq9H2bLFmsyS5dmuxes8K8CEyZWHzpRh7eSrv3D1A9epngm01+SR1YWecIZJAmXzqG2yNdQhxGOdMhK/vP+M+mxD0vubPA/72oR9GCl1HcpXreZO8nCJHMBqdSCqP9Z98+eX0D0QIoNh0sWijQxXRQvARmrOonwQYfRgV5CxKRvc3OQWveuuhRJNrxxHEMRVyxSW+POBXXTHhrh9Ywz2n22mgjHHxVKGRMhdRaD3GowtEwQ5xHi/VlgeEe6jLdefW+bzgjDCaT8bAH1ETrtaHs8vZSdwFszSMtY6Kp0eUODi+JmKeEloNGg9OIehGmk028qHdS6/yYrsFacSxeUE7UXUjb3sXMtsQ8=
         secret_access_key:
@@ -29,11 +30,11 @@ jobs:
         - JEKYLL_ENV=production bundle exec jekyll build --destination site
       deploy:
         provider: pages
+        edge: true
         local_dir: ./site
         target_branch: master
         email: deploy@travis-ci.org
         name: Deployment Bot
-        cleanup: false
         token: $GH_TOKEN
         keep_history: true
         on:
