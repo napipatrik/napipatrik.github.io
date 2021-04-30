@@ -417,6 +417,7 @@ var patrikok = [
     'Érted, ha nem csinálok semmit, nem okozok gondot.',
     'Ahova nyúlok, ott szar terem.',
 ];
+var tutik = patrikok;
 
 if (typeof exports !== 'undefined') {
     module.exports = patrikok;

@@ -2,7 +2,7 @@
 
 const helper = require('./helper');
 
-let patrikok = [];
+let tutik = [];
 
 function reloadTutilista() {
   helper.fetchContent('assets/js/patrikok.js', (tutilista, error) => {
@@ -12,7 +12,7 @@ function reloadTutilista() {
     }
 
     eval(tutilista);
-    patrikok = module.exports;
+    tutik = module.exports;
   });
 }
 
@@ -20,11 +20,11 @@ reloadTutilista();
 setInterval(() => reloadTutilista(), 3600 * 1000);
 
 exports.get = function (id) {
-  return patrikok[id];
+  return tutik[id];
 }
 
 exports.count = function () {
-  return patrikok.length;
+  return tutik.length;
 }
 
 exports.find = function (keywords) {
@@ -33,7 +33,7 @@ exports.find = function (keywords) {
   }
 
   try {
-    let filteredList = patrikok;
+    let filteredList = tutik;
     for (const keyword of keywords) {
       filteredList = filteredList.filter(tuti => helper.unaccent(tuti.toLowerCase()).includes(keyword));
     }

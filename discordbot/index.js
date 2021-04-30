@@ -1,18 +1,18 @@
 'use strict';
 
 const helper = require('./helper');
-const patrikok = require('./patrikok');
+const tutik = require('./tutik');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
-  console.log('Napipatrik bot is ready!');
+  console.log(helper.sitename + ' bot is ready!');
 });
 
 client.on('message', message => {
   const parts = helper.unaccent(message.content.toLowerCase()).split(' ');
 
-  if (parts[0] !== 'napipatrik') {
+  if (parts[0] !== helper.sitename) {
     return;
   }
 
@@ -47,7 +47,7 @@ client.on('message', message => {
 
   if (['random', 'veletlen'].includes(parts[1])) {
     console.log('Random lekérdezés');
-    let tuti = patrikok.get(Math.floor(Math.random() * patrikok.count()));
+    let tuti = tutik.get(Math.floor(Math.random() * tutik.count()));
     message.channel
         .send(tuti)
         .catch(console.error);
@@ -65,7 +65,7 @@ client.on('message', message => {
     }
     console.log('Tuti keresés alapján: ' + keywords.join(' '));
 
-    let tuti = patrikok.find(keywords);
+    let tuti = tutik.find(keywords);
     if (tuti) {
       message.channel
           .send(tuti)
@@ -81,7 +81,7 @@ client.on('message', message => {
   if (Number.isInteger(+parts[1])) {
     console.log('Tuti ID alapján: ' + parts[1]);
 
-    let tuti = patrikok.get(parts[1]);
+    let tuti = tutik.get(parts[1]);
     if (tuti) {
       message.channel
         .send(tuti)
@@ -95,7 +95,7 @@ client.on('message', message => {
   }
 
   message.channel
-    .send('Hallod, nem értem. Ezt mondjad:\n`napipatrik` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat')
+    .send('Hallod, nem értem. Ezt mondjad:\n`' + helper.sitename + '` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat')
     .catch(console.error);
 });
 

@@ -4,7 +4,7 @@ jobs:
       node_js:
         - '12'
       script:
-        - "./dump_napipatrik.sh"
+        - "./dump_napituti.sh"
       branches:
         only:
           - develop

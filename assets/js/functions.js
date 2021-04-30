@@ -34,13 +34,13 @@ function filterTuti() {
 
 function showPatrikSearchFactory(i) {
 	return function () {
-	    showPatrik(i);
+	    showTuti(i);
 	    document.getElementById("tutilist").classList.toggle("show");
 	    return false;
 	}
 }
 
-function showPatrik(i, skipAddHistory) {
+function showTuti(i, skipAddHistory) {
     let index = i % patrikok.length;
     document.getElementById('napituti').innerHTML = patrikok[index].replace(/\n/g, '<br/>');
     document.getElementById('tuti-id').innerHTML = '#' + index;
@@ -52,7 +52,7 @@ function showPatrik(i, skipAddHistory) {
 }
 
 function shuffle() {
-    showPatrik(Math.floor(Math.random() * patrikok.length));
+    showTuti(Math.floor(Math.random() * patrikok.length));
 }
 
 function getDefaultOffset() {
@@ -60,7 +60,7 @@ function getDefaultOffset() {
 }
 
 if (typeof exports !== 'undefined') {
-    exports.showPatrik = showPatrik;
+    exports.showTuti = showTuti;
     exports.shuffle = shuffle;
     exports.getDefaultOffset = getDefaultOffset;
 }

@@ -1,12 +1,14 @@
+const domain = 'napipatrik.hu';
+
 function copyPermalink(i) {
-	const link = 'https://napipatrik.hu/' + (i ? i : napiId) + '/';
+	const link = 'https://' + domain + '/' + (i ? i : napiId) + '/';
 	copyTextToClipboard(link);
 	document.getElementById("tuti-search").value = '';
 	window.close();
 }
 
 function copyNapiKep() {
-	const link = 'https://napipatrik.hu/napipatrik.jpg';
+	const link = 'https://' + domain + '/napipatrik.jpg';
 	copyTextToClipboard(link);
 	window.close();
 }

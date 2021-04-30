@@ -2,8 +2,11 @@
 
 const https = require('https');
 
+const sitename = 'napipatrik';
+const domain = sitename + '.hu';
+
 exports.fetchContent = function (path, callback) {
-  const request = https.request('https://napipatrik.hu/' + path, res => {
+  const request = https.request('https://' + domain + '/' + path, res => {
     var response = "";
 
     res.on('data', d => {
@@ -25,3 +28,5 @@ exports.fetchContent = function (path, callback) {
 exports.unaccent = function (str) {
   return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
+
+exports.sitename = sitename;
