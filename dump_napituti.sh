@@ -5,14 +5,14 @@ if [ "$TRAVIS_EVENT_TYPE" != "cron" ]; then
   exit 0
 fi
 
-node napipatrik.js > napipatrik
-node napipatrik.js --index > napipatrik.id
+node napituti.js > napipatrik
+node napituti.js --index > napipatrik.id
 
 npm i request request-promise-native jimp
-node napipatrik.js --image
+node napituti.js --image
 
 npm i xml2js
-node napipatrik.js --rss > rss.new.xml && mv rss.new.xml rss.xml
+node napituti.js --rss > rss.new.xml && mv rss.new.xml rss.xml
 
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
