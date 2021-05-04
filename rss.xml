@@ -6,76 +6,74 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon May 03 2021</lastBuildDate>
+    <lastBuildDate>Wed May 12 2021</lastBuildDate>
+    <item>
+      <title>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</title>
+      <description>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</description>
+      <link>https://napipatrik.hu/311/</link>
+      <pubDate>Wed May 12 2021</pubDate>
+    </item>
+    <item>
+      <title>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem.</title>
+      <description>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem.</description>
+      <link>https://napipatrik.hu/310/</link>
+      <pubDate>Tue May 11 2021</pubDate>
+    </item>
+    <item>
+      <title>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</title>
+      <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</description>
+      <link>https://napipatrik.hu/309/</link>
+      <pubDate>Mon May 10 2021</pubDate>
+    </item>
+    <item>
+      <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
+      <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
+      <link>https://napipatrik.hu/308/</link>
+      <pubDate>Sun May 09 2021</pubDate>
+    </item>
+    <item>
+      <title>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</title>
+      <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
+      <link>https://napipatrik.hu/307/</link>
+      <pubDate>Sat May 08 2021</pubDate>
+    </item>
+    <item>
+      <title>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</title>
+      <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
+      <link>https://napipatrik.hu/306/</link>
+      <pubDate>Fri May 07 2021</pubDate>
+    </item>
+    <item>
+      <title>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</title>
+      <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
+      <link>https://napipatrik.hu/305/</link>
+      <pubDate>Thu May 06 2021</pubDate>
+    </item>
+    <item>
+      <title>Lehetett volna írni locsoló verset:
+Faszerdőben jártam
+Piros makkot láttam
+Be akart cuppanni
+Szabad e locsolni</title>
+      <description>Lehetett volna írni locsoló verset:
+Faszerdőben jártam
+Piros makkot láttam
+Be akart cuppanni
+Szabad e locsolni</description>
+      <link>https://napipatrik.hu/304/</link>
+      <pubDate>Wed May 05 2021</pubDate>
+    </item>
+    <item>
+      <title>Permetezte ránk a körszakállt</title>
+      <description>Permetezte ránk a körszakállt</description>
+      <link>https://napipatrik.hu/303/</link>
+      <pubDate>Tue May 04 2021</pubDate>
+    </item>
     <item>
       <title>Aztán lehetne számolgatni, mennyi volt az erdőt gyarapító ticket és mennyi a ritkító, de nem akartok ilyen számokat látni, mert kijönne, hogy nem hogy ritkul az erdő, csak növekszik! Ültetitek, kis cserjés, aztán jól megtrágyázzátok és bumm, ott is egy új őstölgyes. Így lesz az új dolgokból legacy szar.</title>
       <description>Aztán lehetne számolgatni, mennyi volt az erdőt gyarapító ticket és mennyi a ritkító, de nem akartok ilyen számokat látni, mert kijönne, hogy nem hogy ritkul az erdő, csak növekszik! Ültetitek, kis cserjés, aztán jól megtrágyázzátok és bumm, ott is egy új őstölgyes. Így lesz az új dolgokból legacy szar.</description>
       <link>https://napipatrik.hu/390/</link>
       <pubDate>Mon May 03 2021</pubDate>
-    </item>
-    <item>
-      <title>András az erdőben vígan bandukál,
-Kisbaltával kezében várja a körszakált,
-Tátott szájjal előre bekapja ami jár,
-Tudja jól hogy így lesz staffból principál.</title>
-      <description>András az erdőben vígan bandukál,
-Kisbaltával kezében várja a körszakált,
-Tátott szájjal előre bekapja ami jár,
-Tudja jól hogy így lesz staffból principál.</description>
-      <link>https://napipatrik.hu/389/</link>
-      <pubDate>Sun May 02 2021</pubDate>
-    </item>
-    <item>
-      <title>Laci: tudod mi jó?
-Patrik: a körszakáll?</title>
-      <description>Laci: tudod mi jó?
-Patrik: a körszakáll?</description>
-      <link>https://napipatrik.hu/388/</link>
-      <pubDate>Sat May 01 2021</pubDate>
-    </item>
-    <item>
-      <title>Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.</title>
-      <description>Hallottad? Ahogy bekaptam és koppant a körszakáll. Próbáltam becsukni a számat, de egy sunyi körszakáll púzóra ment és miközben felordítottam, be is szaladt a másik.</description>
-      <link>https://napipatrik.hu/387/</link>
-      <pubDate>Fri Apr 30 2021</pubDate>
-    </item>
-    <item>
-      <title>De hát neked és Csabának csak örömkönnyeitek vannak! Nem láthatjátok az erdőt, hisz ha megcsurranna egy kis fos, a tömés mindent áthidaló ereje akkor is mosolyt csal az arcotokra.</title>
-      <description>De hát neked és Csabának csak örömkönnyeitek vannak! Nem láthatjátok az erdőt, hisz ha megcsurranna egy kis fos, a tömés mindent áthidaló ereje akkor is mosolyt csal az arcotokra.</description>
-      <link>https://napipatrik.hu/386/</link>
-      <pubDate>Thu Apr 29 2021</pubDate>
-    </item>
-    <item>
-      <title>...neked örömkönnyeid voltak! Az erdőlátáshoz izzadsággal keveredett könnyekre volt szükség, akkor látod csak igazán az erdő valóját.</title>
-      <description>...neked örömkönnyeid voltak! Az erdőlátáshoz izzadsággal keveredett könnyekre volt szükség, akkor látod csak igazán az erdő valóját.</description>
-      <link>https://napipatrik.hu/385/</link>
-      <pubDate>Wed Apr 28 2021</pubDate>
-    </item>
-    <item>
-      <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
-      <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
-      <link>https://napipatrik.hu/147/</link>
-      <pubDate>Tue Apr 27 2021</pubDate>
-    </item>
-    <item>
-      <title>Mert nem értek hozzá! Dilettáns vagyok!</title>
-      <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
-      <link>https://napipatrik.hu/146/</link>
-      <pubDate>Mon Apr 26 2021</pubDate>
-    </item>
-    <item>
-      <title>Nem értek hozzá! Itt ülök, de minek?!</title>
-      <description>Nem értek hozzá! Itt ülök, de minek?!</description>
-      <link>https://napipatrik.hu/145/</link>
-      <pubDate>Sun Apr 25 2021</pubDate>
-    </item>
-    <item>
-      <title>- Nektek bejön a Sentry?
-- Nem, sosem szerettem</title>
-      <description>- Nektek bejön a Sentry?
-- Nem, sosem szerettem</description>
-      <link>https://napipatrik.hu/144/</link>
-      <pubDate>Sat Apr 24 2021</pubDate>
     </item>
   </channel>
 </rss>
