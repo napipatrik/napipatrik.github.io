@@ -20,7 +20,7 @@ if (args.length && args[0] === '--image') {
     const shadow = await Jimp.read(lines < 4 ? './shadow.png' : './shadow_thick.png');
     await image.blit(shadow, 0, 0);
     const font = await Jimp.loadFont('./assets/Serif.fnt');
-    await image.print(font, 100, 330 - lines * 28 - (lines <= 2 ? 20 / lines : 0), {text: text, alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER, alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE}, 400);
+    await image.print(font, 100, 300 - lines * 22, {text: text, alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER, alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE}, 400);
     await image.write('napipatrik.jpg');
   })();
 } else if (args.length && args[0] === '--index') {
