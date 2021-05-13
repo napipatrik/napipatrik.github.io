@@ -418,6 +418,9 @@ var patrikok = [
     'Ahova nyúlok, ott szar terem.',
     'Komolyan baszki, kezdem érteni az összefüggést:\nEgyik cég -> minden szar mert régi\nMásik cég -> minden szar mert industrial standard\nTehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a képletben: az pedig a lóvé, hogy mennyi pénzért nyeled a repkedő lófaszokat.',
     'Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.',
+    'Átengeded a szitán, mint Tamás a ticketet.',
+    'Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.',
+    'A nagy buzi enterpriseok olyanok mint a DCk: "Ha egy DC-t láttál, láttad az összeset."',
 ];
 var tutik = patrikok;
 
