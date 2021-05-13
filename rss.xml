@@ -6,7 +6,31 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed May 12 2021</lastBuildDate>
+    <lastBuildDate>Sun May 16 2021</lastBuildDate>
+    <item>
+      <title>Túlfizetett állatok ezek</title>
+      <description>Túlfizetett állatok ezek</description>
+      <link>https://napipatrik.hu/183/</link>
+      <pubDate>Sun May 16 2021</pubDate>
+    </item>
+    <item>
+      <title>Dhoppe, Dhoppe bazmeg, nyilván ezt húztam volna be! 19000 letöltés...</title>
+      <description>Dhoppe, Dhoppe bazmeg, nyilván ezt húztam volna be! 19000 letöltés...</description>
+      <link>https://napipatrik.hu/182/</link>
+      <pubDate>Sat May 15 2021</pubDate>
+    </item>
+    <item>
+      <title>Leszarom, gyere már segíts!</title>
+      <description>Leszarom, gyere már segíts!</description>
+      <link>https://napipatrik.hu/181/</link>
+      <pubDate>Fri May 14 2021</pubDate>
+    </item>
+    <item>
+      <title>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</title>
+      <description>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</description>
+      <link>https://napipatrik.hu/180/</link>
+      <pubDate>Thu May 13 2021</pubDate>
+    </item>
     <item>
       <title>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</title>
       <description>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</description>
@@ -42,38 +66,6 @@
       <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
       <link>https://napipatrik.hu/306/</link>
       <pubDate>Fri May 07 2021</pubDate>
-    </item>
-    <item>
-      <title>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</title>
-      <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
-      <link>https://napipatrik.hu/305/</link>
-      <pubDate>Thu May 06 2021</pubDate>
-    </item>
-    <item>
-      <title>Lehetett volna írni locsoló verset:
-Faszerdőben jártam
-Piros makkot láttam
-Be akart cuppanni
-Szabad e locsolni</title>
-      <description>Lehetett volna írni locsoló verset:
-Faszerdőben jártam
-Piros makkot láttam
-Be akart cuppanni
-Szabad e locsolni</description>
-      <link>https://napipatrik.hu/304/</link>
-      <pubDate>Wed May 05 2021</pubDate>
-    </item>
-    <item>
-      <title>Permetezte ránk a körszakállt</title>
-      <description>Permetezte ránk a körszakállt</description>
-      <link>https://napipatrik.hu/303/</link>
-      <pubDate>Tue May 04 2021</pubDate>
-    </item>
-    <item>
-      <title>Aztán lehetne számolgatni, mennyi volt az erdőt gyarapító ticket és mennyi a ritkító, de nem akartok ilyen számokat látni, mert kijönne, hogy nem hogy ritkul az erdő, csak növekszik! Ültetitek, kis cserjés, aztán jól megtrágyázzátok és bumm, ott is egy új őstölgyes. Így lesz az új dolgokból legacy szar.</title>
-      <description>Aztán lehetne számolgatni, mennyi volt az erdőt gyarapító ticket és mennyi a ritkító, de nem akartok ilyen számokat látni, mert kijönne, hogy nem hogy ritkul az erdő, csak növekszik! Ültetitek, kis cserjés, aztán jól megtrágyázzátok és bumm, ott is egy új őstölgyes. Így lesz az új dolgokból legacy szar.</description>
-      <link>https://napipatrik.hu/390/</link>
-      <pubDate>Mon May 03 2021</pubDate>
     </item>
   </channel>
 </rss>
