@@ -420,7 +420,9 @@ var patrikok = [
     'Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.',
     'Átengeded a szitán, mint Tamás a ticketet.',
     'Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.',
-    'A nagy buzi enterpriseok olyanok mint a DCk: "Ha egy DC-t láttál, láttad az összeset."',
+    'Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!',
+    'Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?',
+    'Csaba: Miért nincs hammeryolo emoji?\nPatrik: mert az több, mint egy emoji: egy életérzés',
 ];
 var tutik = patrikok;
 
