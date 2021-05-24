@@ -4,7 +4,8 @@ WORKDIR /srv
 
 ENV NODE_ENV=production
 
-COPY . /srv
+COPY ./package*.json /srv/
 RUN cd /srv; npm install
+COPY . /srv/
 
 CMD ["npm", "run", "start"]

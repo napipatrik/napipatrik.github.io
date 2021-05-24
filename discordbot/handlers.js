@@ -11,7 +11,9 @@ exports.getTuti = async function (what, ...parts) {
     case 'napikep':
     case 'pic':
     case 'picture':
-      return maiKep();
+      return maiKep(parts[0]);
+    case 'kep-embed':
+      return maiKepEmbed(parts[0]);
     case 'random':
     case 'veletlen':
       return random();
@@ -42,6 +44,23 @@ const maiKep = function () {
         name: 'napipatrik.jpg'
       }]
     });
+  });
+}
+
+const maiKepEmbed = function () {
+  console.log('Napikép lekérdezés');
+  return helper.fetchContent('napipatrik').then(napituti =>{
+    return {
+      embeds: [{
+        type: 'image',
+        url: 'https://napipatrik.hu/napipatrik.jpg',
+        image: {
+          url: 'https://napipatrik.hu/napipatrik.jpg',
+        },
+        title: 'Napipatrik',
+        description: napituti,
+      }],
+    };
   });
 }
 

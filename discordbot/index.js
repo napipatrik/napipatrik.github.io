@@ -62,11 +62,14 @@ client.on('interaction', interaction => {
     return;
 
   if (interaction.commandName === helper.sitename) {
-    const input = interaction.options[0].value;
-    let what = interaction.options[0].name, args = [];
+    let what = helper.unaccent(interaction.options[0].name.toLowerCase()), args = [];
 
     if (['keress', 'id'].includes(what)) {
       args = [interaction.options[0].options[0].value];
+    }
+
+    if (what === 'kep') {
+      what = 'kep-embed';
     }
 
     handlers.getTuti(what, ...args)
