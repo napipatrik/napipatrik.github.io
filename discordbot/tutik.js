@@ -5,15 +5,15 @@ const helper = require('./helper');
 let tutik = [];
 
 function reloadTutilista() {
-  helper.fetchContent('assets/js/patrikok.js', (tutilista, error) => {
-    if (error) {
+  helper.fetchContent('assets/js/patrikok.js')
+    .then(tutilista => {
+      eval(tutilista);
+      tutik = module.exports;
+    })
+    .catch(error => {
       console.log('Tutilista betöltése sikertelen!');
       process.exit(1);
-    }
-
-    eval(tutilista);
-    tutik = module.exports;
-  });
+    });
 }
 
 reloadTutilista();

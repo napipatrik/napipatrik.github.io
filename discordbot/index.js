@@ -1,12 +1,80 @@
 'use strict';
 
 const helper = require('./helper');
-const tutik = require('./tutik');
-const Discord = require('discord.js');
-const client = new Discord.Client();
+const handlers = require('./handlers');
+const { Client, Intents } = require('discord.js');
+const client = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]});
+
+const commandData = {
+  name: helper.sitename,
+  description: 'Keress kedvenc napipatrik idézeteid között',
+  options: [
+    {
+      name: 'mai',
+      type: 'SUB_COMMAND',
+      description: 'Napi tuti lekérdekzése',
+    },
+    {
+      name: 'kép',
+      type: 'SUB_COMMAND',
+      description: 'Napi kép lekérdezése',
+    },
+    {
+      name: 'random',
+      type: 'SUB_COMMAND',
+      description: 'Véletlen tuti lekérdezése',
+    },
+    {
+      name: 'keress',
+      type: 'SUB_COMMAND',
+      description: 'Tuti keresése kulcsszavak alapján',
+      options: [
+        {
+          name: 'keywords',
+          description: 'Keresőszabak',
+          type: 'STRING',
+          required: true,
+        },
+      ],
+    },
+    {
+      name: 'id',
+      type: 'SUB_COMMAND',
+      description: 'Adott tuti lekérdezése',
+      options: [{
+        name: 'id',
+        description: 'Azonosító',
+        type: 'INTEGER',
+        required: true,
+      }],
+    },
+  ],
+};
 
 client.on('ready', () => {
+  client.application.commands.create(commandData);
+
   console.log(helper.sitename + ' bot is ready!');
+});
+
+client.on('interaction', interaction => {
+  if (!interaction.isCommand())
+    return;
+
+  if (interaction.commandName === helper.sitename) {
+    const input = interaction.options[0].value;
+    let what = interaction.options[0].name, args = [];
+
+    if (['keress', 'id'].includes(what)) {
+      args = [interaction.options[0].options[0].value];
+    }
+
+    handlers.getTuti(what, ...args)
+      .then(tuti => {
+        interaction.reply(tuti);
+      })
+      .catch(console.error);
+  }
 });
 
 client.on('message', message => {
@@ -16,86 +84,24 @@ client.on('message', message => {
     return;
   }
 
+
+  let what, args = [];
   if (parts.length === 1) {
-    console.log('Napituti lekérdezés');
-    helper.fetchContent('napipatrik', (napituti, error) => {
-      if (error) {
-        message.channel
-          .send('Ismeretlen hiba. A bot erdészt kíván!')
-          .catch(console.error);
-      } else {
-        message.channel
-          .send(napituti)
-          .catch(console.error);
-      }
-    });
-    return;
+    what = 'napi';
+  } else if (!isNaN(parts[1].replace('#', ''))) {
+    what = 'id';
+    args = [parts[1].replace('#', '')];
+  } else {
+    what = parts[1];
+    args = parts.splice(2);
   }
 
-  if (['kep', 'napikep', 'pic', 'picture'].includes(parts[1])) {
-    console.log('Napikép lekérdezés');
-    message.channel
-      .send({
-        files: [{
-          attachment: 'https://napipatrik.hu/napipatrik.jpg',
-          name: 'napipatrik.jpg'
-        }]
-      })
-      .catch(console.error);
-    return;
-  }
-
-  if (['random', 'veletlen'].includes(parts[1])) {
-    console.log('Random lekérdezés');
-    let tuti = tutik.get(Math.floor(Math.random() * tutik.count()));
-    message.channel
-        .send(tuti)
-        .catch(console.error);
-    return;
-  }
-
-  if (['keres', 'keress', 'kereso', 'find'].includes(parts[1])) {
-    const keywords = Object.assign([], parts.splice(2));
-
-    if (keywords.length > 20) {
-      message.channel
-          .send('Ezt én nem csinálom!')
-          .catch(console.error);
-      return;
-    }
-    console.log('Tuti keresés alapján: ' + keywords.join(' '));
-
-    let tuti = tutik.find(keywords);
-    if (tuti) {
-      message.channel
-          .send(tuti)
-          .catch(console.error);
-    } else {
-      message.channel
-          .send('Ilyen nincs bazmeg!')
-          .catch(console.error);
-    }
-    return;
-  }
-
-  if (Number.isInteger(+parts[1])) {
-    console.log('Tuti ID alapján: ' + parts[1]);
-
-    let tuti = tutik.get(parts[1]);
-    if (tuti) {
-      message.channel
-        .send(tuti)
-        .catch(console.error);
-    } else {
-      message.channel
-        .send('Ilyen nincs bazmeg!')
-        .catch(console.error);
-    }
-    return;
-  }
-
-  message.channel
-    .send('Hallod, nem értem. Ezt mondjad:\n`' + helper.sitename + '` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat')
+  handlers.getTuti(what, ...args)
+    .catch(() => 'Hallod, nem értem. Ezt mondjad:\n`' + helper.sitename + '` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat')
+    .then(tuti => {
+      return message.channel
+        .send(tuti);
+    })
     .catch(console.error);
 });
 
