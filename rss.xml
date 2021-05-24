@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun May 23 2021</lastBuildDate>
+    <lastBuildDate>Mon May 24 2021</lastBuildDate>
+    <item>
+      <title>Két füle van és mégsem szatyor</title>
+      <description>Két füle van és mégsem szatyor</description>
+      <link>https://napipatrik.hu/103/</link>
+      <pubDate>Mon May 24 2021</pubDate>
+    </item>
     <item>
       <title>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</title>
       <description>Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben</description>
@@ -62,12 +68,6 @@
       <description>Dhoppe, Dhoppe bazmeg, nyilván ezt húztam volna be! 19000 letöltés...</description>
       <link>https://napipatrik.hu/182/</link>
       <pubDate>Sat May 15 2021</pubDate>
-    </item>
-    <item>
-      <title>Leszarom, gyere már segíts!</title>
-      <description>Leszarom, gyere már segíts!</description>
-      <link>https://napipatrik.hu/181/</link>
-      <pubDate>Fri May 14 2021</pubDate>
     </item>
   </channel>
 </rss>
