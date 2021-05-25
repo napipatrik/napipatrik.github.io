@@ -95,7 +95,7 @@ var patrikok = [
     'Ezt én voltam',
     'Fel kéne hívnom a szüret miatt az albérlőt',
     'Közöttük ő egy szamuráj kard, de közöttünk egy vajazó kés',
-    'Végtelen kezünk van már, nekem van 10...',
+    '...ide mind! Az összeset a számba, egy csepp se menjen mellé!',
     'Mit nézünk az agymosó tévén?',
     'Az előző napi viselet adja meg a következő nap bukéját',
     'Balázs, megtaláltalak egy Timmy Trumpet számban',
@@ -423,6 +423,8 @@ var patrikok = [
     'Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!',
     'Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?',
     'Csaba: Miért nincs hammeryolo emoji?\nPatrik: mert az több, mint egy emoji: egy életérzés',
+    'Faszom, hogy legyek motivált erdész? Ha egy kicsit is elmosolyodik a szám, abban a pillanatban betalál egy körszakáll és azon a pici résen egyből tarkóig szalad.',
+    'A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömkÖdsz.',
 ];
 var tutik = patrikok;
 
