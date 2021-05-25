@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon May 24 2021</lastBuildDate>
+    <lastBuildDate>Tue May 25 2021</lastBuildDate>
+    <item>
+      <title>Mondd még egyszer!</title>
+      <description>Mondd még egyszer!</description>
+      <link>https://napipatrik.hu/16/</link>
+      <pubDate>Tue May 25 2021</pubDate>
+    </item>
     <item>
       <title>Két füle van és mégsem szatyor</title>
       <description>Két füle van és mégsem szatyor</description>
@@ -62,12 +68,6 @@
       <description>Túlfizetett állatok ezek</description>
       <link>https://napipatrik.hu/183/</link>
       <pubDate>Sun May 16 2021</pubDate>
-    </item>
-    <item>
-      <title>Dhoppe, Dhoppe bazmeg, nyilván ezt húztam volna be! 19000 letöltés...</title>
-      <description>Dhoppe, Dhoppe bazmeg, nyilván ezt húztam volna be! 19000 letöltés...</description>
-      <link>https://napipatrik.hu/182/</link>
-      <pubDate>Sat May 15 2021</pubDate>
     </item>
   </channel>
 </rss>
