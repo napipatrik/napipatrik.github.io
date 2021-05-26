@@ -6,7 +6,21 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue May 25 2021</lastBuildDate>
+    <lastBuildDate>Thu May 27 2021</lastBuildDate>
+    <item>
+      <title>Laci: Nem értem az összefüggést az erdő és a tudni akarja, hogy mikor fossák össze magát a konténerek között.
+Patrik: Nem érted az összefüggést az erdő és a szopás között.</title>
+      <description>Laci: Nem értem az összefüggést az erdő és a tudni akarja, hogy mikor fossák össze magát a konténerek között.
+Patrik: Nem érted az összefüggést az erdő és a szopás között.</description>
+      <link>https://napipatrik.hu/401/</link>
+      <pubDate>Thu May 27 2021</pubDate>
+    </item>
+    <item>
+      <title>A sör egészséges. Tiszta vitamin, nyugtató komló.</title>
+      <description>A sör egészséges. Tiszta vitamin, nyugtató komló.</description>
+      <link>https://napipatrik.hu/400/</link>
+      <pubDate>Wed May 26 2021</pubDate>
+    </item>
     <item>
       <title>Mondd még egyszer!</title>
       <description>Mondd még egyszer!</description>
@@ -56,18 +70,6 @@
       <description>Mit nézünk az agymosó tévén?</description>
       <link>https://napipatrik.hu/97/</link>
       <pubDate>Tue May 18 2021</pubDate>
-    </item>
-    <item>
-      <title>Végtelen kezünk van már, nekem van 10...</title>
-      <description>Végtelen kezünk van már, nekem van 10...</description>
-      <link>https://napipatrik.hu/96/</link>
-      <pubDate>Mon May 17 2021</pubDate>
-    </item>
-    <item>
-      <title>Túlfizetett állatok ezek</title>
-      <description>Túlfizetett állatok ezek</description>
-      <link>https://napipatrik.hu/183/</link>
-      <pubDate>Sun May 16 2021</pubDate>
     </item>
   </channel>
 </rss>
