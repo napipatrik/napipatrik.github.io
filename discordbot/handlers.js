@@ -53,7 +53,7 @@ const maiKepEmbed = function () {
     return {
       embeds: [{
         type: 'image',
-        url: 'https://napipatrik.hu/napipatrik.jpg',
+        url: 'https://napipatrik.hu/',
         image: {
           url: 'https://napipatrik.hu/napipatrik.jpg',
         },
