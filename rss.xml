@@ -6,7 +6,25 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu May 27 2021</lastBuildDate>
+    <lastBuildDate>Sun May 30 2021</lastBuildDate>
+    <item>
+      <title>A null az null. Az nem hiba Laci. Nem kaptál semmit, de le is okézhatod. Ez olyan lehetett, mint András fizetés emelés köre.</title>
+      <description>A null az null. Az nem hiba Laci. Nem kaptál semmit, de le is okézhatod. Ez olyan lehetett, mint András fizetés emelés köre.</description>
+      <link>https://napipatrik.hu/404/</link>
+      <pubDate>Sun May 30 2021</pubDate>
+    </item>
+    <item>
+      <title>A körszakáll az erdő ajándéka.</title>
+      <description>A körszakáll az erdő ajándéka.</description>
+      <link>https://napipatrik.hu/403/</link>
+      <pubDate>Sat May 29 2021</pubDate>
+    </item>
+    <item>
+      <title>Bónusz az minden nap van - körszakáll formájában.</title>
+      <description>Bónusz az minden nap van - körszakáll formájában.</description>
+      <link>https://napipatrik.hu/402/</link>
+      <pubDate>Fri May 28 2021</pubDate>
+    </item>
     <item>
       <title>Laci: Nem értem az összefüggést az erdő és a tudni akarja, hogy mikor fossák össze magát a konténerek között.
 Patrik: Nem érted az összefüggést az erdő és a szopás között.</title>
@@ -52,24 +70,6 @@ Patrik: Nem érted az összefüggést az erdő és a szopás között.</descript
 - Egy DevOpsos vacsi!</description>
       <link>https://napipatrik.hu/100/</link>
       <pubDate>Fri May 21 2021</pubDate>
-    </item>
-    <item>
-      <title>Balázs, megtaláltalak egy Timmy Trumpet számban</title>
-      <description>Balázs, megtaláltalak egy Timmy Trumpet számban</description>
-      <link>https://napipatrik.hu/99/</link>
-      <pubDate>Thu May 20 2021</pubDate>
-    </item>
-    <item>
-      <title>Az előző napi viselet adja meg a következő nap bukéját</title>
-      <description>Az előző napi viselet adja meg a következő nap bukéját</description>
-      <link>https://napipatrik.hu/98/</link>
-      <pubDate>Wed May 19 2021</pubDate>
-    </item>
-    <item>
-      <title>Mit nézünk az agymosó tévén?</title>
-      <description>Mit nézünk az agymosó tévén?</description>
-      <link>https://napipatrik.hu/97/</link>
-      <pubDate>Tue May 18 2021</pubDate>
     </item>
   </channel>
 </rss>
