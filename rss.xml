@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun May 30 2021</lastBuildDate>
+    <lastBuildDate>Mon May 31 2021</lastBuildDate>
+    <item>
+      <title>Lehet mossák az agyát... mármint bocsánat, hisz a termékben.</title>
+      <description>Lehet mossák az agyát... mármint bocsánat, hisz a termékben.</description>
+      <link>https://napipatrik.hu/405/</link>
+      <pubDate>Mon May 31 2021</pubDate>
+    </item>
     <item>
       <title>A null az null. Az nem hiba Laci. Nem kaptál semmit, de le is okézhatod. Ez olyan lehetett, mint András fizetés emelés köre.</title>
       <description>A null az null. Az nem hiba Laci. Nem kaptál semmit, de le is okézhatod. Ez olyan lehetett, mint András fizetés emelés köre.</description>
@@ -62,14 +68,6 @@ Patrik: Nem érted az összefüggést az erdő és a szopás között.</descript
       <description>Olyan szopott meggymag fejed van</description>
       <link>https://napipatrik.hu/101/</link>
       <pubDate>Sat May 22 2021</pubDate>
-    </item>
-    <item>
-      <title>- Tudjátok mi kéne még?
-- Egy DevOpsos vacsi!</title>
-      <description>- Tudjátok mi kéne még?
-- Egy DevOpsos vacsi!</description>
-      <link>https://napipatrik.hu/100/</link>
-      <pubDate>Fri May 21 2021</pubDate>
     </item>
   </channel>
 </rss>
