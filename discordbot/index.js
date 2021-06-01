@@ -65,7 +65,7 @@ client.on('interaction', interaction => {
     let what = helper.unaccent(interaction.options[0].name.toLowerCase()), args = [];
 
     if (['keress', 'id'].includes(what)) {
-      args = [interaction.options[0].options[0].value];
+      args = helper.unaccent(interaction.options[0].options[0].value.toLowerCase()).split(' ');
     }
 
     if (what === 'kep') {
