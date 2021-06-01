@@ -193,7 +193,7 @@ var patrikok = [
     'A dilettantizmus melegágya vagyunk',
     'Kezdjük meg az étkezést, én nem várok senkire',
     'Nem ölöm meg, csak összehajtogatom, hogy beleférjen a táskájába',
-    'Laci, a lófasz nem mennek ki, azok bejönnek',
+    'Laci, a lófaszok nem mennek ki, azok bejönnek',
     '- Dolgozol Patrik?\n- Tudom undorító így szerdán, de hát ez van',
     'Menjünk haza, hátha holnap jobb lesz...',
     'A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted',
@@ -426,6 +426,7 @@ var patrikok = [
     'Faszom, hogy legyek motivált erdész? Ha egy kicsit is elmosolyodik a szám, abban a pillanatban betalál egy körszakáll és azon a pici résen egyből tarkóig szalad.',
     'A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömkÖdsz.',
     'Tudjuk Csaba, tömött erdész, boldog erdész.',
+    'Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.',
 ];
 var tutik = patrikok;
 

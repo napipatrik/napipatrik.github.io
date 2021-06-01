@@ -31,7 +31,7 @@ const commandData = {
       options: [
         {
           name: 'keywords',
-          description: 'Keresőszabak',
+          description: 'Keresőszavak',
           type: 'STRING',
           required: true,
         },
@@ -73,6 +73,16 @@ client.on('interaction', interaction => {
     }
 
     handlers.getTuti(what, ...args)
+      .then(tuti => {
+        if (tuti === 'Ilyen nincs bazmeg!') {
+          return {
+            content: tuti,
+            ephemeral: true,
+          };
+        }
+
+        return tuti;
+      })
       .then(tuti => {
         interaction.reply(tuti);
       })
