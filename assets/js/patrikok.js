@@ -84,7 +84,7 @@ var patrikok = [
     'Balázs bácsi mindjárt megrázza a pofonfát, de olyan szüret esik rá...',
     'Ma nincs kedvem dolgozni',
     'Elbasztam. Faszom számok vannak, egyik a másik... elbasztam.',
-    'Nem bizom benne. Neked mondjad?!',
+    'Nem bizom benne. Neked mondjam?!',
     'Azért váltunk mindig DC-t, mert annyi szar van, kinőjük, nem fér el annyi szar',
     '...megyünk hazafelé, én panaszkodok szokás szerint...',
     'Honnan jön a backup? Hát anyámból!',
@@ -424,7 +424,7 @@ var patrikok = [
     'Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?',
     'Csaba: Miért nincs hammeryolo emoji?\nPatrik: mert az több, mint egy emoji: egy életérzés',
     'Faszom, hogy legyek motivált erdész? Ha egy kicsit is elmosolyodik a szám, abban a pillanatban betalál egy körszakáll és azon a pici résen egyből tarkóig szalad.',
-    'A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömkÖdsz.',
+    'A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömködsz.',
     'Tudjuk Csaba, tömött erdész, boldog erdész.',
     'Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.',
 ];
