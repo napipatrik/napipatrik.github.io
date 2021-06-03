@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jun 02 2021</lastBuildDate>
+    <lastBuildDate>Thu Jun 03 2021</lastBuildDate>
+    <item>
+      <title>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</title>
+      <description>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</description>
+      <link>https://napipatrik.hu/365/</link>
+      <pubDate>Thu Jun 03 2021</pubDate>
+    </item>
     <item>
       <title>Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!</title>
       <description>Hallod, ha Lillafüredre jöttök: Erdővarázs. Kurvajó!</description>
@@ -62,12 +68,6 @@ Patrik: Nem érted az összefüggést az erdő és a szopás között.</descript
       <description>Mondd még egyszer!</description>
       <link>https://napipatrik.hu/16/</link>
       <pubDate>Tue May 25 2021</pubDate>
-    </item>
-    <item>
-      <title>Két füle van és mégsem szatyor</title>
-      <description>Két füle van és mégsem szatyor</description>
-      <link>https://napipatrik.hu/103/</link>
-      <pubDate>Mon May 24 2021</pubDate>
     </item>
   </channel>
 </rss>
