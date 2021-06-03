@@ -97,7 +97,6 @@ client.on('message', message => {
     return;
   }
 
-
   let what, args = [];
   if (parts.length === 1) {
     what = 'napi';
