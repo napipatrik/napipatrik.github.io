@@ -427,6 +427,8 @@ var patrikok = [
     'A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömködsz.',
     'Tudjuk Csaba, tömött erdész, boldog erdész.',
     'Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.',
+    'Anno nagyobbnak hatott.',
+    'Tudod mikor lesz még költészet? Holnap a meetingen este 6 es 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.',
 ];
 var tutik = patrikok;
 
