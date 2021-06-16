@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/napipatrik/napipatrik.github.io.svg?branch=master)](https://travis-ci.org/napipatrik/napipatrik.github.io)
+[![Build site](https://github.com/napipatrik/napipatrik.github.io/actions/workflows/build-site.yml/badge.svg)](https://github.com/napipatrik/napipatrik.github.io/actions/workflows/build-site.yml)
 
 Napi Patrik
 ===========
