@@ -1,0 +1,24 @@
+name: Rotate napituti
+on:
+  schedule:
+    - cron: '5 1 0 * *'
+jobs:
+  rotate-napituti:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+      - run: ./dump_napituti.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: ${{ github.event.head_commit.message == 'Rotate napipatrik' }}
+        with:
+          commit_message: Rotate napipatrik
+          commit_options: '--amend'
+          push_options: '--force'
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: ${{ github.event.head_commit.message != 'Rotate napipatrik' }}
+        with:
+          commit_message: Rotate napipatrik

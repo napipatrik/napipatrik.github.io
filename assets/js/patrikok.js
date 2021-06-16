@@ -428,7 +428,7 @@ var patrikok = [
     'Tudjuk Csaba, tömött erdész, boldog erdész.',
     'Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.',
     'Anno nagyobbnak hatott.',
-    'Tudod mikor lesz még költészet? Holnap a meetingen este 6 es 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.',
+    'Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.',
 ];
 var tutik = patrikok;
 
