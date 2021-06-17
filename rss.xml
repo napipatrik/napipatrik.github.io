@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jun 14 2021</lastBuildDate>
+    <lastBuildDate>Thu Jun 17 2021</lastBuildDate>
+    <item>
+      <title>Minek alerting ha van szemed és tvd?</title>
+      <description>Minek alerting ha van szemed és tvd?</description>
+      <link>https://napipatrik.hu/293/</link>
+      <pubDate>Thu Jun 17 2021</pubDate>
+    </item>
     <item>
       <title>Nagy buzi enterprise lettünk.</title>
       <description>Nagy buzi enterprise lettünk.</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
       <description>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</description>
       <link>https://napipatrik.hu/368/</link>
       <pubDate>Sun Jun 06 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</title>
-      <description>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</description>
-      <link>https://napipatrik.hu/367/</link>
-      <pubDate>Sat Jun 05 2021</pubDate>
     </item>
   </channel>
 </rss>
