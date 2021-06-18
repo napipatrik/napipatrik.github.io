@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jun 17 2021</lastBuildDate>
+    <lastBuildDate>Fri Jun 18 2021</lastBuildDate>
+    <item>
+      <title>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</title>
+      <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
+      <link>https://napipatrik.hu/294/</link>
+      <pubDate>Fri Jun 18 2021</pubDate>
+    </item>
     <item>
       <title>Minek alerting ha van szemed és tvd?</title>
       <description>Minek alerting ha van szemed és tvd?</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
       <description>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</description>
       <link>https://napipatrik.hu/369/</link>
       <pubDate>Mon Jun 07 2021</pubDate>
-    </item>
-    <item>
-      <title>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</title>
-      <description>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</description>
-      <link>https://napipatrik.hu/368/</link>
-      <pubDate>Sun Jun 06 2021</pubDate>
     </item>
   </channel>
 </rss>
