@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jun 18 2021</lastBuildDate>
+    <lastBuildDate>Sat Jun 19 2021</lastBuildDate>
+    <item>
+      <title>...de attól ne basszon fel a faszságával!</title>
+      <description>...de attól ne basszon fel a faszságával!</description>
+      <link>https://napipatrik.hu/295/</link>
+      <pubDate>Sat Jun 19 2021</pubDate>
+    </item>
     <item>
       <title>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</title>
       <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
       <description>Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.</description>
       <link>https://napipatrik.hu/370/</link>
       <pubDate>Tue Jun 08 2021</pubDate>
-    </item>
-    <item>
-      <title>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</title>
-      <description>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</description>
-      <link>https://napipatrik.hu/369/</link>
-      <pubDate>Mon Jun 07 2021</pubDate>
     </item>
   </channel>
 </rss>
