@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jun 19 2021</lastBuildDate>
+    <lastBuildDate>Sun Jun 20 2021</lastBuildDate>
+    <item>
+      <title>Erdő mindig volt, van és lesz</title>
+      <description>Erdő mindig volt, van és lesz</description>
+      <link>https://napipatrik.hu/253/</link>
+      <pubDate>Sun Jun 20 2021</pubDate>
+    </item>
     <item>
       <title>...de attól ne basszon fel a faszságával!</title>
       <description>...de attól ne basszon fel a faszságával!</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
       <description>Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.</description>
       <link>https://napipatrik.hu/371/</link>
       <pubDate>Wed Jun 09 2021</pubDate>
-    </item>
-    <item>
-      <title>Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.</title>
-      <description>Csak legyen meg Excelben [a feature]. Ki van pipálva, a management jó bónuszt kap, mindenki happy. Jaaaa és a talpasok, hát ők alapból azok.</description>
-      <link>https://napipatrik.hu/370/</link>
-      <pubDate>Tue Jun 08 2021</pubDate>
     </item>
   </channel>
 </rss>
