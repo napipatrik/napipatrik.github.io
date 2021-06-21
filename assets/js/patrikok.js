@@ -64,7 +64,7 @@ var patrikok = [
     'Én megpróbáltam, csak le lettem nyomva mint a bélyeg bazmeg',
     'Együnk, mert enni jó',
     'HAMMERYOLO',
-    'Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.',
+    'Mátyás, egy staff van közöttünk.',
     'Az nem vicces hogy, Patrikloss',
     'Ezt a trágya, gány melót!',
     'Herndont én ledosolom otthon a routeremről',
@@ -430,6 +430,7 @@ var patrikok = [
     'Anno nagyobbnak hatott.',
     'Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.',
     'De hát érted mit panaszkodjak? Én kapok a vízből is utoljára - már ha jut. De így is örülök, hogy nem a szájammal kell fokhagymát pucolni kinai böriben. Teljesen jó ez a gyapot föld.',
+    'Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.',
 ];
 var tutik = patrikok;
 
