@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jun 20 2021</lastBuildDate>
+    <lastBuildDate>Mon Jun 21 2021</lastBuildDate>
+    <item>
+      <title>Remélem nem az én on-callomon fog felrobbanni</title>
+      <description>Remélem nem az én on-callomon fog felrobbanni</description>
+      <link>https://napipatrik.hu/254/</link>
+      <pubDate>Mon Jun 21 2021</pubDate>
+    </item>
     <item>
       <title>Erdő mindig volt, van és lesz</title>
       <description>Erdő mindig volt, van és lesz</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
       <description>...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.</description>
       <link>https://napipatrik.hu/372/</link>
       <pubDate>Thu Jun 10 2021</pubDate>
-    </item>
-    <item>
-      <title>Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.</title>
-      <description>Pszt, meghallja Kornél Lacin keresztül, majd lesz kukoricán térdelés a gyapot föld közepén.</description>
-      <link>https://napipatrik.hu/371/</link>
-      <pubDate>Wed Jun 09 2021</pubDate>
     </item>
   </channel>
 </rss>
