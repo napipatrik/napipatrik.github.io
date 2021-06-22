@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jun 21 2021</lastBuildDate>
+    <lastBuildDate>Tue Jun 22 2021</lastBuildDate>
+    <item>
+      <title>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</title>
+      <description>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</description>
+      <link>https://napipatrik.hu/212/</link>
+      <pubDate>Tue Jun 22 2021</pubDate>
+    </item>
     <item>
       <title>Remélem nem az én on-callomon fog felrobbanni</title>
       <description>Remélem nem az én on-callomon fog felrobbanni</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
       <description>...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja</description>
       <link>https://napipatrik.hu/373/</link>
       <pubDate>Fri Jun 11 2021</pubDate>
-    </item>
-    <item>
-      <title>...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.</title>
-      <description>...amit viszont neked kívánnék, az a tekintete. Bármerre jársz az erdőben, bukkanjon fel a mocsárból a feje és csak nézzen és nem tudod majd eldönteni, hogy téged néz, vagy a melletted lévő kis tölgyest.</description>
-      <link>https://napipatrik.hu/372/</link>
-      <pubDate>Thu Jun 10 2021</pubDate>
     </item>
   </channel>
 </rss>
