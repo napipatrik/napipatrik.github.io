@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jun 22 2021</lastBuildDate>
+    <lastBuildDate>Wed Jun 23 2021</lastBuildDate>
+    <item>
+      <title>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</title>
+      <description>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</description>
+      <link>https://napipatrik.hu/213/</link>
+      <pubDate>Wed Jun 23 2021</pubDate>
+    </item>
     <item>
       <title>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</title>
       <description>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</description>
@@ -64,12 +70,6 @@ https://napipatrik.hu/267/
 És ma is aktuális</description>
       <link>https://napipatrik.hu/374/</link>
       <pubDate>Sat Jun 12 2021</pubDate>
-    </item>
-    <item>
-      <title>...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja</title>
-      <description>...és hogy ezzel belenyúl a szerencsétlen erdész a fosmocsárba, azt senki nem mondja</description>
-      <link>https://napipatrik.hu/373/</link>
-      <pubDate>Fri Jun 11 2021</pubDate>
     </item>
   </channel>
 </rss>
