@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jun 23 2021</lastBuildDate>
+    <lastBuildDate>Thu Jun 24 2021</lastBuildDate>
+    <item>
+      <title>Nem kell redundánsnak lenni, mert nem romolhat el</title>
+      <description>Nem kell redundánsnak lenni, mert nem romolhat el</description>
+      <link>https://napipatrik.hu/214/</link>
+      <pubDate>Thu Jun 24 2021</pubDate>
+    </item>
     <item>
       <title>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</title>
       <description>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</description>
@@ -60,16 +66,6 @@
       <description>Mit ad az?</description>
       <link>https://napipatrik.hu/375/</link>
       <pubDate>Sun Jun 13 2021</pubDate>
-    </item>
-    <item>
-      <title>Faszom bazdmeg
-https://napipatrik.hu/267/
-És ma is aktuális</title>
-      <description>Faszom bazdmeg
-https://napipatrik.hu/267/
-És ma is aktuális</description>
-      <link>https://napipatrik.hu/374/</link>
-      <pubDate>Sat Jun 12 2021</pubDate>
     </item>
   </channel>
 </rss>
