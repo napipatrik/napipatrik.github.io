@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jun 24 2021</lastBuildDate>
+    <lastBuildDate>Fri Jun 25 2021</lastBuildDate>
+    <item>
+      <title>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</title>
+      <description>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</description>
+      <link>https://napipatrik.hu/215/</link>
+      <pubDate>Fri Jun 25 2021</pubDate>
+    </item>
     <item>
       <title>Nem kell redundánsnak lenni, mert nem romolhat el</title>
       <description>Nem kell redundánsnak lenni, mert nem romolhat el</description>
@@ -60,12 +66,6 @@
       <description>Nagy buzi enterprise lettünk.</description>
       <link>https://napipatrik.hu/376/</link>
       <pubDate>Mon Jun 14 2021</pubDate>
-    </item>
-    <item>
-      <title>Mit ad az?</title>
-      <description>Mit ad az?</description>
-      <link>https://napipatrik.hu/375/</link>
-      <pubDate>Sun Jun 13 2021</pubDate>
     </item>
   </channel>
 </rss>
