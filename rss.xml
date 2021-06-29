@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jun 28 2021</lastBuildDate>
+    <lastBuildDate>Tue Jun 29 2021</lastBuildDate>
+    <item>
+      <title>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</title>
+      <description>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</description>
+      <link>https://napipatrik.hu/219/</link>
+      <pubDate>Tue Jun 29 2021</pubDate>
+    </item>
     <item>
       <title>Az erdész nem gondolkodik, az erdész vág</title>
       <description>Az erdész nem gondolkodik, az erdész vág</description>
@@ -60,12 +66,6 @@
       <description>Erdő mindig volt, van és lesz</description>
       <link>https://napipatrik.hu/253/</link>
       <pubDate>Sun Jun 20 2021</pubDate>
-    </item>
-    <item>
-      <title>...de attól ne basszon fel a faszságával!</title>
-      <description>...de attól ne basszon fel a faszságával!</description>
-      <link>https://napipatrik.hu/295/</link>
-      <pubDate>Sat Jun 19 2021</pubDate>
     </item>
   </channel>
 </rss>
