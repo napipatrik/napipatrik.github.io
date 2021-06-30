@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jun 29 2021</lastBuildDate>
+    <lastBuildDate>Wed Jun 30 2021</lastBuildDate>
+    <item>
+      <title>Minek nyúltam hozzá?! Ez egy kártyavár!</title>
+      <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
+      <link>https://napipatrik.hu/220/</link>
+      <pubDate>Wed Jun 30 2021</pubDate>
+    </item>
     <item>
       <title>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</title>
       <description>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</description>
@@ -60,12 +66,6 @@
       <description>Remélem nem az én on-callomon fog felrobbanni</description>
       <link>https://napipatrik.hu/254/</link>
       <pubDate>Mon Jun 21 2021</pubDate>
-    </item>
-    <item>
-      <title>Erdő mindig volt, van és lesz</title>
-      <description>Erdő mindig volt, van és lesz</description>
-      <link>https://napipatrik.hu/253/</link>
-      <pubDate>Sun Jun 20 2021</pubDate>
     </item>
   </channel>
 </rss>
