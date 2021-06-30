@@ -100,7 +100,7 @@ var patrikok = [
     'Az előző napi viselet adja meg a következő nap bukéját',
     'András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet',
     '- Tudjátok mi kéne még?\n- Egy DevOpsos vacsi!',
-    'Szorgosan gyarapodik az erdő, aztan előbb utóbb majd mikor beüt, akkor a púzód nem lesz kímélve',
+    'Olyan szopott meggymag fejed van',
     'Ha jön a fosvihar, akkor megnőnek a fütykösök a faszerdőben',
     'Két füle van és mégsem szatyor',
     'Nyilván hol tesztel?! Prodban tesztel.',
@@ -433,6 +433,7 @@ var patrikok = [
     'Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.',
     'Most indul el a rozsdásodás, nem lesz nyél, mert elkorhad, a fej meg elrozsdál: a karrierem in nutshell',
     'Baszki mindig elfelejtem, hogy már nem talpas, hanem excel huszár lett',
+    'Szorgosan gyarapodik az erdő, aztan előbb utóbb majd mikor beüt, akkor a púzód nem lesz kímélve',
 ];
 var tutik = patrikok;
 
