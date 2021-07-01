@@ -6,7 +6,7 @@ var patrikok = [
     'Ez baszki, amit 1,5 éve ott hagytam utánam jött.',
     'Hát ez végülis működhet...',
     'Hát én mindjárt hazamegyek',
-    'Majd aztán túlszalad a hígfos és nem lesz visszaút! Le kell majd kortyolni belőle - vagy belefulladnak.',
+    'Tudod kiről tegyél ki képet... ANYÁÁÁÁÁDRÓÓÓÓÓL',
     'Change management policy... olyan undort váltott ki bennem, amit szavakkal nehéz leírni. Olyan hányingert, ami olyan mélyről jön, hogy szinte beszippantja a seggem körül a levegőt és mellette a sírás kerülget.',
     'Kéne a devops szemed',
     'Felgyújtom a gecibe...',
@@ -18,7 +18,7 @@ var patrikok = [
     'Mondd még egyszer!',
     'Jóképű vagyok, magas, szerény...',
     'Én mindent is tudok',
-    'Szegény Csaba, visszamegy és akkora erdőbe lesz, amit a tömése se kompenzál. Könnyes szemmel fogja ritkítani és a tömés öröme teljesen elhomályosodik a fájdalomtól, amit a kósza repkedő körszakállak okoznak miközben szorgosan próbálja ritkítani.',
+    'Rádhajlítom a permeteződet!',
     'Apád faszát, jó?',
     'Az én inputomat te nem kapod meg',
     'Majd kapjalak el amikor nem figyelsz...',
@@ -170,7 +170,7 @@ var patrikok = [
     'Igen gazdám! Megyek gazdám!',
     'Takaríthatom utánatok ezt a sok redvát...',
     'Itt tákoltok, kinek kell kitakarítania?! Én fogom meg a kisbaltát...',
-    'Jó, hogy produktív vagyok: minden jó projektünk le van lőve',
+    'Ezt ne írd fel te buzi',
     'Te buzi, miattad volt!',
     'Te is már butulsz bazmeg, mész a staffra',
     'Legyen ez a devops jelmondata: gányolni mindig jó!',
@@ -434,6 +434,10 @@ var patrikok = [
     'Most indul el a rozsdásodás, nem lesz nyél, mert elkorhad, a fej meg elrozsdál: a karrierem in nutshell',
     'Baszki mindig elfelejtem, hogy már nem talpas, hanem excel huszár lett',
     'Szorgosan gyarapodik az erdő, aztan előbb utóbb majd mikor beüt, akkor a púzód nem lesz kímélve',
+    'Majd aztán túlszalad a hígfos és nem lesz visszaút! Le kell majd kortyolni belőle - vagy belefulladnak.',
+    'Szegény Csaba, visszamegy és akkora erdőbe lesz, amit a tömése se kompenzál. Könnyes szemmel fogja ritkítani és a tömés öröme teljesen elhomályosodik a fájdalomtól, amit a kósza repkedő körszakállak okoznak miközben szorgosan próbálja ritkítani.',
+    'Jó, hogy produktív vagyok: minden jó projektünk le van lőve',
+    '"Hi Patrik, How are you today?"\nKomolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg! Hogy lennék?! Cirógatják a púzómat meg a pittyemet a körszakállak, szerinted hogy vagyok?!',
 ];
 var tutik = patrikok;
 
