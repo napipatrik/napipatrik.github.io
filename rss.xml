@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jul 02 2021</lastBuildDate>
+    <lastBuildDate>Sat Jul 03 2021</lastBuildDate>
+    <item>
+      <title>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</title>
+      <description>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</description>
+      <link>https://napipatrik.hu/361/</link>
+      <pubDate>Sat Jul 03 2021</pubDate>
+    </item>
     <item>
       <title>Érted, ha már nem legacy, majd csinálunk belőle legacyt! Jól megfospermeteljük, a terraform meg jól megnöveszti.</title>
       <description>Érted, ha már nem legacy, majd csinálunk belőle legacyt! Jól megfospermeteljük, a terraform meg jól megnöveszti.</description>
@@ -60,12 +66,6 @@
       <description>Nem kell redundánsnak lenni, mert nem romolhat el</description>
       <link>https://napipatrik.hu/214/</link>
       <pubDate>Thu Jun 24 2021</pubDate>
-    </item>
-    <item>
-      <title>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</title>
-      <description>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</description>
-      <link>https://napipatrik.hu/213/</link>
-      <pubDate>Wed Jun 23 2021</pubDate>
     </item>
   </channel>
 </rss>
