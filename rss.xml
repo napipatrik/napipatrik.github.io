@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jul 04 2021</lastBuildDate>
+    <lastBuildDate>Mon Jul 05 2021</lastBuildDate>
+    <item>
+      <title>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</title>
+      <description>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</description>
+      <link>https://napipatrik.hu/363/</link>
+      <pubDate>Mon Jul 05 2021</pubDate>
+    </item>
     <item>
       <title>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</title>
       <description>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</description>
@@ -60,12 +66,6 @@
       <description>Nem szállítunk, csak szart</description>
       <link>https://napipatrik.hu/216/</link>
       <pubDate>Sat Jun 26 2021</pubDate>
-    </item>
-    <item>
-      <title>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</title>
-      <description>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</description>
-      <link>https://napipatrik.hu/215/</link>
-      <pubDate>Fri Jun 25 2021</pubDate>
     </item>
   </channel>
 </rss>
