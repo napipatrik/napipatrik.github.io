@@ -438,6 +438,12 @@ var patrikok = [
     'Szegény Csaba, visszamegy és akkora erdőbe lesz, amit a tömése se kompenzál. Könnyes szemmel fogja ritkítani és a tömés öröme teljesen elhomályosodik a fájdalomtól, amit a kósza repkedő körszakállak okoznak miközben szorgosan próbálja ritkítani.',
     'Jó, hogy produktív vagyok: minden jó projektünk le van lőve',
     '"Hi Patrik, How are you today?"\nKomolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg! Hogy lennék?! Cirógatják a púzómat meg a pittyemet a körszakállak, szerinted hogy vagyok?!',
+    'Andrááás, megint a hülyeség! Nem kell neked a gyapot földön serénykedned, arra vannak a talpasok, az alattvalóid, akiknek ebben a nagy melegben viszel egy kis vizet, aztan miután jófejkedve megittatad őket, visszamész a hűvös gazdaházba, hisz Te már házi talpas vagy.',
+    'Aki önként beveszi a körszakállt, az ne csodálkozzon, hogy megcsiklandozza a garatát!',
+    'Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!',
+    'Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.',
+    'Jó, tudom, nagy enterprise sok policyval, mindenre is policy, de ez nem az erdész természetes előfordulási helye. Az erdész nem érzi jól magát az enterpise erdőben, mikor nem foshatja össze azt a bokrot amelyiket csak szeretné, hanem útmutatást kap hozzá, hogy mikor melyik bokorba mennyit tolhat ki.',
+    'Menjél szépen dolgozni, kisbaltazzál kicsit a talpasaiddal, ne csak a vizet hordd nekik! Bár ebben a nagy melegben biztos örülnek ha sokat hordasz.',
 ];
 var tutik = patrikok;
 
