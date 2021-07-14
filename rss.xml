@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jul 13 2021</lastBuildDate>
+    <lastBuildDate>Wed Jul 14 2021</lastBuildDate>
+    <item>
+      <title>Hívhatnánk így a control repót: házibarkács</title>
+      <description>Hívhatnánk így a control repót: házibarkács</description>
+      <link>https://napipatrik.hu/120/</link>
+      <pubDate>Wed Jul 14 2021</pubDate>
+    </item>
     <item>
       <title>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</title>
       <description>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</description>
@@ -60,12 +66,6 @@
       <description>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</description>
       <link>https://napipatrik.hu/363/</link>
       <pubDate>Mon Jul 05 2021</pubDate>
-    </item>
-    <item>
-      <title>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</title>
-      <description>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</description>
-      <link>https://napipatrik.hu/362/</link>
-      <pubDate>Sun Jul 04 2021</pubDate>
     </item>
   </channel>
 </rss>
