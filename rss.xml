@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jul 16 2021</lastBuildDate>
+    <lastBuildDate>Sat Jul 17 2021</lastBuildDate>
+    <item>
+      <title>Mi a faszom vagyok én? Erdész?</title>
+      <description>Mi a faszom vagyok én? Erdész?</description>
+      <link>https://napipatrik.hu/123/</link>
+      <pubDate>Sat Jul 17 2021</pubDate>
+    </item>
     <item>
       <title>Furikkal hozzák a szart, furikkal!</title>
       <description>Furikkal hozzák a szart, furikkal!</description>
@@ -60,12 +66,6 @@
       <description>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</description>
       <link>https://napipatrik.hu/366/</link>
       <pubDate>Thu Jul 08 2021</pubDate>
-    </item>
-    <item>
-      <title>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</title>
-      <description>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</description>
-      <link>https://napipatrik.hu/365/</link>
-      <pubDate>Wed Jul 07 2021</pubDate>
     </item>
   </channel>
 </rss>
