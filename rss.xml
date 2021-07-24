@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jul 23 2021</lastBuildDate>
+    <lastBuildDate>Sat Jul 24 2021</lastBuildDate>
+    <item>
+      <title>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</title>
+      <description>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</description>
+      <link>https://napipatrik.hu/130/</link>
+      <pubDate>Sat Jul 24 2021</pubDate>
+    </item>
     <item>
       <title>András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.</title>
       <description>András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.</description>
@@ -60,12 +66,6 @@
       <description>Örök lesz mint a nyomor, vagy mint a trágya termékben</description>
       <link>https://napipatrik.hu/121/</link>
       <pubDate>Thu Jul 15 2021</pubDate>
-    </item>
-    <item>
-      <title>Hívhatnánk így a control repót: házibarkács</title>
-      <description>Hívhatnánk így a control repót: házibarkács</description>
-      <link>https://napipatrik.hu/120/</link>
-      <pubDate>Wed Jul 14 2021</pubDate>
     </item>
   </channel>
 </rss>
