@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jul 24 2021</lastBuildDate>
+    <lastBuildDate>Sun Jul 25 2021</lastBuildDate>
+    <item>
+      <title>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</title>
+      <description>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</description>
+      <link>https://napipatrik.hu/131/</link>
+      <pubDate>Sun Jul 25 2021</pubDate>
+    </item>
     <item>
       <title>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</title>
       <description>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</description>
@@ -60,12 +66,6 @@
       <description>Furikkal hozzák a szart, furikkal!</description>
       <link>https://napipatrik.hu/122/</link>
       <pubDate>Fri Jul 16 2021</pubDate>
-    </item>
-    <item>
-      <title>Örök lesz mint a nyomor, vagy mint a trágya termékben</title>
-      <description>Örök lesz mint a nyomor, vagy mint a trágya termékben</description>
-      <link>https://napipatrik.hu/121/</link>
-      <pubDate>Thu Jul 15 2021</pubDate>
     </item>
   </channel>
 </rss>
