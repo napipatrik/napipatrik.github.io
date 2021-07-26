@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jul 25 2021</lastBuildDate>
+    <lastBuildDate>Mon Jul 26 2021</lastBuildDate>
+    <item>
+      <title>A devops miatt nincs backup... Anyád miatt nincs backup!</title>
+      <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
+      <link>https://napipatrik.hu/132/</link>
+      <pubDate>Mon Jul 26 2021</pubDate>
+    </item>
     <item>
       <title>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</title>
       <description>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</description>
@@ -60,12 +66,6 @@
       <description>Mi a faszom vagyok én? Erdész?</description>
       <link>https://napipatrik.hu/123/</link>
       <pubDate>Sat Jul 17 2021</pubDate>
-    </item>
-    <item>
-      <title>Furikkal hozzák a szart, furikkal!</title>
-      <description>Furikkal hozzák a szart, furikkal!</description>
-      <link>https://napipatrik.hu/122/</link>
-      <pubDate>Fri Jul 16 2021</pubDate>
     </item>
   </channel>
 </rss>
