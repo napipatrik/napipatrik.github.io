@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jul 27 2021</lastBuildDate>
+    <lastBuildDate>Wed Jul 28 2021</lastBuildDate>
+    <item>
+      <title>Szerinted staffot vertek már meg?</title>
+      <description>Szerinted staffot vertek már meg?</description>
+      <link>https://napipatrik.hu/134/</link>
+      <pubDate>Wed Jul 28 2021</pubDate>
+    </item>
     <item>
       <title>Csaba, gombokért vagyunk itt!</title>
       <description>Csaba, gombokért vagyunk itt!</description>
@@ -60,12 +66,6 @@
       <description>Ez bazmeg, a hónap dolgozója képtelen erre...</description>
       <link>https://napipatrik.hu/125/</link>
       <pubDate>Mon Jul 19 2021</pubDate>
-    </item>
-    <item>
-      <title>Mi a szaros gödörben vagyunk Gábor, csak kicsit belekortyoltunk</title>
-      <description>Mi a szaros gödörben vagyunk Gábor, csak kicsit belekortyoltunk</description>
-      <link>https://napipatrik.hu/124/</link>
-      <pubDate>Sun Jul 18 2021</pubDate>
     </item>
   </channel>
 </rss>
