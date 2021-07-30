@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jul 29 2021</lastBuildDate>
+    <lastBuildDate>Fri Jul 30 2021</lastBuildDate>
+    <item>
+      <title>A faszerdő nem vár, elindult már...</title>
+      <description>A faszerdő nem vár, elindult már...</description>
+      <link>https://napipatrik.hu/136/</link>
+      <pubDate>Fri Jul 30 2021</pubDate>
+    </item>
     <item>
       <title>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</title>
       <description>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</description>
@@ -60,12 +66,6 @@
       <description>Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.</description>
       <link>https://napipatrik.hu/127/</link>
       <pubDate>Wed Jul 21 2021</pubDate>
-    </item>
-    <item>
-      <title>Tudod, hogy szaporodik a puppet master? VM clone...</title>
-      <description>Tudod, hogy szaporodik a puppet master? VM clone...</description>
-      <link>https://napipatrik.hu/126/</link>
-      <pubDate>Tue Jul 20 2021</pubDate>
     </item>
   </channel>
 </rss>
