@@ -446,12 +446,12 @@ var patrikok = [
     'Menjél szépen dolgozni, kisbaltazzál kicsit a talpasaiddal, ne csak a vizet hordd nekik! Bár ebben a nagy melegben biztos örülnek ha sokat hordasz.',
     'Retrón nem jön fel, hogy próbáltok erdőgazdálkodást folytatni, de az nem egészen optimális irány, hogy Ti/Te gyéríted, gondozod az erdőt, míg más csak ülteti az új erdőterületeket?',
     'Elkezdődött az út az erdő legsötétebb, legmocsarasabb része felé. A körszakállak csak úgy repkednek, de ezek már vad körszakállak, nem válogatnak, bármilyen szabad testnyílásba beférkőznek.',
-    'Kezd bennem körvonalazódni egy új általános igazság, csak még nincs meg teljesen a szövege, de sok tömás után sok körszakáll következik és éppen hogy koppant az sms, már fáj a segglyukam.',
-    'Nem lehet csak úgy resourceokat letenni, drágítják a terméket, minden cent számít! Ezekhez képest lófasz a pesti talpasoknak az a 2 szál répa, amit hetente kapnak, de amúgy a snack nem fog hiányozni, mert kapsz helyette körszakállt, amit egesznap nyamnyoghatsz.',
+    'Kezd bennem körvonalazódni egy új általános igazság, csak még nincs meg teljesen a szövege, de sok tömés után sok körszakáll következik és éppen hogy koppant az sms, már fáj a segglyukam.',
+    'Nem lehet csak úgy resourceokat letenni, drágítják a terméket, minden cent számít! Ezekhez képest lófasz a pesti talpasoknak az a 2 szál répa, amit hetente kapnak, de amúgy a snack nem fog hiányozni, mert kapsz helyette körszakállt, amit egész nap nyamnyoghatsz.',
     'Ott nincs hígfosba mártogatva a körszakáll?',
     'Lehet el kéne menni managernek és én is áttérhetnék terminálrol excelre. Nem kéne szopni az erdőben, csak csattogtatni, hogy miért szar.',
     'Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.',
-    'Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkat... csak a nyűg az erdőváltás miatt.',
+    'Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.',
 ];
 var tutik = patrikok;
 
