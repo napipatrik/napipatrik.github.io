@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Aug 04 2021</lastBuildDate>
+    <lastBuildDate>Thu Aug 05 2021</lastBuildDate>
+    <item>
+      <title>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</title>
+      <description>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</description>
+      <link>https://napipatrik.hu/259/</link>
+      <pubDate>Thu Aug 05 2021</pubDate>
+    </item>
     <item>
       <title>Ami Észak-Koreában anonym, az nekünk HA-ban van</title>
       <description>Ami Észak-Koreában anonym, az nekünk HA-ban van</description>
@@ -60,12 +66,6 @@
       <description>Csaba, gombokért vagyunk itt!</description>
       <link>https://napipatrik.hu/133/</link>
       <pubDate>Tue Jul 27 2021</pubDate>
-    </item>
-    <item>
-      <title>A devops miatt nincs backup... Anyád miatt nincs backup!</title>
-      <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
-      <link>https://napipatrik.hu/132/</link>
-      <pubDate>Mon Jul 26 2021</pubDate>
     </item>
   </channel>
 </rss>
