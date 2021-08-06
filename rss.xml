@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Aug 05 2021</lastBuildDate>
+    <lastBuildDate>Fri Aug 06 2021</lastBuildDate>
+    <item>
+      <title>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</title>
+      <description>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</description>
+      <link>https://napipatrik.hu/260/</link>
+      <pubDate>Fri Aug 06 2021</pubDate>
+    </item>
     <item>
       <title>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</title>
       <description>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</description>
@@ -60,12 +66,6 @@
       <description>Szerinted staffot vertek már meg?</description>
       <link>https://napipatrik.hu/134/</link>
       <pubDate>Wed Jul 28 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba, gombokért vagyunk itt!</title>
-      <description>Csaba, gombokért vagyunk itt!</description>
-      <link>https://napipatrik.hu/133/</link>
-      <pubDate>Tue Jul 27 2021</pubDate>
     </item>
   </channel>
 </rss>
