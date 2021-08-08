@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Aug 07 2021</lastBuildDate>
+    <lastBuildDate>Sun Aug 08 2021</lastBuildDate>
+    <item>
+      <title>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
+Patrik: Faszerdőt!</title>
+      <description>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
+Patrik: Faszerdőt!</description>
+      <link>https://napipatrik.hu/262/</link>
+      <pubDate>Sun Aug 08 2021</pubDate>
+    </item>
     <item>
       <title>Az erdőben is jön a hosszú lófasz és nem látom a végét</title>
       <description>Az erdőben is jön a hosszú lófasz és nem látom a végét</description>
@@ -60,12 +68,6 @@
       <description>A faszerdő nem vár, elindult már...</description>
       <link>https://napipatrik.hu/136/</link>
       <pubDate>Fri Jul 30 2021</pubDate>
-    </item>
-    <item>
-      <title>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</title>
-      <description>A jó erdész nem megy a faszerdőbe, a jó erdész megvárja a faszerdőt!</description>
-      <link>https://napipatrik.hu/135/</link>
-      <pubDate>Thu Jul 29 2021</pubDate>
     </item>
   </channel>
 </rss>
