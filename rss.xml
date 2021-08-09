@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 08 2021</lastBuildDate>
+    <lastBuildDate>Mon Aug 09 2021</lastBuildDate>
+    <item>
+      <title>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</title>
+      <description>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</description>
+      <link>https://napipatrik.hu/263/</link>
+      <pubDate>Mon Aug 09 2021</pubDate>
+    </item>
     <item>
       <title>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
 Patrik: Faszerdőt!</title>
@@ -62,12 +68,6 @@ Patrik: Faszerdőt!</description>
       <description>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</description>
       <link>https://napipatrik.hu/137/</link>
       <pubDate>Sat Jul 31 2021</pubDate>
-    </item>
-    <item>
-      <title>A faszerdő nem vár, elindult már...</title>
-      <description>A faszerdő nem vár, elindult már...</description>
-      <link>https://napipatrik.hu/136/</link>
-      <pubDate>Fri Jul 30 2021</pubDate>
     </item>
   </channel>
 </rss>
