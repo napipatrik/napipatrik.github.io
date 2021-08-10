@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Aug 09 2021</lastBuildDate>
+    <lastBuildDate>Tue Aug 10 2021</lastBuildDate>
+    <item>
+      <title>Peti: ...hát nem lettem okosabb...
+Patrik: ez nem az a hely</title>
+      <description>Peti: ...hát nem lettem okosabb...
+Patrik: ez nem az a hely</description>
+      <link>https://napipatrik.hu/264/</link>
+      <pubDate>Tue Aug 10 2021</pubDate>
+    </item>
     <item>
       <title>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</title>
       <description>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</description>
@@ -62,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Lassan ott tartunk, hogy egy kukászsák okosabb...</description>
       <link>https://napipatrik.hu/138/</link>
       <pubDate>Sun Aug 01 2021</pubDate>
-    </item>
-    <item>
-      <title>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</title>
-      <description>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</description>
-      <link>https://napipatrik.hu/137/</link>
-      <pubDate>Sat Jul 31 2021</pubDate>
     </item>
   </channel>
 </rss>
