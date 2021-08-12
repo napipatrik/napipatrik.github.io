@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Aug 11 2021</lastBuildDate>
+    <lastBuildDate>Thu Aug 12 2021</lastBuildDate>
+    <item>
+      <title>Próbálok kicsit komoly lenni, de nem lehet!</title>
+      <description>Próbálok kicsit komoly lenni, de nem lehet!</description>
+      <link>https://napipatrik.hu/266/</link>
+      <pubDate>Thu Aug 12 2021</pubDate>
+    </item>
     <item>
       <title>Szar... ja legyünk pozitívak: szép szar</title>
       <description>Szar... ja legyünk pozitívak: szép szar</description>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Dávid, használd az erőt és pattintsd le a mamát</description>
       <link>https://napipatrik.hu/257/</link>
       <pubDate>Tue Aug 03 2021</pubDate>
-    </item>
-    <item>
-      <title>Nagyon szép, mint egy köröm a farkam végére</title>
-      <description>Nagyon szép, mint egy köröm a farkam végére</description>
-      <link>https://napipatrik.hu/256/</link>
-      <pubDate>Mon Aug 02 2021</pubDate>
     </item>
   </channel>
 </rss>
