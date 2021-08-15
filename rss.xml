@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Aug 14 2021</lastBuildDate>
+    <lastBuildDate>Sun Aug 15 2021</lastBuildDate>
+    <item>
+      <title>Ha egy DC-t láttál, láttad az összeset</title>
+      <description>Ha egy DC-t láttál, láttad az összeset</description>
+      <link>https://napipatrik.hu/269/</link>
+      <pubDate>Sun Aug 15 2021</pubDate>
+    </item>
     <item>
       <title>András! Egyre kevesebb a szar!</title>
       <description>András! Egyre kevesebb a szar!</description>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</description>
       <link>https://napipatrik.hu/260/</link>
       <pubDate>Fri Aug 06 2021</pubDate>
-    </item>
-    <item>
-      <title>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</title>
-      <description>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</description>
-      <link>https://napipatrik.hu/259/</link>
-      <pubDate>Thu Aug 05 2021</pubDate>
     </item>
   </channel>
 </rss>
