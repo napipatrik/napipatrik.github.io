@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 15 2021</lastBuildDate>
+    <lastBuildDate>Mon Aug 16 2021</lastBuildDate>
+    <item>
+      <title>A legélesebb nyél</title>
+      <description>A legélesebb nyél</description>
+      <link>https://napipatrik.hu/270/</link>
+      <pubDate>Mon Aug 16 2021</pubDate>
+    </item>
     <item>
       <title>Ha egy DC-t láttál, láttad az összeset</title>
       <description>Ha egy DC-t láttál, láttad az összeset</description>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Az erdőben is jön a hosszú lófasz és nem látom a végét</description>
       <link>https://napipatrik.hu/261/</link>
       <pubDate>Sat Aug 07 2021</pubDate>
-    </item>
-    <item>
-      <title>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</title>
-      <description>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</description>
-      <link>https://napipatrik.hu/260/</link>
-      <pubDate>Fri Aug 06 2021</pubDate>
     </item>
   </channel>
 </rss>
