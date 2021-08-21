@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Aug 20 2021</lastBuildDate>
+    <lastBuildDate>Sat Aug 21 2021</lastBuildDate>
+    <item>
+      <title>Egy termék mind felett!</title>
+      <description>Egy termék mind felett!</description>
+      <link>https://napipatrik.hu/275/</link>
+      <pubDate>Sat Aug 21 2021</pubDate>
+    </item>
     <item>
       <title>Kurva customerek, csak a baj van velük</title>
       <description>Kurva customerek, csak a baj van velük</description>
@@ -60,12 +66,6 @@
       <description>Próbálok kicsit komoly lenni, de nem lehet!</description>
       <link>https://napipatrik.hu/266/</link>
       <pubDate>Thu Aug 12 2021</pubDate>
-    </item>
-    <item>
-      <title>Szar... ja legyünk pozitívak: szép szar</title>
-      <description>Szar... ja legyünk pozitívak: szép szar</description>
-      <link>https://napipatrik.hu/265/</link>
-      <pubDate>Wed Aug 11 2021</pubDate>
     </item>
   </channel>
 </rss>
