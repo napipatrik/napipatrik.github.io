@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 22 2021</lastBuildDate>
+    <lastBuildDate>Mon Aug 23 2021</lastBuildDate>
+    <item>
+      <title>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</title>
+      <description>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</description>
+      <link>https://napipatrik.hu/277/</link>
+      <pubDate>Mon Aug 23 2021</pubDate>
+    </item>
     <item>
       <title>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</title>
       <description>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</description>
@@ -60,12 +66,6 @@
       <description>András! Egyre kevesebb a szar!</description>
       <link>https://napipatrik.hu/268/</link>
       <pubDate>Sat Aug 14 2021</pubDate>
-    </item>
-    <item>
-      <title>Nem jó helyen álltam, pont a fospermetben aztán elkapott</title>
-      <description>Nem jó helyen álltam, pont a fospermetben aztán elkapott</description>
-      <link>https://napipatrik.hu/267/</link>
-      <pubDate>Fri Aug 13 2021</pubDate>
     </item>
   </channel>
 </rss>
