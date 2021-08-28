@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Aug 27 2021</lastBuildDate>
+    <lastBuildDate>Sat Aug 28 2021</lastBuildDate>
+    <item>
+      <title>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</title>
+      <description>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</description>
+      <link>https://napipatrik.hu/282/</link>
+      <pubDate>Sat Aug 28 2021</pubDate>
+    </item>
     <item>
       <title>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</title>
       <description>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</description>
@@ -60,12 +66,6 @@
       <description>Laci, szeretnél undorítóskodni?</description>
       <link>https://napipatrik.hu/273/</link>
       <pubDate>Thu Aug 19 2021</pubDate>
-    </item>
-    <item>
-      <title>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején</title>
-      <description>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején</description>
-      <link>https://napipatrik.hu/272/</link>
-      <pubDate>Wed Aug 18 2021</pubDate>
     </item>
   </channel>
 </rss>
