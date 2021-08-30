@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 29 2021</lastBuildDate>
+    <lastBuildDate>Mon Aug 30 2021</lastBuildDate>
+    <item>
+      <title>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</title>
+      <description>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</description>
+      <link>https://napipatrik.hu/284/</link>
+      <pubDate>Mon Aug 30 2021</pubDate>
+    </item>
     <item>
       <title>Ide nem kell doksi, a jó engineer reverseli</title>
       <description>Ide nem kell doksi, a jó engineer reverseli</description>
@@ -60,12 +66,6 @@
       <description>Egy termék mind felett!</description>
       <link>https://napipatrik.hu/275/</link>
       <pubDate>Sat Aug 21 2021</pubDate>
-    </item>
-    <item>
-      <title>Kurva customerek, csak a baj van velük</title>
-      <description>Kurva customerek, csak a baj van velük</description>
-      <link>https://napipatrik.hu/274/</link>
-      <pubDate>Fri Aug 20 2021</pubDate>
     </item>
   </channel>
 </rss>
