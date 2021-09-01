@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Aug 31 2021</lastBuildDate>
+    <lastBuildDate>Wed Sep 01 2021</lastBuildDate>
+    <item>
+      <title>Az a baj a tojással, hogy... tojás</title>
+      <description>Az a baj a tojással, hogy... tojás</description>
+      <link>https://napipatrik.hu/286/</link>
+      <pubDate>Wed Sep 01 2021</pubDate>
+    </item>
     <item>
       <title>Ezek tények, ezt alap igazságba kéne tenni</title>
       <description>Ezek tények, ezt alap igazságba kéne tenni</description>
@@ -60,12 +66,6 @@
       <description>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</description>
       <link>https://napipatrik.hu/277/</link>
       <pubDate>Mon Aug 23 2021</pubDate>
-    </item>
-    <item>
-      <title>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</title>
-      <description>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</description>
-      <link>https://napipatrik.hu/276/</link>
-      <pubDate>Sun Aug 22 2021</pubDate>
     </item>
   </channel>
 </rss>
