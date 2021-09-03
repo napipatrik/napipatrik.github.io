@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 02 2021</lastBuildDate>
+    <lastBuildDate>Fri Sep 03 2021</lastBuildDate>
+    <item>
+      <title>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</title>
+      <description>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</description>
+      <link>https://napipatrik.hu/288/</link>
+      <pubDate>Fri Sep 03 2021</pubDate>
+    </item>
     <item>
       <title>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</title>
       <description>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</description>
@@ -60,12 +66,6 @@
       <description>Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.</description>
       <link>https://napipatrik.hu/279/</link>
       <pubDate>Wed Aug 25 2021</pubDate>
-    </item>
-    <item>
-      <title>Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának</title>
-      <description>Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának</description>
-      <link>https://napipatrik.hu/278/</link>
-      <pubDate>Tue Aug 24 2021</pubDate>
     </item>
   </channel>
 </rss>
