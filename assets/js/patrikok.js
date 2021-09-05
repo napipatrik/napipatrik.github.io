@@ -452,6 +452,15 @@ var patrikok = [
     'Lehet el kéne menni managernek és én is áttérhetnék terminálrol excelre. Nem kéne szopni az erdőben, csak csattogtatni, hogy miért szar.',
     'Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.',
     'Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.',
+    '[miután András tudtán kívül manager lett] Régen még tudtam kisbaltázni. Bejártam az erdőbe, puszta kézzel téptem a gyapotot, de manapság már csak az Excel mezőin tengetem a napjaim és a kezembe is már csak ostor kerül.',
+    'A pillanat, amikor realizálod, hogy az bizony a te gányolásod, az bizony priceless.',
+    'Holnap olyan bullshit permet ömlik majd az arcomba, csak győzzem kortyolni!',
+    'Most tértem meg! Megjelent előttem Jézus Krisztus és mondta, hogy a húsevés nem lesz jó tesa, a mennybe répán és krumplin vezet az út, én meg mondtam, hogy adom tesó.',
+    'Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.',
+    '...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!',
+    'A pina az jó.',
+    '...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.',
+    'Obsolate tudásom határtalan',
 ];
 var tutik = patrikok;
 
