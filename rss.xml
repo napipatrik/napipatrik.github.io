@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Sep 08 2021</lastBuildDate>
+    <lastBuildDate>Thu Sep 09 2021</lastBuildDate>
+    <item>
+      <title>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</title>
+      <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
+      <link>https://napipatrik.hu/294/</link>
+      <pubDate>Thu Sep 09 2021</pubDate>
+    </item>
     <item>
       <title>Minek alerting ha van szemed és tvd?</title>
       <description>Minek alerting ha van szemed és tvd?</description>
@@ -60,12 +66,6 @@
       <description>Ezek tények, ezt alap igazságba kéne tenni</description>
       <link>https://napipatrik.hu/285/</link>
       <pubDate>Tue Aug 31 2021</pubDate>
-    </item>
-    <item>
-      <title>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</title>
-      <description>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</description>
-      <link>https://napipatrik.hu/284/</link>
-      <pubDate>Mon Aug 30 2021</pubDate>
     </item>
   </channel>
 </rss>
