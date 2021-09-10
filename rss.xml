@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 09 2021</lastBuildDate>
+    <lastBuildDate>Fri Sep 10 2021</lastBuildDate>
+    <item>
+      <title>...de attól ne basszon fel a faszságával!</title>
+      <description>...de attól ne basszon fel a faszságával!</description>
+      <link>https://napipatrik.hu/295/</link>
+      <pubDate>Fri Sep 10 2021</pubDate>
+    </item>
     <item>
       <title>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</title>
       <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
@@ -60,12 +66,6 @@
       <description>Az a baj a tojással, hogy... tojás</description>
       <link>https://napipatrik.hu/286/</link>
       <pubDate>Wed Sep 01 2021</pubDate>
-    </item>
-    <item>
-      <title>Ezek tények, ezt alap igazságba kéne tenni</title>
-      <description>Ezek tények, ezt alap igazságba kéne tenni</description>
-      <link>https://napipatrik.hu/285/</link>
-      <pubDate>Tue Aug 31 2021</pubDate>
     </item>
   </channel>
 </rss>
