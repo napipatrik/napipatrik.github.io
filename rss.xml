@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Sep 10 2021</lastBuildDate>
+    <lastBuildDate>Sat Sep 11 2021</lastBuildDate>
+    <item>
+      <title>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</title>
+      <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
+      <link>https://napipatrik.hu/296/</link>
+      <pubDate>Sat Sep 11 2021</pubDate>
+    </item>
     <item>
       <title>...de attól ne basszon fel a faszságával!</title>
       <description>...de attól ne basszon fel a faszságával!</description>
@@ -60,12 +66,6 @@
       <description>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</description>
       <link>https://napipatrik.hu/287/</link>
       <pubDate>Thu Sep 02 2021</pubDate>
-    </item>
-    <item>
-      <title>Az a baj a tojással, hogy... tojás</title>
-      <description>Az a baj a tojással, hogy... tojás</description>
-      <link>https://napipatrik.hu/286/</link>
-      <pubDate>Wed Sep 01 2021</pubDate>
     </item>
   </channel>
 </rss>
