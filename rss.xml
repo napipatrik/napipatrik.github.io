@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Sep 13 2021</lastBuildDate>
+    <lastBuildDate>Tue Sep 14 2021</lastBuildDate>
+    <item>
+      <title>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
+Patrik: Hát annyira senki</title>
+      <description>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
+Patrik: Hát annyira senki</description>
+      <link>https://napipatrik.hu/299/</link>
+      <pubDate>Tue Sep 14 2021</pubDate>
+    </item>
     <item>
       <title>A férfiak jobb szakácsok</title>
       <description>A férfiak jobb szakácsok</description>
@@ -60,12 +68,6 @@
       <description>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</description>
       <link>https://napipatrik.hu/290/</link>
       <pubDate>Sun Sep 05 2021</pubDate>
-    </item>
-    <item>
-      <title>Fér még oda</title>
-      <description>Fér még oda</description>
-      <link>https://napipatrik.hu/289/</link>
-      <pubDate>Sat Sep 04 2021</pubDate>
     </item>
   </channel>
 </rss>
