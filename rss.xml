@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 16 2021</lastBuildDate>
+    <lastBuildDate>Fri Sep 17 2021</lastBuildDate>
+    <item>
+      <title>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</title>
+      <description>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</description>
+      <link>https://napipatrik.hu/302/</link>
+      <pubDate>Fri Sep 17 2021</pubDate>
+    </item>
     <item>
       <title>Laci: Datadog hogy fut egyébként?
 Patrik: 4 lábon</title>
@@ -64,12 +70,6 @@ Patrik: Hát annyira senki</description>
       <description>Minek alerting ha van szemed és tvd?</description>
       <link>https://napipatrik.hu/293/</link>
       <pubDate>Wed Sep 08 2021</pubDate>
-    </item>
-    <item>
-      <title>András, vajazó késsel beleztek már ki embert?</title>
-      <description>András, vajazó késsel beleztek már ki embert?</description>
-      <link>https://napipatrik.hu/292/</link>
-      <pubDate>Tue Sep 07 2021</pubDate>
     </item>
   </channel>
 </rss>
