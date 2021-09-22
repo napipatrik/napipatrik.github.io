@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Sep 21 2021</lastBuildDate>
+    <lastBuildDate>Wed Sep 22 2021</lastBuildDate>
+    <item>
+      <title>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</title>
+      <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
+      <link>https://napipatrik.hu/307/</link>
+      <pubDate>Wed Sep 22 2021</pubDate>
+    </item>
     <item>
       <title>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</title>
       <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
@@ -72,12 +78,6 @@ Patrik: Hát annyira senki</description>
       <description>A férfiak jobb szakácsok</description>
       <link>https://napipatrik.hu/298/</link>
       <pubDate>Mon Sep 13 2021</pubDate>
-    </item>
-    <item>
-      <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
-      <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
-      <link>https://napipatrik.hu/297/</link>
-      <pubDate>Sun Sep 12 2021</pubDate>
     </item>
   </channel>
 </rss>
