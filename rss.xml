@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Sep 22 2021</lastBuildDate>
+    <lastBuildDate>Thu Sep 23 2021</lastBuildDate>
+    <item>
+      <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
+      <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
+      <link>https://napipatrik.hu/308/</link>
+      <pubDate>Thu Sep 23 2021</pubDate>
+    </item>
     <item>
       <title>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</title>
       <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
@@ -72,12 +78,6 @@ Patrik: Hát annyira senki</title>
 Patrik: Hát annyira senki</description>
       <link>https://napipatrik.hu/299/</link>
       <pubDate>Tue Sep 14 2021</pubDate>
-    </item>
-    <item>
-      <title>A férfiak jobb szakácsok</title>
-      <description>A férfiak jobb szakácsok</description>
-      <link>https://napipatrik.hu/298/</link>
-      <pubDate>Mon Sep 13 2021</pubDate>
     </item>
   </channel>
 </rss>
