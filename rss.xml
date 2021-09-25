@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Sep 24 2021</lastBuildDate>
+    <lastBuildDate>Sat Sep 25 2021</lastBuildDate>
+    <item>
+      <title>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem.</title>
+      <description>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem.</description>
+      <link>https://napipatrik.hu/310/</link>
+      <pubDate>Sat Sep 25 2021</pubDate>
+    </item>
     <item>
       <title>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</title>
       <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</description>
@@ -70,12 +76,6 @@ Patrik: 4 lábon</title>
 Patrik: 4 lábon</description>
       <link>https://napipatrik.hu/301/</link>
       <pubDate>Thu Sep 16 2021</pubDate>
-    </item>
-    <item>
-      <title>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</title>
-      <description>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</description>
-      <link>https://napipatrik.hu/300/</link>
-      <pubDate>Wed Sep 15 2021</pubDate>
     </item>
   </channel>
 </rss>
