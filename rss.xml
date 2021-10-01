@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 30 2021</lastBuildDate>
+    <lastBuildDate>Fri Oct 01 2021</lastBuildDate>
+    <item>
+      <title>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</title>
+      <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
+      <link>https://napipatrik.hu/316/</link>
+      <pubDate>Fri Oct 01 2021</pubDate>
+    </item>
     <item>
       <title>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</title>
       <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
@@ -60,12 +66,6 @@
       <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
       <link>https://napipatrik.hu/307/</link>
       <pubDate>Wed Sep 22 2021</pubDate>
-    </item>
-    <item>
-      <title>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</title>
-      <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
-      <link>https://napipatrik.hu/306/</link>
-      <pubDate>Tue Sep 21 2021</pubDate>
     </item>
   </channel>
 </rss>
