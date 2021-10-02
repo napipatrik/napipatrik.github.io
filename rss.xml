@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 01 2021</lastBuildDate>
+    <lastBuildDate>Sat Oct 02 2021</lastBuildDate>
+    <item>
+      <title>De nekem mindig igazam van</title>
+      <description>De nekem mindig igazam van</description>
+      <link>https://napipatrik.hu/317/</link>
+      <pubDate>Sat Oct 02 2021</pubDate>
+    </item>
     <item>
       <title>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</title>
       <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
@@ -60,12 +66,6 @@
       <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
       <link>https://napipatrik.hu/308/</link>
       <pubDate>Thu Sep 23 2021</pubDate>
-    </item>
-    <item>
-      <title>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</title>
-      <description>Nem tudtál fűre lépni, mindenhol szar volt, és ahogy lehajtott fejjel nézted, hogy hova tudnál lépni, hogy ne legyél nyakig szaros, a lófaszok kopogtatták a tarkódat és csiklandozták a púzódat</description>
-      <link>https://napipatrik.hu/307/</link>
-      <pubDate>Wed Sep 22 2021</pubDate>
     </item>
   </channel>
 </rss>
