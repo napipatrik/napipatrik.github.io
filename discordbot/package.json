@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/napipatrik/napipatrik.github.io#readme",
   "dependencies": {
-    "discord.js": "github:discordjs/discord.js#master"
+    "discord.js": "^13.1.0"
   }
 }

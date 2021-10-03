@@ -11,25 +11,25 @@
     <body>
         <div class="container-fluid">
             <div class="row">
-                <h1><a href="https://napipatrik.hu/" target="_blank" onclick="window.close();">Napi Patrik - az elégedetlen DevOpsos</a></h1>
+                <h1><a id="header-link" href="https://napipatrik.hu/" target="_blank">Napi Patrik - az elégedetlen DevOpsos</a></h1>
             </div>
             <div class="row">
                 <div class="col">
                     <p id="napipatrik"></p>
                 </div>
                 <div class="col-4">
-                    <button type="button" class="btn btn-outline-light btn-block" onclick="copyPermalink()">Permalink</button>
-                    <button type="button" class="btn btn-outline-light btn-block" onclick="copyNapiKep()">Napi kép</button>
+                    <button id="copy-permalink-btn" type="button" class="btn btn-outline-light btn-block">Permalink</button>
+                    <button id="copy-daily-pic-btn" type="button" class="btn btn-outline-light btn-block">Napi kép</button>
                 </div>
             </div>
             <div class="row" id="tutikereso-gomb-container">
                 <div class="col">
-                    <button type="button" class="btn btn-outline-light btn-block" onclick="expandTutikereso()">Tutikereső</button>
+                    <button id="expand-search-btn" type="button" class="btn btn-outline-light btn-block">Tutikereső</button>
                 </div>
             </div>
             <div class="row tutikereso">
                 <div class="col">
-                    <input type="text" class="form-control" placeholder="tutikereső..." id="tuti-search" onkeyup="searchInList()">
+                    <input type="text" class="form-control" placeholder="tutikereső..." id="tuti-search">
                 </div>
             </div>
             <div class="row tutikereso tutilist-container">
@@ -39,20 +39,6 @@
             </div>
         </div>
         <script src="patrikok.js"></script>
-        <script>
-            var napiId;
-
-            fetch('https://napipatrik.hu/napipatrik')
-                .then(response => response.text())
-                .then(raw => raw.trim().replace(/\n/g, '<br/>'))
-                .then(data => document.getElementById('napipatrik').innerHTML = data);
-
-            fetch('https://napipatrik.hu/napipatrik.id')
-                .then(response => response.text())
-                .then(raw => raw.trim())
-                .then(data => napiId = data);
-
-            loadSearch();
-        </script>
+        <script src="popupBootstrap.js"></script>
     </body>
 </html>

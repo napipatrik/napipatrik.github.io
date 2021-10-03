@@ -1,7 +1,7 @@
 const domain = 'napipatrik.hu';
 
 function copyPermalink(i) {
-	const link = 'https://' + domain + '/' + (i ? i : napiId) + '/';
+	const link = 'https://' + domain + '/' + (i ? i : window.napiId) + '/';
 	copyTextToClipboard(link);
 	document.getElementById("tuti-search").value = '';
 	window.close();

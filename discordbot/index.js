@@ -52,20 +52,25 @@ const commandData = {
 };
 
 client.on('ready', () => {
+  console.log('Registering slash commands');
   client.application.commands.create(commandData);
 
   console.log(helper.sitename + ' bot is ready!');
 });
 
-client.on('interaction', interaction => {
-  if (!interaction.isCommand())
+client.on('interactionCreate', interaction => {
+  if (!interaction.isCommand()) {
     return;
+  }
 
   if (interaction.commandName === helper.sitename) {
-    let what = helper.unaccent(interaction.options[0].name.toLowerCase()), args = [];
+    let what = helper.unaccent(interaction.options.getSubcommand().toLowerCase()), args = [];
 
-    if (['keress', 'id'].includes(what)) {
-      args = helper.unaccent(interaction.options[0].options[0].value.toLowerCase()).split(' ');
+    if (['id'].includes(what)) {
+      args = [interaction.options.getInteger('id')];
+    }
+    if (['keress'].includes(what)) {
+      args = helper.unaccent(interaction.options.getString('keywords').toLowerCase()).split(' ');
     }
 
     if (what === 'kep') {
@@ -90,7 +95,7 @@ client.on('interaction', interaction => {
   }
 });
 
-client.on('message', message => {
+client.on('messageCreate', message => {
   const parts = helper.unaccent(message.content.toLowerCase()).split(' ');
 
   if (parts[0] !== helper.sitename) {
