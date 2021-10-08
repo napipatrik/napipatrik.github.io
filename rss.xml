@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Oct 07 2021</lastBuildDate>
+    <lastBuildDate>Fri Oct 08 2021</lastBuildDate>
+    <item>
+      <title>Ahova nyúlok, ott szar terem.</title>
+      <description>Ahova nyúlok, ott szar terem.</description>
+      <link>https://napipatrik.hu/416/</link>
+      <pubDate>Fri Oct 08 2021</pubDate>
+    </item>
     <item>
       <title>Érted, ha nem csinálok semmit, nem okozok gondot.</title>
       <description>Érted, ha nem csinálok semmit, nem okozok gondot.</description>
@@ -60,12 +66,6 @@
       <description>Hisz aki dilettáns, az mindenhol dilettáns!</description>
       <link>https://napipatrik.hu/314/</link>
       <pubDate>Wed Sep 29 2021</pubDate>
-    </item>
-    <item>
-      <title>Egy rendes ember magának pasztázza a processzorát</title>
-      <description>Egy rendes ember magának pasztázza a processzorát</description>
-      <link>https://napipatrik.hu/313/</link>
-      <pubDate>Tue Sep 28 2021</pubDate>
     </item>
   </channel>
 </rss>
