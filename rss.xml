@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 08 2021</lastBuildDate>
+    <lastBuildDate>Sat Oct 09 2021</lastBuildDate>
+    <item>
+      <title>Komolyan baszki, kezdem érteni az összefüggést:
+Egyik cég -&gt; minden szar mert régi
+Másik cég -&gt; minden szar mert industrial standard
+Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a képletben: az pedig a lóvé, hogy mennyi pénzért nyeled a repkedő lófaszokat.</title>
+      <description>Komolyan baszki, kezdem érteni az összefüggést:
+Egyik cég -&gt; minden szar mert régi
+Másik cég -&gt; minden szar mert industrial standard
+Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a képletben: az pedig a lóvé, hogy mennyi pénzért nyeled a repkedő lófaszokat.</description>
+      <link>https://napipatrik.hu/417/</link>
+      <pubDate>Sat Oct 09 2021</pubDate>
+    </item>
     <item>
       <title>Ahova nyúlok, ott szar terem.</title>
       <description>Ahova nyúlok, ott szar terem.</description>
@@ -60,12 +72,6 @@
       <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
       <link>https://napipatrik.hu/315/</link>
       <pubDate>Thu Sep 30 2021</pubDate>
-    </item>
-    <item>
-      <title>Hisz aki dilettáns, az mindenhol dilettáns!</title>
-      <description>Hisz aki dilettáns, az mindenhol dilettáns!</description>
-      <link>https://napipatrik.hu/314/</link>
-      <pubDate>Wed Sep 29 2021</pubDate>
     </item>
   </channel>
 </rss>
