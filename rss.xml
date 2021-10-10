@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Oct 09 2021</lastBuildDate>
+    <lastBuildDate>Sun Oct 10 2021</lastBuildDate>
+    <item>
+      <title>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</title>
+      <description>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</description>
+      <link>https://napipatrik.hu/418/</link>
+      <pubDate>Sun Oct 10 2021</pubDate>
+    </item>
     <item>
       <title>Komolyan baszki, kezdem érteni az összefüggést:
 Egyik cég -&gt; minden szar mert régi
@@ -66,12 +72,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
       <link>https://napipatrik.hu/316/</link>
       <pubDate>Fri Oct 01 2021</pubDate>
-    </item>
-    <item>
-      <title>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</title>
-      <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
-      <link>https://napipatrik.hu/315/</link>
-      <pubDate>Thu Sep 30 2021</pubDate>
     </item>
   </channel>
 </rss>
