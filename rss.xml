@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Oct 10 2021</lastBuildDate>
+    <lastBuildDate>Mon Oct 11 2021</lastBuildDate>
+    <item>
+      <title>Átengeded a szitán, mint Tamás a ticketet.</title>
+      <description>Átengeded a szitán, mint Tamás a ticketet.</description>
+      <link>https://napipatrik.hu/419/</link>
+      <pubDate>Mon Oct 11 2021</pubDate>
+    </item>
     <item>
       <title>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</title>
       <description>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</description>
@@ -66,12 +72,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>De nekem mindig igazam van</description>
       <link>https://napipatrik.hu/317/</link>
       <pubDate>Sat Oct 02 2021</pubDate>
-    </item>
-    <item>
-      <title>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</title>
-      <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
-      <link>https://napipatrik.hu/316/</link>
-      <pubDate>Fri Oct 01 2021</pubDate>
     </item>
   </channel>
 </rss>
