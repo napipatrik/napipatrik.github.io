@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Oct 11 2021</lastBuildDate>
+    <lastBuildDate>Tue Oct 12 2021</lastBuildDate>
+    <item>
+      <title>Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.</title>
+      <description>Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.</description>
+      <link>https://napipatrik.hu/420/</link>
+      <pubDate>Tue Oct 12 2021</pubDate>
+    </item>
     <item>
       <title>Átengeded a szitán, mint Tamás a ticketet.</title>
       <description>Átengeded a szitán, mint Tamás a ticketet.</description>
@@ -66,12 +72,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
       <link>https://napipatrik.hu/318/</link>
       <pubDate>Sun Oct 03 2021</pubDate>
-    </item>
-    <item>
-      <title>De nekem mindig igazam van</title>
-      <description>De nekem mindig igazam van</description>
-      <link>https://napipatrik.hu/317/</link>
-      <pubDate>Sat Oct 02 2021</pubDate>
     </item>
   </channel>
 </rss>
