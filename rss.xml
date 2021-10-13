@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Oct 12 2021</lastBuildDate>
+    <lastBuildDate>Wed Oct 13 2021</lastBuildDate>
+    <item>
+      <title>Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!</title>
+      <description>Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!</description>
+      <link>https://napipatrik.hu/421/</link>
+      <pubDate>Wed Oct 13 2021</pubDate>
+    </item>
     <item>
       <title>Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.</title>
       <description>Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.</description>
@@ -66,12 +72,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>Hát Laci, a sírás kerülget</description>
       <link>https://napipatrik.hu/319/</link>
       <pubDate>Mon Oct 04 2021</pubDate>
-    </item>
-    <item>
-      <title>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</title>
-      <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
-      <link>https://napipatrik.hu/318/</link>
-      <pubDate>Sun Oct 03 2021</pubDate>
     </item>
   </channel>
 </rss>
