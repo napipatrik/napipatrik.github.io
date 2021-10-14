@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Oct 13 2021</lastBuildDate>
+    <lastBuildDate>Thu Oct 14 2021</lastBuildDate>
+    <item>
+      <title>Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?</title>
+      <description>Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?</description>
+      <link>https://napipatrik.hu/422/</link>
+      <pubDate>Thu Oct 14 2021</pubDate>
+    </item>
     <item>
       <title>Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!</title>
       <description>Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!</description>
@@ -66,12 +72,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen</description>
       <link>https://napipatrik.hu/320/</link>
       <pubDate>Tue Oct 05 2021</pubDate>
-    </item>
-    <item>
-      <title>Hát Laci, a sírás kerülget</title>
-      <description>Hát Laci, a sírás kerülget</description>
-      <link>https://napipatrik.hu/319/</link>
-      <pubDate>Mon Oct 04 2021</pubDate>
     </item>
   </channel>
 </rss>
