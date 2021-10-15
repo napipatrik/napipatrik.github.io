@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Oct 14 2021</lastBuildDate>
+    <lastBuildDate>Fri Oct 15 2021</lastBuildDate>
+    <item>
+      <title>Csaba: Miért nincs hammeryolo emoji?
+Patrik: mert az több, mint egy emoji: egy életérzés</title>
+      <description>Csaba: Miért nincs hammeryolo emoji?
+Patrik: mert az több, mint egy emoji: egy életérzés</description>
+      <link>https://napipatrik.hu/423/</link>
+      <pubDate>Fri Oct 15 2021</pubDate>
+    </item>
     <item>
       <title>Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?</title>
       <description>Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?</description>
@@ -66,12 +74,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</description>
       <link>https://napipatrik.hu/321/</link>
       <pubDate>Wed Oct 06 2021</pubDate>
-    </item>
-    <item>
-      <title>Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen</title>
-      <description>Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen</description>
-      <link>https://napipatrik.hu/320/</link>
-      <pubDate>Tue Oct 05 2021</pubDate>
     </item>
   </channel>
 </rss>
