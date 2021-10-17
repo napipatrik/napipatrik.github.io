@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Oct 16 2021</lastBuildDate>
+    <lastBuildDate>Sun Oct 17 2021</lastBuildDate>
+    <item>
+      <title>A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömködsz.</title>
+      <description>A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömködsz.</description>
+      <link>https://napipatrik.hu/425/</link>
+      <pubDate>Sun Oct 17 2021</pubDate>
+    </item>
     <item>
       <title>Faszom, hogy legyek motivált erdész? Ha egy kicsit is elmosolyodik a szám, abban a pillanatban betalál egy körszakáll és azon a pici résen egyből tarkóig szalad.</title>
       <description>Faszom, hogy legyek motivált erdész? Ha egy kicsit is elmosolyodik a szám, abban a pillanatban betalál egy körszakáll és azon a pici résen egyből tarkóig szalad.</description>
@@ -68,12 +74,6 @@ Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a k
       <description>Ahova nyúlok, ott szar terem.</description>
       <link>https://napipatrik.hu/416/</link>
       <pubDate>Fri Oct 08 2021</pubDate>
-    </item>
-    <item>
-      <title>Érted, ha nem csinálok semmit, nem okozok gondot.</title>
-      <description>Érted, ha nem csinálok semmit, nem okozok gondot.</description>
-      <link>https://napipatrik.hu/415/</link>
-      <pubDate>Thu Oct 07 2021</pubDate>
     </item>
   </channel>
 </rss>
