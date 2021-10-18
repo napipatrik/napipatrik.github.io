@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Oct 17 2021</lastBuildDate>
+    <lastBuildDate>Mon Oct 18 2021</lastBuildDate>
+    <item>
+      <title>Tudjuk Csaba, tömött erdész, boldog erdész.</title>
+      <description>Tudjuk Csaba, tömött erdész, boldog erdész.</description>
+      <link>https://napipatrik.hu/426/</link>
+      <pubDate>Mon Oct 18 2021</pubDate>
+    </item>
     <item>
       <title>A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömködsz.</title>
       <description>A pénz a lényeg. A körszakállakat meg bírod. Összeszorítod a fogaid meg a púzód, aztán meg kisbaltázol az erdőben, letelik a 8 óra, kisbalta le, ánusz elernyed és örömködsz.</description>
@@ -68,12 +74,6 @@ Másik cég -&gt; minden szar mert industrial standard
 Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a képletben: az pedig a lóvé, hogy mennyi pénzért nyeled a repkedő lófaszokat.</description>
       <link>https://napipatrik.hu/417/</link>
       <pubDate>Sat Oct 09 2021</pubDate>
-    </item>
-    <item>
-      <title>Ahova nyúlok, ott szar terem.</title>
-      <description>Ahova nyúlok, ott szar terem.</description>
-      <link>https://napipatrik.hu/416/</link>
-      <pubDate>Fri Oct 08 2021</pubDate>
     </item>
   </channel>
 </rss>
