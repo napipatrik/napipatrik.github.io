@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Oct 18 2021</lastBuildDate>
+    <lastBuildDate>Tue Oct 19 2021</lastBuildDate>
+    <item>
+      <title>Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.</title>
+      <description>Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.</description>
+      <link>https://napipatrik.hu/427/</link>
+      <pubDate>Tue Oct 19 2021</pubDate>
+    </item>
     <item>
       <title>Tudjuk Csaba, tömött erdész, boldog erdész.</title>
       <description>Tudjuk Csaba, tömött erdész, boldog erdész.</description>
@@ -62,18 +68,6 @@ Patrik: mert az több, mint egy emoji: egy életérzés</description>
       <description>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</description>
       <link>https://napipatrik.hu/418/</link>
       <pubDate>Sun Oct 10 2021</pubDate>
-    </item>
-    <item>
-      <title>Komolyan baszki, kezdem érteni az összefüggést:
-Egyik cég -&gt; minden szar mert régi
-Másik cég -&gt; minden szar mert industrial standard
-Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a képletben: az pedig a lóvé, hogy mennyi pénzért nyeled a repkedő lófaszokat.</title>
-      <description>Komolyan baszki, kezdem érteni az összefüggést:
-Egyik cég -&gt; minden szar mert régi
-Másik cég -&gt; minden szar mert industrial standard
-Tehát ha az elméletem helyes, akkor mindig mindenhol szar, 1 változó van a képletben: az pedig a lóvé, hogy mennyi pénzért nyeled a repkedő lófaszokat.</description>
-      <link>https://napipatrik.hu/417/</link>
-      <pubDate>Sat Oct 09 2021</pubDate>
     </item>
   </channel>
 </rss>
