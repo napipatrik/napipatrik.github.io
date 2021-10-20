@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Oct 19 2021</lastBuildDate>
+    <lastBuildDate>Wed Oct 20 2021</lastBuildDate>
+    <item>
+      <title>Anno nagyobbnak hatott.</title>
+      <description>Anno nagyobbnak hatott.</description>
+      <link>https://napipatrik.hu/428/</link>
+      <pubDate>Wed Oct 20 2021</pubDate>
+    </item>
     <item>
       <title>Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.</title>
       <description>Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.</description>
@@ -62,12 +68,6 @@ Patrik: mert az több, mint egy emoji: egy életérzés</description>
       <description>Átengeded a szitán, mint Tamás a ticketet.</description>
       <link>https://napipatrik.hu/419/</link>
       <pubDate>Mon Oct 11 2021</pubDate>
-    </item>
-    <item>
-      <title>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</title>
-      <description>Hisz mi más is hozná meg a kedvet hozzá, mint az erdőben töltött nap. Kisbaltázol serényen, hullik a forgács, pereg a commit, aztán rájössz, hogy mindenhol szar az egész. Kis cég, nagy enterprise: az erdő örök.</description>
-      <link>https://napipatrik.hu/418/</link>
-      <pubDate>Sun Oct 10 2021</pubDate>
     </item>
   </channel>
 </rss>
