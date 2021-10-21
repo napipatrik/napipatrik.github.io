@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Oct 20 2021</lastBuildDate>
+    <lastBuildDate>Thu Oct 21 2021</lastBuildDate>
+    <item>
+      <title>Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.</title>
+      <description>Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.</description>
+      <link>https://napipatrik.hu/429/</link>
+      <pubDate>Thu Oct 21 2021</pubDate>
+    </item>
     <item>
       <title>Anno nagyobbnak hatott.</title>
       <description>Anno nagyobbnak hatott.</description>
@@ -62,12 +68,6 @@ Patrik: mert az több, mint egy emoji: egy életérzés</description>
       <description>Csináltatok névjegykártyát: devopsos, életművész, költő. Lassan rá se fér, annyi pozit rá tudok majd tenni. Ilyen hajtogatós lesz.</description>
       <link>https://napipatrik.hu/420/</link>
       <pubDate>Tue Oct 12 2021</pubDate>
-    </item>
-    <item>
-      <title>Átengeded a szitán, mint Tamás a ticketet.</title>
-      <description>Átengeded a szitán, mint Tamás a ticketet.</description>
-      <link>https://napipatrik.hu/419/</link>
-      <pubDate>Mon Oct 11 2021</pubDate>
     </item>
   </channel>
 </rss>
