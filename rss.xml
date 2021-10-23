@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 22 2021</lastBuildDate>
+    <lastBuildDate>Sat Oct 23 2021</lastBuildDate>
+    <item>
+      <title>Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.</title>
+      <description>Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.</description>
+      <link>https://napipatrik.hu/431/</link>
+      <pubDate>Sat Oct 23 2021</pubDate>
+    </item>
     <item>
       <title>De hát érted mit panaszkodjak? Én kapok a vízből is utoljára - már ha jut. De így is örülök, hogy nem a szájammal kell fokhagymát pucolni kinai böriben. Teljesen jó ez a gyapot föld.</title>
       <description>De hát érted mit panaszkodjak? Én kapok a vízből is utoljára - már ha jut. De így is örülök, hogy nem a szájammal kell fokhagymát pucolni kinai böriben. Teljesen jó ez a gyapot föld.</description>
@@ -62,12 +68,6 @@ Patrik: mert az több, mint egy emoji: egy életérzés</description>
       <description>Amúgy átadod valakinek a tudásod? Vagy hogy lesz? Leteszed a kisbaltát egy vitrinbe és eldobják a kulcsát?</description>
       <link>https://napipatrik.hu/422/</link>
       <pubDate>Thu Oct 14 2021</pubDate>
-    </item>
-    <item>
-      <title>Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!</title>
-      <description>Principalként túlfizetve, teljesen dilettánsan megbaszni a prodot, ezt jelenti a hammeryolo!</description>
-      <link>https://napipatrik.hu/421/</link>
-      <pubDate>Wed Oct 13 2021</pubDate>
     </item>
   </channel>
 </rss>
