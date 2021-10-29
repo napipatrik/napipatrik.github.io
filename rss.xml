@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Oct 28 2021</lastBuildDate>
+    <lastBuildDate>Fri Oct 29 2021</lastBuildDate>
+    <item>
+      <title>Jó, hogy produktív vagyok: minden jó projektünk le van lőve</title>
+      <description>Jó, hogy produktív vagyok: minden jó projektünk le van lőve</description>
+      <link>https://napipatrik.hu/437/</link>
+      <pubDate>Fri Oct 29 2021</pubDate>
+    </item>
     <item>
       <title>Szegény Csaba, visszamegy és akkora erdőbe lesz, amit a tömése se kompenzál. Könnyes szemmel fogja ritkítani és a tömés öröme teljesen elhomályosodik a fájdalomtól, amit a kósza repkedő körszakállak okoznak miközben szorgosan próbálja ritkítani.</title>
       <description>Szegény Csaba, visszamegy és akkora erdőbe lesz, amit a tömése se kompenzál. Könnyes szemmel fogja ritkítani és a tömés öröme teljesen elhomályosodik a fájdalomtól, amit a kósza repkedő körszakállak okoznak miközben szorgosan próbálja ritkítani.</description>
@@ -60,12 +66,6 @@
       <description>Anno nagyobbnak hatott.</description>
       <link>https://napipatrik.hu/428/</link>
       <pubDate>Wed Oct 20 2021</pubDate>
-    </item>
-    <item>
-      <title>Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.</title>
-      <description>Nincs kedvem a gyapot földre menni, de valakinek baszki le kell szedni a gyapotot.</description>
-      <link>https://napipatrik.hu/427/</link>
-      <pubDate>Tue Oct 19 2021</pubDate>
     </item>
   </channel>
 </rss>
