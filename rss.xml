@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 29 2021</lastBuildDate>
+    <lastBuildDate>Sat Oct 30 2021</lastBuildDate>
+    <item>
+      <title>"Hi Patrik, How are you today?"
+Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg! Hogy lennék?! Cirógatják a púzómat meg a pittyemet a körszakállak, szerinted hogy vagyok?!</title>
+      <description>"Hi Patrik, How are you today?"
+Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg! Hogy lennék?! Cirógatják a púzómat meg a pittyemet a körszakállak, szerinted hogy vagyok?!</description>
+      <link>https://napipatrik.hu/438/</link>
+      <pubDate>Sat Oct 30 2021</pubDate>
+    </item>
     <item>
       <title>Jó, hogy produktív vagyok: minden jó projektünk le van lőve</title>
       <description>Jó, hogy produktív vagyok: minden jó projektünk le van lőve</description>
@@ -60,12 +68,6 @@
       <description>Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.</description>
       <link>https://napipatrik.hu/429/</link>
       <pubDate>Thu Oct 21 2021</pubDate>
-    </item>
-    <item>
-      <title>Anno nagyobbnak hatott.</title>
-      <description>Anno nagyobbnak hatott.</description>
-      <link>https://napipatrik.hu/428/</link>
-      <pubDate>Wed Oct 20 2021</pubDate>
     </item>
   </channel>
 </rss>
