@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Oct 30 2021</lastBuildDate>
+    <lastBuildDate>Sun Oct 31 2021</lastBuildDate>
+    <item>
+      <title>Andrááás, megint a hülyeség! Nem kell neked a gyapot földön serénykedned, arra vannak a talpasok, az alattvalóid, akiknek ebben a nagy melegben viszel egy kis vizet, aztan miután jófejkedve megittatad őket, visszamész a hűvös gazdaházba, hisz Te már házi talpas vagy.</title>
+      <description>Andrááás, megint a hülyeség! Nem kell neked a gyapot földön serénykedned, arra vannak a talpasok, az alattvalóid, akiknek ebben a nagy melegben viszel egy kis vizet, aztan miután jófejkedve megittatad őket, visszamész a hűvös gazdaházba, hisz Te már házi talpas vagy.</description>
+      <link>https://napipatrik.hu/439/</link>
+      <pubDate>Sun Oct 31 2021</pubDate>
+    </item>
     <item>
       <title>"Hi Patrik, How are you today?"
 Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg! Hogy lennék?! Cirógatják a púzómat meg a pittyemet a körszakállak, szerinted hogy vagyok?!</title>
@@ -62,12 +68,6 @@ Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg
       <description>De hát érted mit panaszkodjak? Én kapok a vízből is utoljára - már ha jut. De így is örülök, hogy nem a szájammal kell fokhagymát pucolni kinai böriben. Teljesen jó ez a gyapot föld.</description>
       <link>https://napipatrik.hu/430/</link>
       <pubDate>Fri Oct 22 2021</pubDate>
-    </item>
-    <item>
-      <title>Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.</title>
-      <description>Tudod mikor lesz még költészet? Holnap a meetingen este 6 és 8 között, hisz akkor már nem kell gyapotot szedni, ráér a talpas bullshitet hallgatni.</description>
-      <link>https://napipatrik.hu/429/</link>
-      <pubDate>Thu Oct 21 2021</pubDate>
     </item>
   </channel>
 </rss>
