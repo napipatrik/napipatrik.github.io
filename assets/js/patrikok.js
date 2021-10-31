@@ -461,6 +461,9 @@ var patrikok = [
     'A pina az jó.',
     '...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.',
     'Obsolate tudásom határtalan',
+    'Hát, most már érzem, a körszakáll egyre mélyebbre hatol a púzómba és már nem jó, hanem fáj',
+    'Ha választhatok, hogy legyenek-e cicis nénik a feedemben vagy ne [redditen], akkor lesznek',
+    'Nincs új a nap alatt',
 ];
 var tutik = patrikok;
 
