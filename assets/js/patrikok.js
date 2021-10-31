@@ -464,6 +464,9 @@ var patrikok = [
     'Hát, most már érzem, a körszakáll egyre mélyebbre hatol a púzómba és már nem jó, hanem fáj',
     'Ha választhatok, hogy legyenek-e cicis nénik a feedemben vagy ne [redditen], akkor lesznek',
     'Nincs új a nap alatt',
+    'Egyszer alsóban majdnem bementem [a suli wcbe], de Jézus Krisztus megsegített és inkább a folyósót hánytam végig és nem kellett bemennem a rötyibe',
+    '[Az interjún interjúztatóként] ...hát motiváltságot kell mutatni! Tudták, hogy még nem csípte meg a szemed a fos, így a tömés adta boldogsággal az arcodon fogsz bemenni és ez fog majd tündökölni végig az interviewn és azt látja majd a szerencsétlen erdész tanonc, hogy milyen vidám hely is a devops',
+    'Hát ez hagyományos család lesz, ős amerikai mondhatni: ő a gazdám lesz, hiszen a talpasok nem szabad emberek. Kint a végtelen gyapot mezőn meg nem mindegy, hogy ki a gazdád? Max gyakrabban kapod a vizet, de a gyapot marad.',
 ];
 var tutik = patrikok;
 
