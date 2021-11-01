@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Oct 31 2021</lastBuildDate>
+    <lastBuildDate>Mon Nov 01 2021</lastBuildDate>
+    <item>
+      <title>Aki önként beveszi a körszakállt, az ne csodálkozzon, hogy megcsiklandozza a garatát!</title>
+      <description>Aki önként beveszi a körszakállt, az ne csodálkozzon, hogy megcsiklandozza a garatát!</description>
+      <link>https://napipatrik.hu/440/</link>
+      <pubDate>Mon Nov 01 2021</pubDate>
+    </item>
     <item>
       <title>Andrááás, megint a hülyeség! Nem kell neked a gyapot földön serénykedned, arra vannak a talpasok, az alattvalóid, akiknek ebben a nagy melegben viszel egy kis vizet, aztan miután jófejkedve megittatad őket, visszamész a hűvös gazdaházba, hisz Te már házi talpas vagy.</title>
       <description>Andrááás, megint a hülyeség! Nem kell neked a gyapot földön serénykedned, arra vannak a talpasok, az alattvalóid, akiknek ebben a nagy melegben viszel egy kis vizet, aztan miután jófejkedve megittatad őket, visszamész a hűvös gazdaházba, hisz Te már házi talpas vagy.</description>
@@ -62,12 +68,6 @@ Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg
       <description>Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.</description>
       <link>https://napipatrik.hu/431/</link>
       <pubDate>Sat Oct 23 2021</pubDate>
-    </item>
-    <item>
-      <title>De hát érted mit panaszkodjak? Én kapok a vízből is utoljára - már ha jut. De így is örülök, hogy nem a szájammal kell fokhagymát pucolni kinai böriben. Teljesen jó ez a gyapot föld.</title>
-      <description>De hát érted mit panaszkodjak? Én kapok a vízből is utoljára - már ha jut. De így is örülök, hogy nem a szájammal kell fokhagymát pucolni kinai böriben. Teljesen jó ez a gyapot föld.</description>
-      <link>https://napipatrik.hu/430/</link>
-      <pubDate>Fri Oct 22 2021</pubDate>
     </item>
   </channel>
 </rss>
