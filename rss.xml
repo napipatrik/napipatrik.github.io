@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 01 2021</lastBuildDate>
+    <lastBuildDate>Tue Nov 02 2021</lastBuildDate>
+    <item>
+      <title>Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!</title>
+      <description>Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!</description>
+      <link>https://napipatrik.hu/441/</link>
+      <pubDate>Tue Nov 02 2021</pubDate>
+    </item>
     <item>
       <title>Aki önként beveszi a körszakállt, az ne csodálkozzon, hogy megcsiklandozza a garatát!</title>
       <description>Aki önként beveszi a körszakállt, az ne csodálkozzon, hogy megcsiklandozza a garatát!</description>
@@ -62,12 +68,6 @@ Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg
       <description>Most indul el a rozsdásodás, nem lesz nyél, mert elkorhad, a fej meg elrozsdál: a karrierem in nutshell</description>
       <link>https://napipatrik.hu/432/</link>
       <pubDate>Sun Oct 24 2021</pubDate>
-    </item>
-    <item>
-      <title>Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.</title>
-      <description>Én leszedem azokat a gyapot terméseket is, ami másnak már nem jó. Túlságosan le kell hajolni, esetleg leszarta egy galamb, de én körbenyalom, hogy ne menjen kárba és lehessen belőle pamutszál a gazdáinknak.</description>
-      <link>https://napipatrik.hu/431/</link>
-      <pubDate>Sat Oct 23 2021</pubDate>
     </item>
   </channel>
 </rss>
