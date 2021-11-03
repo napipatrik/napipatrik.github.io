@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Nov 02 2021</lastBuildDate>
+    <lastBuildDate>Wed Nov 03 2021</lastBuildDate>
+    <item>
+      <title>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</title>
+      <description>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</description>
+      <link>https://napipatrik.hu/442/</link>
+      <pubDate>Wed Nov 03 2021</pubDate>
+    </item>
     <item>
       <title>Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!</title>
       <description>Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!</description>
@@ -62,12 +68,6 @@ Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg
       <description>Baszki mindig elfelejtem, hogy már nem talpas, hanem excel huszár lett</description>
       <link>https://napipatrik.hu/433/</link>
       <pubDate>Mon Oct 25 2021</pubDate>
-    </item>
-    <item>
-      <title>Most indul el a rozsdásodás, nem lesz nyél, mert elkorhad, a fej meg elrozsdál: a karrierem in nutshell</title>
-      <description>Most indul el a rozsdásodás, nem lesz nyél, mert elkorhad, a fej meg elrozsdál: a karrierem in nutshell</description>
-      <link>https://napipatrik.hu/432/</link>
-      <pubDate>Sun Oct 24 2021</pubDate>
     </item>
   </channel>
 </rss>
