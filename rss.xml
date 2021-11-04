@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Nov 03 2021</lastBuildDate>
+    <lastBuildDate>Thu Nov 04 2021</lastBuildDate>
+    <item>
+      <title>Jó, tudom, nagy enterprise sok policyval, mindenre is policy, de ez nem az erdész természetes előfordulási helye. Az erdész nem érzi jól magát az enterpise erdőben, mikor nem foshatja össze azt a bokrot amelyiket csak szeretné, hanem útmutatást kap hozzá, hogy mikor melyik bokorba mennyit tolhat ki.</title>
+      <description>Jó, tudom, nagy enterprise sok policyval, mindenre is policy, de ez nem az erdész természetes előfordulási helye. Az erdész nem érzi jól magát az enterpise erdőben, mikor nem foshatja össze azt a bokrot amelyiket csak szeretné, hanem útmutatást kap hozzá, hogy mikor melyik bokorba mennyit tolhat ki.</description>
+      <link>https://napipatrik.hu/443/</link>
+      <pubDate>Thu Nov 04 2021</pubDate>
+    </item>
     <item>
       <title>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</title>
       <description>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</description>
@@ -62,12 +68,6 @@ Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg
       <description>Szorgosan gyarapodik az erdő, aztan előbb utóbb majd mikor beüt, akkor a púzód nem lesz kímélve</description>
       <link>https://napipatrik.hu/434/</link>
       <pubDate>Tue Oct 26 2021</pubDate>
-    </item>
-    <item>
-      <title>Baszki mindig elfelejtem, hogy már nem talpas, hanem excel huszár lett</title>
-      <description>Baszki mindig elfelejtem, hogy már nem talpas, hanem excel huszár lett</description>
-      <link>https://napipatrik.hu/433/</link>
-      <pubDate>Mon Oct 25 2021</pubDate>
     </item>
   </channel>
 </rss>
