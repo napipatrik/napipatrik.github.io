@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 04 2021</lastBuildDate>
+    <lastBuildDate>Fri Nov 05 2021</lastBuildDate>
+    <item>
+      <title>Menjél szépen dolgozni, kisbaltazzál kicsit a talpasaiddal, ne csak a vizet hordd nekik! Bár ebben a nagy melegben biztos örülnek ha sokat hordasz.</title>
+      <description>Menjél szépen dolgozni, kisbaltazzál kicsit a talpasaiddal, ne csak a vizet hordd nekik! Bár ebben a nagy melegben biztos örülnek ha sokat hordasz.</description>
+      <link>https://napipatrik.hu/444/</link>
+      <pubDate>Fri Nov 05 2021</pubDate>
+    </item>
     <item>
       <title>Jó, tudom, nagy enterprise sok policyval, mindenre is policy, de ez nem az erdész természetes előfordulási helye. Az erdész nem érzi jól magát az enterpise erdőben, mikor nem foshatja össze azt a bokrot amelyiket csak szeretné, hanem útmutatást kap hozzá, hogy mikor melyik bokorba mennyit tolhat ki.</title>
       <description>Jó, tudom, nagy enterprise sok policyval, mindenre is policy, de ez nem az erdész természetes előfordulási helye. Az erdész nem érzi jól magát az enterpise erdőben, mikor nem foshatja össze azt a bokrot amelyiket csak szeretné, hanem útmutatást kap hozzá, hogy mikor melyik bokorba mennyit tolhat ki.</description>
@@ -62,12 +68,6 @@ Komolyan, AWS support: írtam kisregényt, hogy vagyok, hát az erdőbe bazd meg
       <description>Majd aztán túlszalad a hígfos és nem lesz visszaút! Le kell majd kortyolni belőle - vagy belefulladnak.</description>
       <link>https://napipatrik.hu/435/</link>
       <pubDate>Wed Oct 27 2021</pubDate>
-    </item>
-    <item>
-      <title>Szorgosan gyarapodik az erdő, aztan előbb utóbb majd mikor beüt, akkor a púzód nem lesz kímélve</title>
-      <description>Szorgosan gyarapodik az erdő, aztan előbb utóbb majd mikor beüt, akkor a púzód nem lesz kímélve</description>
-      <link>https://napipatrik.hu/434/</link>
-      <pubDate>Tue Oct 26 2021</pubDate>
     </item>
   </channel>
 </rss>
