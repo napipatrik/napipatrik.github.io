@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 11 2021</lastBuildDate>
+    <lastBuildDate>Fri Nov 12 2021</lastBuildDate>
+    <item>
+      <title>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</title>
+      <description>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</description>
+      <link>https://napipatrik.hu/451/</link>
+      <pubDate>Fri Nov 12 2021</pubDate>
+    </item>
     <item>
       <title>Lehet el kéne menni managernek és én is áttérhetnék terminálrol excelre. Nem kéne szopni az erdőben, csak csattogtatni, hogy miért szar.</title>
       <description>Lehet el kéne menni managernek és én is áttérhetnék terminálrol excelre. Nem kéne szopni az erdőben, csak csattogtatni, hogy miért szar.</description>
@@ -60,12 +66,6 @@
       <description>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</description>
       <link>https://napipatrik.hu/442/</link>
       <pubDate>Wed Nov 03 2021</pubDate>
-    </item>
-    <item>
-      <title>Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!</title>
-      <description>Az a sok hasznos allhands! Ömlött ránk a bullsh... hasznos infó. Minden perce kincs volt!</description>
-      <link>https://napipatrik.hu/441/</link>
-      <pubDate>Tue Nov 02 2021</pubDate>
     </item>
   </channel>
 </rss>
