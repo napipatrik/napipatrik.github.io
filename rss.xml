@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Nov 12 2021</lastBuildDate>
+    <lastBuildDate>Sat Nov 13 2021</lastBuildDate>
+    <item>
+      <title>Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.</title>
+      <description>Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.</description>
+      <link>https://napipatrik.hu/452/</link>
+      <pubDate>Sat Nov 13 2021</pubDate>
+    </item>
     <item>
       <title>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</title>
       <description>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</description>
@@ -60,12 +66,6 @@
       <description>Jó, tudom, nagy enterprise sok policyval, mindenre is policy, de ez nem az erdész természetes előfordulási helye. Az erdész nem érzi jól magát az enterpise erdőben, mikor nem foshatja össze azt a bokrot amelyiket csak szeretné, hanem útmutatást kap hozzá, hogy mikor melyik bokorba mennyit tolhat ki.</description>
       <link>https://napipatrik.hu/443/</link>
       <pubDate>Thu Nov 04 2021</pubDate>
-    </item>
-    <item>
-      <title>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</title>
-      <description>Érted Laci, még ha azt tanulnánk, hogy kell trágyázni az erdőt, hogy kihajtsanak a körszakállak, azt mondom ok, de olyan nincs csak bullshit.</description>
-      <link>https://napipatrik.hu/442/</link>
-      <pubDate>Wed Nov 03 2021</pubDate>
     </item>
   </channel>
 </rss>
