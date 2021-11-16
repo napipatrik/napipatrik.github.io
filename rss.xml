@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 15 2021</lastBuildDate>
+    <lastBuildDate>Tue Nov 16 2021</lastBuildDate>
+    <item>
+      <title>Holnap olyan bullshit permet ömlik majd az arcomba, csak győzzem kortyolni!</title>
+      <description>Holnap olyan bullshit permet ömlik majd az arcomba, csak győzzem kortyolni!</description>
+      <link>https://napipatrik.hu/455/</link>
+      <pubDate>Tue Nov 16 2021</pubDate>
+    </item>
     <item>
       <title>A pillanat, amikor realizálod, hogy az bizony a te gányolásod, az bizony priceless.</title>
       <description>A pillanat, amikor realizálod, hogy az bizony a te gányolásod, az bizony priceless.</description>
@@ -60,12 +66,6 @@
       <description>Elkezdődött az út az erdő legsötétebb, legmocsarasabb része felé. A körszakállak csak úgy repkednek, de ezek már vad körszakállak, nem válogatnak, bármilyen szabad testnyílásba beférkőznek.</description>
       <link>https://napipatrik.hu/446/</link>
       <pubDate>Sun Nov 07 2021</pubDate>
-    </item>
-    <item>
-      <title>Retrón nem jön fel, hogy próbáltok erdőgazdálkodást folytatni, de az nem egészen optimális irány, hogy Ti/Te gyéríted, gondozod az erdőt, míg más csak ülteti az új erdőterületeket?</title>
-      <description>Retrón nem jön fel, hogy próbáltok erdőgazdálkodást folytatni, de az nem egészen optimális irány, hogy Ti/Te gyéríted, gondozod az erdőt, míg más csak ülteti az új erdőterületeket?</description>
-      <link>https://napipatrik.hu/445/</link>
-      <pubDate>Sat Nov 06 2021</pubDate>
     </item>
   </channel>
 </rss>
