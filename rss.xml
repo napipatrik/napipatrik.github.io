@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Nov 17 2021</lastBuildDate>
+    <lastBuildDate>Thu Nov 18 2021</lastBuildDate>
+    <item>
+      <title>Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.</title>
+      <description>Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.</description>
+      <link>https://napipatrik.hu/457/</link>
+      <pubDate>Thu Nov 18 2021</pubDate>
+    </item>
     <item>
       <title>Most tértem meg! Megjelent előttem Jézus Krisztus és mondta, hogy a húsevés nem lesz jó tesa, a mennybe répán és krumplin vezet az út, én meg mondtam, hogy adom tesó.</title>
       <description>Most tértem meg! Megjelent előttem Jézus Krisztus és mondta, hogy a húsevés nem lesz jó tesa, a mennybe répán és krumplin vezet az út, én meg mondtam, hogy adom tesó.</description>
@@ -60,12 +66,6 @@
       <description>Nem lehet csak úgy resourceokat letenni, drágítják a terméket, minden cent számít! Ezekhez képest lófasz a pesti talpasoknak az a 2 szál répa, amit hetente kapnak, de amúgy a snack nem fog hiányozni, mert kapsz helyette körszakállt, amit egész nap nyamnyoghatsz.</description>
       <link>https://napipatrik.hu/448/</link>
       <pubDate>Tue Nov 09 2021</pubDate>
-    </item>
-    <item>
-      <title>Kezd bennem körvonalazódni egy új általános igazság, csak még nincs meg teljesen a szövege, de sok tömés után sok körszakáll következik és éppen hogy koppant az sms, már fáj a segglyukam.</title>
-      <description>Kezd bennem körvonalazódni egy új általános igazság, csak még nincs meg teljesen a szövege, de sok tömés után sok körszakáll következik és éppen hogy koppant az sms, már fáj a segglyukam.</description>
-      <link>https://napipatrik.hu/447/</link>
-      <pubDate>Mon Nov 08 2021</pubDate>
     </item>
   </channel>
 </rss>
