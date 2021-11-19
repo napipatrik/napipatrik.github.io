@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 18 2021</lastBuildDate>
+    <lastBuildDate>Fri Nov 19 2021</lastBuildDate>
+    <item>
+      <title>...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!</title>
+      <description>...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!</description>
+      <link>https://napipatrik.hu/458/</link>
+      <pubDate>Fri Nov 19 2021</pubDate>
+    </item>
     <item>
       <title>Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.</title>
       <description>Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.</description>
@@ -60,12 +66,6 @@
       <description>Ott nincs hígfosba mártogatva a körszakáll?</description>
       <link>https://napipatrik.hu/449/</link>
       <pubDate>Wed Nov 10 2021</pubDate>
-    </item>
-    <item>
-      <title>Nem lehet csak úgy resourceokat letenni, drágítják a terméket, minden cent számít! Ezekhez képest lófasz a pesti talpasoknak az a 2 szál répa, amit hetente kapnak, de amúgy a snack nem fog hiányozni, mert kapsz helyette körszakállt, amit egész nap nyamnyoghatsz.</title>
-      <description>Nem lehet csak úgy resourceokat letenni, drágítják a terméket, minden cent számít! Ezekhez képest lófasz a pesti talpasoknak az a 2 szál répa, amit hetente kapnak, de amúgy a snack nem fog hiányozni, mert kapsz helyette körszakállt, amit egész nap nyamnyoghatsz.</description>
-      <link>https://napipatrik.hu/448/</link>
-      <pubDate>Tue Nov 09 2021</pubDate>
     </item>
   </channel>
 </rss>
