@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Nov 20 2021</lastBuildDate>
+    <lastBuildDate>Sun Nov 21 2021</lastBuildDate>
+    <item>
+      <title>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</title>
+      <description>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</description>
+      <link>https://napipatrik.hu/460/</link>
+      <pubDate>Sun Nov 21 2021</pubDate>
+    </item>
     <item>
       <title>A pina az jó.</title>
       <description>A pina az jó.</description>
@@ -60,12 +66,6 @@
       <description>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</description>
       <link>https://napipatrik.hu/451/</link>
       <pubDate>Fri Nov 12 2021</pubDate>
-    </item>
-    <item>
-      <title>Lehet el kéne menni managernek és én is áttérhetnék terminálrol excelre. Nem kéne szopni az erdőben, csak csattogtatni, hogy miért szar.</title>
-      <description>Lehet el kéne menni managernek és én is áttérhetnék terminálrol excelre. Nem kéne szopni az erdőben, csak csattogtatni, hogy miért szar.</description>
-      <link>https://napipatrik.hu/450/</link>
-      <pubDate>Thu Nov 11 2021</pubDate>
     </item>
   </channel>
 </rss>
