@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Nov 21 2021</lastBuildDate>
+    <lastBuildDate>Mon Nov 22 2021</lastBuildDate>
+    <item>
+      <title>Obsolate tudásom határtalan</title>
+      <description>Obsolate tudásom határtalan</description>
+      <link>https://napipatrik.hu/461/</link>
+      <pubDate>Mon Nov 22 2021</pubDate>
+    </item>
     <item>
       <title>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</title>
       <description>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</description>
@@ -60,12 +66,6 @@
       <description>Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.</description>
       <link>https://napipatrik.hu/452/</link>
       <pubDate>Sat Nov 13 2021</pubDate>
-    </item>
-    <item>
-      <title>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</title>
-      <description>Már semmi nincs, csak körszakáll és mártogathatod bullshitbe.</description>
-      <link>https://napipatrik.hu/451/</link>
-      <pubDate>Fri Nov 12 2021</pubDate>
     </item>
   </channel>
 </rss>
