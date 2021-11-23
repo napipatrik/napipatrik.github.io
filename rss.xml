@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 22 2021</lastBuildDate>
+    <lastBuildDate>Tue Nov 23 2021</lastBuildDate>
+    <item>
+      <title>Én megmondtam</title>
+      <description>Én megmondtam</description>
+      <link>https://napipatrik.hu/0/</link>
+      <pubDate>Tue Nov 23 2021</pubDate>
+    </item>
     <item>
       <title>Obsolate tudásom határtalan</title>
       <description>Obsolate tudásom határtalan</description>
@@ -60,12 +66,6 @@
       <description>[miután András tudtán kívül manager lett] Régen még tudtam kisbaltázni. Bejártam az erdőbe, puszta kézzel téptem a gyapotot, de manapság már csak az Excel mezőin tengetem a napjaim és a kezembe is már csak ostor kerül.</description>
       <link>https://napipatrik.hu/453/</link>
       <pubDate>Sun Nov 14 2021</pubDate>
-    </item>
-    <item>
-      <title>Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.</title>
-      <description>Csak szar kimozdulni a fosmocsaradból. Érted, kimész belőle, majd fázol, nem veszi a tested körbe az a kellemes meleg. Át kell menni másik erdőbe, kiélezni a kisbaltát, megolajozni szakállkát... csak a nyűg az erdőváltás miatt.</description>
-      <link>https://napipatrik.hu/452/</link>
-      <pubDate>Sat Nov 13 2021</pubDate>
     </item>
   </channel>
 </rss>
