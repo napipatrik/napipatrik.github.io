@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 25 2021</lastBuildDate>
+    <lastBuildDate>Fri Nov 26 2021</lastBuildDate>
+    <item>
+      <title>Az erdész tenné ki a kis changejét, éppen örülne, hogy nesze itt csak tisztás lesz, semmi őstölgy vagy kóbor körszakáll, erre belépsz és hopp, már tele is a szád</title>
+      <description>Az erdész tenné ki a kis changejét, éppen örülne, hogy nesze itt csak tisztás lesz, semmi őstölgy vagy kóbor körszakáll, erre belépsz és hopp, már tele is a szád</description>
+      <link>https://napipatrik.hu/345/</link>
+      <pubDate>Fri Nov 26 2021</pubDate>
+    </item>
     <item>
       <title>Hallod, nővel ne kezdjen az ember!</title>
       <description>Hallod, nővel ne kezdjen az ember!</description>
@@ -60,12 +66,6 @@
       <description>Most tértem meg! Megjelent előttem Jézus Krisztus és mondta, hogy a húsevés nem lesz jó tesa, a mennybe répán és krumplin vezet az út, én meg mondtam, hogy adom tesó.</description>
       <link>https://napipatrik.hu/456/</link>
       <pubDate>Wed Nov 17 2021</pubDate>
-    </item>
-    <item>
-      <title>Holnap olyan bullshit permet ömlik majd az arcomba, csak győzzem kortyolni!</title>
-      <description>Holnap olyan bullshit permet ömlik majd az arcomba, csak győzzem kortyolni!</description>
-      <link>https://napipatrik.hu/455/</link>
-      <pubDate>Tue Nov 16 2021</pubDate>
     </item>
   </channel>
 </rss>
