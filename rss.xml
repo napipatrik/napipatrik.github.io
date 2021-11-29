@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Nov 28 2021</lastBuildDate>
+    <lastBuildDate>Mon Nov 29 2021</lastBuildDate>
+    <item>
+      <title>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</title>
+      <description>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</description>
+      <link>https://napipatrik.hu/348/</link>
+      <pubDate>Mon Nov 29 2021</pubDate>
+    </item>
     <item>
       <title>Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.</title>
       <description>Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.</description>
@@ -60,12 +66,6 @@
       <description>A pina az jó.</description>
       <link>https://napipatrik.hu/459/</link>
       <pubDate>Sat Nov 20 2021</pubDate>
-    </item>
-    <item>
-      <title>...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!</title>
-      <description>...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!</description>
-      <link>https://napipatrik.hu/458/</link>
-      <pubDate>Fri Nov 19 2021</pubDate>
     </item>
   </channel>
 </rss>
