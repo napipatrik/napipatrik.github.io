@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 29 2021</lastBuildDate>
+    <lastBuildDate>Tue Nov 30 2021</lastBuildDate>
+    <item>
+      <title>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</title>
+      <description>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</description>
+      <link>https://napipatrik.hu/349/</link>
+      <pubDate>Tue Nov 30 2021</pubDate>
+    </item>
     <item>
       <title>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</title>
       <description>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</description>
@@ -60,12 +66,6 @@
       <description>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</description>
       <link>https://napipatrik.hu/460/</link>
       <pubDate>Sun Nov 21 2021</pubDate>
-    </item>
-    <item>
-      <title>A pina az jó.</title>
-      <description>A pina az jó.</description>
-      <link>https://napipatrik.hu/459/</link>
-      <pubDate>Sat Nov 20 2021</pubDate>
     </item>
   </channel>
 </rss>
