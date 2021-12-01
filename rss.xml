@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Nov 30 2021</lastBuildDate>
+    <lastBuildDate>Wed Dec 01 2021</lastBuildDate>
+    <item>
+      <title>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</title>
+      <description>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</description>
+      <link>https://napipatrik.hu/350/</link>
+      <pubDate>Wed Dec 01 2021</pubDate>
+    </item>
     <item>
       <title>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</title>
       <description>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</description>
@@ -60,12 +66,6 @@
       <description>Obsolate tudásom határtalan</description>
       <link>https://napipatrik.hu/461/</link>
       <pubDate>Mon Nov 22 2021</pubDate>
-    </item>
-    <item>
-      <title>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</title>
-      <description>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</description>
-      <link>https://napipatrik.hu/460/</link>
-      <pubDate>Sun Nov 21 2021</pubDate>
     </item>
   </channel>
 </rss>
