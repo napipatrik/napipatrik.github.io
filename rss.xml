@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Dec 01 2021</lastBuildDate>
+    <lastBuildDate>Thu Dec 02 2021</lastBuildDate>
+    <item>
+      <title>Patrik: de most őszintén, történt bármi változás mióta elmentem?
+Laci: Szerintem a csapat össz tömege csökkent</title>
+      <description>Patrik: de most őszintén, történt bármi változás mióta elmentem?
+Laci: Szerintem a csapat össz tömege csökkent</description>
+      <link>https://napipatrik.hu/351/</link>
+      <pubDate>Thu Dec 02 2021</pubDate>
+    </item>
     <item>
       <title>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</title>
       <description>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</description>
@@ -60,12 +68,6 @@
       <description>Én megmondtam</description>
       <link>https://napipatrik.hu/0/</link>
       <pubDate>Tue Nov 23 2021</pubDate>
-    </item>
-    <item>
-      <title>Obsolate tudásom határtalan</title>
-      <description>Obsolate tudásom határtalan</description>
-      <link>https://napipatrik.hu/461/</link>
-      <pubDate>Mon Nov 22 2021</pubDate>
     </item>
   </channel>
 </rss>
