@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Dec 02 2021</lastBuildDate>
+    <lastBuildDate>Fri Dec 03 2021</lastBuildDate>
+    <item>
+      <title>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</title>
+      <description>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</description>
+      <link>https://napipatrik.hu/352/</link>
+      <pubDate>Fri Dec 03 2021</pubDate>
+    </item>
     <item>
       <title>Patrik: de most őszintén, történt bármi változás mióta elmentem?
 Laci: Szerintem a csapat össz tömege csökkent</title>
@@ -62,12 +68,6 @@ Laci: Szerintem a csapat össz tömege csökkent</description>
       <description>Korán menne mert későn.. akarom mondani korán jött</description>
       <link>https://napipatrik.hu/343/</link>
       <pubDate>Wed Nov 24 2021</pubDate>
-    </item>
-    <item>
-      <title>Én megmondtam</title>
-      <description>Én megmondtam</description>
-      <link>https://napipatrik.hu/0/</link>
-      <pubDate>Tue Nov 23 2021</pubDate>
     </item>
   </channel>
 </rss>
