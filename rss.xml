@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Dec 03 2021</lastBuildDate>
+    <lastBuildDate>Sat Dec 04 2021</lastBuildDate>
+    <item>
+      <title>Ha nincs idő panaszkodni, akkor nem fogsz</title>
+      <description>Ha nincs idő panaszkodni, akkor nem fogsz</description>
+      <link>https://napipatrik.hu/353/</link>
+      <pubDate>Sat Dec 04 2021</pubDate>
+    </item>
     <item>
       <title>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</title>
       <description>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</description>
@@ -62,12 +68,6 @@ Laci: Szerintem a csapat össz tömege csökkent</description>
       <description>Hallod, nővel ne kezdjen az ember!</description>
       <link>https://napipatrik.hu/344/</link>
       <pubDate>Thu Nov 25 2021</pubDate>
-    </item>
-    <item>
-      <title>Korán menne mert későn.. akarom mondani korán jött</title>
-      <description>Korán menne mert későn.. akarom mondani korán jött</description>
-      <link>https://napipatrik.hu/343/</link>
-      <pubDate>Wed Nov 24 2021</pubDate>
     </item>
   </channel>
 </rss>
