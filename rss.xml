@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Dec 05 2021</lastBuildDate>
+    <lastBuildDate>Mon Dec 06 2021</lastBuildDate>
+    <item>
+      <title>Én nem panaszkodok</title>
+      <description>Én nem panaszkodok</description>
+      <link>https://napipatrik.hu/355/</link>
+      <pubDate>Mon Dec 06 2021</pubDate>
+    </item>
     <item>
       <title>Ha nem vagy az irodában, nem tudsz panaszkodni, nem hallod meg más ember panaszát, nem erősíti benned, hogy szar, csak szépen ücsörögsz a híg fosban és mosolyogsz</title>
       <description>Ha nem vagy az irodában, nem tudsz panaszkodni, nem hallod meg más ember panaszát, nem erősíti benned, hogy szar, csak szépen ücsörögsz a híg fosban és mosolyogsz</description>
@@ -62,12 +68,6 @@ Laci: Szerintem a csapat össz tömege csökkent</description>
       <description>Egy munkájára igényes principal úgy megtrágyázta, hogy csak úgy sűrűsödött az erdő! De fokozta a sűrűsségét az is, hogy váratlanul kaptad be, hisz már abban a tudatban mentél bele, hogy rendbe van téve.</description>
       <link>https://napipatrik.hu/346/</link>
       <pubDate>Sat Nov 27 2021</pubDate>
-    </item>
-    <item>
-      <title>Az erdész tenné ki a kis changejét, éppen örülne, hogy nesze itt csak tisztás lesz, semmi őstölgy vagy kóbor körszakáll, erre belépsz és hopp, már tele is a szád</title>
-      <description>Az erdész tenné ki a kis changejét, éppen örülne, hogy nesze itt csak tisztás lesz, semmi őstölgy vagy kóbor körszakáll, erre belépsz és hopp, már tele is a szád</description>
-      <link>https://napipatrik.hu/345/</link>
-      <pubDate>Fri Nov 26 2021</pubDate>
     </item>
   </channel>
 </rss>
