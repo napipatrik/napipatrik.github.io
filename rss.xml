@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Dec 07 2021</lastBuildDate>
+    <lastBuildDate>Wed Dec 08 2021</lastBuildDate>
+    <item>
+      <title>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</title>
+      <description>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</description>
+      <link>https://napipatrik.hu/357/</link>
+      <pubDate>Wed Dec 08 2021</pubDate>
+    </item>
     <item>
       <title>Csaba, ami szar, az szar</title>
       <description>Csaba, ami szar, az szar</description>
@@ -62,12 +68,6 @@ Laci: Szerintem a csapat össz tömege csökkent</description>
       <description>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</description>
       <link>https://napipatrik.hu/348/</link>
       <pubDate>Mon Nov 29 2021</pubDate>
-    </item>
-    <item>
-      <title>Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.</title>
-      <description>Hát én változtattam. Kinyitottam a számat előtte? Persze, tele is ment körszakállal, aztán szépen kiköpdöstem és erdőt váltottam. Már csak néha jön a körszakáll.</description>
-      <link>https://napipatrik.hu/347/</link>
-      <pubDate>Sun Nov 28 2021</pubDate>
     </item>
   </channel>
 </rss>
