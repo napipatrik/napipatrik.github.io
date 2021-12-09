@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Dec 08 2021</lastBuildDate>
+    <lastBuildDate>Thu Dec 09 2021</lastBuildDate>
+    <item>
+      <title>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</title>
+      <description>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</description>
+      <link>https://napipatrik.hu/358/</link>
+      <pubDate>Thu Dec 09 2021</pubDate>
+    </item>
     <item>
       <title>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</title>
       <description>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</description>
@@ -62,12 +68,6 @@ Laci: Szerintem a csapat össz tömege csökkent</description>
       <description>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</description>
       <link>https://napipatrik.hu/349/</link>
       <pubDate>Tue Nov 30 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</title>
-      <description>Csaba amúgy elbaszta: érted ott ült a pénzenergiában dúskáló sarokban, erre állandóan átjárt a devopshoz és hát mi történt? Az erdő energiái elnyomták a pénzenergiát és már csak körszakáll jut neki</description>
-      <link>https://napipatrik.hu/348/</link>
-      <pubDate>Mon Nov 29 2021</pubDate>
     </item>
   </channel>
 </rss>
