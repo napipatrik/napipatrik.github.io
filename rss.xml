@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Dec 09 2021</lastBuildDate>
+    <lastBuildDate>Fri Dec 10 2021</lastBuildDate>
+    <item>
+      <title>Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell</title>
+      <description>Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell</description>
+      <link>https://napipatrik.hu/359/</link>
+      <pubDate>Fri Dec 10 2021</pubDate>
+    </item>
     <item>
       <title>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</title>
       <description>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</description>
@@ -62,12 +68,6 @@ Laci: Szerintem a csapat össz tömege csökkent</description>
       <description>Ő lesz az utolsó erdész ki fellocsolja benzinnel az erdőt és eldobja a gyufát, végignézi ahogy az őstölgyese ég. A ropogó tűz hangját csak a random körszakállak sikolya töri meg és a végén mielőtt teljesen leégne, beledobja a kisbaltáját.</description>
       <link>https://napipatrik.hu/350/</link>
       <pubDate>Wed Dec 01 2021</pubDate>
-    </item>
-    <item>
-      <title>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</title>
-      <description>Hát úgy megyünk be az erdőbe, hogy nem látjuk a végét, aztán majd a balta szikrát hány a tölgyesen és majd mutatja az utunk. De nem fénylik az erdő vége, nincs itt még tisztás, csak egyre sűrűbb és csak úgy repkednek a lófaszok. Észre sem veszed és csak szaladnak be.</description>
-      <link>https://napipatrik.hu/349/</link>
-      <pubDate>Tue Nov 30 2021</pubDate>
     </item>
   </channel>
 </rss>
