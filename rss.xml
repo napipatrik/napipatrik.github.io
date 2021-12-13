@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Dec 12 2021</lastBuildDate>
+    <lastBuildDate>Mon Dec 13 2021</lastBuildDate>
+    <item>
+      <title>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</title>
+      <description>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</description>
+      <link>https://napipatrik.hu/362/</link>
+      <pubDate>Mon Dec 13 2021</pubDate>
+    </item>
     <item>
       <title>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</title>
       <description>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</description>
@@ -60,12 +66,6 @@
       <description>Ha nincs idő panaszkodni, akkor nem fogsz</description>
       <link>https://napipatrik.hu/353/</link>
       <pubDate>Sat Dec 04 2021</pubDate>
-    </item>
-    <item>
-      <title>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</title>
-      <description>Annyi [redis] clusterünk van, mint a picsa. De az a jó, hogy éppen fénylik fel az erdő végén a reggeli harmaton megtörő napsütés, erre jön egy híg fos felhő tehénszarból ami úgy megtrágyázza a rétet, hogy egyből tölgyes lesz.</description>
-      <link>https://napipatrik.hu/352/</link>
-      <pubDate>Fri Dec 03 2021</pubDate>
     </item>
   </channel>
 </rss>
