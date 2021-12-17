@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Dec 16 2021</lastBuildDate>
+    <lastBuildDate>Fri Dec 17 2021</lastBuildDate>
+    <item>
+      <title>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</title>
+      <description>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</description>
+      <link>https://napipatrik.hu/366/</link>
+      <pubDate>Fri Dec 17 2021</pubDate>
+    </item>
     <item>
       <title>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</title>
       <description>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</description>
@@ -60,12 +66,6 @@
       <description>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</description>
       <link>https://napipatrik.hu/357/</link>
       <pubDate>Wed Dec 08 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba, ami szar, az szar</title>
-      <description>Csaba, ami szar, az szar</description>
-      <link>https://napipatrik.hu/356/</link>
-      <pubDate>Tue Dec 07 2021</pubDate>
     </item>
   </channel>
 </rss>
