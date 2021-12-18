@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Dec 17 2021</lastBuildDate>
+    <lastBuildDate>Sat Dec 18 2021</lastBuildDate>
+    <item>
+      <title>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</title>
+      <description>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</description>
+      <link>https://napipatrik.hu/367/</link>
+      <pubDate>Sat Dec 18 2021</pubDate>
+    </item>
     <item>
       <title>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</title>
       <description>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</description>
@@ -60,12 +66,6 @@
       <description>De Csaba az igazi szar lapátoló: már most olyan mélyen van az erdőben, hogy nincs térereje, csak ő és a lapátja</description>
       <link>https://napipatrik.hu/358/</link>
       <pubDate>Thu Dec 09 2021</pubDate>
-    </item>
-    <item>
-      <title>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</title>
-      <description>Mint egy könnyed reggeli fing, ami átszalad a nadrágon</description>
-      <link>https://napipatrik.hu/357/</link>
-      <pubDate>Wed Dec 08 2021</pubDate>
     </item>
   </channel>
 </rss>
