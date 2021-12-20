@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Dec 19 2021</lastBuildDate>
+    <lastBuildDate>Mon Dec 20 2021</lastBuildDate>
+    <item>
+      <title>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</title>
+      <description>Már Csaba se gombokat keres, már szotyiban mérik a fizetését, méghozzá zacskóban, de a nagyban! Nah jó, de nem a sós, csak a sima natúr pörkölt szotyi.</description>
+      <link>https://napipatrik.hu/369/</link>
+      <pubDate>Mon Dec 20 2021</pubDate>
+    </item>
     <item>
       <title>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</title>
       <description>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</description>
@@ -60,12 +66,6 @@
       <description>Érted, ha már nem legacy, majd csinálunk belőle legacyt! Jól megfospermeteljük, a terraform meg jól megnöveszti.</description>
       <link>https://napipatrik.hu/360/</link>
       <pubDate>Sat Dec 11 2021</pubDate>
-    </item>
-    <item>
-      <title>Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell</title>
-      <description>Látszik a buzi PRen, hogy egy szar, de megkapja az approveot, nyilván megkapja, hisz a kurva erdőt trágyázni kell</description>
-      <link>https://napipatrik.hu/359/</link>
-      <pubDate>Fri Dec 10 2021</pubDate>
     </item>
   </channel>
 </rss>
