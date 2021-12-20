@@ -3,7 +3,7 @@
 const helper = require('./helper');
 const handlers = require('./handlers');
 const { Client, Intents } = require('discord.js');
-const client = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]});
+const client = new Client({partials: ["CHANNEL"], intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.DIRECT_MESSAGES]});
 
 const commandData = {
   name: helper.sitename,
@@ -98,8 +98,16 @@ client.on('interactionCreate', interaction => {
 client.on('messageCreate', message => {
   const parts = helper.unaccent(message.content.toLowerCase()).split(' ');
 
-  if (parts[0] !== helper.sitename) {
-    return;
+  if (message.author.bot) {
+    return false;
+  }
+
+  if (parts[0] !== helper.sitename && !message.mentions.has(client.user.id)) {
+    if (message.channel.type === 'DM') {
+      parts.unshift('napipatrik');
+    } else {
+      return;
+    }
   }
 
   let what, args = [];
