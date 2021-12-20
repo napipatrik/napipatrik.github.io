@@ -2,58 +2,62 @@
 
 const helper = require('./helper');
 const handlers = require('./handlers');
+const { SlashCommandBuilder } = require('@discordjs/builders');
+const { REST } = require('@discordjs/rest');
+const { Routes } = require('discord-api-types/v9');
 const { Client, Intents } = require('discord.js');
 const client = new Client({partials: ["CHANNEL"], intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.DIRECT_MESSAGES]});
 
-const commandData = {
-  name: helper.sitename,
-  description: 'Keress kedvenc napipatrik idézeteid között',
-  options: [
-    {
-      name: 'mai',
-      type: 'SUB_COMMAND',
-      description: 'Napi tuti lekérdekzése',
-    },
-    {
-      name: 'kép',
-      type: 'SUB_COMMAND',
-      description: 'Napi kép lekérdezése',
-    },
-    {
-      name: 'random',
-      type: 'SUB_COMMAND',
-      description: 'Véletlen tuti lekérdezése',
-    },
-    {
-      name: 'keress',
-      type: 'SUB_COMMAND',
-      description: 'Tuti keresése kulcsszavak alapján',
-      options: [
-        {
-          name: 'keywords',
-          description: 'Keresőszavak',
-          type: 'STRING',
-          required: true,
-        },
-      ],
-    },
-    {
-      name: 'id',
-      type: 'SUB_COMMAND',
-      description: 'Adott tuti lekérdezése',
-      options: [{
-        name: 'id',
-        description: 'Azonosító',
-        type: 'INTEGER',
-        required: true,
-      }],
-    },
-  ],
-};
+const commands = [
+  new SlashCommandBuilder()
+    .setName(helper.sitename)
+    .setDescription('Keress kedvenc napipatrik idézeteid között')
+    .addSubcommand(subcommand =>
+      subcommand
+        .setName('mai')
+        .setDescription('Napi tuti lekérdekzése')
+    )
+    .addSubcommand(subcommand =>
+      subcommand
+        .setName('kép')
+        .setDescription('Napi kép lekérdezése')
+    )
+    .addSubcommand(subcommand =>
+      subcommand
+        .setName('random')
+        .setDescription('Véletlen tuti lekérdezése')
+    )
+    .addSubcommand(subcommand =>
+      subcommand
+        .setName('keress')
+        .setDescription('Tuti keresése kulcsszavak alapján')
+        .addStringOption(option =>
+          option
+            .setName('keywords')
+            .setDescription('Keresőszavak')
+            .setRequired(true)
+        )
+    )
+    .addSubcommand(subcommand =>
+      subcommand
+        .setName('id')
+        .setDescription('Adott tuti lekérdezése')
+        .addIntegerOption(option =>
+          option
+            .setName('id')
+            .setDescription('Azonosító')
+            .setRequired(true)
+        )
+    )
+].map(command => command.toJSON());
+
 
 client.on('ready', () => {
   console.log('Registering slash commands');
-  client.application.commands.create(commandData);
+  const rest = new REST({ version: '9' }).setToken(process.env.DISCORD_BOT_TOKEN);
+  rest.put(Routes.applicationCommands(client.application.id), { body: commands })
+    .then(() => console.log('Successfully registered application commands.'))
+    .catch(console.error);
 
   console.log(helper.sitename + ' bot is ready!');
 });
