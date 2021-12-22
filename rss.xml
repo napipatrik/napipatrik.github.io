@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Dec 21 2021</lastBuildDate>
+    <lastBuildDate>Wed Dec 22 2021</lastBuildDate>
+    <item>
+      <title>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</title>
+      <description>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</description>
+      <link>https://napipatrik.hu/251/</link>
+      <pubDate>Wed Dec 22 2021</pubDate>
+    </item>
     <item>
       <title>András, adok hozzá pálcikát... hohóóó, ez öngól lett</title>
       <description>András, adok hozzá pálcikát... hohóóó, ez öngól lett</description>
@@ -60,12 +66,6 @@
       <description>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</description>
       <link>https://napipatrik.hu/362/</link>
       <pubDate>Mon Dec 13 2021</pubDate>
-    </item>
-    <item>
-      <title>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</title>
-      <description>Tudod mit Csaba? Fosok én is rá, had gyarapodjon az erdő!</description>
-      <link>https://napipatrik.hu/361/</link>
-      <pubDate>Sun Dec 12 2021</pubDate>
     </item>
   </channel>
 </rss>
