@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Dec 22 2021</lastBuildDate>
+    <lastBuildDate>Thu Dec 23 2021</lastBuildDate>
+    <item>
+      <title>Csaba, mit csinálunk? Dilettánskodunk!</title>
+      <description>Csaba, mit csinálunk? Dilettánskodunk!</description>
+      <link>https://napipatrik.hu/252/</link>
+      <pubDate>Thu Dec 23 2021</pubDate>
+    </item>
     <item>
       <title>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</title>
       <description>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</description>
@@ -60,12 +66,6 @@
       <description>Komolyan, lassan olyan érzésem van, mintha indiaiakkal dolgoznék</description>
       <link>https://napipatrik.hu/363/</link>
       <pubDate>Tue Dec 14 2021</pubDate>
-    </item>
-    <item>
-      <title>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</title>
-      <description>Az ember jókedvűen felkel mivel tegnap bevállalta, bemegy az erdőbe. Látod, ahogy a harmatcseppek megtörik a reggeli nap sugarait. Egy kis madárcsicsergés töri meg a csendet, odapillantasz és mire visszanézel már nem harmatcseppek vannak előtted, hanem fospermet.</description>
-      <link>https://napipatrik.hu/362/</link>
-      <pubDate>Mon Dec 13 2021</pubDate>
     </item>
   </channel>
 </rss>
