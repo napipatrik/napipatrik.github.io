@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Dec 25 2021</lastBuildDate>
+    <lastBuildDate>Sun Dec 26 2021</lastBuildDate>
+    <item>
+      <title>Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!</title>
+      <description>Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!</description>
+      <link>https://napipatrik.hu/255/</link>
+      <pubDate>Sun Dec 26 2021</pubDate>
+    </item>
     <item>
       <title>Remélem nem az én on-callomon fog felrobbanni</title>
       <description>Remélem nem az én on-callomon fog felrobbanni</description>
@@ -60,12 +66,6 @@
       <description>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</description>
       <link>https://napipatrik.hu/366/</link>
       <pubDate>Fri Dec 17 2021</pubDate>
-    </item>
-    <item>
-      <title>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</title>
-      <description>Rájöttem, hogy milyen házat szeretnék venni, bár nem tudom lehet-e olyat, de rájöttem, hogy nagyon szeretjük az erdőt - lehet ez hagyaték</description>
-      <link>https://napipatrik.hu/365/</link>
-      <pubDate>Thu Dec 16 2021</pubDate>
     </item>
   </channel>
 </rss>
