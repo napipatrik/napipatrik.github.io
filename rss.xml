@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Dec 26 2021</lastBuildDate>
+    <lastBuildDate>Mon Dec 27 2021</lastBuildDate>
+    <item>
+      <title>Nagyon szép, mint egy köröm a farkam végére</title>
+      <description>Nagyon szép, mint egy köröm a farkam végére</description>
+      <link>https://napipatrik.hu/256/</link>
+      <pubDate>Mon Dec 27 2021</pubDate>
+    </item>
     <item>
       <title>Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!</title>
       <description>Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!</description>
@@ -60,12 +66,6 @@
       <description>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</description>
       <link>https://napipatrik.hu/367/</link>
       <pubDate>Sat Dec 18 2021</pubDate>
-    </item>
-    <item>
-      <title>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</title>
-      <description>Vennék egy erdőt, ott csinálnék egy rönkházat a kisbaltámmal és ott laknék. Lenne fasza kis kandalló, meg optikai net :D</description>
-      <link>https://napipatrik.hu/366/</link>
-      <pubDate>Fri Dec 17 2021</pubDate>
     </item>
   </channel>
 </rss>
