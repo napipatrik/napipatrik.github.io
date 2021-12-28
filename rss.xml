@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Dec 27 2021</lastBuildDate>
+    <lastBuildDate>Tue Dec 28 2021</lastBuildDate>
+    <item>
+      <title>Dávid, használd az erőt és pattintsd le a mamát</title>
+      <description>Dávid, használd az erőt és pattintsd le a mamát</description>
+      <link>https://napipatrik.hu/257/</link>
+      <pubDate>Tue Dec 28 2021</pubDate>
+    </item>
     <item>
       <title>Nagyon szép, mint egy köröm a farkam végére</title>
       <description>Nagyon szép, mint egy köröm a farkam végére</description>
@@ -60,12 +66,6 @@
       <description>Persze, érted az erdő szélén könnyű a fütykösök elől elhajolni, nem mennek be, nem csapódik az arcukba a fospermet, nem érzik át milyen ez mikor csípi a szemed a fos, tele van a szád kóbor körszakálakkal és még a managered a púzódba is tol egyet</description>
       <link>https://napipatrik.hu/368/</link>
       <pubDate>Sun Dec 19 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</title>
-      <description>Csaba, a minőségi munka iránti igényesség nem függ a pozíciótól</description>
-      <link>https://napipatrik.hu/367/</link>
-      <pubDate>Sat Dec 18 2021</pubDate>
     </item>
   </channel>
 </rss>
