@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Dec 31 2021</lastBuildDate>
+    <lastBuildDate>Sat Jan 01 2022</lastBuildDate>
+    <item>
+      <title>Az erdőben is jön a hosszú lófasz és nem látom a végét</title>
+      <description>Az erdőben is jön a hosszú lófasz és nem látom a végét</description>
+      <link>https://napipatrik.hu/261/</link>
+      <pubDate>Sat Jan 01 2022</pubDate>
+    </item>
     <item>
       <title>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</title>
       <description>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</description>
@@ -60,12 +66,6 @@
       <description>Csaba, mit csinálunk? Dilettánskodunk!</description>
       <link>https://napipatrik.hu/252/</link>
       <pubDate>Thu Dec 23 2021</pubDate>
-    </item>
-    <item>
-      <title>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</title>
-      <description>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</description>
-      <link>https://napipatrik.hu/251/</link>
-      <pubDate>Wed Dec 22 2021</pubDate>
     </item>
   </channel>
 </rss>
