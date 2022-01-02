@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jan 01 2022</lastBuildDate>
+    <lastBuildDate>Sun Jan 02 2022</lastBuildDate>
+    <item>
+      <title>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
+Patrik: Faszerdőt!</title>
+      <description>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
+Patrik: Faszerdőt!</description>
+      <link>https://napipatrik.hu/262/</link>
+      <pubDate>Sun Jan 02 2022</pubDate>
+    </item>
     <item>
       <title>Az erdőben is jön a hosszú lófasz és nem látom a végét</title>
       <description>Az erdőben is jön a hosszú lófasz és nem látom a végét</description>
@@ -60,12 +68,6 @@
       <description>Erdő mindig volt, van és lesz</description>
       <link>https://napipatrik.hu/253/</link>
       <pubDate>Fri Dec 24 2021</pubDate>
-    </item>
-    <item>
-      <title>Csaba, mit csinálunk? Dilettánskodunk!</title>
-      <description>Csaba, mit csinálunk? Dilettánskodunk!</description>
-      <link>https://napipatrik.hu/252/</link>
-      <pubDate>Thu Dec 23 2021</pubDate>
     </item>
   </channel>
 </rss>
