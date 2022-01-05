@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jan 04 2022</lastBuildDate>
+    <lastBuildDate>Wed Jan 05 2022</lastBuildDate>
+    <item>
+      <title>Szar... ja legyünk pozitívak: szép szar</title>
+      <description>Szar... ja legyünk pozitívak: szép szar</description>
+      <link>https://napipatrik.hu/265/</link>
+      <pubDate>Wed Jan 05 2022</pubDate>
+    </item>
     <item>
       <title>Peti: ...hát nem lettem okosabb...
 Patrik: ez nem az a hely</title>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Nagyon szép, mint egy köröm a farkam végére</description>
       <link>https://napipatrik.hu/256/</link>
       <pubDate>Mon Dec 27 2021</pubDate>
-    </item>
-    <item>
-      <title>Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!</title>
-      <description>Ezt a kis dobozt most becsukjuk, jól rálapátolunk... ez egy domb!</description>
-      <link>https://napipatrik.hu/255/</link>
-      <pubDate>Sun Dec 26 2021</pubDate>
     </item>
   </channel>
 </rss>
