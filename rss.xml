@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jan 06 2022</lastBuildDate>
+    <lastBuildDate>Fri Jan 07 2022</lastBuildDate>
+    <item>
+      <title>Nem jó helyen álltam, pont a fospermetben aztán elkapott</title>
+      <description>Nem jó helyen álltam, pont a fospermetben aztán elkapott</description>
+      <link>https://napipatrik.hu/267/</link>
+      <pubDate>Fri Jan 07 2022</pubDate>
+    </item>
     <item>
       <title>Próbálok kicsit komoly lenni, de nem lehet!</title>
       <description>Próbálok kicsit komoly lenni, de nem lehet!</description>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Ami Észak-Koreában anonym, az nekünk HA-ban van</description>
       <link>https://napipatrik.hu/258/</link>
       <pubDate>Wed Dec 29 2021</pubDate>
-    </item>
-    <item>
-      <title>Dávid, használd az erőt és pattintsd le a mamát</title>
-      <description>Dávid, használd az erőt és pattintsd le a mamát</description>
-      <link>https://napipatrik.hu/257/</link>
-      <pubDate>Tue Dec 28 2021</pubDate>
     </item>
   </channel>
 </rss>
