@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jan 07 2022</lastBuildDate>
+    <lastBuildDate>Sat Jan 08 2022</lastBuildDate>
+    <item>
+      <title>András! Egyre kevesebb a szar!</title>
+      <description>András! Egyre kevesebb a szar!</description>
+      <link>https://napipatrik.hu/268/</link>
+      <pubDate>Sat Jan 08 2022</pubDate>
+    </item>
     <item>
       <title>Nem jó helyen álltam, pont a fospermetben aztán elkapott</title>
       <description>Nem jó helyen álltam, pont a fospermetben aztán elkapott</description>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</description>
       <link>https://napipatrik.hu/259/</link>
       <pubDate>Thu Dec 30 2021</pubDate>
-    </item>
-    <item>
-      <title>Ami Észak-Koreában anonym, az nekünk HA-ban van</title>
-      <description>Ami Észak-Koreában anonym, az nekünk HA-ban van</description>
-      <link>https://napipatrik.hu/258/</link>
-      <pubDate>Wed Dec 29 2021</pubDate>
     </item>
   </channel>
 </rss>
