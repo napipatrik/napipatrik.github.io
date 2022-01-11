@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jan 10 2022</lastBuildDate>
+    <lastBuildDate>Tue Jan 11 2022</lastBuildDate>
+    <item>
+      <title>Slackről slackre terjed...</title>
+      <description>Slackről slackre terjed...</description>
+      <link>https://napipatrik.hu/271/</link>
+      <pubDate>Tue Jan 11 2022</pubDate>
+    </item>
     <item>
       <title>A legélesebb nyél</title>
       <description>A legélesebb nyél</description>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</title>
 Patrik: Faszerdőt!</description>
       <link>https://napipatrik.hu/262/</link>
       <pubDate>Sun Jan 02 2022</pubDate>
-    </item>
-    <item>
-      <title>Az erdőben is jön a hosszú lófasz és nem látom a végét</title>
-      <description>Az erdőben is jön a hosszú lófasz és nem látom a végét</description>
-      <link>https://napipatrik.hu/261/</link>
-      <pubDate>Sat Jan 01 2022</pubDate>
     </item>
   </channel>
 </rss>
