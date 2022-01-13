@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jan 11 2022</lastBuildDate>
+    <lastBuildDate>Thu Jan 13 2022</lastBuildDate>
+    <item>
+      <title>Laci, szeretnél undorítóskodni?</title>
+      <description>Laci, szeretnél undorítóskodni?</description>
+      <link>https://napipatrik.hu/273/</link>
+      <pubDate>Thu Jan 13 2022</pubDate>
+    </item>
     <item>
       <title>Slackről slackre terjed...</title>
       <description>Slackről slackre terjed...</description>
@@ -62,14 +68,6 @@ Patrik: ez nem az a hely</description>
       <description>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</description>
       <link>https://napipatrik.hu/263/</link>
       <pubDate>Mon Jan 03 2022</pubDate>
-    </item>
-    <item>
-      <title>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
-Patrik: Faszerdőt!</title>
-      <description>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
-Patrik: Faszerdőt!</description>
-      <link>https://napipatrik.hu/262/</link>
-      <pubDate>Sun Jan 02 2022</pubDate>
     </item>
   </channel>
 </rss>
