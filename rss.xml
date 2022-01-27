@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jan 26 2022</lastBuildDate>
+    <lastBuildDate>Thu Jan 27 2022</lastBuildDate>
+    <item>
+      <title>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</title>
+      <description>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</description>
+      <link>https://napipatrik.hu/287/</link>
+      <pubDate>Thu Jan 27 2022</pubDate>
+    </item>
     <item>
       <title>Az a baj a tojással, hogy... tojás</title>
       <description>Az a baj a tojással, hogy... tojás</description>
@@ -60,12 +66,6 @@
       <description>Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának</description>
       <link>https://napipatrik.hu/278/</link>
       <pubDate>Tue Jan 18 2022</pubDate>
-    </item>
-    <item>
-      <title>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</title>
-      <description>Tamás felvette a kisbaltát, csak nem tudta melyik az éles fele</description>
-      <link>https://napipatrik.hu/277/</link>
-      <pubDate>Mon Jan 17 2022</pubDate>
     </item>
   </channel>
 </rss>
