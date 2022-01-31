@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jan 30 2022</lastBuildDate>
+    <lastBuildDate>Mon Jan 31 2022</lastBuildDate>
+    <item>
+      <title>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</title>
+      <description>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</description>
+      <link>https://napipatrik.hu/291/</link>
+      <pubDate>Mon Jan 31 2022</pubDate>
+    </item>
     <item>
       <title>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</title>
       <description>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</description>
@@ -60,12 +66,6 @@
       <description>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</description>
       <link>https://napipatrik.hu/282/</link>
       <pubDate>Sat Jan 22 2022</pubDate>
-    </item>
-    <item>
-      <title>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</title>
-      <description>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</description>
-      <link>https://napipatrik.hu/281/</link>
-      <pubDate>Fri Jan 21 2022</pubDate>
     </item>
   </channel>
 </rss>
