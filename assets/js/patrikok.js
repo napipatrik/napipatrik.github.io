@@ -467,6 +467,18 @@ var patrikok = [
     'Egyszer alsóban majdnem bementem [a suli wcbe], de Jézus Krisztus megsegített és inkább a folyósót hánytam végig és nem kellett bemennem a rötyibe',
     '[Az interjún interjúztatóként] ...hát motiváltságot kell mutatni! Tudták, hogy még nem csípte meg a szemed a fos, így a tömés adta boldogsággal az arcodon fogsz bemenni és ez fog majd tündökölni végig az interviewn és azt látja majd a szerencsétlen erdész tanonc, hogy milyen vidám hely is a devops',
     'Hát ez hagyományos család lesz, ős amerikai mondhatni: ő a gazdám lesz, hiszen a talpasok nem szabad emberek. Kint a végtelen gyapot mezőn meg nem mindegy, hogy ki a gazdád? Max gyakrabban kapod a vizet, de a gyapot marad.',
+    '[kép kisgyerekről] Mondd, hogy élvezze ki az időt még gyerek, soha nem lesz már annyira jó! Lego és pc egész nap, kaja van a hűtőben, mi kell még?',
+    'De a körszakállt nem eszed meg, az csak kényeztet, jól megjáratja a nyilásaid, majd tova röppen, hogy helyet adjon egy másik körszakállnak, esetleg egy nagyobbnak, erősebbnek, hogy fokozza az örömödet!',
+    'Kezd elegem lenni az egészből, akkora fillérbaszó lett a cég',
+    'Nem méltatlankodok. Úgy járnak a púzómban a körszakállak, hogy én ma már fingani se merek!',
+    'Kiváló, kíváló!',
+    'A héten lesz a synergys meeting, mikor az erdeink összérnek és egy közös nagy erdőbe folynak össze',
+    'Mert az ember kis motiváltságot összekuporgatott a hétvégén, bemegy nagy mosollyal az erdőbe, éles a balta, csak úgy csattog a tölgyesen, majd leszáll a fosköd az erdőre, nem lát semmit és beszalad a sűrejébe, ahol szegény erdész púzóját nem kímélik a körszakállak, csak úgy tágítják! Ha visszaver egyet, jön helyette 2. Persze amiért bement az erdőbe azt nem tudta ki kisbaltázni, mert a ködben elment más irányba, aztán azt meg sem említem, hogy miközben küzd a körszakállakkal, azért egy-két fospermet is landol szegény erdész arcába, a szája tátva maradt és a permet java szajüregébe landolt.',
+    'Ez nem egy quote baszki, ez az eletem!',
+    'De ha nem elég baszki, jött egy utószél - mondhatnánk körszakállesőnek is - érted szegény erdész megfáradva, tág púzóval tenné le a kisbaltát, de mikor fossa össze magát a Jenkins? Mikor?',
+    'Faszom az egesz napba! Mindjárt bebaszom a kisbaltámat az erdőbe, ott egye meg a rozsda!',
+    'Az én arcbőröm fiatalosságát, szakállkám fényét egyedül a fospermet tudja megőrizni',
+    'Tamás legalább volt az erdőben mielőtt felvette a makkos cippelőjét',
 ];
 var tutik = patrikok;
 
