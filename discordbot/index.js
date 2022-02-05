@@ -106,7 +106,7 @@ client.on('messageCreate', message => {
     return false;
   }
 
-  if (parts[0] !== helper.sitename && !message.mentions.has(client.user.id)) {
+  if (parts[0] !== helper.sitename && !message.mentions.has(client.user.id) && message.mentions.everyone) {
     if (message.channel.type === 'DM') {
       parts.unshift('napipatrik');
     } else {
