@@ -11,4 +11,3 @@ cp scripts/napipatrik /usr/bin/napipatrik
 cp scripts/motd.sh /etc/update-motd.d/99-napipatrik
 
 cd - >/dev/null
-
