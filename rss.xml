@@ -6,7 +6,33 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Feb 05 2022</lastBuildDate>
+    <lastBuildDate>Wed Feb 09 2022</lastBuildDate>
+    <item>
+      <title>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</title>
+      <description>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</description>
+      <link>https://napipatrik.hu/300/</link>
+      <pubDate>Wed Feb 09 2022</pubDate>
+    </item>
+    <item>
+      <title>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
+Patrik: Hát annyira senki</title>
+      <description>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
+Patrik: Hát annyira senki</description>
+      <link>https://napipatrik.hu/299/</link>
+      <pubDate>Tue Feb 08 2022</pubDate>
+    </item>
+    <item>
+      <title>A férfiak jobb szakácsok</title>
+      <description>A férfiak jobb szakácsok</description>
+      <link>https://napipatrik.hu/298/</link>
+      <pubDate>Mon Feb 07 2022</pubDate>
+    </item>
+    <item>
+      <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
+      <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
+      <link>https://napipatrik.hu/297/</link>
+      <pubDate>Sun Feb 06 2022</pubDate>
+    </item>
     <item>
       <title>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</title>
       <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
@@ -42,30 +68,6 @@
       <description>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</description>
       <link>https://napipatrik.hu/291/</link>
       <pubDate>Mon Jan 31 2022</pubDate>
-    </item>
-    <item>
-      <title>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</title>
-      <description>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</description>
-      <link>https://napipatrik.hu/290/</link>
-      <pubDate>Sun Jan 30 2022</pubDate>
-    </item>
-    <item>
-      <title>Fér még oda</title>
-      <description>Fér még oda</description>
-      <link>https://napipatrik.hu/289/</link>
-      <pubDate>Sat Jan 29 2022</pubDate>
-    </item>
-    <item>
-      <title>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</title>
-      <description>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</description>
-      <link>https://napipatrik.hu/288/</link>
-      <pubDate>Fri Jan 28 2022</pubDate>
-    </item>
-    <item>
-      <title>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</title>
-      <description>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</description>
-      <link>https://napipatrik.hu/287/</link>
-      <pubDate>Thu Jan 27 2022</pubDate>
     </item>
   </channel>
 </rss>
