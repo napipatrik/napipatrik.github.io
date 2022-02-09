@@ -473,12 +473,12 @@ var patrikok = [
     'Nem méltatlankodok. Úgy járnak a púzómban a körszakállak, hogy én ma már fingani se merek!',
     'Kiváló, kíváló!',
     'A héten lesz a synergys meeting, mikor az erdeink összérnek és egy közös nagy erdőbe folynak össze',
-    'Mert az ember kis motiváltságot összekuporgatott a hétvégén, bemegy nagy mosollyal az erdőbe, éles a balta, csak úgy csattog a tölgyesen, majd leszáll a fosköd az erdőre, nem lát semmit és beszalad a sűrejébe, ahol szegény erdész púzóját nem kímélik a körszakállak, csak úgy tágítják! Ha visszaver egyet, jön helyette 2.',
+    'Mert az ember kis motiváltságot összekuporgatott a hétvégén, bemegy nagy mosollyal az erdőbe, éles a balta, csak úgy csattog a tölgyesen, majd leszáll a fosköd az erdőre, nem lát semmit és beszalad a sűrejébe, ahol szegény erdész púzóját nem kímélik a körszakállak, csak úgy tágítják!',
     'Ez nem egy quote baszki, ez az életem!',
     'De ha nem elég baszki, jött egy utószél - mondhatnánk körszakállesőnek is - érted szegény erdész megfáradva, tág púzóval tenné le a kisbaltát, de mikor fossa össze magát a Jenkins? Mikor?',
     'Faszom az egész napba! Mindjárt bebaszom a kisbaltámat az erdőbe, ott egye meg a rozsda!',
     'Az én arcbőröm fiatalosságát, szakállkám fényét egyedül a fospermet tudja megőrizni',
-    'Tamás legalább volt az erdőben mielőtt felvette a makkos cippelőjét',
+    'Tamás legalább volt az erdőben mielőtt felvette a makkos cipellőjét',
 ];
 var tutik = patrikok;
 
