@@ -6,70 +6,68 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Feb 10 2022</lastBuildDate>
+    <lastBuildDate>Sat Mar 12 2022</lastBuildDate>
     <item>
-      <title>Laci: Datadog hogy fut egyébként?
-Patrik: 4 lábon</title>
-      <description>Laci: Datadog hogy fut egyébként?
-Patrik: 4 lábon</description>
-      <link>https://napipatrik.hu/301/</link>
-      <pubDate>Thu Feb 10 2022</pubDate>
+      <title>Csaba, nem ér befolyásolni a művészetemet</title>
+      <description>Csaba, nem ér befolyásolni a művészetemet</description>
+      <link>https://napipatrik.hu/331/</link>
+      <pubDate>Sat Mar 12 2022</pubDate>
     </item>
     <item>
-      <title>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</title>
-      <description>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</description>
-      <link>https://napipatrik.hu/300/</link>
-      <pubDate>Wed Feb 09 2022</pubDate>
+      <title>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</title>
+      <description>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</description>
+      <link>https://napipatrik.hu/330/</link>
+      <pubDate>Fri Mar 11 2022</pubDate>
     </item>
     <item>
-      <title>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
-Patrik: Hát annyira senki</title>
-      <description>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
-Patrik: Hát annyira senki</description>
-      <link>https://napipatrik.hu/299/</link>
-      <pubDate>Tue Feb 08 2022</pubDate>
+      <title>Egy termék épült a /tmpre</title>
+      <description>Egy termék épült a /tmpre</description>
+      <link>https://napipatrik.hu/329/</link>
+      <pubDate>Thu Mar 10 2022</pubDate>
     </item>
     <item>
-      <title>A férfiak jobb szakácsok</title>
-      <description>A férfiak jobb szakácsok</description>
-      <link>https://napipatrik.hu/298/</link>
-      <pubDate>Mon Feb 07 2022</pubDate>
+      <title>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</title>
+      <description>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</description>
+      <link>https://napipatrik.hu/328/</link>
+      <pubDate>Wed Mar 09 2022</pubDate>
     </item>
     <item>
-      <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
-      <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
-      <link>https://napipatrik.hu/297/</link>
-      <pubDate>Sun Feb 06 2022</pubDate>
+      <title>Laci: vannak jó problémák is, pl. Mac cluster
+Patrik: az a jó? akkor milyen a rossz?</title>
+      <description>Laci: vannak jó problémák is, pl. Mac cluster
+Patrik: az a jó? akkor milyen a rossz?</description>
+      <link>https://napipatrik.hu/327/</link>
+      <pubDate>Tue Mar 08 2022</pubDate>
     </item>
     <item>
-      <title>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</title>
-      <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
-      <link>https://napipatrik.hu/296/</link>
-      <pubDate>Sat Feb 05 2022</pubDate>
+      <title>Egy szót mondok, hogy értsd: BI</title>
+      <description>Egy szót mondok, hogy értsd: BI</description>
+      <link>https://napipatrik.hu/326/</link>
+      <pubDate>Mon Mar 07 2022</pubDate>
     </item>
     <item>
-      <title>...de attól ne basszon fel a faszságával!</title>
-      <description>...de attól ne basszon fel a faszságával!</description>
-      <link>https://napipatrik.hu/295/</link>
-      <pubDate>Fri Feb 04 2022</pubDate>
+      <title>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</title>
+      <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
+      <link>https://napipatrik.hu/325/</link>
+      <pubDate>Sun Mar 06 2022</pubDate>
     </item>
     <item>
-      <title>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</title>
-      <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
-      <link>https://napipatrik.hu/294/</link>
-      <pubDate>Thu Feb 03 2022</pubDate>
+      <title>...hisz a piros error az csak egy warning</title>
+      <description>...hisz a piros error az csak egy warning</description>
+      <link>https://napipatrik.hu/324/</link>
+      <pubDate>Sat Mar 05 2022</pubDate>
     </item>
     <item>
-      <title>Minek alerting ha van szemed és tvd?</title>
-      <description>Minek alerting ha van szemed és tvd?</description>
-      <link>https://napipatrik.hu/293/</link>
-      <pubDate>Wed Feb 02 2022</pubDate>
+      <title>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</title>
+      <description>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</description>
+      <link>https://napipatrik.hu/323/</link>
+      <pubDate>Fri Mar 04 2022</pubDate>
     </item>
     <item>
-      <title>András, vajazó késsel beleztek már ki embert?</title>
-      <description>András, vajazó késsel beleztek már ki embert?</description>
-      <link>https://napipatrik.hu/292/</link>
-      <pubDate>Tue Feb 01 2022</pubDate>
+      <title>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</title>
+      <description>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</description>
+      <link>https://napipatrik.hu/322/</link>
+      <pubDate>Thu Mar 03 2022</pubDate>
     </item>
   </channel>
 </rss>
