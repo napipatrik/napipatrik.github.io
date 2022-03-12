@@ -6,14 +6,17 @@ const args = process.argv.slice(2);
 
 let index = process.env.NAPIPATRIK_ID ? process.env.NAPIPATRIK_ID : patrikFn.getDefaultOffset() % patrikok.length;
 let napituti = patrikok[index];
+let imageTags = 'nature,calm';
 
 if ((new Date()).getMonth() === 2 && (new Date()).getDate() === 17) {
   index = 'nameday-special';
   napituti = 'Boldog névnapot Művész Úr!';
+  imageTags = 'muffin,donut';
 }
 if ((new Date()).getMonth() === 6 && (new Date()).getDate() === 15) {
   index = 'birthday-special';
   napituti = 'Boldog születésnapot Művész Úr!';
+  imageTags = 'cake';
 }
 
 if (args.length && args[0] === '--image') {
@@ -25,7 +28,7 @@ if (args.length && args[0] === '--image') {
     const text = napituti;
     const lines = Math.ceil(text.length / 28);
 
-    const imageOriginal = await request({url: 'https://source.unsplash.com/600x600/?nature,calm', encoding: null});
+    const imageOriginal = await request({url: 'https://source.unsplash.com/600x600/?' + imageTags, encoding: null});
     fs.writeFileSync('./napipatrik.jpg', imageOriginal);
     const image = await Jimp.read('./napipatrik.jpg');
     const shadow = await Jimp.read(lines < 4 ? './shadow.png' : './shadow_thick.png');
