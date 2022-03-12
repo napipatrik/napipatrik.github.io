@@ -460,7 +460,7 @@ var patrikok = [
     '...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!',
     'A pina az jó.',
     '...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.',
-    'Obsolate tudásom határtalan',
+    'Obsolete tudásom határtalan',
     'Hát, most már érzem, a körszakáll egyre mélyebbre hatol a púzómba és már nem jó, hanem fáj',
     'Ha választhatok, hogy legyenek-e cicis nénik a feedemben vagy ne [redditen], akkor lesznek',
     'Nincs új a nap alatt',
@@ -479,6 +479,9 @@ var patrikok = [
     'Faszom az egész napba! Mindjárt bebaszom a kisbaltámat az erdőbe, ott egye meg a rozsda!',
     'Az én arcbőröm fiatalosságát, szakállkám fényét egyedül a fospermet tudja megőrizni',
     'Tamás legalább volt az erdőben mielőtt felvette a makkos cipellőjét',
+    'Igazán boldog erdész csak az lehet, ki erdejét maga ülteti meg',
+    'Nyilván legyen pénzed banánra, ha volt majomra',
+    'Security by obsolescence',
 ];
 var tutik = patrikok;
 
