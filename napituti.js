@@ -5,13 +5,24 @@ const args = process.argv.slice(2);
 
 
 let index = process.env.NAPIPATRIK_ID ? process.env.NAPIPATRIK_ID : patrikFn.getDefaultOffset() % patrikok.length;
+let napituti = patrikok[index];
+
+if ((new Date()).getMonth() === 2 && (new Date()).getDate() === 17) {
+  index = 'nameday-special';
+  napituti = 'Boldog névnapot Művész Úr!';
+}
+if ((new Date()).getMonth() === 6 && (new Date()).getDate() === 15) {
+  index = 'birthday-special';
+  napituti = 'Boldog születésnapot Művész Úr!';
+}
+
 if (args.length && args[0] === '--image') {
   (async function () {
     const Jimp = require('jimp');
     const request = require('request-promise-native');
     const fs = require('fs');
 
-    const text = patrikok[index];
+    const text = napituti;
     const lines = Math.ceil(text.length / 28);
 
     const imageOriginal = await request({url: 'https://source.unsplash.com/600x600/?nature,calm', encoding: null});
@@ -34,8 +45,8 @@ if (args.length && args[0] === '--image') {
     parser.parseString(data, function (err, rss) {
       rss.rss.channel[0].lastBuildDate = (new Date()).toDateString();
       rss.rss.channel[0].item.unshift({
-        title: [patrikok[index]],
-        description: [patrikok[index]],
+        title: [napituti],
+        description: [napituti],
         link: ['https://napipatrik.hu/' + index + '/'],
         pubDate: [(new Date()).toDateString()]
       });
@@ -47,6 +58,6 @@ if (args.length && args[0] === '--image') {
     });
   });
 } else {
-  console.log(patrikok[index]);
+  console.log(napituti);
 }
 

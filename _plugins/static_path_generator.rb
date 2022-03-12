@@ -7,6 +7,8 @@ module Jekyll
       raw = File.read('./assets/js/patrikok.js')[/\[.+\]/m]
       list = eval(raw)
       list.each_with_index { |item, id| site.pages << StaticPage.new(site, site.source, item, id.to_s) }
+      site.pages << StaticPage.new(site, site.source, "Boldog névnapot Művész Úr!", "nameday-special")
+      site.pages << StaticPage.new(site, site.source, "Boldog születésnapot Művész Úr!", "birthday-special")
     end
   end
 
