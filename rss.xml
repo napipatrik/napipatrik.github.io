@@ -6,7 +6,19 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Mar 12 2022</lastBuildDate>
+    <lastBuildDate>Mon Mar 14 2022</lastBuildDate>
+    <item>
+      <title>Majd az erdő megbosszul, nekem nincs erőm</title>
+      <description>Majd az erdő megbosszul, nekem nincs erőm</description>
+      <link>https://napipatrik.hu/333/</link>
+      <pubDate>Mon Mar 14 2022</pubDate>
+    </item>
+    <item>
+      <title>Csaba, a buzizásnak nincs köze a szexuális beállítottsághoz</title>
+      <description>Csaba, a buzizásnak nincs köze a szexuális beállítottsághoz</description>
+      <link>https://napipatrik.hu/332/</link>
+      <pubDate>Sun Mar 13 2022</pubDate>
+    </item>
     <item>
       <title>Csaba, nem ér befolyásolni a művészetemet</title>
       <description>Csaba, nem ér befolyásolni a művészetemet</description>
@@ -56,18 +68,6 @@ Patrik: az a jó? akkor milyen a rossz?</description>
       <description>...hisz a piros error az csak egy warning</description>
       <link>https://napipatrik.hu/324/</link>
       <pubDate>Sat Mar 05 2022</pubDate>
-    </item>
-    <item>
-      <title>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</title>
-      <description>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</description>
-      <link>https://napipatrik.hu/323/</link>
-      <pubDate>Fri Mar 04 2022</pubDate>
-    </item>
-    <item>
-      <title>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</title>
-      <description>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</description>
-      <link>https://napipatrik.hu/322/</link>
-      <pubDate>Thu Mar 03 2022</pubDate>
     </item>
   </channel>
 </rss>
