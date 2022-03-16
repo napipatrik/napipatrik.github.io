@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Mar 14 2022</lastBuildDate>
+    <lastBuildDate>Wed Mar 16 2022</lastBuildDate>
+    <item>
+      <title>Az erdész nem gondolkodik, az erdész vág</title>
+      <description>Az erdész nem gondolkodik, az erdész vág</description>
+      <link>https://napipatrik.hu/218/</link>
+      <pubDate>Wed Mar 16 2022</pubDate>
+    </item>
     <item>
       <title>Majd az erdő megbosszul, nekem nincs erőm</title>
       <description>Majd az erdő megbosszul, nekem nincs erőm</description>
@@ -62,12 +68,6 @@ Patrik: az a jó? akkor milyen a rossz?</description>
       <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
       <link>https://napipatrik.hu/325/</link>
       <pubDate>Sun Mar 06 2022</pubDate>
-    </item>
-    <item>
-      <title>...hisz a piros error az csak egy warning</title>
-      <description>...hisz a piros error az csak egy warning</description>
-      <link>https://napipatrik.hu/324/</link>
-      <pubDate>Sat Mar 05 2022</pubDate>
     </item>
   </channel>
 </rss>
