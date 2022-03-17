@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Mar 16 2022</lastBuildDate>
+    <lastBuildDate>Thu Mar 17 2022</lastBuildDate>
+    <item>
+      <title>Boldog névnapot Művész Úr!</title>
+      <description>Boldog névnapot Művész Úr!</description>
+      <link>https://napipatrik.hu/nameday-special/</link>
+      <pubDate>Thu Mar 17 2022</pubDate>
+    </item>
     <item>
       <title>Az erdész nem gondolkodik, az erdész vág</title>
       <description>Az erdész nem gondolkodik, az erdész vág</description>
@@ -62,12 +68,6 @@ Patrik: az a jó? akkor milyen a rossz?</description>
       <description>Egy szót mondok, hogy értsd: BI</description>
       <link>https://napipatrik.hu/326/</link>
       <pubDate>Mon Mar 07 2022</pubDate>
-    </item>
-    <item>
-      <title>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</title>
-      <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
-      <link>https://napipatrik.hu/325/</link>
-      <pubDate>Sun Mar 06 2022</pubDate>
     </item>
   </channel>
 </rss>
