@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Mar 18 2022</lastBuildDate>
+    <lastBuildDate>Sat Mar 19 2022</lastBuildDate>
+    <item>
+      <title>Én hülye, Laci, éééén hülye! Dolgozni akartam...</title>
+      <description>Én hülye, Laci, éééén hülye! Dolgozni akartam...</description>
+      <link>https://napipatrik.hu/221/</link>
+      <pubDate>Sat Mar 19 2022</pubDate>
+    </item>
     <item>
       <title>Minek nyúltam hozzá?! Ez egy kártyavár!</title>
       <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
@@ -60,14 +66,6 @@
       <description>Bement és érted sétálgatott ott ártatlanul. A fospermet már már ködszerűen elfedte az erdőt. Csípte a szemét, de ha elvette a szája elől a kezét, hogy kicsit megvakarja, akkor észre se vette de már beszaladt a körszakáll</description>
       <link>https://napipatrik.hu/328/</link>
       <pubDate>Wed Mar 09 2022</pubDate>
-    </item>
-    <item>
-      <title>Laci: vannak jó problémák is, pl. Mac cluster
-Patrik: az a jó? akkor milyen a rossz?</title>
-      <description>Laci: vannak jó problémák is, pl. Mac cluster
-Patrik: az a jó? akkor milyen a rossz?</description>
-      <link>https://napipatrik.hu/327/</link>
-      <pubDate>Tue Mar 08 2022</pubDate>
     </item>
   </channel>
 </rss>
