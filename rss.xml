@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Mar 21 2022</lastBuildDate>
+    <lastBuildDate>Tue Mar 22 2022</lastBuildDate>
+    <item>
+      <title>Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!</title>
+      <description>Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!</description>
+      <link>https://napipatrik.hu/224/</link>
+      <pubDate>Tue Mar 22 2022</pubDate>
+    </item>
     <item>
       <title>Mint krumpliszsákban a híg fos: így kifolyik</title>
       <description>Mint krumpliszsákban a híg fos: így kifolyik</description>
@@ -60,12 +66,6 @@
       <description>Csaba, nem ér befolyásolni a művészetemet</description>
       <link>https://napipatrik.hu/331/</link>
       <pubDate>Sat Mar 12 2022</pubDate>
-    </item>
-    <item>
-      <title>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</title>
-      <description>Lacii, principali útra akarsz menni? Ahol a kisbaltát már nem kell forgatni? Csak hülyeségeket beszélni?</description>
-      <link>https://napipatrik.hu/330/</link>
-      <pubDate>Fri Mar 11 2022</pubDate>
     </item>
   </channel>
 </rss>
