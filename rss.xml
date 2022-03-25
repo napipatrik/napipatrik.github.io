@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Mar 24 2022</lastBuildDate>
+    <lastBuildDate>Fri Mar 25 2022</lastBuildDate>
+    <item>
+      <title>(megcsörren a telefon) Na, megérezték, hogy jó kedvem van</title>
+      <description>(megcsörren a telefon) Na, megérezték, hogy jó kedvem van</description>
+      <link>https://napipatrik.hu/227/</link>
+      <pubDate>Fri Mar 25 2022</pubDate>
+    </item>
     <item>
       <title>Ennek így semmi érteme... jaaaaajjj, decline</title>
       <description>Ennek így semmi érteme... jaaaaajjj, decline</description>
@@ -60,12 +66,6 @@
       <description>Az erdész nem gondolkodik, az erdész vág</description>
       <link>https://napipatrik.hu/218/</link>
       <pubDate>Wed Mar 16 2022</pubDate>
-    </item>
-    <item>
-      <title>Majd az erdő megbosszul, nekem nincs erőm</title>
-      <description>Majd az erdő megbosszul, nekem nincs erőm</description>
-      <link>https://napipatrik.hu/333/</link>
-      <pubDate>Mon Mar 14 2022</pubDate>
     </item>
   </channel>
 </rss>
