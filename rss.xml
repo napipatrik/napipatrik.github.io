@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Mar 26 2022</lastBuildDate>
+    <lastBuildDate>Sun Mar 27 2022</lastBuildDate>
+    <item>
+      <title>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</title>
+      <description>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</description>
+      <link>https://napipatrik.hu/229/</link>
+      <pubDate>Sun Mar 27 2022</pubDate>
+    </item>
     <item>
       <title>Írok egy könyvet</title>
       <description>Írok egy könyvet</description>
@@ -60,12 +66,6 @@
       <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
       <link>https://napipatrik.hu/220/</link>
       <pubDate>Fri Mar 18 2022</pubDate>
-    </item>
-    <item>
-      <title>Boldog névnapot Művész Úr!</title>
-      <description>Boldog névnapot Művész Úr!</description>
-      <link>https://napipatrik.hu/nameday-special/</link>
-      <pubDate>Thu Mar 17 2022</pubDate>
     </item>
   </channel>
 </rss>
