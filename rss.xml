@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Mar 30 2022</lastBuildDate>
+    <lastBuildDate>Thu Mar 31 2022</lastBuildDate>
+    <item>
+      <title>Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból</title>
+      <description>Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból</description>
+      <link>https://napipatrik.hu/233/</link>
+      <pubDate>Thu Mar 31 2022</pubDate>
+    </item>
     <item>
       <title>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</title>
       <description>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</description>
@@ -60,12 +66,6 @@
       <description>Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!</description>
       <link>https://napipatrik.hu/224/</link>
       <pubDate>Tue Mar 22 2022</pubDate>
-    </item>
-    <item>
-      <title>Mint krumpliszsákban a híg fos: így kifolyik</title>
-      <description>Mint krumpliszsákban a híg fos: így kifolyik</description>
-      <link>https://napipatrik.hu/223/</link>
-      <pubDate>Mon Mar 21 2022</pubDate>
     </item>
   </channel>
 </rss>
