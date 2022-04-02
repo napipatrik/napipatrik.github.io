@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Apr 01 2022</lastBuildDate>
+    <lastBuildDate>Sat Apr 02 2022</lastBuildDate>
+    <item>
+      <title>Az egyik erdő nagyobb mint a másik</title>
+      <description>Az egyik erdő nagyobb mint a másik</description>
+      <link>https://napipatrik.hu/235/</link>
+      <pubDate>Sat Apr 02 2022</pubDate>
+    </item>
     <item>
       <title>Írjuk meg Gábornak: a szar arrébb van lapátolva</title>
       <description>Írjuk meg Gábornak: a szar arrébb van lapátolva</description>
@@ -60,12 +66,6 @@
       <description>Ennek így semmi érteme... jaaaaajjj, decline</description>
       <link>https://napipatrik.hu/226/</link>
       <pubDate>Thu Mar 24 2022</pubDate>
-    </item>
-    <item>
-      <title>Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!</title>
-      <description>Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!</description>
-      <link>https://napipatrik.hu/225/</link>
-      <pubDate>Wed Mar 23 2022</pubDate>
     </item>
   </channel>
 </rss>
