@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Apr 05 2022</lastBuildDate>
+    <lastBuildDate>Wed Apr 06 2022</lastBuildDate>
+    <item>
+      <title>Peti, te mennyire vagy boldog itt az erdőben?</title>
+      <description>Peti, te mennyire vagy boldog itt az erdőben?</description>
+      <link>https://napipatrik.hu/239/</link>
+      <pubDate>Wed Apr 06 2022</pubDate>
+    </item>
     <item>
       <title>Foresters: termel, ápol, gondoz</title>
       <description>Foresters: termel, ápol, gondoz</description>
@@ -60,12 +66,6 @@
       <description>Mi mezítlábas favágók vagyunk egy szál... baltával</description>
       <link>https://napipatrik.hu/230/</link>
       <pubDate>Mon Mar 28 2022</pubDate>
-    </item>
-    <item>
-      <title>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</title>
-      <description>Jön a fasz, jön a fasz... ééés a Patrik bekapja!</description>
-      <link>https://napipatrik.hu/229/</link>
-      <pubDate>Sun Mar 27 2022</pubDate>
     </item>
   </channel>
 </rss>
