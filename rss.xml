@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Apr 08 2022</lastBuildDate>
+    <lastBuildDate>Sat Apr 09 2022</lastBuildDate>
+    <item>
+      <title>Bullshit nélkül nincs enterprise</title>
+      <description>Bullshit nélkül nincs enterprise</description>
+      <link>https://napipatrik.hu/242/</link>
+      <pubDate>Sat Apr 09 2022</pubDate>
+    </item>
     <item>
       <title>Csaba, nem látod az erdőtől a tisztást - mert nincs</title>
       <description>Csaba, nem látod az erdőtől a tisztást - mert nincs</description>
@@ -60,12 +66,6 @@
       <description>Kicsit művelődnöm kell ebből is... hogy is hívják ezt? Irodalomból</description>
       <link>https://napipatrik.hu/233/</link>
       <pubDate>Thu Mar 31 2022</pubDate>
-    </item>
-    <item>
-      <title>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</title>
-      <description>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</description>
-      <link>https://napipatrik.hu/232/</link>
-      <pubDate>Wed Mar 30 2022</pubDate>
     </item>
   </channel>
 </rss>
