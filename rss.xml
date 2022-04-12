@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Apr 11 2022</lastBuildDate>
+    <lastBuildDate>Tue Apr 12 2022</lastBuildDate>
+    <item>
+      <title>Ez nem csontváz Enikő, ez Balázs bácsi teste</title>
+      <description>Ez nem csontváz Enikő, ez Balázs bácsi teste</description>
+      <link>https://napipatrik.hu/245/</link>
+      <pubDate>Tue Apr 12 2022</pubDate>
+    </item>
     <item>
       <title>(All hands meeting a háttérben) Mátyás! A misét nem nézed?</title>
       <description>(All hands meeting a háttérben) Mátyás! A misét nem nézed?</description>
@@ -60,12 +66,6 @@
       <description>Két slash az jobb mint a nulla slash</description>
       <link>https://napipatrik.hu/236/</link>
       <pubDate>Sun Apr 03 2022</pubDate>
-    </item>
-    <item>
-      <title>Az egyik erdő nagyobb mint a másik</title>
-      <description>Az egyik erdő nagyobb mint a másik</description>
-      <link>https://napipatrik.hu/235/</link>
-      <pubDate>Sat Apr 02 2022</pubDate>
     </item>
   </channel>
 </rss>
