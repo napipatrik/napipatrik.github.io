@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Apr 12 2022</lastBuildDate>
+    <lastBuildDate>Wed Apr 13 2022</lastBuildDate>
+    <item>
+      <title>Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!</title>
+      <description>Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!</description>
+      <link>https://napipatrik.hu/246/</link>
+      <pubDate>Wed Apr 13 2022</pubDate>
+    </item>
     <item>
       <title>Ez nem csontváz Enikő, ez Balázs bácsi teste</title>
       <description>Ez nem csontváz Enikő, ez Balázs bácsi teste</description>
@@ -60,12 +66,6 @@
       <description>Érted mire gondolok...? Nem érted mert nem mondtam még el</description>
       <link>https://napipatrik.hu/237/</link>
       <pubDate>Mon Apr 04 2022</pubDate>
-    </item>
-    <item>
-      <title>Két slash az jobb mint a nulla slash</title>
-      <description>Két slash az jobb mint a nulla slash</description>
-      <link>https://napipatrik.hu/236/</link>
-      <pubDate>Sun Apr 03 2022</pubDate>
     </item>
   </channel>
 </rss>
