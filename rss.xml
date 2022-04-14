@@ -6,7 +6,17 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Apr 13 2022</lastBuildDate>
+    <lastBuildDate>Thu Apr 14 2022</lastBuildDate>
+    <item>
+      <title>- Olyan tengerbe értünk, hogy nem ér le a lábunk!
+- Milyen tenger?
+- Fostenger!</title>
+      <description>- Olyan tengerbe értünk, hogy nem ér le a lábunk!
+- Milyen tenger?
+- Fostenger!</description>
+      <link>https://napipatrik.hu/247/</link>
+      <pubDate>Thu Apr 14 2022</pubDate>
+    </item>
     <item>
       <title>Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!</title>
       <description>Miért vagyunk negatívak? Mert ilyen fostengerben kalapálunk!</description>
@@ -60,12 +70,6 @@
       <description>Foresters: termel, ápol, gondoz</description>
       <link>https://napipatrik.hu/238/</link>
       <pubDate>Tue Apr 05 2022</pubDate>
-    </item>
-    <item>
-      <title>Érted mire gondolok...? Nem érted mert nem mondtam még el</title>
-      <description>Érted mire gondolok...? Nem érted mert nem mondtam még el</description>
-      <link>https://napipatrik.hu/237/</link>
-      <pubDate>Mon Apr 04 2022</pubDate>
     </item>
   </channel>
 </rss>
