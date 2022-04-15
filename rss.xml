@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Apr 14 2022</lastBuildDate>
+    <lastBuildDate>Fri Apr 15 2022</lastBuildDate>
+    <item>
+      <title>András: Én egy kis szart szeretnék látni, Csaba
+Patrik: András, javaslom bármelyik repónkat</title>
+      <description>András: Én egy kis szart szeretnék látni, Csaba
+Patrik: András, javaslom bármelyik repónkat</description>
+      <link>https://napipatrik.hu/248/</link>
+      <pubDate>Fri Apr 15 2022</pubDate>
+    </item>
     <item>
       <title>- Olyan tengerbe értünk, hogy nem ér le a lábunk!
 - Milyen tenger?
@@ -64,12 +72,6 @@
       <description>Peti, te mennyire vagy boldog itt az erdőben?</description>
       <link>https://napipatrik.hu/239/</link>
       <pubDate>Wed Apr 06 2022</pubDate>
-    </item>
-    <item>
-      <title>Foresters: termel, ápol, gondoz</title>
-      <description>Foresters: termel, ápol, gondoz</description>
-      <link>https://napipatrik.hu/238/</link>
-      <pubDate>Tue Apr 05 2022</pubDate>
     </item>
   </channel>
 </rss>
