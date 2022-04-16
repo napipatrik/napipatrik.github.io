@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Apr 15 2022</lastBuildDate>
+    <lastBuildDate>Sat Apr 16 2022</lastBuildDate>
+    <item>
+      <title>Ez az erdő most meg lesz ritkítva. Nem kicsit, nagyon!</title>
+      <description>Ez az erdő most meg lesz ritkítva. Nem kicsit, nagyon!</description>
+      <link>https://napipatrik.hu/249/</link>
+      <pubDate>Sat Apr 16 2022</pubDate>
+    </item>
     <item>
       <title>András: Én egy kis szart szeretnék látni, Csaba
 Patrik: András, javaslom bármelyik repónkat</title>
@@ -66,12 +72,6 @@ Patrik: András, javaslom bármelyik repónkat</description>
       <description>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</description>
       <link>https://napipatrik.hu/240/</link>
       <pubDate>Thu Apr 07 2022</pubDate>
-    </item>
-    <item>
-      <title>Peti, te mennyire vagy boldog itt az erdőben?</title>
-      <description>Peti, te mennyire vagy boldog itt az erdőben?</description>
-      <link>https://napipatrik.hu/239/</link>
-      <pubDate>Wed Apr 06 2022</pubDate>
     </item>
   </channel>
 </rss>
