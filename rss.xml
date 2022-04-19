@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Apr 18 2022</lastBuildDate>
+    <lastBuildDate>Tue Apr 19 2022</lastBuildDate>
+    <item>
+      <title>Csaba, mit csinálunk? Dilettánskodunk!</title>
+      <description>Csaba, mit csinálunk? Dilettánskodunk!</description>
+      <link>https://napipatrik.hu/252/</link>
+      <pubDate>Tue Apr 19 2022</pubDate>
+    </item>
     <item>
       <title>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</title>
       <description>Imádom a Giphyt, ha lenne olyan pozíció, hogy Giphyn keresni, én vinném</description>
@@ -66,12 +72,6 @@ Patrik: András, javaslom bármelyik repónkat</description>
       <description>Ez [a részvény] úgy megy le, mint a motivációm</description>
       <link>https://napipatrik.hu/243/</link>
       <pubDate>Sun Apr 10 2022</pubDate>
-    </item>
-    <item>
-      <title>Bullshit nélkül nincs enterprise</title>
-      <description>Bullshit nélkül nincs enterprise</description>
-      <link>https://napipatrik.hu/242/</link>
-      <pubDate>Sat Apr 09 2022</pubDate>
     </item>
   </channel>
 </rss>
