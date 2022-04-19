@@ -482,6 +482,9 @@ var patrikok = [
     'Igazán boldog erdész csak az lehet, ki erdejét maga ülteti meg',
     'Nyilván legyen pénzed banánra, ha volt majomra',
     'Security by obsolescence',
+    'Komolyan, látjátok én mindig megmondtam, hogy csak a munkával van a baj: senki nem akarja, ha meg esetleg ráveszed magad, csak a gond jön vele meg a felbaszódás',
+    'Patrik: "Local announcement"\nEnikő: Kit rúgnak ki?\nPatrik: Remélem engem, de kétlem, azt már tudnám',
+    '"Assigned resource #2 fell sick, interim dates at risk" - ez vagyok én',
 ];
 var tutik = patrikok;
 
