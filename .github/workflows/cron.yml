@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - run: echo "last_commit_message='$(git log -1 --pretty=%B)'" >> $GITHUB_ENV
+      - run: echo "last_commit_message='$(git log -1 --pretty=%B | head -n 1)'" >> $GITHUB_ENV
       - uses: actions/setup-node@v1
         with:
           node-version: 14.x
