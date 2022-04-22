@@ -6,13 +6,13 @@ jobs:
   rotate-napituti:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - run: echo "last_commit_message='$(git log -1 --pretty=%B | head -n 1)'" >> $GITHUB_ENV
+      - run: echo "last_commit_message=$(git log -1 --pretty=%B | head -n 1)" >> $GITHUB_ENV
       - uses: actions/setup-node@v1
         with:
-          node-version: 14.x
+          node-version: 16.x
       - run: ./dump_napituti.sh
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{ env.last_commit_message == 'Rotate napipatrik' }}
