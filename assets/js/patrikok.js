@@ -485,6 +485,9 @@ var patrikok = [
     'Komolyan, látjátok én mindig megmondtam, hogy csak a munkával van a baj: senki nem akarja, ha meg esetleg ráveszed magad, csak a gond jön vele meg a felbaszódás',
     'Patrik: "Local announcement"\nEnikő: Kit rúgnak ki?\nPatrik: Remélem engem, de kétlem, azt már tudnám',
     '"Assigned resource #2 fell sick, interim dates at risk" - ez vagyok én',
+    '...aztan pislogott szegény, mint Balázsbá az outage alatt',
+    'Szartatok már mentolosat? Az érzés leírhatatlan',
+    'András: mikor léptetnek elő principalba?\nPatrik: már érzem, hogy az leszek. Butulok, hülyeséget csinálok és lusta is vagyok.',
 ];
 var tutik = patrikok;
 
