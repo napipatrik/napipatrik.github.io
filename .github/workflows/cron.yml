@@ -19,8 +19,8 @@ jobs:
         with:
           commit_message: Rotate napipatrik
           file_pattern: 'napipatrik* rss.xml'
-          commit_options: '--amend'
-          push_options: '--force'
+#          commit_options: '--amend'
+#          push_options: '--force'
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{ env.last_commit_message != 'Rotate napipatrik' }}
         with:
