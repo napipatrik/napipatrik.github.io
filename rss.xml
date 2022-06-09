@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jun 04 2022</lastBuildDate>
+    <lastBuildDate>Thu Jun 09 2022</lastBuildDate>
+    <item>
+      <title>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</title>
+      <description>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</description>
+      <link>https://napipatrik.hu/186/</link>
+      <pubDate>Thu Jun 09 2022</pubDate>
+    </item>
     <item>
       <title>Leszarom, gyere már segíts!</title>
       <description>Leszarom, gyere már segíts!</description>
@@ -62,12 +68,6 @@
       <description>Te is már butulsz bazmeg, mész a staffra</description>
       <link>https://napipatrik.hu/173/</link>
       <pubDate>Fri May 27 2022</pubDate>
-    </item>
-    <item>
-      <title>Te buzi, miattad volt!</title>
-      <description>Te buzi, miattad volt!</description>
-      <link>https://napipatrik.hu/172/</link>
-      <pubDate>Thu May 26 2022</pubDate>
     </item>
   </channel>
 </rss>
