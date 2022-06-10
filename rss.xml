@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jun 09 2022</lastBuildDate>
+    <lastBuildDate>Fri Jun 10 2022</lastBuildDate>
+    <item>
+      <title>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</title>
+      <description>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</description>
+      <link>https://napipatrik.hu/187/</link>
+      <pubDate>Fri Jun 10 2022</pubDate>
+    </item>
     <item>
       <title>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</title>
       <description>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</description>
@@ -62,12 +68,6 @@
       <description>Legyen ez a devops jelmondata: gányolni mindig jó!</description>
       <link>https://napipatrik.hu/174/</link>
       <pubDate>Sat May 28 2022</pubDate>
-    </item>
-    <item>
-      <title>Te is már butulsz bazmeg, mész a staffra</title>
-      <description>Te is már butulsz bazmeg, mész a staffra</description>
-      <link>https://napipatrik.hu/173/</link>
-      <pubDate>Fri May 27 2022</pubDate>
     </item>
   </channel>
 </rss>
