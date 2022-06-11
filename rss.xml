@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jun 10 2022</lastBuildDate>
+    <lastBuildDate>Sat Jun 11 2022</lastBuildDate>
+    <item>
+      <title>Konkrétan fogyatékosokkal dolgozunk!</title>
+      <description>Konkrétan fogyatékosokkal dolgozunk!</description>
+      <link>https://napipatrik.hu/188/</link>
+      <pubDate>Sat Jun 11 2022</pubDate>
+    </item>
     <item>
       <title>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</title>
       <description>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</description>
@@ -62,12 +68,6 @@
       <description>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</description>
       <link>https://napipatrik.hu/175/</link>
       <pubDate>Sun May 29 2022</pubDate>
-    </item>
-    <item>
-      <title>Legyen ez a devops jelmondata: gányolni mindig jó!</title>
-      <description>Legyen ez a devops jelmondata: gányolni mindig jó!</description>
-      <link>https://napipatrik.hu/174/</link>
-      <pubDate>Sat May 28 2022</pubDate>
     </item>
   </channel>
 </rss>
