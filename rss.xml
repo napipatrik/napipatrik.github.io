@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jun 11 2022</lastBuildDate>
+    <lastBuildDate>Sun Jun 12 2022</lastBuildDate>
+    <item>
+      <title>Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!</title>
+      <description>Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!</description>
+      <link>https://napipatrik.hu/189/</link>
+      <pubDate>Sun Jun 12 2022</pubDate>
+    </item>
     <item>
       <title>Konkrétan fogyatékosokkal dolgozunk!</title>
       <description>Konkrétan fogyatékosokkal dolgozunk!</description>
@@ -62,12 +68,6 @@
 - András, mindjárt odamegyek és megdolgozlak én téged!</description>
       <link>https://napipatrik.hu/176/</link>
       <pubDate>Mon May 30 2022</pubDate>
-    </item>
-    <item>
-      <title>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</title>
-      <description>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</description>
-      <link>https://napipatrik.hu/175/</link>
-      <pubDate>Sun May 29 2022</pubDate>
     </item>
   </channel>
 </rss>
