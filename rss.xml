@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jun 13 2022</lastBuildDate>
+    <lastBuildDate>Tue Jun 14 2022</lastBuildDate>
+    <item>
+      <title>A dilettantizmus melegágya vagyunk</title>
+      <description>A dilettantizmus melegágya vagyunk</description>
+      <link>https://napipatrik.hu/191/</link>
+      <pubDate>Tue Jun 14 2022</pubDate>
+    </item>
     <item>
       <title>És leszakad! Leszakad! ...na visszajött, András, meghallotta, hogy fel vagyok baszódva</title>
       <description>És leszakad! Leszakad! ...na visszajött, András, meghallotta, hogy fel vagyok baszódva</description>
@@ -60,12 +66,6 @@
       <description>...mert nem értek hozzá!</description>
       <link>https://napipatrik.hu/178/</link>
       <pubDate>Wed Jun 01 2022</pubDate>
-    </item>
-    <item>
-      <title>Nyilván hol tesztelsz mint prodban?!</title>
-      <description>Nyilván hol tesztelsz mint prodban?!</description>
-      <link>https://napipatrik.hu/177/</link>
-      <pubDate>Tue May 31 2022</pubDate>
     </item>
   </channel>
 </rss>
