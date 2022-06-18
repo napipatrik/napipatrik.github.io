@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jun 17 2022</lastBuildDate>
+    <lastBuildDate>Sat Jun 18 2022</lastBuildDate>
+    <item>
+      <title>- Dolgozol Patrik?
+- Tudom undorító így szerdán, de hát ez van</title>
+      <description>- Dolgozol Patrik?
+- Tudom undorító így szerdán, de hát ez van</description>
+      <link>https://napipatrik.hu/195/</link>
+      <pubDate>Sat Jun 18 2022</pubDate>
+    </item>
     <item>
       <title>Laci, a lófaszok nem mennek ki, azok bejönnek</title>
       <description>Laci, a lófaszok nem mennek ki, azok bejönnek</description>
@@ -60,12 +68,6 @@
       <description>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</description>
       <link>https://napipatrik.hu/186/</link>
       <pubDate>Thu Jun 09 2022</pubDate>
-    </item>
-    <item>
-      <title>Leszarom, gyere már segíts!</title>
-      <description>Leszarom, gyere már segíts!</description>
-      <link>https://napipatrik.hu/181/</link>
-      <pubDate>Sat Jun 04 2022</pubDate>
     </item>
   </channel>
 </rss>
