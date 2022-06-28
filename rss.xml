@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jun 27 2022</lastBuildDate>
+    <lastBuildDate>Tue Jun 28 2022</lastBuildDate>
+    <item>
+      <title>Laci, nem jól vágod, visszanőtt!</title>
+      <description>Laci, nem jól vágod, visszanőtt!</description>
+      <link>https://napipatrik.hu/205/</link>
+      <pubDate>Tue Jun 28 2022</pubDate>
+    </item>
     <item>
       <title>Ha a hülyeségért fizetnének már 4 lakásom lenne</title>
       <description>Ha a hülyeségért fizetnének már 4 lakásom lenne</description>
@@ -60,14 +66,6 @@
       <description>Menjünk haza, hátha holnap jobb lesz...</description>
       <link>https://napipatrik.hu/196/</link>
       <pubDate>Sun Jun 19 2022</pubDate>
-    </item>
-    <item>
-      <title>- Dolgozol Patrik?
-- Tudom undorító így szerdán, de hát ez van</title>
-      <description>- Dolgozol Patrik?
-- Tudom undorító így szerdán, de hát ez van</description>
-      <link>https://napipatrik.hu/195/</link>
-      <pubDate>Sat Jun 18 2022</pubDate>
     </item>
   </channel>
 </rss>
