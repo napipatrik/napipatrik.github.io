@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jul 01 2022</lastBuildDate>
+    <lastBuildDate>Sat Jul 02 2022</lastBuildDate>
+    <item>
+      <title>Gratulálok, ön sikeresen dilettáns lett</title>
+      <description>Gratulálok, ön sikeresen dilettáns lett</description>
+      <link>https://napipatrik.hu/209/</link>
+      <pubDate>Sat Jul 02 2022</pubDate>
+    </item>
     <item>
       <title>Lehetnék egy védőszent: a munkakerülés védőszentje</title>
       <description>Lehetnék egy védőszent: a munkakerülés védőszentje</description>
@@ -60,12 +66,6 @@
       <description>Az erdő választja az erdészt, nem fordítva</description>
       <link>https://napipatrik.hu/200/</link>
       <pubDate>Thu Jun 23 2022</pubDate>
-    </item>
-    <item>
-      <title>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</title>
-      <description>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</description>
-      <link>https://napipatrik.hu/199/</link>
-      <pubDate>Wed Jun 22 2022</pubDate>
     </item>
   </channel>
 </rss>
