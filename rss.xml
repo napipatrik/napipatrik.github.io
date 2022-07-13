@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jul 12 2022</lastBuildDate>
+    <lastBuildDate>Wed Jul 13 2022</lastBuildDate>
+    <item>
+      <title>Minek nyúltam hozzá?! Ez egy kártyavár!</title>
+      <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
+      <link>https://napipatrik.hu/220/</link>
+      <pubDate>Wed Jul 13 2022</pubDate>
+    </item>
     <item>
       <title>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</title>
       <description>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</description>
@@ -60,12 +66,6 @@
       <description>[büfizés] Mindjárt idehányok... de te frontendes leszel?</description>
       <link>https://napipatrik.hu/211/</link>
       <pubDate>Mon Jul 04 2022</pubDate>
-    </item>
-    <item>
-      <title>Verjünk már meg egy staffot András, vajon milyen érzés lehet?!</title>
-      <description>Verjünk már meg egy staffot András, vajon milyen érzés lehet?!</description>
-      <link>https://napipatrik.hu/210/</link>
-      <pubDate>Sun Jul 03 2022</pubDate>
     </item>
   </channel>
 </rss>
