@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jul 13 2022</lastBuildDate>
+    <lastBuildDate>Thu Jul 14 2022</lastBuildDate>
+    <item>
+      <title>Én hülye, Laci, éééén hülye! Dolgozni akartam...</title>
+      <description>Én hülye, Laci, éééén hülye! Dolgozni akartam...</description>
+      <link>https://napipatrik.hu/221/</link>
+      <pubDate>Thu Jul 14 2022</pubDate>
+    </item>
     <item>
       <title>Minek nyúltam hozzá?! Ez egy kártyavár!</title>
       <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
@@ -60,12 +66,6 @@
       <description>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</description>
       <link>https://napipatrik.hu/212/</link>
       <pubDate>Tue Jul 05 2022</pubDate>
-    </item>
-    <item>
-      <title>[büfizés] Mindjárt idehányok... de te frontendes leszel?</title>
-      <description>[büfizés] Mindjárt idehányok... de te frontendes leszel?</description>
-      <link>https://napipatrik.hu/211/</link>
-      <pubDate>Mon Jul 04 2022</pubDate>
     </item>
   </channel>
 </rss>
