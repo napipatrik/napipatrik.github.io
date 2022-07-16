@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jul 15 2022</lastBuildDate>
+    <lastBuildDate>Sat Jul 16 2022</lastBuildDate>
+    <item>
+      <title>Mint krumpliszsákban a híg fos: így kifolyik</title>
+      <description>Mint krumpliszsákban a híg fos: így kifolyik</description>
+      <link>https://napipatrik.hu/223/</link>
+      <pubDate>Sat Jul 16 2022</pubDate>
+    </item>
     <item>
       <title>Boldog születésnapot Művész Úr!</title>
       <description>Boldog születésnapot Művész Úr!</description>
@@ -60,12 +66,6 @@
       <description>Nem kell redundánsnak lenni, mert nem romolhat el</description>
       <link>https://napipatrik.hu/214/</link>
       <pubDate>Thu Jul 07 2022</pubDate>
-    </item>
-    <item>
-      <title>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</title>
-      <description>Olyan talpas vagyok Gábor, hogy a gyapot itt nő a kezemen</description>
-      <link>https://napipatrik.hu/213/</link>
-      <pubDate>Wed Jul 06 2022</pubDate>
     </item>
   </channel>
 </rss>
