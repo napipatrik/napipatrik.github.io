@@ -489,7 +489,7 @@ var patrikok = [
     'András: mikor léptetnek elő principalba?\nPatrik: már érzem, hogy az leszek. Butulok, hülyeséget csinálok és lusta is vagyok.',
     'Én most azt érzem, hogy kalapálni akarok, erdőt írtani, elővenni a kisbaltám és berétesíteni az erdőt',
     'Vájog? Abban max szárított tehénszar volt egy kis friss réti szárított fűvel, a fosmocsárból származó bélsárral összetapasztva.',
-    'Már látom is magam előtt, ahogy bemész az erdészlak ajtaján, leveszed a kisbaltádat a kandalló fölül, lefújod róla a rengeteg port, aztán ijedve szaladsz a köszörűhöz és már indítod is a masinát, hogy szépen élbe legyen szöszörülve, majd a válladra veted, megfogod a kis csomagod és integetve erdőt váltasz.',
+    'Már látom is magam előtt, ahogy bemész az erdészlak ajtaján, leveszed a kisbaltádat a kandalló fölül, lefújod róla a rengeteg port, aztán ijedve szaladsz a köszörűhöz és már indítod is a masinát, hogy szépen élbe legyen köszörülve, majd a válladra veted, megfogod a kis csomagod és integetve erdőt váltasz.',
     'Mindenki más elbukott. Én határidőre letoltam a szart, kész volt, hiba nem volt benne.',
     'Az erdő beérett, hatalmas őstölgyesek, a fosmocsár beszippant, de hát itt az idő változtatni, jobb nem lesz.',
     'Akkora az erdő, hogy még te is megirigyelnéd!',
