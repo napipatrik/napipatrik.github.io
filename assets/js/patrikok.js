@@ -485,6 +485,18 @@ var patrikok = [
     'Komolyan, látjátok én mindig megmondtam, hogy csak a munkával van a baj: senki nem akarja, ha meg esetleg ráveszed magad, csak a gond jön vele meg a felbaszódás',
     'Patrik: "Local announcement"\nEnikő: Kit rúgnak ki?\nPatrik: Remélem engem, de kétlem, azt már tudnám',
     '"Assigned resource #2 fell sick, interim dates at risk" - ez vagyok én',
+    '...aztan pislogott szegény, mint Balázsbá az outage alatt',
+    'Szartatok már mentolosat? Az érzés leírhatatlan',
+    'András: mikor léptetnek elő principalba?\nPatrik: már érzem, hogy az leszek. Butulok, hülyeséget csinálok és lusta is vagyok.',
+    'Én most azt érzem, hogy kalapálni akarok, erdőt írtani, elővenni a kisbaltám és berétesíteni az erdőt',
+    'Vájog? Abban max szárított tehénszar volt egy kis friss réti szárított fűvel, a fosmocsárból származó bélsárral összetapasztva.',
+    'Már látom is magam előtt, ahogy bemész az erdészlak ajtaján, leveszed a kisbaltádat a kandalló fölül, lefújod róla a rengeteg port, aztán ijedve szaladsz a köszörűhöz és már indítod is a masinát, hogy szépen élbe legyen köszörülve, majd a válladra veted, megfogod a kis csomagod és integetve erdőt váltasz.',
+    'Mindenki más elbukott. Én határidőre letoltam a szart, kész volt, hiba nem volt benne.',
+    'Az erdő beérett, hatalmas őstölgyesek, a fosmocsár beszippant, de hát itt az idő változtatni, jobb nem lesz.',
+    'Akkora az erdő, hogy még te is megirigyelnéd!',
+    'Baszki, napipatrik reborn lesz...',
+    'Baszki az erdő mérete csak növekszik. Még nem sikerült feltérképezni, mert ekkora erdőt én még nem láttam, de ahogy hallgatom a planninget, elindulsz az erdőben, mész, mész, mész, azt hiszed, hogy még ugyanabban az erdőben vagy, de igazából annyit mentél, hogy egy teljesen más erdőbe kötöttél ki! Ez baszki a megaerdő!',
+    'De nem úgy, hogy vannak közben tisztások, lapos részek, itt őstölgyes mindenhol, ami alatt fosmocsarak húzódnak meg és baszki itt nem egy-két kósza körszakáll repked az erdőben, miközben sétálsz, itt baszki rajban repülnek és még az orrodba is felszaladnak!',
 ];
 var tutik = patrikok;
 
