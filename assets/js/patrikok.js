@@ -486,6 +486,7 @@ var patrikok = [
     'Patrik: "Local announcement"\nEnikő: Kit rúgnak ki?\nPatrik: Remélem engem, de kétlem, azt már tudnám',
     '"Assigned resource #2 fell sick, interim dates at risk" - ez vagyok én',
     '...aztan pislogott szegény, mint Balázsbá az outage alatt',
+    'Szartatok már mentolosat? Az érzés leírhatatlan',
     'András: mikor léptetnek elő principalba?\nPatrik: már érzem, hogy az leszek. Butulok, hülyeséget csinálok és lusta is vagyok.',
     'Én most azt érzem, hogy kalapálni akarok, erdőt írtani, elővenni a kisbaltám és berétesíteni az erdőt',
     'Vájog? Abban max szárított tehénszar volt egy kis friss réti szárított fűvel, a fosmocsárból származó bélsárral összetapasztva.',
