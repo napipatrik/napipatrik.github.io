@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jul 20 2022</lastBuildDate>
+    <lastBuildDate>Thu Jul 21 2022</lastBuildDate>
+    <item>
+      <title>Ami Észak-Koreában anonym, az nekünk HA-ban van</title>
+      <description>Ami Észak-Koreában anonym, az nekünk HA-ban van</description>
+      <link>https://napipatrik.hu/258/</link>
+      <pubDate>Thu Jul 21 2022</pubDate>
+    </item>
     <item>
       <title>(megcsörren a telefon) Na, megérezték, hogy jó kedvem van</title>
       <description>(megcsörren a telefon) Na, megérezték, hogy jó kedvem van</description>
@@ -60,12 +66,6 @@
       <description>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</description>
       <link>https://napipatrik.hu/219/</link>
       <pubDate>Tue Jul 12 2022</pubDate>
-    </item>
-    <item>
-      <title>Az erdész nem gondolkodik, az erdész vág</title>
-      <description>Az erdész nem gondolkodik, az erdész vág</description>
-      <link>https://napipatrik.hu/218/</link>
-      <pubDate>Mon Jul 11 2022</pubDate>
     </item>
   </channel>
 </rss>
