@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jul 21 2022</lastBuildDate>
+    <lastBuildDate>Fri Jul 22 2022</lastBuildDate>
+    <item>
+      <title>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</title>
+      <description>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</description>
+      <link>https://napipatrik.hu/259/</link>
+      <pubDate>Fri Jul 22 2022</pubDate>
+    </item>
     <item>
       <title>Ami Észak-Koreában anonym, az nekünk HA-ban van</title>
       <description>Ami Észak-Koreában anonym, az nekünk HA-ban van</description>
@@ -60,12 +66,6 @@
       <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
       <link>https://napipatrik.hu/220/</link>
       <pubDate>Wed Jul 13 2022</pubDate>
-    </item>
-    <item>
-      <title>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</title>
-      <description>Belenézel és ott a fos, ott virít, egyből megfacsarja az orrodat</description>
-      <link>https://napipatrik.hu/219/</link>
-      <pubDate>Tue Jul 12 2022</pubDate>
     </item>
   </channel>
 </rss>
