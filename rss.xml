@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jul 22 2022</lastBuildDate>
+    <lastBuildDate>Sat Jul 23 2022</lastBuildDate>
+    <item>
+      <title>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</title>
+      <description>Megint bezártam!!! Nem értek hozzá, nyomkodom a control+d-t mint süket a csengőt</description>
+      <link>https://napipatrik.hu/260/</link>
+      <pubDate>Sat Jul 23 2022</pubDate>
+    </item>
     <item>
       <title>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</title>
       <description>Gondolkodni próbálok, de nehéééz, mind a két agysejtem azt mondja, hogy neeee</description>
@@ -60,12 +66,6 @@
       <description>Én hülye, Laci, éééén hülye! Dolgozni akartam...</description>
       <link>https://napipatrik.hu/221/</link>
       <pubDate>Thu Jul 14 2022</pubDate>
-    </item>
-    <item>
-      <title>Minek nyúltam hozzá?! Ez egy kártyavár!</title>
-      <description>Minek nyúltam hozzá?! Ez egy kártyavár!</description>
-      <link>https://napipatrik.hu/220/</link>
-      <pubDate>Wed Jul 13 2022</pubDate>
     </item>
   </channel>
 </rss>
