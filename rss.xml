@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jul 25 2022</lastBuildDate>
+    <lastBuildDate>Tue Jul 26 2022</lastBuildDate>
+    <item>
+      <title>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</title>
+      <description>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</description>
+      <link>https://napipatrik.hu/263/</link>
+      <pubDate>Tue Jul 26 2022</pubDate>
+    </item>
     <item>
       <title>Scrum Master: Valakinek van ötlete mit szeretnétek rajzolni?
 Patrik: Faszerdőt!</title>
@@ -62,12 +68,6 @@ Patrik: Faszerdőt!</description>
       <description>Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!</description>
       <link>https://napipatrik.hu/224/</link>
       <pubDate>Sun Jul 17 2022</pubDate>
-    </item>
-    <item>
-      <title>Mint krumpliszsákban a híg fos: így kifolyik</title>
-      <description>Mint krumpliszsákban a híg fos: így kifolyik</description>
-      <link>https://napipatrik.hu/223/</link>
-      <pubDate>Sat Jul 16 2022</pubDate>
     </item>
   </channel>
 </rss>
