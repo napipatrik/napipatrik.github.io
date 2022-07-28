@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jul 27 2022</lastBuildDate>
+    <lastBuildDate>Thu Jul 28 2022</lastBuildDate>
+    <item>
+      <title>Szar... ja legyünk pozitívak: szép szar</title>
+      <description>Szar... ja legyünk pozitívak: szép szar</description>
+      <link>https://napipatrik.hu/265/</link>
+      <pubDate>Thu Jul 28 2022</pubDate>
+    </item>
     <item>
       <title>Peti: ...hát nem lettem okosabb...
 Patrik: ez nem az a hely</title>
@@ -64,12 +70,6 @@ Patrik: Faszerdőt!</description>
       <description>Ennek így semmi érteme... jaaaaajjj, decline</description>
       <link>https://napipatrik.hu/226/</link>
       <pubDate>Tue Jul 19 2022</pubDate>
-    </item>
-    <item>
-      <title>Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!</title>
-      <description>Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!</description>
-      <link>https://napipatrik.hu/225/</link>
-      <pubDate>Mon Jul 18 2022</pubDate>
     </item>
   </channel>
 </rss>
