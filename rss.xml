@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Aug 04 2022</lastBuildDate>
+    <lastBuildDate>Fri Aug 05 2022</lastBuildDate>
+    <item>
+      <title>Laci, szeretnél undorítóskodni?</title>
+      <description>Laci, szeretnél undorítóskodni?</description>
+      <link>https://napipatrik.hu/273/</link>
+      <pubDate>Fri Aug 05 2022</pubDate>
+    </item>
     <item>
       <title>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején</title>
       <description>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején</description>
@@ -62,12 +68,6 @@ Patrik: ez nem az a hely</title>
 Patrik: ez nem az a hely</description>
       <link>https://napipatrik.hu/264/</link>
       <pubDate>Wed Jul 27 2022</pubDate>
-    </item>
-    <item>
-      <title>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</title>
-      <description>Ez olyan, hogy te húsevő vagy, beírják egy channelre, hogy egyetek húst, aztán csak zöldséget kapsz</description>
-      <link>https://napipatrik.hu/263/</link>
-      <pubDate>Tue Jul 26 2022</pubDate>
     </item>
   </channel>
 </rss>
