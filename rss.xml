@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Aug 05 2022</lastBuildDate>
+    <lastBuildDate>Sat Aug 06 2022</lastBuildDate>
+    <item>
+      <title>Kurva customerek, csak a baj van velük</title>
+      <description>Kurva customerek, csak a baj van velük</description>
+      <link>https://napipatrik.hu/274/</link>
+      <pubDate>Sat Aug 06 2022</pubDate>
+    </item>
     <item>
       <title>Laci, szeretnél undorítóskodni?</title>
       <description>Laci, szeretnél undorítóskodni?</description>
@@ -60,14 +66,6 @@
       <description>Szar... ja legyünk pozitívak: szép szar</description>
       <link>https://napipatrik.hu/265/</link>
       <pubDate>Thu Jul 28 2022</pubDate>
-    </item>
-    <item>
-      <title>Peti: ...hát nem lettem okosabb...
-Patrik: ez nem az a hely</title>
-      <description>Peti: ...hát nem lettem okosabb...
-Patrik: ez nem az a hely</description>
-      <link>https://napipatrik.hu/264/</link>
-      <pubDate>Wed Jul 27 2022</pubDate>
     </item>
   </channel>
 </rss>
