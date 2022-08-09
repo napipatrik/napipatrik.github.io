@@ -1,5 +1,6 @@
 const patrikFn = require('./assets/js/functions');
 const patrikok = require('./assets/js/patrikok');
+const TwitterApi = require("twitter-api-v2/dist/client");
 
 const args = process.argv.slice(2);
 
@@ -42,9 +43,9 @@ if (args.length && args[0] === '--image') {
 } else if (args.length && args[0] === '--rss') {
   const fs = require('fs');
   const xml2js = require('xml2js');
-  
+
   const parser = new xml2js.Parser();
-  fs.readFile(__dirname + '/rss.xml', function(err, data) {
+  fs.readFile(__dirname + '/rss.xml', function (err, data) {
     parser.parseString(data, function (err, rss) {
       rss.rss.channel[0].lastBuildDate = (new Date()).toDateString();
       rss.rss.channel[0].item.unshift({
@@ -60,6 +61,26 @@ if (args.length && args[0] === '--image') {
       console.log(output);
     });
   });
+} else if (args.length && args[0] === '--publish-twitter') {
+  const {TwitterApi} = require('twitter-api-v2');
+
+  if (!process.env.TWITTER_CONSUMER_KEY || !process.env.TWITTER_CONSUMER_SECRET || !process.env.TWITTER_ACCESS_TOKEN || !process.env.TWITTER_ACCESS_TOKEN_SECRET) {
+    console.error('Missing Twitter API tokens!');
+    return;
+  }
+
+  const client = new TwitterApi({
+    appKey: process.env.TWITTER_CONSUMER_KEY,
+    appSecret: process.env.TWITTER_CONSUMER_SECRET,
+    accessToken: process.env.TWITTER_ACCESS_TOKEN,
+    accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+  });
+
+  (async function () {
+    const napitutiAttachmentId = await client.v1.uploadMedia(__dirname + '/napipatrik.jpg');
+
+    await client.v2.tweet('Napi Patrik #napipatrik #napidevops', { media: { media_ids: [napitutiAttachmentId] } });
+  })();
 } else {
   console.log(napituti);
 }
