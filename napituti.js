@@ -1,6 +1,5 @@
 const patrikFn = require('./assets/js/functions');
 const patrikok = require('./assets/js/patrikok');
-const TwitterApi = require("twitter-api-v2/dist/client");
 
 const args = process.argv.slice(2);
 
