@@ -2,6 +2,7 @@ name: Rotate napituti
 on:
   schedule:
     - cron: "5 1 * * *"
+  workflow_dispatch:
 jobs:
   rotate-napituti:
     runs-on: ubuntu-latest
