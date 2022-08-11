@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Aug 10 2022</lastBuildDate>
+    <lastBuildDate>Thu Aug 11 2022</lastBuildDate>
+    <item>
+      <title>Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.</title>
+      <description>Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.</description>
+      <link>https://napipatrik.hu/279/</link>
+      <pubDate>Thu Aug 11 2022</pubDate>
+    </item>
     <item>
       <title>Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának</title>
       <description>Tamás, lehajolsz, megfogod a bokád és adsz egy socketet Csabának</description>
@@ -60,12 +66,6 @@
       <description>A legélesebb nyél</description>
       <link>https://napipatrik.hu/270/</link>
       <pubDate>Tue Aug 02 2022</pubDate>
-    </item>
-    <item>
-      <title>Ha egy DC-t láttál, láttad az összeset</title>
-      <description>Ha egy DC-t láttál, láttad az összeset</description>
-      <link>https://napipatrik.hu/269/</link>
-      <pubDate>Mon Aug 01 2022</pubDate>
     </item>
   </channel>
 </rss>
