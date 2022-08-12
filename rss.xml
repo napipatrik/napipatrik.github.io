@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Aug 11 2022</lastBuildDate>
+    <lastBuildDate>Fri Aug 12 2022</lastBuildDate>
+    <item>
+      <title>Nincs pénzünk socketekre!</title>
+      <description>Nincs pénzünk socketekre!</description>
+      <link>https://napipatrik.hu/280/</link>
+      <pubDate>Fri Aug 12 2022</pubDate>
+    </item>
     <item>
       <title>Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.</title>
       <description>Nézzük meg András mit baszott el, mert nem ért hozzá. Ha értene hozzá, már nem itt ülne.</description>
@@ -60,12 +66,6 @@
       <description>Slackről slackre terjed...</description>
       <link>https://napipatrik.hu/271/</link>
       <pubDate>Wed Aug 03 2022</pubDate>
-    </item>
-    <item>
-      <title>A legélesebb nyél</title>
-      <description>A legélesebb nyél</description>
-      <link>https://napipatrik.hu/270/</link>
-      <pubDate>Tue Aug 02 2022</pubDate>
     </item>
   </channel>
 </rss>
