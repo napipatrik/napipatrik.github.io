@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Aug 12 2022</lastBuildDate>
+    <lastBuildDate>Sat Aug 13 2022</lastBuildDate>
+    <item>
+      <title>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</title>
+      <description>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</description>
+      <link>https://napipatrik.hu/281/</link>
+      <pubDate>Sat Aug 13 2022</pubDate>
+    </item>
     <item>
       <title>Nincs pénzünk socketekre!</title>
       <description>Nincs pénzünk socketekre!</description>
@@ -60,12 +66,6 @@
       <description>András, be akartam nyúlni a mechanikus billentyűzetet, de inkább szétverem Laci fején</description>
       <link>https://napipatrik.hu/272/</link>
       <pubDate>Thu Aug 04 2022</pubDate>
-    </item>
-    <item>
-      <title>Slackről slackre terjed...</title>
-      <description>Slackről slackre terjed...</description>
-      <link>https://napipatrik.hu/271/</link>
-      <pubDate>Wed Aug 03 2022</pubDate>
     </item>
   </channel>
 </rss>
