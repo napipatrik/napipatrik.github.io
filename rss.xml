@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 14 2022</lastBuildDate>
+    <lastBuildDate>Mon Aug 15 2022</lastBuildDate>
+    <item>
+      <title>Ide nem kell doksi, a jó engineer reverseli</title>
+      <description>Ide nem kell doksi, a jó engineer reverseli</description>
+      <link>https://napipatrik.hu/283/</link>
+      <pubDate>Mon Aug 15 2022</pubDate>
+    </item>
     <item>
       <title>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</title>
       <description>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</description>
@@ -60,12 +66,6 @@
       <description>Kurva customerek, csak a baj van velük</description>
       <link>https://napipatrik.hu/274/</link>
       <pubDate>Sat Aug 06 2022</pubDate>
-    </item>
-    <item>
-      <title>Laci, szeretnél undorítóskodni?</title>
-      <description>Laci, szeretnél undorítóskodni?</description>
-      <link>https://napipatrik.hu/273/</link>
-      <pubDate>Fri Aug 05 2022</pubDate>
     </item>
   </channel>
 </rss>
