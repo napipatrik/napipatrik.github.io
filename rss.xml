@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Aug 16 2022</lastBuildDate>
+    <lastBuildDate>Wed Aug 17 2022</lastBuildDate>
+    <item>
+      <title>Ezek tények, ezt alap igazságba kéne tenni</title>
+      <description>Ezek tények, ezt alap igazságba kéne tenni</description>
+      <link>https://napipatrik.hu/285/</link>
+      <pubDate>Wed Aug 17 2022</pubDate>
+    </item>
     <item>
       <title>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</title>
       <description>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</description>
@@ -60,12 +66,6 @@
       <description>Ha más mezőn gyűjtjük a gyapotot, akkor itt nem lesz aki leszedi</description>
       <link>https://napipatrik.hu/276/</link>
       <pubDate>Mon Aug 08 2022</pubDate>
-    </item>
-    <item>
-      <title>Egy termék mind felett!</title>
-      <description>Egy termék mind felett!</description>
-      <link>https://napipatrik.hu/275/</link>
-      <pubDate>Sun Aug 07 2022</pubDate>
     </item>
   </channel>
 </rss>
