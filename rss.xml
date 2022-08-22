@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 21 2022</lastBuildDate>
+    <lastBuildDate>Mon Aug 22 2022</lastBuildDate>
+    <item>
+      <title>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</title>
+      <description>Ez olyan Tamás, amikor tele a szád, jön az erdő és még bekapod</description>
+      <link>https://napipatrik.hu/290/</link>
+      <pubDate>Mon Aug 22 2022</pubDate>
+    </item>
     <item>
       <title>Fér még oda</title>
       <description>Fér még oda</description>
@@ -60,12 +66,6 @@
       <description>Nekem mindegy, én leszarom, gányoljunk oda egy ducttape-et</description>
       <link>https://napipatrik.hu/281/</link>
       <pubDate>Sat Aug 13 2022</pubDate>
-    </item>
-    <item>
-      <title>Nincs pénzünk socketekre!</title>
-      <description>Nincs pénzünk socketekre!</description>
-      <link>https://napipatrik.hu/280/</link>
-      <pubDate>Fri Aug 12 2022</pubDate>
     </item>
   </channel>
 </rss>
