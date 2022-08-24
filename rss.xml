@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Aug 23 2022</lastBuildDate>
+    <lastBuildDate>Wed Aug 24 2022</lastBuildDate>
+    <item>
+      <title>András, vajazó késsel beleztek már ki embert?</title>
+      <description>András, vajazó késsel beleztek már ki embert?</description>
+      <link>https://napipatrik.hu/292/</link>
+      <pubDate>Wed Aug 24 2022</pubDate>
+    </item>
     <item>
       <title>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</title>
       <description>Tamás nem adott borravalót, így nem adnak nekünk koporsót, pedig én mindjárt meghalok</description>
@@ -60,12 +66,6 @@
       <description>Ide nem kell doksi, a jó engineer reverseli</description>
       <link>https://napipatrik.hu/283/</link>
       <pubDate>Mon Aug 15 2022</pubDate>
-    </item>
-    <item>
-      <title>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</title>
-      <description>Úgy senki sem tudja szedni a gyapotot, ahogy te szeded a gyapotot</description>
-      <link>https://napipatrik.hu/282/</link>
-      <pubDate>Sun Aug 14 2022</pubDate>
     </item>
   </channel>
 </rss>
