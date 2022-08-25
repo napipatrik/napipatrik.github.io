@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Aug 24 2022</lastBuildDate>
+    <lastBuildDate>Thu Aug 25 2022</lastBuildDate>
+    <item>
+      <title>Minek alerting ha van szemed és tvd?</title>
+      <description>Minek alerting ha van szemed és tvd?</description>
+      <link>https://napipatrik.hu/293/</link>
+      <pubDate>Thu Aug 25 2022</pubDate>
+    </item>
     <item>
       <title>András, vajazó késsel beleztek már ki embert?</title>
       <description>András, vajazó késsel beleztek már ki embert?</description>
@@ -60,12 +66,6 @@
       <description>Ha választhatsz egy új és egy obsolete között, akkor az obsoletet választod</description>
       <link>https://napipatrik.hu/284/</link>
       <pubDate>Tue Aug 16 2022</pubDate>
-    </item>
-    <item>
-      <title>Ide nem kell doksi, a jó engineer reverseli</title>
-      <description>Ide nem kell doksi, a jó engineer reverseli</description>
-      <link>https://napipatrik.hu/283/</link>
-      <pubDate>Mon Aug 15 2022</pubDate>
     </item>
   </channel>
 </rss>
