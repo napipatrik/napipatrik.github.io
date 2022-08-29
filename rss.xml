@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Aug 28 2022</lastBuildDate>
+    <lastBuildDate>Mon Aug 29 2022</lastBuildDate>
+    <item>
+      <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
+      <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
+      <link>https://napipatrik.hu/297/</link>
+      <pubDate>Mon Aug 29 2022</pubDate>
+    </item>
     <item>
       <title>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</title>
       <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
@@ -60,12 +66,6 @@
       <description>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</description>
       <link>https://napipatrik.hu/288/</link>
       <pubDate>Sat Aug 20 2022</pubDate>
-    </item>
-    <item>
-      <title>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</title>
-      <description>A fasza egy csúnya szó: kicsi Laci, zseb devopsos!</description>
-      <link>https://napipatrik.hu/287/</link>
-      <pubDate>Fri Aug 19 2022</pubDate>
     </item>
   </channel>
 </rss>
