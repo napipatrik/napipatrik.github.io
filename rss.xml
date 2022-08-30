@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Aug 29 2022</lastBuildDate>
+    <lastBuildDate>Tue Aug 30 2022</lastBuildDate>
+    <item>
+      <title>A férfiak jobb szakácsok</title>
+      <description>A férfiak jobb szakácsok</description>
+      <link>https://napipatrik.hu/298/</link>
+      <pubDate>Tue Aug 30 2022</pubDate>
+    </item>
     <item>
       <title>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</title>
       <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
@@ -60,12 +66,6 @@
       <description>Fér még oda</description>
       <link>https://napipatrik.hu/289/</link>
       <pubDate>Sun Aug 21 2022</pubDate>
-    </item>
-    <item>
-      <title>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</title>
-      <description>Én ma be akartam még rúgni... nincs az az Isten, hogy én még valamit a gyomromba tegyek, ha Tamás mindent fizet akkor se.</description>
-      <link>https://napipatrik.hu/288/</link>
-      <pubDate>Sat Aug 20 2022</pubDate>
     </item>
   </channel>
 </rss>
