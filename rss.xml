@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Sep 03 2022</lastBuildDate>
+    <lastBuildDate>Sun Sep 04 2022</lastBuildDate>
+    <item>
+      <title>Permetezte ránk a körszakállt</title>
+      <description>Permetezte ránk a körszakállt</description>
+      <link>https://napipatrik.hu/303/</link>
+      <pubDate>Sun Sep 04 2022</pubDate>
+    </item>
     <item>
       <title>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</title>
       <description>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</description>
@@ -64,12 +70,6 @@ Patrik: Hát annyira senki</description>
       <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
       <link>https://napipatrik.hu/294/</link>
       <pubDate>Fri Aug 26 2022</pubDate>
-    </item>
-    <item>
-      <title>Minek alerting ha van szemed és tvd?</title>
-      <description>Minek alerting ha van szemed és tvd?</description>
-      <link>https://napipatrik.hu/293/</link>
-      <pubDate>Thu Aug 25 2022</pubDate>
     </item>
   </channel>
 </rss>
