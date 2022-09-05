@@ -6,7 +6,21 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Sep 04 2022</lastBuildDate>
+    <lastBuildDate>Mon Sep 05 2022</lastBuildDate>
+    <item>
+      <title>Lehetett volna írni locsoló verset:
+Faszerdőben jártam
+Piros makkot láttam
+Be akart cuppanni
+Szabad e locsolni</title>
+      <description>Lehetett volna írni locsoló verset:
+Faszerdőben jártam
+Piros makkot láttam
+Be akart cuppanni
+Szabad e locsolni</description>
+      <link>https://napipatrik.hu/304/</link>
+      <pubDate>Mon Sep 05 2022</pubDate>
+    </item>
     <item>
       <title>Permetezte ránk a körszakállt</title>
       <description>Permetezte ránk a körszakállt</description>
@@ -64,12 +78,6 @@ Patrik: Hát annyira senki</description>
       <description>...de attól ne basszon fel a faszságával!</description>
       <link>https://napipatrik.hu/295/</link>
       <pubDate>Sat Aug 27 2022</pubDate>
-    </item>
-    <item>
-      <title>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</title>
-      <description>Hát Laci, egy szatyor hamburgerrel kell mennem 3 megállót, szerinted mi marad? A csomagolás és a zéró kóla</description>
-      <link>https://napipatrik.hu/294/</link>
-      <pubDate>Fri Aug 26 2022</pubDate>
     </item>
   </channel>
 </rss>
