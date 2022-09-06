@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Sep 05 2022</lastBuildDate>
+    <lastBuildDate>Tue Sep 06 2022</lastBuildDate>
+    <item>
+      <title>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</title>
+      <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
+      <link>https://napipatrik.hu/305/</link>
+      <pubDate>Tue Sep 06 2022</pubDate>
+    </item>
     <item>
       <title>Lehetett volna írni locsoló verset:
 Faszerdőben jártam
@@ -72,12 +78,6 @@ Patrik: Hát annyira senki</description>
       <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
       <link>https://napipatrik.hu/296/</link>
       <pubDate>Sun Aug 28 2022</pubDate>
-    </item>
-    <item>
-      <title>...de attól ne basszon fel a faszságával!</title>
-      <description>...de attól ne basszon fel a faszságával!</description>
-      <link>https://napipatrik.hu/295/</link>
-      <pubDate>Sat Aug 27 2022</pubDate>
     </item>
   </channel>
 </rss>
