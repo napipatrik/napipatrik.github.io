@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Sep 06 2022</lastBuildDate>
+    <lastBuildDate>Wed Sep 07 2022</lastBuildDate>
+    <item>
+      <title>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</title>
+      <description>Hisz ha tehetsz fel 4-es puppet agentet vagy 6-ost, akkor nyilván a régebbi obsoletet teszed fel</description>
+      <link>https://napipatrik.hu/306/</link>
+      <pubDate>Wed Sep 07 2022</pubDate>
+    </item>
     <item>
       <title>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</title>
       <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
@@ -72,12 +78,6 @@ Patrik: Hát annyira senki</description>
       <description>Én kurva vagyok: pénzért dolgozom, nem a munka öröméért</description>
       <link>https://napipatrik.hu/297/</link>
       <pubDate>Mon Aug 29 2022</pubDate>
-    </item>
-    <item>
-      <title>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</title>
-      <description>De amúgy tök jó, töltöttem ki teszteket és kijött az eredmény, hogy szellemi fogyatékos vagyok</description>
-      <link>https://napipatrik.hu/296/</link>
-      <pubDate>Sun Aug 28 2022</pubDate>
     </item>
   </channel>
 </rss>
