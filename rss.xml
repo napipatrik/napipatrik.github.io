@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Sep 09 2022</lastBuildDate>
+    <lastBuildDate>Sat Sep 10 2022</lastBuildDate>
+    <item>
+      <title>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</title>
+      <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</description>
+      <link>https://napipatrik.hu/309/</link>
+      <pubDate>Sat Sep 10 2022</pubDate>
+    </item>
     <item>
       <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
       <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
@@ -70,14 +76,6 @@ Patrik: 4 lábon</description>
       <description>...és hát ugye az építész átlátja az erdőt, nem úgy, mint a kisbaltás devopsos, aki csak faszról faszra száll</description>
       <link>https://napipatrik.hu/300/</link>
       <pubDate>Thu Sep 01 2022</pubDate>
-    </item>
-    <item>
-      <title>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
-Patrik: Hát annyira senki</title>
-      <description>Enikő: Az a baj Patrik, hogy nem lehet mindenki olyan tökéletes mint te
-Patrik: Hát annyira senki</description>
-      <link>https://napipatrik.hu/299/</link>
-      <pubDate>Wed Aug 31 2022</pubDate>
     </item>
   </channel>
 </rss>
