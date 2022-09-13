@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Sep 12 2022</lastBuildDate>
+    <lastBuildDate>Tue Sep 13 2022</lastBuildDate>
+    <item>
+      <title>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</title>
+      <description>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</description>
+      <link>https://napipatrik.hu/312/</link>
+      <pubDate>Tue Sep 13 2022</pubDate>
+    </item>
     <item>
       <title>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</title>
       <description>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</description>
@@ -68,12 +74,6 @@ Szabad e locsolni</description>
       <description>Permetezte ránk a körszakállt</description>
       <link>https://napipatrik.hu/303/</link>
       <pubDate>Sun Sep 04 2022</pubDate>
-    </item>
-    <item>
-      <title>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</title>
-      <description>Nah, találtam egy kis körszakállat, amit reflexből be is kaptam</description>
-      <link>https://napipatrik.hu/302/</link>
-      <pubDate>Sat Sep 03 2022</pubDate>
     </item>
   </channel>
 </rss>
