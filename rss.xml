@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Sep 14 2022</lastBuildDate>
+    <lastBuildDate>Thu Sep 15 2022</lastBuildDate>
+    <item>
+      <title>Hisz aki dilettáns, az mindenhol dilettáns!</title>
+      <description>Hisz aki dilettáns, az mindenhol dilettáns!</description>
+      <link>https://napipatrik.hu/314/</link>
+      <pubDate>Thu Sep 15 2022</pubDate>
+    </item>
     <item>
       <title>Egy rendes ember magának pasztázza a processzorát</title>
       <description>Egy rendes ember magának pasztázza a processzorát</description>
@@ -60,20 +66,6 @@
       <description>A jó techops elő trágyázta nekünk azt az erdőt, csak nem forgatta földbe</description>
       <link>https://napipatrik.hu/305/</link>
       <pubDate>Tue Sep 06 2022</pubDate>
-    </item>
-    <item>
-      <title>Lehetett volna írni locsoló verset:
-Faszerdőben jártam
-Piros makkot láttam
-Be akart cuppanni
-Szabad e locsolni</title>
-      <description>Lehetett volna írni locsoló verset:
-Faszerdőben jártam
-Piros makkot láttam
-Be akart cuppanni
-Szabad e locsolni</description>
-      <link>https://napipatrik.hu/304/</link>
-      <pubDate>Mon Sep 05 2022</pubDate>
     </item>
   </channel>
 </rss>
