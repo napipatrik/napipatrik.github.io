@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Sep 18 2022</lastBuildDate>
+    <lastBuildDate>Mon Sep 19 2022</lastBuildDate>
+    <item>
+      <title>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</title>
+      <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
+      <link>https://napipatrik.hu/318/</link>
+      <pubDate>Mon Sep 19 2022</pubDate>
+    </item>
     <item>
       <title>De nekem mindig igazam van</title>
       <description>De nekem mindig igazam van</description>
@@ -60,12 +66,6 @@
       <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</description>
       <link>https://napipatrik.hu/309/</link>
       <pubDate>Sat Sep 10 2022</pubDate>
-    </item>
-    <item>
-      <title>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</title>
-      <description>Laci szereti mikor éppen kisbaltázik egy őstölgyest és a szél az arcába tolja a fospermemtet</description>
-      <link>https://napipatrik.hu/308/</link>
-      <pubDate>Fri Sep 09 2022</pubDate>
     </item>
   </channel>
 </rss>
