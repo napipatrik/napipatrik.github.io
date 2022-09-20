@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Sep 19 2022</lastBuildDate>
+    <lastBuildDate>Tue Sep 20 2022</lastBuildDate>
+    <item>
+      <title>Hát Laci, a sírás kerülget</title>
+      <description>Hát Laci, a sírás kerülget</description>
+      <link>https://napipatrik.hu/319/</link>
+      <pubDate>Tue Sep 20 2022</pubDate>
+    </item>
     <item>
       <title>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</title>
       <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
@@ -60,12 +66,6 @@
       <description>Oh faszom Laci, ez a Helm megöl. Annyira más, egyszerűen nem áll rá fejem. Tényleg dilettáns lettem.</description>
       <link>https://napipatrik.hu/310/</link>
       <pubDate>Sun Sep 11 2022</pubDate>
-    </item>
-    <item>
-      <title>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</title>
-      <description>Bent vagyok az erdőben. Érted, ez nézőpont kérdése: nem értesz semmihez, hiába vannak új, normális cuccok, neked akkor is erdő lesz és nem rét.</description>
-      <link>https://napipatrik.hu/309/</link>
-      <pubDate>Sat Sep 10 2022</pubDate>
     </item>
   </channel>
 </rss>
