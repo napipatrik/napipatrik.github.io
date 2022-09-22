@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Sep 21 2022</lastBuildDate>
+    <lastBuildDate>Thu Sep 22 2022</lastBuildDate>
+    <item>
+      <title>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</title>
+      <description>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</description>
+      <link>https://napipatrik.hu/321/</link>
+      <pubDate>Thu Sep 22 2022</pubDate>
+    </item>
     <item>
       <title>Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen</title>
       <description>Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen</description>
@@ -60,12 +66,6 @@
       <description>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</description>
       <link>https://napipatrik.hu/312/</link>
       <pubDate>Tue Sep 13 2022</pubDate>
-    </item>
-    <item>
-      <title>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</title>
-      <description>Azért mert van egy nyeles fiókod amibe bele került egy kés, nem fogod késes fióknak hívni</description>
-      <link>https://napipatrik.hu/311/</link>
-      <pubDate>Mon Sep 12 2022</pubDate>
     </item>
   </channel>
 </rss>
