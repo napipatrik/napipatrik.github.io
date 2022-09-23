@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 22 2022</lastBuildDate>
+    <lastBuildDate>Fri Sep 23 2022</lastBuildDate>
+    <item>
+      <title>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</title>
+      <description>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</description>
+      <link>https://napipatrik.hu/322/</link>
+      <pubDate>Fri Sep 23 2022</pubDate>
+    </item>
     <item>
       <title>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</title>
       <description>Meg is kaptam hogy negatív vagyok... nem is értem miért nem tudtam örülni egy fosmocsárral tarkított őstölgyesekkel megtűzedelt faszerdőnek</description>
@@ -60,12 +66,6 @@
       <description>Egy rendes ember magának pasztázza a processzorát</description>
       <link>https://napipatrik.hu/313/</link>
       <pubDate>Wed Sep 14 2022</pubDate>
-    </item>
-    <item>
-      <title>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</title>
-      <description>Nem értesz hozzá, csak azért leszel főerdész, mert te leszel a rangidős</description>
-      <link>https://napipatrik.hu/312/</link>
-      <pubDate>Tue Sep 13 2022</pubDate>
     </item>
   </channel>
 </rss>
