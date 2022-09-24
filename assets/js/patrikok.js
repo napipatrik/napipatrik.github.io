@@ -497,6 +497,12 @@ var patrikok = [
     'Baszki, napipatrik reborn lesz...',
     'Baszki az erdő mérete csak növekszik. Még nem sikerült feltérképezni, mert ekkora erdőt én még nem láttam, de ahogy hallgatom a planninget, elindulsz az erdőben, mész, mész, mész, azt hiszed, hogy még ugyanabban az erdőben vagy, de igazából annyit mentél, hogy egy teljesen más erdőbe kötöttél ki! Ez baszki a megaerdő!',
     'De nem úgy, hogy vannak közben tisztások, lapos részek, itt őstölgyes mindenhol, ami alatt fosmocsarak húzódnak meg és baszki itt nem egy-két kósza körszakáll repked az erdőben, miközben sétálsz, itt baszki rajban repülnek és még az orrodba is felszaladnak!',
+    'Utat kell mutatnom ki a mocsárból!',
+    'Érted mi a jobb: gányolni kézzel végtelent, vagy elkezdeni lerakni az IaC alapjait proper toolokkal és abba lapátolni utána a mocsárból, hogy szép erdőd legyen. Érted: a mocsár az jó táptalaj.',
+    'Hát aki körszakállért megy, az ne csodálkozzon, ha megfájdul a púzója!',
+    'Csírájában lesz elfojtva a negativizmus!',
+    'Az a baj, ha kinyitod a szád, akkor nem csak azok fogják látni a bajokat, akik kussoltak, hanem azok is, akiknek fel sem tűnt - ami persze rontja az amúgy gondolom vidám, családias hangulatot.',
+    'Mit csináljak? Mellé nyúltam a nagy furik láttán, csak azt hittem a furikban della van, aztán kiderült, hogy körszakáll.',
 ];
 var tutik = patrikok;
 
