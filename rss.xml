@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Sep 24 2022</lastBuildDate>
+    <lastBuildDate>Sun Sep 25 2022</lastBuildDate>
+    <item>
+      <title>...hisz a piros error az csak egy warning</title>
+      <description>...hisz a piros error az csak egy warning</description>
+      <link>https://napipatrik.hu/324/</link>
+      <pubDate>Sun Sep 25 2022</pubDate>
+    </item>
     <item>
       <title>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</title>
       <description>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</description>
@@ -60,12 +66,6 @@
       <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
       <link>https://napipatrik.hu/315/</link>
       <pubDate>Fri Sep 16 2022</pubDate>
-    </item>
-    <item>
-      <title>Hisz aki dilettáns, az mindenhol dilettáns!</title>
-      <description>Hisz aki dilettáns, az mindenhol dilettáns!</description>
-      <link>https://napipatrik.hu/314/</link>
-      <pubDate>Thu Sep 15 2022</pubDate>
     </item>
   </channel>
 </rss>
