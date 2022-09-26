@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Sep 25 2022</lastBuildDate>
+    <lastBuildDate>Mon Sep 26 2022</lastBuildDate>
+    <item>
+      <title>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</title>
+      <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
+      <link>https://napipatrik.hu/325/</link>
+      <pubDate>Mon Sep 26 2022</pubDate>
+    </item>
     <item>
       <title>...hisz a piros error az csak egy warning</title>
       <description>...hisz a piros error az csak egy warning</description>
@@ -60,12 +66,6 @@
       <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
       <link>https://napipatrik.hu/316/</link>
       <pubDate>Sat Sep 17 2022</pubDate>
-    </item>
-    <item>
-      <title>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</title>
-      <description>Lehet, hogy erdőt váltott, de a lelke az előző termék faszerdejében él tovább</description>
-      <link>https://napipatrik.hu/315/</link>
-      <pubDate>Fri Sep 16 2022</pubDate>
     </item>
   </channel>
 </rss>
