@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 node napituti.js > napipatrik
 node napituti.js --index > napipatrik.id
 
