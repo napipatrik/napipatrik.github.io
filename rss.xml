@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Sep 26 2022</lastBuildDate>
+    <lastBuildDate>Tue Sep 27 2022</lastBuildDate>
+    <item>
+      <title>Egy szót mondok, hogy értsd: BI</title>
+      <description>Egy szót mondok, hogy értsd: BI</description>
+      <link>https://napipatrik.hu/326/</link>
+      <pubDate>Tue Sep 27 2022</pubDate>
+    </item>
     <item>
       <title>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</title>
       <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
@@ -60,12 +66,6 @@
       <description>De nekem mindig igazam van</description>
       <link>https://napipatrik.hu/317/</link>
       <pubDate>Sun Sep 18 2022</pubDate>
-    </item>
-    <item>
-      <title>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</title>
-      <description>Hopsz, nem ide akartam. Még jó, hogy nem dick pic lett</description>
-      <link>https://napipatrik.hu/316/</link>
-      <pubDate>Sat Sep 17 2022</pubDate>
     </item>
   </channel>
 </rss>
