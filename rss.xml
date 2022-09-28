@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Sep 27 2022</lastBuildDate>
+    <lastBuildDate>Wed Sep 28 2022</lastBuildDate>
+    <item>
+      <title>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</title>
+      <description>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</description>
+      <link>https://napipatrik.hu/99/</link>
+      <pubDate>Wed Sep 28 2022</pubDate>
+    </item>
     <item>
       <title>Egy szót mondok, hogy értsd: BI</title>
       <description>Egy szót mondok, hogy értsd: BI</description>
@@ -60,12 +66,6 @@
       <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
       <link>https://napipatrik.hu/318/</link>
       <pubDate>Mon Sep 19 2022</pubDate>
-    </item>
-    <item>
-      <title>De nekem mindig igazam van</title>
-      <description>De nekem mindig igazam van</description>
-      <link>https://napipatrik.hu/317/</link>
-      <pubDate>Sun Sep 18 2022</pubDate>
     </item>
   </channel>
 </rss>
