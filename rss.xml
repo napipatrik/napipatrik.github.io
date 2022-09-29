@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Sep 28 2022</lastBuildDate>
+    <lastBuildDate>Thu Sep 29 2022</lastBuildDate>
+    <item>
+      <title>- Tudjátok mi kéne még?
+- Egy DevOpsos vacsi!</title>
+      <description>- Tudjátok mi kéne még?
+- Egy DevOpsos vacsi!</description>
+      <link>https://napipatrik.hu/100/</link>
+      <pubDate>Thu Sep 29 2022</pubDate>
+    </item>
     <item>
       <title>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</title>
       <description>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</description>
@@ -60,12 +68,6 @@
       <description>Hát Laci, a sírás kerülget</description>
       <link>https://napipatrik.hu/319/</link>
       <pubDate>Tue Sep 20 2022</pubDate>
-    </item>
-    <item>
-      <title>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</title>
-      <description>Ha az erdő nem ad elég körszakállt, a managered még hoz neked, hogy ne hiányozzon</description>
-      <link>https://napipatrik.hu/318/</link>
-      <pubDate>Mon Sep 19 2022</pubDate>
     </item>
   </channel>
 </rss>
