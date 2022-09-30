@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Sep 29 2022</lastBuildDate>
+    <lastBuildDate>Fri Sep 30 2022</lastBuildDate>
+    <item>
+      <title>Olyan szopott meggymag fejed van</title>
+      <description>Olyan szopott meggymag fejed van</description>
+      <link>https://napipatrik.hu/101/</link>
+      <pubDate>Fri Sep 30 2022</pubDate>
+    </item>
     <item>
       <title>- Tudjátok mi kéne még?
 - Egy DevOpsos vacsi!</title>
@@ -62,12 +68,6 @@
       <description>Hiszen ha már patchelve nem vagyunk, legalább a tűzfal legyen</description>
       <link>https://napipatrik.hu/320/</link>
       <pubDate>Wed Sep 21 2022</pubDate>
-    </item>
-    <item>
-      <title>Hát Laci, a sírás kerülget</title>
-      <description>Hát Laci, a sírás kerülget</description>
-      <link>https://napipatrik.hu/319/</link>
-      <pubDate>Tue Sep 20 2022</pubDate>
     </item>
   </channel>
 </rss>
