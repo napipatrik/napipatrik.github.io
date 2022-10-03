@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Oct 02 2022</lastBuildDate>
+    <lastBuildDate>Mon Oct 03 2022</lastBuildDate>
+    <item>
+      <title>Nyilván hol tesztel?! Prodban tesztel.</title>
+      <description>Nyilván hol tesztel?! Prodban tesztel.</description>
+      <link>https://napipatrik.hu/104/</link>
+      <pubDate>Mon Oct 03 2022</pubDate>
+    </item>
     <item>
       <title>Két füle van és mégsem szatyor</title>
       <description>Két füle van és mégsem szatyor</description>
@@ -62,12 +68,6 @@
       <description>Nekem nem tudsz újat mondani, ezt a körszakállt ismerem</description>
       <link>https://napipatrik.hu/323/</link>
       <pubDate>Sat Sep 24 2022</pubDate>
-    </item>
-    <item>
-      <title>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</title>
-      <description>A porcelánkamionnak vannak benefitjei: egyrészt otthon vagy, szóval nyugodtan meg tudsz halni, másrészt amiután színeset ásítottál és lehúztad, a víz lehűt</description>
-      <link>https://napipatrik.hu/322/</link>
-      <pubDate>Fri Sep 23 2022</pubDate>
     </item>
   </channel>
 </rss>
