@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Oct 04 2022</lastBuildDate>
+    <lastBuildDate>Wed Oct 05 2022</lastBuildDate>
+    <item>
+      <title>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</title>
+      <description>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</description>
+      <link>https://napipatrik.hu/106/</link>
+      <pubDate>Wed Oct 05 2022</pubDate>
+    </item>
     <item>
       <title>Egy kicsit erdészkedj</title>
       <description>Egy kicsit erdészkedj</description>
@@ -62,12 +68,6 @@
       <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
       <link>https://napipatrik.hu/325/</link>
       <pubDate>Mon Sep 26 2022</pubDate>
-    </item>
-    <item>
-      <title>...hisz a piros error az csak egy warning</title>
-      <description>...hisz a piros error az csak egy warning</description>
-      <link>https://napipatrik.hu/324/</link>
-      <pubDate>Sun Sep 25 2022</pubDate>
     </item>
   </channel>
 </rss>
