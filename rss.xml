@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Oct 05 2022</lastBuildDate>
+    <lastBuildDate>Thu Oct 06 2022</lastBuildDate>
+    <item>
+      <title>Az bükéből bükébe</title>
+      <description>Az bükéből bükébe</description>
+      <link>https://napipatrik.hu/107/</link>
+      <pubDate>Thu Oct 06 2022</pubDate>
+    </item>
     <item>
       <title>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</title>
       <description>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</description>
@@ -62,12 +68,6 @@
       <description>Egy szót mondok, hogy értsd: BI</description>
       <link>https://napipatrik.hu/326/</link>
       <pubDate>Tue Sep 27 2022</pubDate>
-    </item>
-    <item>
-      <title>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</title>
-      <description>Ennyi idiótaságot a stackoverflown nem tudnál összeszedni</description>
-      <link>https://napipatrik.hu/325/</link>
-      <pubDate>Mon Sep 26 2022</pubDate>
     </item>
   </channel>
 </rss>
