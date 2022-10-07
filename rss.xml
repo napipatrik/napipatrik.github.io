@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Oct 06 2022</lastBuildDate>
+    <lastBuildDate>Fri Oct 07 2022</lastBuildDate>
+    <item>
+      <title>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</title>
+      <description>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</description>
+      <link>https://napipatrik.hu/108/</link>
+      <pubDate>Fri Oct 07 2022</pubDate>
+    </item>
     <item>
       <title>Az bükéből bükébe</title>
       <description>Az bükéből bükébe</description>
@@ -62,12 +68,6 @@
       <description>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</description>
       <link>https://napipatrik.hu/99/</link>
       <pubDate>Wed Sep 28 2022</pubDate>
-    </item>
-    <item>
-      <title>Egy szót mondok, hogy értsd: BI</title>
-      <description>Egy szót mondok, hogy értsd: BI</description>
-      <link>https://napipatrik.hu/326/</link>
-      <pubDate>Tue Sep 27 2022</pubDate>
     </item>
   </channel>
 </rss>
