@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 07 2022</lastBuildDate>
+    <lastBuildDate>Sat Oct 08 2022</lastBuildDate>
+    <item>
+      <title>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</title>
+      <description>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</description>
+      <link>https://napipatrik.hu/109/</link>
+      <pubDate>Sat Oct 08 2022</pubDate>
+    </item>
     <item>
       <title>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</title>
       <description>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</description>
@@ -62,12 +68,6 @@
 - Egy DevOpsos vacsi!</description>
       <link>https://napipatrik.hu/100/</link>
       <pubDate>Thu Sep 29 2022</pubDate>
-    </item>
-    <item>
-      <title>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</title>
-      <description>András tudja miről beszél, ő könnyes szemmel, égő púzóval letolta azt az 1 évet</description>
-      <link>https://napipatrik.hu/99/</link>
-      <pubDate>Wed Sep 28 2022</pubDate>
     </item>
   </channel>
 </rss>
