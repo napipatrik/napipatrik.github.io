@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Oct 08 2022</lastBuildDate>
+    <lastBuildDate>Sun Oct 09 2022</lastBuildDate>
+    <item>
+      <title>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</title>
+      <description>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</description>
+      <link>https://napipatrik.hu/110/</link>
+      <pubDate>Sun Oct 09 2022</pubDate>
+    </item>
     <item>
       <title>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</title>
       <description>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</description>
@@ -60,14 +66,6 @@
       <description>Olyan szopott meggymag fejed van</description>
       <link>https://napipatrik.hu/101/</link>
       <pubDate>Fri Sep 30 2022</pubDate>
-    </item>
-    <item>
-      <title>- Tudjátok mi kéne még?
-- Egy DevOpsos vacsi!</title>
-      <description>- Tudjátok mi kéne még?
-- Egy DevOpsos vacsi!</description>
-      <link>https://napipatrik.hu/100/</link>
-      <pubDate>Thu Sep 29 2022</pubDate>
     </item>
   </channel>
 </rss>
