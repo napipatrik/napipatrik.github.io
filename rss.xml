@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Oct 12 2022</lastBuildDate>
+    <lastBuildDate>Thu Oct 13 2022</lastBuildDate>
+    <item>
+      <title>Ha te nem veszed be, a másik erdész beveszi</title>
+      <description>Ha te nem veszed be, a másik erdész beveszi</description>
+      <link>https://napipatrik.hu/114/</link>
+      <pubDate>Thu Oct 13 2022</pubDate>
+    </item>
     <item>
       <title>Tudod mi simogasson téged?! A 220!</title>
       <description>Tudod mi simogasson téged?! A 220!</description>
@@ -60,12 +66,6 @@
       <description>Egy kicsit erdészkedj</description>
       <link>https://napipatrik.hu/105/</link>
       <pubDate>Tue Oct 04 2022</pubDate>
-    </item>
-    <item>
-      <title>Nyilván hol tesztel?! Prodban tesztel.</title>
-      <description>Nyilván hol tesztel?! Prodban tesztel.</description>
-      <link>https://napipatrik.hu/104/</link>
-      <pubDate>Mon Oct 03 2022</pubDate>
     </item>
   </channel>
 </rss>
