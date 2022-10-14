@@ -503,6 +503,9 @@ var patrikok = [
     'Csírájában lesz elfojtva a negativizmus!',
     'Az a baj, ha kinyitod a szád, akkor nem csak azok fogják látni a bajokat, akik kussoltak, hanem azok is, akiknek fel sem tűnt - ami persze rontja az amúgy gondolom vidám, családias hangulatot.',
     'Mit csináljak? Mellé nyúltam a nagy furik láttán, csak azt hittem a furikban della van, aztán kiderült, hogy körszakáll.',
+    'Néha hivatalos levelet is írok ékezet nélkül, aztán ráengedem a helyesírás ellenőrzőt és minden piros. :DDD',
+    'Eskü baszki, már értem miért számítunk jónak: tudunk olvasni.',
+    'Lassan több lesz a manager, mint a melós ezen a szerveren. Már látom az új csatikat: #excel, #performancereviewbullshitelések, #miértnemadunkrendestömést',
 ];
 var tutik = patrikok;
 
