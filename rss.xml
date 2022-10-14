@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Oct 13 2022</lastBuildDate>
+    <lastBuildDate>Fri Oct 14 2022</lastBuildDate>
+    <item>
+      <title>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</title>
+      <description>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</description>
+      <link>https://napipatrik.hu/115/</link>
+      <pubDate>Fri Oct 14 2022</pubDate>
+    </item>
     <item>
       <title>Ha te nem veszed be, a másik erdész beveszi</title>
       <description>Ha te nem veszed be, a másik erdész beveszi</description>
@@ -60,12 +66,6 @@
       <description>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</description>
       <link>https://napipatrik.hu/106/</link>
       <pubDate>Wed Oct 05 2022</pubDate>
-    </item>
-    <item>
-      <title>Egy kicsit erdészkedj</title>
-      <description>Egy kicsit erdészkedj</description>
-      <link>https://napipatrik.hu/105/</link>
-      <pubDate>Tue Oct 04 2022</pubDate>
     </item>
   </channel>
 </rss>
