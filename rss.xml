@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 14 2022</lastBuildDate>
+    <lastBuildDate>Sat Oct 15 2022</lastBuildDate>
+    <item>
+      <title>Sok pénz, sok felelőség! Majd a managered betámaszt neked. Majd még hogy fog, mikor tolja a púzódat, majd könnyes szemmel fogod nyelni a kósza körszakállakat</title>
+      <description>Sok pénz, sok felelőség! Majd a managered betámaszt neked. Majd még hogy fog, mikor tolja a púzódat, majd könnyes szemmel fogod nyelni a kósza körszakállakat</description>
+      <link>https://napipatrik.hu/116/</link>
+      <pubDate>Sat Oct 15 2022</pubDate>
+    </item>
     <item>
       <title>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</title>
       <description>Nincs itt nagy kupi, a kábeleket meg lehetne szüntetni, de minek? Erre a kis időre...</description>
@@ -60,12 +66,6 @@
       <description>Az bükéből bükébe</description>
       <link>https://napipatrik.hu/107/</link>
       <pubDate>Thu Oct 06 2022</pubDate>
-    </item>
-    <item>
-      <title>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</title>
-      <description>Balázs bácsi nem lenne jó pék: kövér és összeizzadja a bucit</description>
-      <link>https://napipatrik.hu/106/</link>
-      <pubDate>Wed Oct 05 2022</pubDate>
     </item>
   </channel>
 </rss>
