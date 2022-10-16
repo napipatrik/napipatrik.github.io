@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Oct 15 2022</lastBuildDate>
+    <lastBuildDate>Sun Oct 16 2022</lastBuildDate>
+    <item>
+      <title>Laci, a varázslóakhoz értesz?</title>
+      <description>Laci, a varázslóakhoz értesz?</description>
+      <link>https://napipatrik.hu/117/</link>
+      <pubDate>Sun Oct 16 2022</pubDate>
+    </item>
     <item>
       <title>Sok pénz, sok felelőség! Majd a managered betámaszt neked. Majd még hogy fog, mikor tolja a púzódat, majd könnyes szemmel fogod nyelni a kósza körszakállakat</title>
       <description>Sok pénz, sok felelőség! Majd a managered betámaszt neked. Majd még hogy fog, mikor tolja a púzódat, majd könnyes szemmel fogod nyelni a kósza körszakállakat</description>
@@ -60,12 +66,6 @@
       <description>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</description>
       <link>https://napipatrik.hu/108/</link>
       <pubDate>Fri Oct 07 2022</pubDate>
-    </item>
-    <item>
-      <title>Az bükéből bükébe</title>
-      <description>Az bükéből bükébe</description>
-      <link>https://napipatrik.hu/107/</link>
-      <pubDate>Thu Oct 06 2022</pubDate>
     </item>
   </channel>
 </rss>
