@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Oct 16 2022</lastBuildDate>
+    <lastBuildDate>Mon Oct 17 2022</lastBuildDate>
+    <item>
+      <title>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</title>
+      <description>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</description>
+      <link>https://napipatrik.hu/118/</link>
+      <pubDate>Mon Oct 17 2022</pubDate>
+    </item>
     <item>
       <title>Laci, a varázslóakhoz értesz?</title>
       <description>Laci, a varázslóakhoz értesz?</description>
@@ -60,12 +66,6 @@
       <description>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</description>
       <link>https://napipatrik.hu/109/</link>
       <pubDate>Sat Oct 08 2022</pubDate>
-    </item>
-    <item>
-      <title>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</title>
-      <description>Olyan meleg van már ebben az irodában, mintha nem lenne holnap</description>
-      <link>https://napipatrik.hu/108/</link>
-      <pubDate>Fri Oct 07 2022</pubDate>
     </item>
   </channel>
 </rss>
