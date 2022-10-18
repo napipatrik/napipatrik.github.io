@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Oct 17 2022</lastBuildDate>
+    <lastBuildDate>Tue Oct 18 2022</lastBuildDate>
+    <item>
+      <title>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</title>
+      <description>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</description>
+      <link>https://napipatrik.hu/119/</link>
+      <pubDate>Tue Oct 18 2022</pubDate>
+    </item>
     <item>
       <title>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</title>
       <description>Tipikus összedőlő vájogház: szar az alap, szar az amit rátettünk és még rá is fostunk egy kicsit</description>
@@ -60,12 +66,6 @@
       <description>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</description>
       <link>https://napipatrik.hu/110/</link>
       <pubDate>Sun Oct 09 2022</pubDate>
-    </item>
-    <item>
-      <title>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</title>
-      <description>Balázs, ha okosabb nálad [az interjú alany], az még nem jelent semmit!</description>
-      <link>https://napipatrik.hu/109/</link>
-      <pubDate>Sat Oct 08 2022</pubDate>
     </item>
   </channel>
 </rss>
