@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Oct 18 2022</lastBuildDate>
+    <lastBuildDate>Wed Oct 19 2022</lastBuildDate>
+    <item>
+      <title>Hívhatnánk így a control repót: házibarkács</title>
+      <description>Hívhatnánk így a control repót: házibarkács</description>
+      <link>https://napipatrik.hu/120/</link>
+      <pubDate>Wed Oct 19 2022</pubDate>
+    </item>
     <item>
       <title>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</title>
       <description>Gyönyörű, gyönyörű, gányoljuk tele ezt a fost bazmeg</description>
@@ -60,12 +66,6 @@
       <description>A faszerdőbe ki megy be ha nem mi?</description>
       <link>https://napipatrik.hu/111/</link>
       <pubDate>Mon Oct 10 2022</pubDate>
-    </item>
-    <item>
-      <title>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</title>
-      <description>Ha mindenkinek mindegy, hogy a jobb? Szárazon vagy nedvesen?</description>
-      <link>https://napipatrik.hu/110/</link>
-      <pubDate>Sun Oct 09 2022</pubDate>
     </item>
   </channel>
 </rss>
