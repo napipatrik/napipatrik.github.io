@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Oct 21 2022</lastBuildDate>
+    <lastBuildDate>Sat Oct 22 2022</lastBuildDate>
+    <item>
+      <title>Mi a faszom vagyok én? Erdész?</title>
+      <description>Mi a faszom vagyok én? Erdész?</description>
+      <link>https://napipatrik.hu/123/</link>
+      <pubDate>Sat Oct 22 2022</pubDate>
+    </item>
     <item>
       <title>Furikkal hozzák a szart, furikkal!</title>
       <description>Furikkal hozzák a szart, furikkal!</description>
@@ -60,12 +66,6 @@
       <description>Ha te nem veszed be, a másik erdész beveszi</description>
       <link>https://napipatrik.hu/114/</link>
       <pubDate>Thu Oct 13 2022</pubDate>
-    </item>
-    <item>
-      <title>Tudod mi simogasson téged?! A 220!</title>
-      <description>Tudod mi simogasson téged?! A 220!</description>
-      <link>https://napipatrik.hu/113/</link>
-      <pubDate>Wed Oct 12 2022</pubDate>
     </item>
   </channel>
 </rss>
