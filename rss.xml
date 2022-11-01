@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Oct 31 2022</lastBuildDate>
+    <lastBuildDate>Tue Nov 01 2022</lastBuildDate>
+    <item>
+      <title>Csaba, gombokért vagyunk itt!</title>
+      <description>Csaba, gombokért vagyunk itt!</description>
+      <link>https://napipatrik.hu/133/</link>
+      <pubDate>Tue Nov 01 2022</pubDate>
+    </item>
     <item>
       <title>A devops miatt nincs backup... Anyád miatt nincs backup!</title>
       <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
@@ -60,12 +66,6 @@
       <description>Mi a szaros gödörben vagyunk Gábor, csak kicsit belekortyoltunk</description>
       <link>https://napipatrik.hu/124/</link>
       <pubDate>Sun Oct 23 2022</pubDate>
-    </item>
-    <item>
-      <title>Mi a faszom vagyok én? Erdész?</title>
-      <description>Mi a faszom vagyok én? Erdész?</description>
-      <link>https://napipatrik.hu/123/</link>
-      <pubDate>Sat Oct 22 2022</pubDate>
     </item>
   </channel>
 </rss>
