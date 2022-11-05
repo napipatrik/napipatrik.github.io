@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Nov 04 2022</lastBuildDate>
+    <lastBuildDate>Sat Nov 05 2022</lastBuildDate>
+    <item>
+      <title>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</title>
+      <description>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</description>
+      <link>https://napipatrik.hu/137/</link>
+      <pubDate>Sat Nov 05 2022</pubDate>
+    </item>
     <item>
       <title>A faszerdő nem vár, elindult már...</title>
       <description>A faszerdő nem vár, elindult már...</description>
@@ -60,12 +66,6 @@
       <description>Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.</description>
       <link>https://napipatrik.hu/127/</link>
       <pubDate>Wed Oct 26 2022</pubDate>
-    </item>
-    <item>
-      <title>Tudod, hogy szaporodik a puppet master? VM clone...</title>
-      <description>Tudod, hogy szaporodik a puppet master? VM clone...</description>
-      <link>https://napipatrik.hu/126/</link>
-      <pubDate>Tue Oct 25 2022</pubDate>
     </item>
   </channel>
 </rss>
