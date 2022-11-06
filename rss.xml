@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Nov 05 2022</lastBuildDate>
+    <lastBuildDate>Sun Nov 06 2022</lastBuildDate>
+    <item>
+      <title>Lassan ott tartunk, hogy egy kukászsák okosabb...</title>
+      <description>Lassan ott tartunk, hogy egy kukászsák okosabb...</description>
+      <link>https://napipatrik.hu/138/</link>
+      <pubDate>Sun Nov 06 2022</pubDate>
+    </item>
     <item>
       <title>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</title>
       <description>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</description>
@@ -60,12 +66,6 @@
       <description>Tamás, le fog csökkenni a... mindegy, kerekesszékben is tud dolgozni András</description>
       <link>https://napipatrik.hu/128/</link>
       <pubDate>Thu Oct 27 2022</pubDate>
-    </item>
-    <item>
-      <title>Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.</title>
-      <description>Akkora szar, hogy nem látom az alját. Az ásó nem ér le az aljára.</description>
-      <link>https://napipatrik.hu/127/</link>
-      <pubDate>Wed Oct 26 2022</pubDate>
     </item>
   </channel>
 </rss>
