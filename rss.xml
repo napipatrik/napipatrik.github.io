@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 07 2022</lastBuildDate>
+    <lastBuildDate>Tue Nov 08 2022</lastBuildDate>
+    <item>
+      <title>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</title>
+      <description>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</description>
+      <link>https://napipatrik.hu/140/</link>
+      <pubDate>Tue Nov 08 2022</pubDate>
+    </item>
     <item>
       <title>Hjahjj, menjünk vissza a faszerdőbe</title>
       <description>Hjahjj, menjünk vissza a faszerdőbe</description>
@@ -60,12 +66,6 @@
       <description>Kérdezte, hogy mondhatja-e a customernek, hogy nincsen log. Nekem mindegy, de nincsen róla log.</description>
       <link>https://napipatrik.hu/130/</link>
       <pubDate>Sat Oct 29 2022</pubDate>
-    </item>
-    <item>
-      <title>András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.</title>
-      <description>András, látod itt ezt az emagos dobozt? Abba foglak belecsomagolni.</description>
-      <link>https://napipatrik.hu/129/</link>
-      <pubDate>Fri Oct 28 2022</pubDate>
     </item>
   </channel>
 </rss>
