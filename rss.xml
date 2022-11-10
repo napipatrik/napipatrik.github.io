@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Nov 09 2022</lastBuildDate>
+    <lastBuildDate>Thu Nov 10 2022</lastBuildDate>
+    <item>
+      <title>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</title>
+      <description>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</description>
+      <link>https://napipatrik.hu/142/</link>
+      <pubDate>Thu Nov 10 2022</pubDate>
+    </item>
     <item>
       <title>Én már majdnem elkezdtem gondolkodni</title>
       <description>Én már majdnem elkezdtem gondolkodni</description>
@@ -60,12 +66,6 @@
       <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
       <link>https://napipatrik.hu/132/</link>
       <pubDate>Mon Oct 31 2022</pubDate>
-    </item>
-    <item>
-      <title>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</title>
-      <description>Kézrátétellel is tudok mellet nagyobbítani. De csak nőit!</description>
-      <link>https://napipatrik.hu/131/</link>
-      <pubDate>Sun Oct 30 2022</pubDate>
     </item>
   </channel>
 </rss>
