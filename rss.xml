@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 10 2022</lastBuildDate>
+    <lastBuildDate>Fri Nov 11 2022</lastBuildDate>
+    <item>
+      <title>A legélesebb vajazónk... a meleg vajat ííígy viszi</title>
+      <description>A legélesebb vajazónk... a meleg vajat ííígy viszi</description>
+      <link>https://napipatrik.hu/143/</link>
+      <pubDate>Fri Nov 11 2022</pubDate>
+    </item>
     <item>
       <title>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</title>
       <description>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</description>
@@ -60,12 +66,6 @@
       <description>Csaba, gombokért vagyunk itt!</description>
       <link>https://napipatrik.hu/133/</link>
       <pubDate>Tue Nov 01 2022</pubDate>
-    </item>
-    <item>
-      <title>A devops miatt nincs backup... Anyád miatt nincs backup!</title>
-      <description>A devops miatt nincs backup... Anyád miatt nincs backup!</description>
-      <link>https://napipatrik.hu/132/</link>
-      <pubDate>Mon Oct 31 2022</pubDate>
     </item>
   </channel>
 </rss>
