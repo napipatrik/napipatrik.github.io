@@ -6,7 +6,15 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Nov 11 2022</lastBuildDate>
+    <lastBuildDate>Sat Nov 12 2022</lastBuildDate>
+    <item>
+      <title>- Nektek bejön a Sentry?
+- Nem, sosem szerettem</title>
+      <description>- Nektek bejön a Sentry?
+- Nem, sosem szerettem</description>
+      <link>https://napipatrik.hu/144/</link>
+      <pubDate>Sat Nov 12 2022</pubDate>
+    </item>
     <item>
       <title>A legélesebb vajazónk... a meleg vajat ííígy viszi</title>
       <description>A legélesebb vajazónk... a meleg vajat ííígy viszi</description>
@@ -60,12 +68,6 @@
       <description>Szerinted staffot vertek már meg?</description>
       <link>https://napipatrik.hu/134/</link>
       <pubDate>Wed Nov 02 2022</pubDate>
-    </item>
-    <item>
-      <title>Csaba, gombokért vagyunk itt!</title>
-      <description>Csaba, gombokért vagyunk itt!</description>
-      <link>https://napipatrik.hu/133/</link>
-      <pubDate>Tue Nov 01 2022</pubDate>
     </item>
   </channel>
 </rss>
