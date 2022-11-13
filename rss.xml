@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Nov 12 2022</lastBuildDate>
+    <lastBuildDate>Sun Nov 13 2022</lastBuildDate>
+    <item>
+      <title>Nem értek hozzá! Itt ülök, de minek?!</title>
+      <description>Nem értek hozzá! Itt ülök, de minek?!</description>
+      <link>https://napipatrik.hu/145/</link>
+      <pubDate>Sun Nov 13 2022</pubDate>
+    </item>
     <item>
       <title>- Nektek bejön a Sentry?
 - Nem, sosem szerettem</title>
@@ -62,12 +68,6 @@
       <description>A faszerdő nem vár, elindult már...</description>
       <link>https://napipatrik.hu/136/</link>
       <pubDate>Fri Nov 04 2022</pubDate>
-    </item>
-    <item>
-      <title>Szerinted staffot vertek már meg?</title>
-      <description>Szerinted staffot vertek már meg?</description>
-      <link>https://napipatrik.hu/134/</link>
-      <pubDate>Wed Nov 02 2022</pubDate>
     </item>
   </channel>
 </rss>
