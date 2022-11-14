@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Nov 13 2022</lastBuildDate>
+    <lastBuildDate>Mon Nov 14 2022</lastBuildDate>
+    <item>
+      <title>Mert nem értek hozzá! Dilettáns vagyok!</title>
+      <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
+      <link>https://napipatrik.hu/146/</link>
+      <pubDate>Mon Nov 14 2022</pubDate>
+    </item>
     <item>
       <title>Nem értek hozzá! Itt ülök, de minek?!</title>
       <description>Nem értek hozzá! Itt ülök, de minek?!</description>
@@ -62,12 +68,6 @@
       <description>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</description>
       <link>https://napipatrik.hu/137/</link>
       <pubDate>Sat Nov 05 2022</pubDate>
-    </item>
-    <item>
-      <title>A faszerdő nem vár, elindult már...</title>
-      <description>A faszerdő nem vár, elindult már...</description>
-      <link>https://napipatrik.hu/136/</link>
-      <pubDate>Fri Nov 04 2022</pubDate>
     </item>
   </channel>
 </rss>
