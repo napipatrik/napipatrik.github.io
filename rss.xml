@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 14 2022</lastBuildDate>
+    <lastBuildDate>Tue Nov 15 2022</lastBuildDate>
+    <item>
+      <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
+      <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
+      <link>https://napipatrik.hu/147/</link>
+      <pubDate>Tue Nov 15 2022</pubDate>
+    </item>
     <item>
       <title>Mert nem értek hozzá! Dilettáns vagyok!</title>
       <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
@@ -62,12 +68,6 @@
       <description>Lassan ott tartunk, hogy egy kukászsák okosabb...</description>
       <link>https://napipatrik.hu/138/</link>
       <pubDate>Sun Nov 06 2022</pubDate>
-    </item>
-    <item>
-      <title>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</title>
-      <description>Én ma letettem már a kisbaltát, átadom nektek a faszerdőt</description>
-      <link>https://napipatrik.hu/137/</link>
-      <pubDate>Sat Nov 05 2022</pubDate>
     </item>
   </channel>
 </rss>
