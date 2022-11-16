@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Nov 15 2022</lastBuildDate>
+    <lastBuildDate>Wed Nov 16 2022</lastBuildDate>
+    <item>
+      <title>Én írtam, nem lehet rossz</title>
+      <description>Én írtam, nem lehet rossz</description>
+      <link>https://napipatrik.hu/148/</link>
+      <pubDate>Wed Nov 16 2022</pubDate>
+    </item>
     <item>
       <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
       <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
@@ -62,12 +68,6 @@
       <description>Hjahjj, menjünk vissza a faszerdőbe</description>
       <link>https://napipatrik.hu/139/</link>
       <pubDate>Mon Nov 07 2022</pubDate>
-    </item>
-    <item>
-      <title>Lassan ott tartunk, hogy egy kukászsák okosabb...</title>
-      <description>Lassan ott tartunk, hogy egy kukászsák okosabb...</description>
-      <link>https://napipatrik.hu/138/</link>
-      <pubDate>Sun Nov 06 2022</pubDate>
     </item>
   </channel>
 </rss>
