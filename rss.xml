@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 17 2022</lastBuildDate>
+    <lastBuildDate>Fri Nov 18 2022</lastBuildDate>
+    <item>
+      <title>Feriék felfogják a fospermetet, ide már csak cseppek jutnak</title>
+      <description>Feriék felfogják a fospermetet, ide már csak cseppek jutnak</description>
+      <link>https://napipatrik.hu/150/</link>
+      <pubDate>Fri Nov 18 2022</pubDate>
+    </item>
     <item>
       <title>Szeretem a fospermetet</title>
       <description>Szeretem a fospermetet</description>
@@ -62,12 +68,6 @@
       <description>Én már majdnem elkezdtem gondolkodni</description>
       <link>https://napipatrik.hu/141/</link>
       <pubDate>Wed Nov 09 2022</pubDate>
-    </item>
-    <item>
-      <title>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</title>
-      <description>Ott olyan állott szar van, nem nyúlsz hozzá, érlelődik, hozzá nyúlsz és kitört</description>
-      <link>https://napipatrik.hu/140/</link>
-      <pubDate>Tue Nov 08 2022</pubDate>
     </item>
   </channel>
 </rss>
