@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Nov 18 2022</lastBuildDate>
+    <lastBuildDate>Sat Nov 19 2022</lastBuildDate>
+    <item>
+      <title>Odamegyek és felgyújtom az egészet!</title>
+      <description>Odamegyek és felgyújtom az egészet!</description>
+      <link>https://napipatrik.hu/151/</link>
+      <pubDate>Sat Nov 19 2022</pubDate>
+    </item>
     <item>
       <title>Feriék felfogják a fospermetet, ide már csak cseppek jutnak</title>
       <description>Feriék felfogják a fospermetet, ide már csak cseppek jutnak</description>
@@ -62,12 +68,6 @@
       <description>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</description>
       <link>https://napipatrik.hu/142/</link>
       <pubDate>Thu Nov 10 2022</pubDate>
-    </item>
-    <item>
-      <title>Én már majdnem elkezdtem gondolkodni</title>
-      <description>Én már majdnem elkezdtem gondolkodni</description>
-      <link>https://napipatrik.hu/141/</link>
-      <pubDate>Wed Nov 09 2022</pubDate>
     </item>
   </channel>
 </rss>
