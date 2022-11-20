@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Nov 19 2022</lastBuildDate>
+    <lastBuildDate>Sun Nov 20 2022</lastBuildDate>
+    <item>
+      <title>Otthon fogok íííígy helikopterezni</title>
+      <description>Otthon fogok íííígy helikopterezni</description>
+      <link>https://napipatrik.hu/152/</link>
+      <pubDate>Sun Nov 20 2022</pubDate>
+    </item>
     <item>
       <title>Odamegyek és felgyújtom az egészet!</title>
       <description>Odamegyek és felgyújtom az egészet!</description>
@@ -62,12 +68,6 @@
       <description>A legélesebb vajazónk... a meleg vajat ííígy viszi</description>
       <link>https://napipatrik.hu/143/</link>
       <pubDate>Fri Nov 11 2022</pubDate>
-    </item>
-    <item>
-      <title>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</title>
-      <description>Én már rég nem voltam ezeken a meetingeken, kezdek boldog lenni</description>
-      <link>https://napipatrik.hu/142/</link>
-      <pubDate>Thu Nov 10 2022</pubDate>
     </item>
   </channel>
 </rss>
