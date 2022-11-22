@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Nov 21 2022</lastBuildDate>
+    <lastBuildDate>Tue Nov 22 2022</lastBuildDate>
+    <item>
+      <title>Majd beírok valamit és lesz valami</title>
+      <description>Majd beírok valamit és lesz valami</description>
+      <link>https://napipatrik.hu/154/</link>
+      <pubDate>Tue Nov 22 2022</pubDate>
+    </item>
     <item>
       <title>Az erdész ott gallyaz, ahol tud</title>
       <description>Az erdész ott gallyaz, ahol tud</description>
@@ -60,14 +66,6 @@
       <description>Nem értek hozzá! Itt ülök, de minek?!</description>
       <link>https://napipatrik.hu/145/</link>
       <pubDate>Sun Nov 13 2022</pubDate>
-    </item>
-    <item>
-      <title>- Nektek bejön a Sentry?
-- Nem, sosem szerettem</title>
-      <description>- Nektek bejön a Sentry?
-- Nem, sosem szerettem</description>
-      <link>https://napipatrik.hu/144/</link>
-      <pubDate>Sat Nov 12 2022</pubDate>
     </item>
   </channel>
 </rss>
