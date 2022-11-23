@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Nov 22 2022</lastBuildDate>
+    <lastBuildDate>Wed Nov 23 2022</lastBuildDate>
+    <item>
+      <title>Szerintem a púzómban maradt pár körszakáll, a pukizásnál meg kiszórtam a magvakat.</title>
+      <description>Szerintem a púzómban maradt pár körszakáll, a pukizásnál meg kiszórtam a magvakat.</description>
+      <link>https://napipatrik.hu/155/</link>
+      <pubDate>Wed Nov 23 2022</pubDate>
+    </item>
     <item>
       <title>Majd beírok valamit és lesz valami</title>
       <description>Majd beírok valamit és lesz valami</description>
@@ -60,12 +66,6 @@
       <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
       <link>https://napipatrik.hu/146/</link>
       <pubDate>Mon Nov 14 2022</pubDate>
-    </item>
-    <item>
-      <title>Nem értek hozzá! Itt ülök, de minek?!</title>
-      <description>Nem értek hozzá! Itt ülök, de minek?!</description>
-      <link>https://napipatrik.hu/145/</link>
-      <pubDate>Sun Nov 13 2022</pubDate>
     </item>
   </channel>
 </rss>
