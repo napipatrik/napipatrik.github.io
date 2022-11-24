@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Nov 23 2022</lastBuildDate>
+    <lastBuildDate>Thu Nov 24 2022</lastBuildDate>
+    <item>
+      <title>Balázs, adj valamit! ...nem kell, megbaszom én</title>
+      <description>Balázs, adj valamit! ...nem kell, megbaszom én</description>
+      <link>https://napipatrik.hu/156/</link>
+      <pubDate>Thu Nov 24 2022</pubDate>
+    </item>
     <item>
       <title>Szerintem a púzómban maradt pár körszakáll, a pukizásnál meg kiszórtam a magvakat.</title>
       <description>Szerintem a púzómban maradt pár körszakáll, a pukizásnál meg kiszórtam a magvakat.</description>
@@ -60,12 +66,6 @@
       <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
       <link>https://napipatrik.hu/147/</link>
       <pubDate>Tue Nov 15 2022</pubDate>
-    </item>
-    <item>
-      <title>Mert nem értek hozzá! Dilettáns vagyok!</title>
-      <description>Mert nem értek hozzá! Dilettáns vagyok!</description>
-      <link>https://napipatrik.hu/146/</link>
-      <pubDate>Mon Nov 14 2022</pubDate>
     </item>
   </channel>
 </rss>
