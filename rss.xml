@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Nov 24 2022</lastBuildDate>
+    <lastBuildDate>Fri Nov 25 2022</lastBuildDate>
+    <item>
+      <title>Balázs bácsi undorító, a szakállából csöpög a nyála!</title>
+      <description>Balázs bácsi undorító, a szakállából csöpög a nyála!</description>
+      <link>https://napipatrik.hu/157/</link>
+      <pubDate>Fri Nov 25 2022</pubDate>
+    </item>
     <item>
       <title>Balázs, adj valamit! ...nem kell, megbaszom én</title>
       <description>Balázs, adj valamit! ...nem kell, megbaszom én</description>
@@ -60,12 +66,6 @@
       <description>Én írtam, nem lehet rossz</description>
       <link>https://napipatrik.hu/148/</link>
       <pubDate>Wed Nov 16 2022</pubDate>
-    </item>
-    <item>
-      <title>Ha tennénk bele reklámot még pénz is jönne belőle</title>
-      <description>Ha tennénk bele reklámot még pénz is jönne belőle</description>
-      <link>https://napipatrik.hu/147/</link>
-      <pubDate>Tue Nov 15 2022</pubDate>
     </item>
   </channel>
 </rss>
