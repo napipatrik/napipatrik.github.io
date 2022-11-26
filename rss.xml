@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Nov 25 2022</lastBuildDate>
+    <lastBuildDate>Sat Nov 26 2022</lastBuildDate>
+    <item>
+      <title>Meg fogok halni. Enni sincs már kedvem, ez a vég</title>
+      <description>Meg fogok halni. Enni sincs már kedvem, ez a vég</description>
+      <link>https://napipatrik.hu/158/</link>
+      <pubDate>Sat Nov 26 2022</pubDate>
+    </item>
     <item>
       <title>Balázs bácsi undorító, a szakállából csöpög a nyála!</title>
       <description>Balázs bácsi undorító, a szakállából csöpög a nyála!</description>
@@ -60,12 +66,6 @@
       <description>Szeretem a fospermetet</description>
       <link>https://napipatrik.hu/149/</link>
       <pubDate>Thu Nov 17 2022</pubDate>
-    </item>
-    <item>
-      <title>Én írtam, nem lehet rossz</title>
-      <description>Én írtam, nem lehet rossz</description>
-      <link>https://napipatrik.hu/148/</link>
-      <pubDate>Wed Nov 16 2022</pubDate>
     </item>
   </channel>
 </rss>
