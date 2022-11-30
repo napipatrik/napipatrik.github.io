@@ -6,7 +6,7 @@ const args = process.argv.slice(2);
 
 let index = process.env.NAPIPATRIK_ID ? process.env.NAPIPATRIK_ID : patrikFn.getDefaultOffset() % patrikok.length;
 let napituti = patrikok[index];
-let imageTags = 'nature,calm';
+let imageTags = 'nature,calm,forest';
 
 if ((new Date()).getMonth() === 2 && (new Date()).getDate() === 17) {
   index = 'nameday-special';
@@ -22,14 +22,20 @@ if ((new Date()).getMonth() === 6 && (new Date()).getDate() === 15) {
 if (args.length && args[0] === '--image') {
   (async function () {
     const Jimp = require('jimp');
-    const request = require('request-promise-native');
+    const fetch = require('node-fetch');
     const fs = require('fs');
+    const util = require('util');
+    const stream = require('stream');
+    const streamPipeline = util.promisify(stream.pipeline);
 
     const text = napituti;
     const lines = Math.ceil(text.length / 28);
 
-    const imageOriginal = await request({url: 'https://source.unsplash.com/600x600/?' + imageTags, encoding: null});
-    fs.writeFileSync('./napipatrik.jpg', imageOriginal);
+    const response = await fetch('https://source.unsplash.com/600x600/?' + imageTags);
+    if (!response.ok) {
+      throw new Error(`unexpected response ${response.statusText}`);
+    }
+    await streamPipeline(response.body, fs.createWriteStream('./napipatrik.jpg'));
     const image = await Jimp.read('./napipatrik.jpg');
     const shadow = await Jimp.read(lines < 4 ? './shadow.png' : './shadow_thick.png');
     await image.blit(shadow, 0, 0);

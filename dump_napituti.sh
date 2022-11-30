@@ -5,7 +5,7 @@ set -e
 node napituti.js > napipatrik
 node napituti.js --index > napipatrik.id
 
-npm i request request-promise-native jimp
+npm i node-fetch@2.6.6 jimp
 node napituti.js --image
 
 npm i xml2js
