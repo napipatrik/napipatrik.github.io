@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Dec 04 2022</lastBuildDate>
+    <lastBuildDate>Mon Dec 05 2022</lastBuildDate>
+    <item>
+      <title>Most dolgozzak? Már hétfőn?</title>
+      <description>Most dolgozzak? Már hétfőn?</description>
+      <link>https://napipatrik.hu/167/</link>
+      <pubDate>Mon Dec 05 2022</pubDate>
+    </item>
     <item>
       <title>Faszom se segit ennek a fogyatékosnak</title>
       <description>Faszom se segit ennek a fogyatékosnak</description>
@@ -60,12 +66,6 @@
       <description>Majd beírok valamit és lesz valami</description>
       <link>https://napipatrik.hu/154/</link>
       <pubDate>Tue Nov 22 2022</pubDate>
-    </item>
-    <item>
-      <title>Az erdész ott gallyaz, ahol tud</title>
-      <description>Az erdész ott gallyaz, ahol tud</description>
-      <link>https://napipatrik.hu/153/</link>
-      <pubDate>Mon Nov 21 2022</pubDate>
     </item>
   </channel>
 </rss>
