@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Dec 06 2022</lastBuildDate>
+    <lastBuildDate>Wed Dec 07 2022</lastBuildDate>
+    <item>
+      <title>Takaríthatom utánatok ezt a sok redvát...</title>
+      <description>Takaríthatom utánatok ezt a sok redvát...</description>
+      <link>https://napipatrik.hu/169/</link>
+      <pubDate>Wed Dec 07 2022</pubDate>
+    </item>
     <item>
       <title>Igen gazdám! Megyek gazdám!</title>
       <description>Igen gazdám! Megyek gazdám!</description>
@@ -60,12 +66,6 @@
       <description>Balázs, adj valamit! ...nem kell, megbaszom én</description>
       <link>https://napipatrik.hu/156/</link>
       <pubDate>Thu Nov 24 2022</pubDate>
-    </item>
-    <item>
-      <title>Szerintem a púzómban maradt pár körszakáll, a pukizásnál meg kiszórtam a magvakat.</title>
-      <description>Szerintem a púzómban maradt pár körszakáll, a pukizásnál meg kiszórtam a magvakat.</description>
-      <link>https://napipatrik.hu/155/</link>
-      <pubDate>Wed Nov 23 2022</pubDate>
     </item>
   </channel>
 </rss>
