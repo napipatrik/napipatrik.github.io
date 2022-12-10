@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Dec 09 2022</lastBuildDate>
+    <lastBuildDate>Sat Dec 10 2022</lastBuildDate>
+    <item>
+      <title>Te buzi, miattad volt!</title>
+      <description>Te buzi, miattad volt!</description>
+      <link>https://napipatrik.hu/172/</link>
+      <pubDate>Sat Dec 10 2022</pubDate>
+    </item>
     <item>
       <title>Ezt ne írd fel te buzi</title>
       <description>Ezt ne írd fel te buzi</description>
@@ -60,12 +66,6 @@
       <description>Rábassza az enkriptáciot, azt működik</description>
       <link>https://napipatrik.hu/163/</link>
       <pubDate>Thu Dec 01 2022</pubDate>
-    </item>
-    <item>
-      <title>Meg fogok halni. Enni sincs már kedvem, ez a vég</title>
-      <description>Meg fogok halni. Enni sincs már kedvem, ez a vég</description>
-      <link>https://napipatrik.hu/158/</link>
-      <pubDate>Sat Nov 26 2022</pubDate>
     </item>
   </channel>
 </rss>
