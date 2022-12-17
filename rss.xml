@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Dec 16 2022</lastBuildDate>
+    <lastBuildDate>Sat Dec 17 2022</lastBuildDate>
+    <item>
+      <title>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</title>
+      <description>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</description>
+      <link>https://napipatrik.hu/179/</link>
+      <pubDate>Sat Dec 17 2022</pubDate>
+    </item>
     <item>
       <title>...mert nem értek hozzá!</title>
       <description>...mert nem értek hozzá!</description>
@@ -62,12 +68,6 @@
       <description>Takaríthatom utánatok ezt a sok redvát...</description>
       <link>https://napipatrik.hu/169/</link>
       <pubDate>Wed Dec 07 2022</pubDate>
-    </item>
-    <item>
-      <title>Igen gazdám! Megyek gazdám!</title>
-      <description>Igen gazdám! Megyek gazdám!</description>
-      <link>https://napipatrik.hu/168/</link>
-      <pubDate>Tue Dec 06 2022</pubDate>
     </item>
   </channel>
 </rss>
