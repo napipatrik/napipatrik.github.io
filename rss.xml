@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Dec 17 2022</lastBuildDate>
+    <lastBuildDate>Sun Dec 18 2022</lastBuildDate>
+    <item>
+      <title>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</title>
+      <description>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</description>
+      <link>https://napipatrik.hu/180/</link>
+      <pubDate>Sun Dec 18 2022</pubDate>
+    </item>
     <item>
       <title>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</title>
       <description>(Trófea grillben) Ne pofázz, egyél, csak két óránk van!</description>
@@ -62,12 +68,6 @@
       <description>Itt tákoltok, kinek kell kitakarítania?! Én fogom meg a kisbaltát...</description>
       <link>https://napipatrik.hu/170/</link>
       <pubDate>Thu Dec 08 2022</pubDate>
-    </item>
-    <item>
-      <title>Takaríthatom utánatok ezt a sok redvát...</title>
-      <description>Takaríthatom utánatok ezt a sok redvát...</description>
-      <link>https://napipatrik.hu/169/</link>
-      <pubDate>Wed Dec 07 2022</pubDate>
     </item>
   </channel>
 </rss>
