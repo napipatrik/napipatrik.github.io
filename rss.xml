@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Dec 18 2022</lastBuildDate>
+    <lastBuildDate>Mon Dec 19 2022</lastBuildDate>
+    <item>
+      <title>Leszarom, gyere már segíts!</title>
+      <description>Leszarom, gyere már segíts!</description>
+      <link>https://napipatrik.hu/181/</link>
+      <pubDate>Mon Dec 19 2022</pubDate>
+    </item>
     <item>
       <title>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</title>
       <description>A lányok megkeresését a Linkedinen úgy kell venni, mintha ingyen szex lenne</description>
@@ -62,12 +68,6 @@
       <description>Ezt ne írd fel te buzi</description>
       <link>https://napipatrik.hu/171/</link>
       <pubDate>Fri Dec 09 2022</pubDate>
-    </item>
-    <item>
-      <title>Itt tákoltok, kinek kell kitakarítania?! Én fogom meg a kisbaltát...</title>
-      <description>Itt tákoltok, kinek kell kitakarítania?! Én fogom meg a kisbaltát...</description>
-      <link>https://napipatrik.hu/170/</link>
-      <pubDate>Thu Dec 08 2022</pubDate>
     </item>
   </channel>
 </rss>
