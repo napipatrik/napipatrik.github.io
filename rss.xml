@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Dec 22 2022</lastBuildDate>
+    <lastBuildDate>Fri Dec 23 2022</lastBuildDate>
+    <item>
+      <title>Tudod mi kéne? Rendes munkahely!</title>
+      <description>Tudod mi kéne? Rendes munkahely!</description>
+      <link>https://napipatrik.hu/185/</link>
+      <pubDate>Fri Dec 23 2022</pubDate>
+    </item>
     <item>
       <title>András, Laci: pippantást kérek!</title>
       <description>András, Laci: pippantást kérek!</description>
@@ -62,12 +68,6 @@
       <description>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</description>
       <link>https://napipatrik.hu/175/</link>
       <pubDate>Tue Dec 13 2022</pubDate>
-    </item>
-    <item>
-      <title>Legyen ez a devops jelmondata: gányolni mindig jó!</title>
-      <description>Legyen ez a devops jelmondata: gányolni mindig jó!</description>
-      <link>https://napipatrik.hu/174/</link>
-      <pubDate>Mon Dec 12 2022</pubDate>
     </item>
   </channel>
 </rss>
