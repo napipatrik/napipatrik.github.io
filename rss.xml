@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Dec 23 2022</lastBuildDate>
+    <lastBuildDate>Sat Dec 24 2022</lastBuildDate>
+    <item>
+      <title>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</title>
+      <description>Én most baszom a rendszert Laci, kíváncsi vagyok mikor dől össze</description>
+      <link>https://napipatrik.hu/186/</link>
+      <pubDate>Sat Dec 24 2022</pubDate>
+    </item>
     <item>
       <title>Tudod mi kéne? Rendes munkahely!</title>
       <description>Tudod mi kéne? Rendes munkahely!</description>
@@ -62,12 +68,6 @@
 - András, mindjárt odamegyek és megdolgozlak én téged!</description>
       <link>https://napipatrik.hu/176/</link>
       <pubDate>Wed Dec 14 2022</pubDate>
-    </item>
-    <item>
-      <title>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</title>
-      <description>A tudat nyugtat, hogy egy kicsivel kevesebb fütykös lesz ebben az erdőben</description>
-      <link>https://napipatrik.hu/175/</link>
-      <pubDate>Tue Dec 13 2022</pubDate>
     </item>
   </channel>
 </rss>
