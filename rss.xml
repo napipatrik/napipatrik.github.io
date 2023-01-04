@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jan 03 2023</lastBuildDate>
+    <lastBuildDate>Wed Jan 04 2023</lastBuildDate>
+    <item>
+      <title>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</title>
+      <description>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</description>
+      <link>https://napipatrik.hu/197/</link>
+      <pubDate>Wed Jan 04 2023</pubDate>
+    </item>
     <item>
       <title>Menjünk haza, hátha holnap jobb lesz...</title>
       <description>Menjünk haza, hátha holnap jobb lesz...</description>
@@ -62,12 +68,6 @@
       <description>Konkrétan fogyatékosokkal dolgozunk!</description>
       <link>https://napipatrik.hu/188/</link>
       <pubDate>Mon Dec 26 2022</pubDate>
-    </item>
-    <item>
-      <title>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</title>
-      <description>Itt a hangsúly adja meg a pikantériáját a dolognak, amit ez nem tud visszaadni [a napipatrik]</description>
-      <link>https://napipatrik.hu/187/</link>
-      <pubDate>Sun Dec 25 2022</pubDate>
     </item>
   </channel>
 </rss>
