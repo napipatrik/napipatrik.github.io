@@ -2,16 +2,16 @@
 
 const helper = require('./helper');
 const handlers = require('./handlers');
-const { SlashCommandBuilder } = require('@discordjs/builders');
-const { REST } = require('@discordjs/rest');
-const { Routes } = require('discord-api-types/v9');
-const { Client, Intents } = require('discord.js');
-const client = new Client({partials: ["CHANNEL"], intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.DIRECT_MESSAGES]});
+const {SlashCommandBuilder} = require('@discordjs/builders');
+const {REST, Routes, Client, Events, PermissionsBitField, Partials, GatewayIntentBits, ChannelType} = require('discord.js');
+const {MessageType} = require("discord-api-types/v10");
+const client = new Client({partials: [Partials.Channel], intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent, GatewayIntentBits.DirectMessages]});
 
 const commands = [
   new SlashCommandBuilder()
     .setName(helper.sitename)
     .setDescription('Keress kedvenc napipatrik idézeteid között')
+    .setDefaultMemberPermissions(PermissionsBitField.All)
     .addSubcommand(subcommand =>
       subcommand
         .setName('mai')
@@ -52,17 +52,17 @@ const commands = [
 ].map(command => command.toJSON());
 
 
-client.on('ready', () => {
+client.on(Events.ClientReady, c => {
   console.log('Registering slash commands');
-  const rest = new REST({ version: '9' }).setToken(process.env.DISCORD_BOT_TOKEN);
+  const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_BOT_TOKEN);
   rest.put(Routes.applicationCommands(client.application.id), { body: commands })
     .then(() => console.log('Successfully registered application commands.'))
     .catch(console.error);
 
-  console.log(helper.sitename + ' bot is ready!');
+  console.log(`${helper.sitename} bot is ready! Logged in as ${c.user.tag}`);
 });
 
-client.on('interactionCreate', interaction => {
+client.on(Events.InteractionCreate, interaction => {
   if (!interaction.isCommand()) {
     return;
   }
@@ -99,19 +99,15 @@ client.on('interactionCreate', interaction => {
   }
 });
 
-client.on('messageCreate', message => {
+client.on(Events.MessageCreate, message => {
   const parts = helper.unaccent(message.content.toLowerCase()).split(' ');
 
   if (message.author.bot) {
     return false;
   }
 
-  if (message.type === 'REPLY') {
-    return;
-  }
-
   if (parts[0] !== helper.sitename && !message.mentions.has(client.user.id, {ignoreRoles: true, ignoreRepliedUser: true, ignoreEveryone: true})) {
-    if (message.channel.type === 'DM') {
+    if (message.channel.type === ChannelType.DM) {
       parts.unshift('napipatrik');
     } else {
       return;

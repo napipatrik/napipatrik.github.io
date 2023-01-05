@@ -1,6 +1,6 @@
 {
   "name": "napipatrik-discord-bot",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "A discord bot for napipatrik integration",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/napipatrik/napipatrik.github.io#readme",
   "dependencies": {
-    "@discordjs/builders": "^0.13.0",
-    "@discordjs/rest": "^0.4.1",
-    "discord-api-types": "^0.33.3",
-    "discord.js": "^13.7.0"
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.26",
+    "discord.js": "^14.7.1"
   }
 }
