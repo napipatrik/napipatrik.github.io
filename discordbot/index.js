@@ -4,7 +4,6 @@ const helper = require('./helper');
 const handlers = require('./handlers');
 const {SlashCommandBuilder} = require('@discordjs/builders');
 const {REST, Routes, Client, Events, PermissionsBitField, Partials, GatewayIntentBits, ChannelType} = require('discord.js');
-const {MessageType} = require("discord-api-types/v10");
 const client = new Client({partials: [Partials.Channel], intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent, GatewayIntentBits.DirectMessages]});
 
 const commands = [
