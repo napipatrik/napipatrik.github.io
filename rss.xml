@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jan 04 2023</lastBuildDate>
+    <lastBuildDate>Thu Jan 05 2023</lastBuildDate>
+    <item>
+      <title>Ha a dilettantizmus fájna, már nem élnénk</title>
+      <description>Ha a dilettantizmus fájna, már nem élnénk</description>
+      <link>https://napipatrik.hu/198/</link>
+      <pubDate>Thu Jan 05 2023</pubDate>
+    </item>
     <item>
       <title>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</title>
       <description>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</description>
@@ -62,12 +68,6 @@
       <description>Nyilván nem értenek hozzá, hát staffok, hogy értenének hozzá?!</description>
       <link>https://napipatrik.hu/189/</link>
       <pubDate>Tue Dec 27 2022</pubDate>
-    </item>
-    <item>
-      <title>Konkrétan fogyatékosokkal dolgozunk!</title>
-      <description>Konkrétan fogyatékosokkal dolgozunk!</description>
-      <link>https://napipatrik.hu/188/</link>
-      <pubDate>Mon Dec 26 2022</pubDate>
     </item>
   </channel>
 </rss>
