@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Fri Jan 06 2023</lastBuildDate>
+    <lastBuildDate>Sat Jan 07 2023</lastBuildDate>
+    <item>
+      <title>Az erdő választja az erdészt, nem fordítva</title>
+      <description>Az erdő választja az erdészt, nem fordítva</description>
+      <link>https://napipatrik.hu/200/</link>
+      <pubDate>Sat Jan 07 2023</pubDate>
+    </item>
     <item>
       <title>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</title>
       <description>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</description>
@@ -62,12 +68,6 @@
       <description>A dilettantizmus melegágya vagyunk</description>
       <link>https://napipatrik.hu/191/</link>
       <pubDate>Thu Dec 29 2022</pubDate>
-    </item>
-    <item>
-      <title>És leszakad! Leszakad! ...na visszajött, András, meghallotta, hogy fel vagyok baszódva</title>
-      <description>És leszakad! Leszakad! ...na visszajött, András, meghallotta, hogy fel vagyok baszódva</description>
-      <link>https://napipatrik.hu/190/</link>
-      <pubDate>Wed Dec 28 2022</pubDate>
     </item>
   </channel>
 </rss>
