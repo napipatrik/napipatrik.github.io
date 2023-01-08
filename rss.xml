@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jan 07 2023</lastBuildDate>
+    <lastBuildDate>Sun Jan 08 2023</lastBuildDate>
+    <item>
+      <title>Az a baj András, az erdő nem ritkul meg önmagától</title>
+      <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
+      <link>https://napipatrik.hu/201/</link>
+      <pubDate>Sun Jan 08 2023</pubDate>
+    </item>
     <item>
       <title>Az erdő választja az erdészt, nem fordítva</title>
       <description>Az erdő választja az erdészt, nem fordítva</description>
@@ -62,12 +68,6 @@
       <description>Kezdjük meg az étkezést, én nem várok senkire</description>
       <link>https://napipatrik.hu/192/</link>
       <pubDate>Fri Dec 30 2022</pubDate>
-    </item>
-    <item>
-      <title>A dilettantizmus melegágya vagyunk</title>
-      <description>A dilettantizmus melegágya vagyunk</description>
-      <link>https://napipatrik.hu/191/</link>
-      <pubDate>Thu Dec 29 2022</pubDate>
     </item>
   </channel>
 </rss>
