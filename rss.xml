@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jan 08 2023</lastBuildDate>
+    <lastBuildDate>Mon Jan 09 2023</lastBuildDate>
+    <item>
+      <title>Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új</title>
+      <description>Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új</description>
+      <link>https://napipatrik.hu/202/</link>
+      <pubDate>Mon Jan 09 2023</pubDate>
+    </item>
     <item>
       <title>Az a baj András, az erdő nem ritkul meg önmagától</title>
       <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
@@ -62,12 +68,6 @@
       <description>Nem ölöm meg, csak összehajtogatom, hogy beleférjen a táskájába</description>
       <link>https://napipatrik.hu/193/</link>
       <pubDate>Sat Dec 31 2022</pubDate>
-    </item>
-    <item>
-      <title>Kezdjük meg az étkezést, én nem várok senkire</title>
-      <description>Kezdjük meg az étkezést, én nem várok senkire</description>
-      <link>https://napipatrik.hu/192/</link>
-      <pubDate>Fri Dec 30 2022</pubDate>
     </item>
   </channel>
 </rss>
