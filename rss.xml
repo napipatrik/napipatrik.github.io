@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jan 10 2023</lastBuildDate>
+    <lastBuildDate>Thu Jan 12 2023</lastBuildDate>
+    <item>
+      <title>Laci, nem jól vágod, visszanőtt!</title>
+      <description>Laci, nem jól vágod, visszanőtt!</description>
+      <link>https://napipatrik.hu/205/</link>
+      <pubDate>Thu Jan 12 2023</pubDate>
+    </item>
     <item>
       <title>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</title>
       <description>András, te most erdészmérnök vagy vagy erdésztechnikus? Nézzük meg melyik keres kevesebbet mert az lesz a tiéd</description>
@@ -62,12 +68,6 @@
 - Tudom undorító így szerdán, de hát ez van</description>
       <link>https://napipatrik.hu/195/</link>
       <pubDate>Mon Jan 02 2023</pubDate>
-    </item>
-    <item>
-      <title>Laci, a lófaszok nem mennek ki, azok bejönnek</title>
-      <description>Laci, a lófaszok nem mennek ki, azok bejönnek</description>
-      <link>https://napipatrik.hu/194/</link>
-      <pubDate>Sun Jan 01 2023</pubDate>
     </item>
   </channel>
 </rss>
