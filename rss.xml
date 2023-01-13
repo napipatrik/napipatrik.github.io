@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Jan 12 2023</lastBuildDate>
+    <lastBuildDate>Fri Jan 13 2023</lastBuildDate>
+    <item>
+      <title>Mi ugye tölgyesben vagyunk, mert ott hullik a makk</title>
+      <description>Mi ugye tölgyesben vagyunk, mert ott hullik a makk</description>
+      <link>https://napipatrik.hu/206/</link>
+      <pubDate>Fri Jan 13 2023</pubDate>
+    </item>
     <item>
       <title>Laci, nem jól vágod, visszanőtt!</title>
       <description>Laci, nem jól vágod, visszanőtt!</description>
@@ -60,14 +66,6 @@
       <description>Menjünk haza, hátha holnap jobb lesz...</description>
       <link>https://napipatrik.hu/196/</link>
       <pubDate>Tue Jan 03 2023</pubDate>
-    </item>
-    <item>
-      <title>- Dolgozol Patrik?
-- Tudom undorító így szerdán, de hát ez van</title>
-      <description>- Dolgozol Patrik?
-- Tudom undorító így szerdán, de hát ez van</description>
-      <link>https://napipatrik.hu/195/</link>
-      <pubDate>Mon Jan 02 2023</pubDate>
     </item>
   </channel>
 </rss>
