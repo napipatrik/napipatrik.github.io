@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jan 14 2023</lastBuildDate>
+    <lastBuildDate>Sun Jan 15 2023</lastBuildDate>
+    <item>
+      <title>Lehetnék egy védőszent: a munkakerülés védőszentje</title>
+      <description>Lehetnék egy védőszent: a munkakerülés védőszentje</description>
+      <link>https://napipatrik.hu/208/</link>
+      <pubDate>Sun Jan 15 2023</pubDate>
+    </item>
     <item>
       <title>Szerénységemtől csak a tudásom nagyobb</title>
       <description>Szerénységemtől csak a tudásom nagyobb</description>
@@ -60,12 +66,6 @@
       <description>Ha a dilettantizmus fájna, már nem élnénk</description>
       <link>https://napipatrik.hu/198/</link>
       <pubDate>Thu Jan 05 2023</pubDate>
-    </item>
-    <item>
-      <title>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</title>
-      <description>A faszerdőben a cserjéket is vinni kell, tudom András, te az ős-tölgyeket szereted</description>
-      <link>https://napipatrik.hu/197/</link>
-      <pubDate>Wed Jan 04 2023</pubDate>
     </item>
   </channel>
 </rss>
