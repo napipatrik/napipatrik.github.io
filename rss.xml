@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jan 16 2023</lastBuildDate>
+    <lastBuildDate>Tue Jan 17 2023</lastBuildDate>
+    <item>
+      <title>Verjünk már meg egy staffot András, vajon milyen érzés lehet?!</title>
+      <description>Verjünk már meg egy staffot András, vajon milyen érzés lehet?!</description>
+      <link>https://napipatrik.hu/210/</link>
+      <pubDate>Tue Jan 17 2023</pubDate>
+    </item>
     <item>
       <title>Gratulálok, ön sikeresen dilettáns lett</title>
       <description>Gratulálok, ön sikeresen dilettáns lett</description>
@@ -60,12 +66,6 @@
       <description>Az erdő választja az erdészt, nem fordítva</description>
       <link>https://napipatrik.hu/200/</link>
       <pubDate>Sat Jan 07 2023</pubDate>
-    </item>
-    <item>
-      <title>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</title>
-      <description>Mi meg favágók vagyunk és kivágjuk azt a fát amire rámutatnak</description>
-      <link>https://napipatrik.hu/199/</link>
-      <pubDate>Fri Jan 06 2023</pubDate>
     </item>
   </channel>
 </rss>
