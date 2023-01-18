@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Jan 17 2023</lastBuildDate>
+    <lastBuildDate>Wed Jan 18 2023</lastBuildDate>
+    <item>
+      <title>[büfizés] Mindjárt idehányok... de te frontendes leszel?</title>
+      <description>[büfizés] Mindjárt idehányok... de te frontendes leszel?</description>
+      <link>https://napipatrik.hu/211/</link>
+      <pubDate>Wed Jan 18 2023</pubDate>
+    </item>
     <item>
       <title>Verjünk már meg egy staffot András, vajon milyen érzés lehet?!</title>
       <description>Verjünk már meg egy staffot András, vajon milyen érzés lehet?!</description>
@@ -60,12 +66,6 @@
       <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
       <link>https://napipatrik.hu/201/</link>
       <pubDate>Sun Jan 08 2023</pubDate>
-    </item>
-    <item>
-      <title>Az erdő választja az erdészt, nem fordítva</title>
-      <description>Az erdő választja az erdészt, nem fordítva</description>
-      <link>https://napipatrik.hu/200/</link>
-      <pubDate>Sat Jan 07 2023</pubDate>
     </item>
   </channel>
 </rss>
