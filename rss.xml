@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Jan 18 2023</lastBuildDate>
+    <lastBuildDate>Thu Jan 19 2023</lastBuildDate>
+    <item>
+      <title>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</title>
+      <description>A hammeryolot ne felejtsük el mondani, mert így elűzzük az ártó szellemeket</description>
+      <link>https://napipatrik.hu/212/</link>
+      <pubDate>Thu Jan 19 2023</pubDate>
+    </item>
     <item>
       <title>[büfizés] Mindjárt idehányok... de te frontendes leszel?</title>
       <description>[büfizés] Mindjárt idehányok... de te frontendes leszel?</description>
@@ -60,12 +66,6 @@
       <description>Azt hittem van egy kis új erdőterület amit még nem műveltünk meg, de nincs új</description>
       <link>https://napipatrik.hu/202/</link>
       <pubDate>Mon Jan 09 2023</pubDate>
-    </item>
-    <item>
-      <title>Az a baj András, az erdő nem ritkul meg önmagától</title>
-      <description>Az a baj András, az erdő nem ritkul meg önmagától</description>
-      <link>https://napipatrik.hu/201/</link>
-      <pubDate>Sun Jan 08 2023</pubDate>
     </item>
   </channel>
 </rss>
