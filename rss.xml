@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sat Jan 21 2023</lastBuildDate>
+    <lastBuildDate>Sun Jan 22 2023</lastBuildDate>
+    <item>
+      <title>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</title>
+      <description>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</description>
+      <link>https://napipatrik.hu/215/</link>
+      <pubDate>Sun Jan 22 2023</pubDate>
+    </item>
     <item>
       <title>Nem kell redundánsnak lenni, mert nem romolhat el</title>
       <description>Nem kell redundánsnak lenni, mert nem romolhat el</description>
@@ -60,12 +66,6 @@
       <description>Mi ugye tölgyesben vagyunk, mert ott hullik a makk</description>
       <link>https://napipatrik.hu/206/</link>
       <pubDate>Fri Jan 13 2023</pubDate>
-    </item>
-    <item>
-      <title>Laci, nem jól vágod, visszanőtt!</title>
-      <description>Laci, nem jól vágod, visszanőtt!</description>
-      <link>https://napipatrik.hu/205/</link>
-      <pubDate>Thu Jan 12 2023</pubDate>
     </item>
   </channel>
 </rss>
