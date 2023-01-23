@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Sun Jan 22 2023</lastBuildDate>
+    <lastBuildDate>Mon Jan 23 2023</lastBuildDate>
+    <item>
+      <title>Nem szállítunk, csak szart</title>
+      <description>Nem szállítunk, csak szart</description>
+      <link>https://napipatrik.hu/216/</link>
+      <pubDate>Mon Jan 23 2023</pubDate>
+    </item>
     <item>
       <title>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</title>
       <description>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</description>
@@ -60,12 +66,6 @@
       <description>Szerénységemtől csak a tudásom nagyobb</description>
       <link>https://napipatrik.hu/207/</link>
       <pubDate>Sat Jan 14 2023</pubDate>
-    </item>
-    <item>
-      <title>Mi ugye tölgyesben vagyunk, mert ott hullik a makk</title>
-      <description>Mi ugye tölgyesben vagyunk, mert ott hullik a makk</description>
-      <link>https://napipatrik.hu/206/</link>
-      <pubDate>Fri Jan 13 2023</pubDate>
     </item>
   </channel>
 </rss>
