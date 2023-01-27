@@ -505,8 +505,7 @@ var patrikok = [
     'Mit csináljak? Mellé nyúltam a nagy furik láttán, csak azt hittem a furikban della van, aztán kiderült, hogy körszakáll.',
     'Eskü baszki, már értem miért számítunk jónak: tudunk olvasni.',
     'Lassan több lesz a manager, mint a melós ezen a szerveren. Már látom az új csatikat: #excel, #performancereviewbullshitelések, #miértnemadunkrendestömést',
-    'Ez meg lesz csinálva, végigverem, megvan rá a support, szóval ez prio lett. 2 szót kellett mondanom és megy rá az approve: security és compliance. Egyből autoapprove!',
-    'Én adnék egy ilyen projektet, viccen kívül: csinálnánk github orgot foresters néven, aztán lehetne tolni a projektet.',
+    'Azért mikor linkedinen kapsz egy romániai megkeresést freelancernek, az azért eléggé minősíti a gazdasági helyzetünk.',
 ];
 var tutik = patrikok;
 
