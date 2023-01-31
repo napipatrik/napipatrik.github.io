@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Jan 30 2023</lastBuildDate>
+    <lastBuildDate>Tue Jan 31 2023</lastBuildDate>
+    <item>
+      <title>Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!</title>
+      <description>Annyi mindent lehet itt tanulni: hogyan nem szabad dolgozni!</description>
+      <link>https://napipatrik.hu/224/</link>
+      <pubDate>Tue Jan 31 2023</pubDate>
+    </item>
     <item>
       <title>Mint krumpliszsákban a híg fos: így kifolyik</title>
       <description>Mint krumpliszsákban a híg fos: így kifolyik</description>
@@ -60,12 +66,6 @@
       <description>Na kíváncsi vagyok, hogy mikor fognak szólni, hogy ez nem kéne</description>
       <link>https://napipatrik.hu/215/</link>
       <pubDate>Sun Jan 22 2023</pubDate>
-    </item>
-    <item>
-      <title>Nem kell redundánsnak lenni, mert nem romolhat el</title>
-      <description>Nem kell redundánsnak lenni, mert nem romolhat el</description>
-      <link>https://napipatrik.hu/214/</link>
-      <pubDate>Sat Jan 21 2023</pubDate>
     </item>
   </channel>
 </rss>
