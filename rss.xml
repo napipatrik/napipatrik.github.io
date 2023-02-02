@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Feb 01 2023</lastBuildDate>
+    <lastBuildDate>Thu Feb 02 2023</lastBuildDate>
+    <item>
+      <title>Ennek így semmi érteme... jaaaaajjj, decline</title>
+      <description>Ennek így semmi érteme... jaaaaajjj, decline</description>
+      <link>https://napipatrik.hu/226/</link>
+      <pubDate>Thu Feb 02 2023</pubDate>
+    </item>
     <item>
       <title>Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!</title>
       <description>Mit nem használunk Jenkinsben? SCM-et! Mert mit ad az?!</description>
@@ -60,12 +66,6 @@
       <description>Missionünk... hát András, én úgy látom, hogy no clue</description>
       <link>https://napipatrik.hu/217/</link>
       <pubDate>Tue Jan 24 2023</pubDate>
-    </item>
-    <item>
-      <title>Nem szállítunk, csak szart</title>
-      <description>Nem szállítunk, csak szart</description>
-      <link>https://napipatrik.hu/216/</link>
-      <pubDate>Mon Jan 23 2023</pubDate>
     </item>
   </channel>
 </rss>
