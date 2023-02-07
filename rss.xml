@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Feb 06 2023</lastBuildDate>
+    <lastBuildDate>Tue Feb 07 2023</lastBuildDate>
+    <item>
+      <title>De miért mi?</title>
+      <description>De miért mi?</description>
+      <link>https://napipatrik.hu/231/</link>
+      <pubDate>Tue Feb 07 2023</pubDate>
+    </item>
     <item>
       <title>Mi mezítlábas favágók vagyunk egy szál... baltával</title>
       <description>Mi mezítlábas favágók vagyunk egy szál... baltával</description>
@@ -60,12 +66,6 @@
       <description>...mint valami félkatonai szervezet: roger, copy</description>
       <link>https://napipatrik.hu/222/</link>
       <pubDate>Sun Jan 29 2023</pubDate>
-    </item>
-    <item>
-      <title>Én hülye, Laci, éééén hülye! Dolgozni akartam...</title>
-      <description>Én hülye, Laci, éééén hülye! Dolgozni akartam...</description>
-      <link>https://napipatrik.hu/221/</link>
-      <pubDate>Sat Jan 28 2023</pubDate>
     </item>
   </channel>
 </rss>
