@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Tue Feb 07 2023</lastBuildDate>
+    <lastBuildDate>Wed Feb 08 2023</lastBuildDate>
+    <item>
+      <title>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</title>
+      <description>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</description>
+      <link>https://napipatrik.hu/232/</link>
+      <pubDate>Wed Feb 08 2023</pubDate>
+    </item>
     <item>
       <title>De miért mi?</title>
       <description>De miért mi?</description>
@@ -60,12 +66,6 @@
       <description>Mint krumpliszsákban a híg fos: így kifolyik</description>
       <link>https://napipatrik.hu/223/</link>
       <pubDate>Mon Jan 30 2023</pubDate>
-    </item>
-    <item>
-      <title>...mint valami félkatonai szervezet: roger, copy</title>
-      <description>...mint valami félkatonai szervezet: roger, copy</description>
-      <link>https://napipatrik.hu/222/</link>
-      <pubDate>Sun Jan 29 2023</pubDate>
     </item>
   </channel>
 </rss>
