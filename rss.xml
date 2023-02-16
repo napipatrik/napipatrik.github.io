@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Wed Feb 15 2023</lastBuildDate>
+    <lastBuildDate>Thu Feb 16 2023</lastBuildDate>
+    <item>
+      <title>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</title>
+      <description>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</description>
+      <link>https://napipatrik.hu/240/</link>
+      <pubDate>Thu Feb 16 2023</pubDate>
+    </item>
     <item>
       <title>Peti, te mennyire vagy boldog itt az erdőben?</title>
       <description>Peti, te mennyire vagy boldog itt az erdőben?</description>
@@ -60,12 +66,6 @@
       <description>De miért mi?</description>
       <link>https://napipatrik.hu/231/</link>
       <pubDate>Tue Feb 07 2023</pubDate>
-    </item>
-    <item>
-      <title>Mi mezítlábas favágók vagyunk egy szál... baltával</title>
-      <description>Mi mezítlábas favágók vagyunk egy szál... baltával</description>
-      <link>https://napipatrik.hu/230/</link>
-      <pubDate>Mon Feb 06 2023</pubDate>
     </item>
   </channel>
 </rss>
