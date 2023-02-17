@@ -6,7 +6,13 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Thu Feb 16 2023</lastBuildDate>
+    <lastBuildDate>Fri Feb 17 2023</lastBuildDate>
+    <item>
+      <title>Csaba, nem látod az erdőtől a tisztást - mert nincs</title>
+      <description>Csaba, nem látod az erdőtől a tisztást - mert nincs</description>
+      <link>https://napipatrik.hu/241/</link>
+      <pubDate>Fri Feb 17 2023</pubDate>
+    </item>
     <item>
       <title>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</title>
       <description>De ha mész az erdőben és jön szembe egy hatalmas fasz, nem tudsz mit csinálni, bekapod és üvöltesz hozzá</description>
@@ -60,12 +66,6 @@
       <description>Nézhetjük ezt amerikai szemmel: nem rossz az... csak szar</description>
       <link>https://napipatrik.hu/232/</link>
       <pubDate>Wed Feb 08 2023</pubDate>
-    </item>
-    <item>
-      <title>De miért mi?</title>
-      <description>De miért mi?</description>
-      <link>https://napipatrik.hu/231/</link>
-      <pubDate>Tue Feb 07 2023</pubDate>
     </item>
   </channel>
 </rss>
