@@ -507,9 +507,8 @@ var patrikok = [
     'Lassan több lesz a manager, mint a melós ezen a szerveren. Már látom az új csatikat: #excel, #performancereviewbullshitelések, #miértnemadunkrendestömést',
     'Azért mikor linkedinen kapsz egy romániai megkeresést freelancernek, az azért eléggé minősíti a gazdasági helyzetünk.',
     'Laci mosolya csak nőtt a több munkától, míg Csaba mosolya idővel azért csökken, hisz inflálódik el a sok della, amit már nem tud hova rakni. Kezdi érezni a fájdalmat, a szagokat, amin csak egy újabb rátömés tud segíteni.',
-    'Nem hittél a cégben, ott volt a padlás tömés.',
     'Laci, most komolyan, miért mondtál fel? Ha ennyire lojális vagy, maradhattál volna évekig, főleg a padlás töméssel.',
-    'Én nem irigykedem. Mérges meg főleg nem vagyok. Jó látni így 3-4 éves távlatokból, hogy a padlásos tömés beéprett. András, türelmetlen voltál te is, a biztos pénzre mentél, nem hittél a vállalatban.',
+    'Én nem irigykedem. Mérges meg főleg nem vagyok. Jó látni így 3-4 éves távlatokból, hogy a padlásos tömés beérett. András, türelmetlen voltál te is, a biztos pénzre mentél, nem hittél a vállalatban.',
     'Nah, vállalok nehéz árumozgatást, takarítást, porszívózást, felmosást, főleg irodáknak, munkaidő után, just for fun.',
     'Csökkent a túltömés öröme már?',
 ];
