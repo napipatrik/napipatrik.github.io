@@ -511,6 +511,22 @@ var patrikok = [
     'Én nem irigykedem. Mérges meg főleg nem vagyok. Jó látni így 3-4 éves távlatokból, hogy a padlásos tömés beérett. András, türelmetlen voltál te is, a biztos pénzre mentél, nem hittél a vállalatban.',
     'Nah, vállalok nehéz árumozgatást, takarítást, porszívózást, felmosást, főleg irodáknak, munkaidő után, just for fun.',
     'Csökkent a túltömés öröme már?',
+    'Laci: és megmondtad nekik, hogy mit javítsanak és utána sem?\nPatrik: nem, nyitottam egy új PRt és megcsináltam, majd lezártam a szarjukat.',
+    'Én kezdem úgy látni, hogy Balázsbának volt igaza: jött egy új pozi több delláért, ő repült is rá, ugyanúgy felveszik. Nem számít, hogy hopperkedik, cserébe szedi meg magát úgy, hogy elég dilettáns.',
+    '...és ehhez tolják a céges bullshitet végig az allhandsen - nagy család.',
+    'Mi egy nagy boldog család vagyunk!',
+    'Már a fekete sem PC, azt kell mondani, hogy színes! Színes körszakáll.',
+    'András jegyzetelj! Vidd be team event ötletnek - megnézném a gazdád arcát...',
+    'Csaba: ...de a wellness nekünk munkaidőben volt, szóval nem sír a szám.\nPatrik: Az nekünk is jutott anno, a fosmocsár kellemes meleg volt, hogy egész héten abban ültünk.',
+    'Én meg repültem rá, mint Laci a support issuera.',
+    'Hallod, most ott tartok, hogy örülnék egy kis fospermetnek, de nem jön, csak hatalmas repkedő lófaszok és mind koppig megy!',
+    'Gergő: Valaki összefoglalná az utolsó 225+ üzenetet?\nPatrik: Csaba lett a legtúltömöttebb (official), én kéket szartam reggel, holnap megyünk inni.',
+    'Tudod miért jó igényes emberekkel dolgozni? Mert én nem...',
+    'ChatGPT5: körszakáll edition',
+    'A batyu már jobb, mint a körszakáll. A batyu még nem túlhasznált, mint a körszakáll.',
+    'A munka nem csinálja meg önmagát',
+    'Mert te is szereted a körszakállt, meg Laci is... mindenkinek jó a körszakáll',
+    'Laci, neked magyarázzam, mi az a szarlapátolás, miközben a púzódba szaladgálnak a repkedő lófaszok? Mialatt az arcodon csattan a fospermet és a gazdád még csak vizet sem hoz.',
 ];
 var tutik = patrikok;
 
