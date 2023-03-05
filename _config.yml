@@ -30,6 +30,19 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-pwa-plugin
+
+pwa:
+  enabled: true
+  dest_js_directory: assets/js
+  precache_glob_directory: /
+  precache_glob_patterns:
+    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+    - "**/*.html"
+  precache_glob_ignores:
+    - sw-register.js
+    - "fonts/**/*"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -37,6 +50,7 @@ plugins:
 exclude:
   - aws
   - extension
+  - discordbot
   - node_modules
   - .idea
   - vendor

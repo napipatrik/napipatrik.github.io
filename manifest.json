@@ -1,5 +1,8 @@
 {
- "name": "App",
+ "name": "Napipatrik",
+ "short_name": "Napipatrik",
+ "description": "NapiPatrik / az elégedetlen DevOpsos oldala",
+ "start_url": "/",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",

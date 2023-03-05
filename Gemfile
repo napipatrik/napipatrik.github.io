@@ -21,6 +21,8 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
   gem "json"
   gem 'jekyll-sitemap'
+  gem 'jekyll-pwa-plugin', git: "https://github.com/napipatrik/jekyll-pwa"
+  gem 'webrick' # for jekyll-pwa-plugin
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
