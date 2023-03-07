@@ -6,7 +6,43 @@
     <description>NapiPatrik - Az elégedetlen DevOpsos oldala</description>
     <category>DevOps</category>
     <language>hu-HU</language>
-    <lastBuildDate>Mon Mar 06 2023</lastBuildDate>
+    <lastBuildDate>Sun Mar 12 2023</lastBuildDate>
+    <item>
+      <title>Kiváló, kíváló!</title>
+      <description>Kiváló, kíváló!</description>
+      <link>https://napipatrik.hu/472/</link>
+      <pubDate>Sun Mar 12 2023</pubDate>
+    </item>
+    <item>
+      <title>Nem méltatlankodok. Úgy járnak a púzómban a körszakállak, hogy én ma már fingani se merek!</title>
+      <description>Nem méltatlankodok. Úgy járnak a púzómban a körszakállak, hogy én ma már fingani se merek!</description>
+      <link>https://napipatrik.hu/471/</link>
+      <pubDate>Sat Mar 11 2023</pubDate>
+    </item>
+    <item>
+      <title>Kezd elegem lenni az egészből, akkora fillérbaszó lett a cég</title>
+      <description>Kezd elegem lenni az egészből, akkora fillérbaszó lett a cég</description>
+      <link>https://napipatrik.hu/470/</link>
+      <pubDate>Fri Mar 10 2023</pubDate>
+    </item>
+    <item>
+      <title>De a körszakállt nem eszed meg, az csak kényeztet, jól megjáratja a nyilásaid, majd tova röppen, hogy helyet adjon egy másik körszakállnak, esetleg egy nagyobbnak, erősebbnek, hogy fokozza az örömödet!</title>
+      <description>De a körszakállt nem eszed meg, az csak kényeztet, jól megjáratja a nyilásaid, majd tova röppen, hogy helyet adjon egy másik körszakállnak, esetleg egy nagyobbnak, erősebbnek, hogy fokozza az örömödet!</description>
+      <link>https://napipatrik.hu/469/</link>
+      <pubDate>Thu Mar 09 2023</pubDate>
+    </item>
+    <item>
+      <title>[kép kisgyerekről] Mondd, hogy élvezze ki az időt még gyerek, soha nem lesz már annyira jó! Lego és pc egész nap, kaja van a hűtőben, mi kell még?</title>
+      <description>[kép kisgyerekről] Mondd, hogy élvezze ki az időt még gyerek, soha nem lesz már annyira jó! Lego és pc egész nap, kaja van a hűtőben, mi kell még?</description>
+      <link>https://napipatrik.hu/468/</link>
+      <pubDate>Wed Mar 08 2023</pubDate>
+    </item>
+    <item>
+      <title>Hát ez hagyományos család lesz, ős amerikai mondhatni: ő a gazdám lesz, hiszen a talpasok nem szabad emberek. Kint a végtelen gyapot mezőn meg nem mindegy, hogy ki a gazdád? Max gyakrabban kapod a vizet, de a gyapot marad.</title>
+      <description>Hát ez hagyományos család lesz, ős amerikai mondhatni: ő a gazdám lesz, hiszen a talpasok nem szabad emberek. Kint a végtelen gyapot mezőn meg nem mindegy, hogy ki a gazdád? Max gyakrabban kapod a vizet, de a gyapot marad.</description>
+      <link>https://napipatrik.hu/467/</link>
+      <pubDate>Tue Mar 07 2023</pubDate>
+    </item>
     <item>
       <title>[Az interjún interjúztatóként] ...hát motiváltságot kell mutatni! Tudták, hogy még nem csípte meg a szemed a fos, így a tömés adta boldogsággal az arcodon fogsz bemenni és ez fog majd tündökölni végig az interviewn és azt látja majd a szerencsétlen erdész tanonc, hogy milyen vidám hely is a devops</title>
       <description>[Az interjún interjúztatóként] ...hát motiváltságot kell mutatni! Tudták, hogy még nem csípte meg a szemed a fos, így a tömés adta boldogsággal az arcodon fogsz bemenni és ez fog majd tündökölni végig az interviewn és azt látja majd a szerencsétlen erdész tanonc, hogy milyen vidám hely is a devops</description>
@@ -30,42 +66,6 @@
       <description>Ha választhatok, hogy legyenek-e cicis nénik a feedemben vagy ne [redditen], akkor lesznek</description>
       <link>https://napipatrik.hu/463/</link>
       <pubDate>Fri Mar 03 2023</pubDate>
-    </item>
-    <item>
-      <title>Hát, most már érzem, a körszakáll egyre mélyebbre hatol a púzómba és már nem jó, hanem fáj</title>
-      <description>Hát, most már érzem, a körszakáll egyre mélyebbre hatol a púzómba és már nem jó, hanem fáj</description>
-      <link>https://napipatrik.hu/462/</link>
-      <pubDate>Thu Mar 02 2023</pubDate>
-    </item>
-    <item>
-      <title>Obsolete tudásom határtalan</title>
-      <description>Obsolete tudásom határtalan</description>
-      <link>https://napipatrik.hu/461/</link>
-      <pubDate>Wed Mar 01 2023</pubDate>
-    </item>
-    <item>
-      <title>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</title>
-      <description>...lehet, hogy már te is architect lennél! Teslában ülve szotyizhatnál a plebszre, de neked nem volt elég jó a gyapot, inkább váltottál, hogy a házba kerülhess, közel a gazdáidhoz.</description>
-      <link>https://napipatrik.hu/460/</link>
-      <pubDate>Tue Feb 28 2023</pubDate>
-    </item>
-    <item>
-      <title>A pina az jó.</title>
-      <description>A pina az jó.</description>
-      <link>https://napipatrik.hu/459/</link>
-      <pubDate>Mon Feb 27 2023</pubDate>
-    </item>
-    <item>
-      <title>...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!</title>
-      <description>...de hát az erdész nem válogat, ha kicsit szálkás a balta nyele, még jobban rá is markol!</description>
-      <link>https://napipatrik.hu/458/</link>
-      <pubDate>Sun Feb 26 2023</pubDate>
-    </item>
-    <item>
-      <title>Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.</title>
-      <description>Kegyetlen jó volt, mint egy oncall utáni hajnali 2-es körszakáll.</description>
-      <link>https://napipatrik.hu/457/</link>
-      <pubDate>Sat Feb 25 2023</pubDate>
     </item>
   </channel>
 </rss>
