@@ -2,7 +2,8 @@
  "name": "Napipatrik",
  "short_name": "Napipatrik",
  "description": "NapiPatrik / az elégedetlen DevOpsos oldala",
- "start_url": "/",
+ "start_url": "./",
+ "display": "standalone",
  "icons": [
   {
    "src": "/assets/images/favicon/android-icon-36x36.png",
