@@ -20,7 +20,7 @@
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.5.0",
-    "discord-api-types": "^0.37.26",
+    "discord-api-types": "^0.37.35",
     "discord.js": "^14.7.1"
   }
 }
