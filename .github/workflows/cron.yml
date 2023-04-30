@@ -15,11 +15,6 @@ jobs:
         with:
           node-version: 16.x
       - run: ./dump_napituti.sh
-        env:
-          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{ env.last_commit_message == 'Rotate napipatrik' }}
         with:

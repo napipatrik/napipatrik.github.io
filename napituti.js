@@ -66,26 +66,6 @@ if (args.length && args[0] === '--image') {
       console.log(output);
     });
   });
-} else if (args.length && args[0] === '--publish-twitter') {
-  const {TwitterApi} = require('twitter-api-v2');
-
-  if (!process.env.TWITTER_CONSUMER_KEY || !process.env.TWITTER_CONSUMER_SECRET || !process.env.TWITTER_ACCESS_TOKEN || !process.env.TWITTER_ACCESS_TOKEN_SECRET) {
-    console.error('Missing Twitter API tokens!');
-    return;
-  }
-
-  const client = new TwitterApi({
-    appKey: process.env.TWITTER_CONSUMER_KEY,
-    appSecret: process.env.TWITTER_CONSUMER_SECRET,
-    accessToken: process.env.TWITTER_ACCESS_TOKEN,
-    accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-  });
-
-  (async function () {
-    const napitutiAttachmentId = await client.v1.uploadMedia(__dirname + '/napipatrik.jpg');
-
-    await client.v2.tweet('Napi Patrik #napipatrik #napidevops', { media: { media_ids: [napitutiAttachmentId] } });
-  })();
 } else {
   console.log(napituti);
 }

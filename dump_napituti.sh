@@ -10,6 +10,3 @@ node napituti.js --image
 
 npm i xml2js
 node napituti.js --rss > rss.new.xml && mv rss.new.xml rss.xml
-
-npm i twitter-api-v2
-node napituti.js --publish-twitter
