@@ -10,3 +10,6 @@ node napituti.js --image
 
 npm i xml2js
 node napituti.js --rss > rss.new.xml && mv rss.new.xml rss.xml
+
+npm i masto
+node napituti.js --publish-mastodon

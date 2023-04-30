@@ -1,5 +1,6 @@
 const patrikFn = require('./assets/js/functions');
 const patrikok = require('./assets/js/patrikok');
+const {login} = require("masto");
 
 const args = process.argv.slice(2);
 
@@ -66,7 +67,32 @@ if (args.length && args[0] === '--image') {
       console.log(output);
     });
   });
+} else if (args.length && args[0] === '--publish-mastodon') {
+  const fs = require('fs');
+  const {login} = require('masto');
+
+  if (!process.env.MASTODON_TOKEN) {
+    console.error('Missing Mastodon API token!');
+    return;
+  }
+
+  (async function () {
+    const masto = await login({
+      url: 'https://mastodon.social',
+      accessToken: process.env.MASTODON_TOKEN,
+    });
+
+    const attachment = await masto.v2.mediaAttachments.create({
+      file: new Blob([fs.readFileSync(__dirname + '/napipatrik.jpg')]),
+      description: napituti,
+    });
+
+    const status = await masto.v1.statuses.create({
+      status: 'Napi Patrik #napipatrik #napidevops',
+      visibility: 'public',
+      mediaIds: [attachment.id],
+    });
+  })();
 } else {
   console.log(napituti);
 }
-

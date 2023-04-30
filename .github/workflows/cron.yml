@@ -13,8 +13,10 @@ jobs:
       - run: echo "last_commit_message=$(git log -1 --pretty=%B | head -n 1)" >> $GITHUB_ENV
       - uses: actions/setup-node@v1
         with:
-          node-version: 16.x
+          node-version: 18.x
       - run: ./dump_napituti.sh
+        env:
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{ env.last_commit_message == 'Rotate napipatrik' }}
         with:
