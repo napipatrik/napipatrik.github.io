@@ -1,6 +1,5 @@
 const patrikFn = require('./assets/js/functions');
 const patrikok = require('./assets/js/patrikok');
-const {login} = require("masto");
 
 const args = process.argv.slice(2);
 
