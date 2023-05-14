@@ -522,7 +522,6 @@ var patrikok = [
     'Hallod, most ott tartok, hogy örülnék egy kis fospermetnek, de nem jön, csak hatalmas repkedő lófaszok és mind koppig megy!',
     'Gergő: Valaki összefoglalná az utolsó 225+ üzenetet?\nPatrik: Csaba lett a legtúltömöttebb (official), én kéket szartam reggel, holnap megyünk inni.',
     'Tudod miért jó igényes emberekkel dolgozni? Mert én nem...',
-    'ChatGPT5: körszakáll edition',
     'A batyu már jobb, mint a körszakáll. A batyu még nem túlhasznált, mint a körszakáll.',
     'A munka nem csinálja meg önmagát',
     'Mert te is szereted a körszakállt, meg Laci is... mindenkinek jó a körszakáll',
