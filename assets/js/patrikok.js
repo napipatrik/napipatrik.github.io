@@ -526,7 +526,7 @@ var patrikok = [
     'A munka nem csinálja meg önmagát',
     'Mert te is szereted a körszakállt, meg Laci is... mindenkinek jó a körszakáll',
     'Laci, neked magyarázzam, mi az a szarlapátolás, miközben a púzódba szaladgálnak a repkedő lófaszok? Mialatt az arcodon csattan a fospermet és a gazdád még csak vizet sem hoz.',
-    'Mi ez, ha nem cukiság? temp-gw, test router, kurvanyááááád! Kézzel baszki, kézzel! De megbeszéltük, hogy minden TFbe - kivéve persze ami nem, mert hát az erősíti a szabályt.',
+    'Mi ez, ha nem cukiság? temp-gw, test router, kurvaanyááááád! Kézzel baszki, kézzel! De megbeszéltük, hogy minden TFbe - kivéve persze ami nem, mert hát az erősíti a szabályt.',
     'Hallod, hétfő fél 11 és felkúródtam, mint a kurva élet!',
     'Tudod mi a jó abban, ha egyedül dolgozol? MIIIINDEEEEN! Nem kell team, nem kell csapat, csak te és az erdő, de tudod miért jó? Mert akkor nem kapsz random batyukat a kollégáidtól. Csak az erdő és te. Nem megy mögéd a kedves kollégád mikor küzdesz az őstölgyessel, csak szolidan letolja a gatyádat és hátulról szárazan beakaszt... nincs ilyen.',
     'De aki batyuval szórja meg az erdőt, ne csodálkozzon, ha néha visszacsap az arcába egy-kettő!',
@@ -534,6 +534,7 @@ var patrikok = [
     '...pedig ma büszke lennél rám Laci, fél 9-kor már pergett a meló és nem ám Balázsbásan! Igazi Lacistaként! Még Tinára is szóltam, hogy hagyjon, mert dolgozom.',
     'Kérdeztünk a méregdrága support csapattól és visszajött a TF doksiból a válasz, hát kurvajó.',
     'Ha találsz melót, mondd, hogy tudsz még egy dilettánst: kíváló vajazó, csak úgy csillog a nyeles fiókban!',
+    'Most úgy érzem a batyu jobban leírja a felkúródásom. A körszakállra számítasz, de a batyu az batyu: be van szépen csomagolva a bepált túró - váratlanul ér.',
 ];
 var tutik = patrikok;
 
