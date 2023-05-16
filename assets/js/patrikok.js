@@ -536,6 +536,7 @@ var patrikok = [
     'Ha találsz melót, mondd, hogy tudsz még egy dilettánst: kíváló vajazó, csak úgy csillog a nyeles fiókban!',
     'Most úgy érzem a batyu jobban leírja a felkúródásom. A körszakállra számítasz, de a batyu az batyu: be van szépen csomagolva a bepált túró - váratlanul ér.',
     '- Patrik, rosszul indul a napod? Vagy miért vagy morcos?\n- Sok itt a BUZI!',
+    'A hatalmas fostengerre egy olyan szigetet rittyentettem, amit még Balázsbá is megirigyelne!',
 ];
 var tutik = patrikok;
 
