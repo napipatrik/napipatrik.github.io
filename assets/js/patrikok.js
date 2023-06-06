@@ -537,6 +537,12 @@ var patrikok = [
     'Most úgy érzem a batyu jobban leírja a felkúródásom. A körszakállra számítasz, de a batyu az batyu: be van szépen csomagolva a bepált túró - váratlanul ér.',
     '- Patrik, rosszul indul a napod? Vagy miért vagy morcos?\n- Sok itt a BUZI!',
     'A hatalmas fostengerre egy olyan szigetet rittyentettem, amit még Balázsbá is megirigyelne!',
+    'Próbálom kamu smileyval leplezni a felkúródásom',
+    'Korán nekikezdtem, még a reggeli harmat sem száradt meg a bepállott batyukon, hogy reworköljem a networköt teljesen, boldogan kisbaltázom az erdőmet, aztán baszki felvillan a slack és ez fogad...',
+    'Mondhatnád, hogy így születtem, de nem. Nem az anyatejjel szívtam magamba a kube configot, hanem elolvastam a kurva dokumentációt!',
+    'Tudod milyen érzés itt dolgoznom? Képzeld el, mintha egy kibaszott nyelet próbálnám a késélezőbe belerakni és éleznéd, de nem lesz élesebb. Tudod miért? MERT EGY KIBASZOTT NYÉL!',
+    'Lacit csak az érdekli, hogy a vasárnapi commitja legyen meg, ne vegyék el tőle az örömöt, amit a pihenés alatt szerzett slack interakció nélküli commitok okoznak.',
+    'Tamás: Patrik, olvastam, hogy nem vagy elégedett a melóval. Nem akarsz váltani?\nPatrik: De, mezőgazdaságra.',
 ];
 var tutik = patrikok;
 
