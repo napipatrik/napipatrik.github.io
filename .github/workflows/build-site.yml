@@ -30,6 +30,8 @@ jobs:
           node-version: 18
       - name: Dump dynamic files
         run: ./dump_napituti.sh
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
 
       - name: Setup AWS cli
         uses: aws-actions/configure-aws-credentials@v1
