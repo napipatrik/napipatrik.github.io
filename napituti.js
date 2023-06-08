@@ -1,11 +1,11 @@
 const patrikFn = require('./assets/js/functions');
-const patrikok = require('./assets/js/patrikok');
+const tutik = require('./assets/js/patrikok');
 
 const args = process.argv.slice(2);
 
 
-let index = process.env.NAPIPATRIK_ID ? process.env.NAPIPATRIK_ID : patrikFn.getDefaultOffset() % patrikok.length;
-let napituti = patrikok[index];
+let index = process.env.NAPIPATRIK_ID ? process.env.NAPIPATRIK_ID : patrikFn.getDefaultOffset() % tutik.length;
+let napituti = tutik[index];
 let imageTags = 'nature,calm,forest';
 
 if ((new Date()).getMonth() === 2 && (new Date()).getDate() === 17) {
@@ -46,26 +46,46 @@ if (args.length && args[0] === '--image') {
 } else if (args.length && args[0] === '--index') {
   process.stdout.write("" + index);
 } else if (args.length && args[0] === '--rss') {
-  const fs = require('fs');
   const xml2js = require('xml2js');
 
   const parser = new xml2js.Parser();
-  fs.readFile(__dirname + '/rss.xml', function (err, data) {
-    parser.parseString(data, function (err, rss) {
-      rss.rss.channel[0].lastBuildDate = (new Date()).toDateString();
-      rss.rss.channel[0].item.unshift({
-        title: [napituti],
-        description: [napituti],
-        link: ['https://napipatrik.hu/' + index + '/'],
-        pubDate: [(new Date()).toDateString()]
-      });
-      rss.rss.channel[0].item = rss.rss.channel[0].item.slice(0, 10);
+  fetch('https://napipatrik.hu/rss.xml')
+    .then(response => {
+      if (!response.ok) {
+        console.error('Unable to request rss.xml!');
+        process.exit(10);
+      }
 
-      builder = new xml2js.Builder();
-      const output = builder.buildObject(rss);
-      console.log(output);
+      return response.blob();
+    })
+    .then(blob => {
+      return blob.text();
+    })
+    .then(data => {
+      parser.parseString(data, function (err, rss) {
+        if (err) {
+          console.error('Unable to parse rss.xml!');
+          process.exit(11);
+        }
+
+        rss.rss.channel[0].lastBuildDate = (new Date()).toDateString();
+        rss.rss.channel[0].item.unshift({
+          title: [napituti],
+          description: [napituti],
+          link: ['https://napipatrik.hu/' + index + '/'],
+          pubDate: [(new Date()).toDateString()]
+        });
+        rss.rss.channel[0].item = rss.rss.channel[0].item.slice(0, 10);
+
+        builder = new xml2js.Builder();
+        const output = builder.buildObject(rss);
+        console.log(output);
+      });
+    })
+    .catch(err => {
+      console.error(err);
+      process.exit(10);
     });
-  });
 } else if (args.length && args[0] === '--publish-mastodon') {
   const fs = require('fs');
   const {login} = require('masto');

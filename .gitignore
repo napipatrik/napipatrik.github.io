@@ -5,5 +5,10 @@ _site
 .jekyll-cache
 node_modules
 
+# Generated content
+/napipatrik
+/napipatrik.id
+/napipatrik.jpg
+
 # Extension
 /extension/extension.zip
