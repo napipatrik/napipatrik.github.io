@@ -5,6 +5,13 @@ Napi Patrik
 
 Ha bővítenéd a listát olvasd el a [CONTRIBUTING](CONTRIBUTING.md) útmutatót!
 
+Fejlesztés
+----------
+
+1. Futtasd a `dump_napituti.sh` scriptet
+2. `bundle install`
+3. `bundle exec jekyll serve`
+
 Napipatrik Slack integráció
 ---------------------------
 
