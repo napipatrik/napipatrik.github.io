@@ -542,7 +542,6 @@ var patrikok = [
     'Tudod milyen érzés itt dolgoznom? Képzeld el, mintha egy kibaszott nyelet próbálnám a késélezőbe belerakni és éleznéd, de nem lesz élesebb. Tudod miért? MERT EGY KIBASZOTT NYÉL!',
     'Lacit csak az érdekli, hogy a vasárnapi commitja legyen meg, ne vegyék el tőle az örömöt, amit a pihenés alatt szerzett slack interakció nélküli commitok okoznak.',
     'Tamás: Patrik, olvastam, hogy nem vagy elégedett a melóval. Nem akarsz váltani?\nPatrik: De, mezőgazdaságra.',
-    'Isten Isten, asszony állat, a medve pedig nem játék.',
     'András, szeszre fel!',
     'Már most annyi a pulzusom, mint másnak egész héten.',
     'Most mire legyek motivált? Hogy állandóan telibe kap a fospermet, de legalább tátott szájjal és nyitott szemel? Imádom.',
@@ -550,7 +549,6 @@ var patrikok = [
     'Képzeld, annyi a dellám, hogy a szüretet is elfelejtettem!',
     'Tegnap toltam egy dupla komlós dupla ipát, utána az Elijah-t. Úgy aludtam, felőlem rendszert is revertelhettünk volna, arra sem kelek fel.',
     'Kicsit úgy érzem magam, mint Rambo: nem szeretek az erdőben lenni, de az erdő az otthonom.',
-    'Jah és a fix RDS alatt nincs reserved instance, on-demand fizetünk. Honnan tudom? Mert megkérdeztem, hogy meddig van reservationünk...',
     'Szerintem kezdek kiteljesedni: a fos már az orromig ér.',
     'Már érted miért érzem úgy, hogy én vagyok a chef kés a nyeles fiókban? Közben meg egy recés vajazóval vetekszem, tudod melyik az, amivel el tudod felezni a zsömlét és meg is tudod kenni a meleg vajjal.',
 ];
