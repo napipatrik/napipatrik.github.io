@@ -96,10 +96,10 @@ if (args.length && args[0] === '--image') {
   }
 
   (async function () {
-    const masto = await login({
+    const masto = createRestAPIClient({
       url: 'https://mastodon.social',
       accessToken: process.env.MASTODON_TOKEN,
-    });
+    })
 
     const attachment = await masto.v2.mediaAttachments.create({
       file: new Blob([fs.readFileSync(__dirname + '/napipatrik.jpg')]),
