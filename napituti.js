@@ -88,7 +88,7 @@ if (args.length && args[0] === '--image') {
     });
 } else if (args.length && args[0] === '--publish-mastodon') {
   const fs = require('fs');
-  const {login} = require('masto');
+  const {createRestAPIClient} = require('masto');
 
   if (!process.env.MASTODON_TOKEN) {
     console.error('Missing Mastodon API token!');
@@ -101,7 +101,7 @@ if (args.length && args[0] === '--image') {
       accessToken: process.env.MASTODON_TOKEN,
     })
 
-    const attachment = await masto.v2.mediaAttachments.create({
+    const attachment = await masto.v2.media.create({
       file: new Blob([fs.readFileSync(__dirname + '/napipatrik.jpg')]),
       description: napituti,
     });
