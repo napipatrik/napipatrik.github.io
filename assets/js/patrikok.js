@@ -551,6 +551,11 @@ var patrikok = [
     'Kicsit úgy érzem magam, mint Rambo: nem szeretek az erdőben lenni, de az erdő az otthonom.',
     'Szerintem kezdek kiteljesedni: a fos már az orromig ér.',
     'Már érted miért érzem úgy, hogy én vagyok a chef kés a nyeles fiókban? Közben meg egy recés vajazóval vetekszem, tudod melyik az, amivel el tudod felezni a zsömlét és meg is tudod kenni a meleg vajjal.',
+    'Én már akkor a giphyt toltam, amikor te még a csattogós lepkét. Ki a fasz akar stickerezni, ha van gif?!',
+    'Hónapok óta dolgozik rajta, de ha láttad volna az eredeti megoldást, sírtál volna - én is azt tettem.',
+    'Egyedül harcolok a dilettantizmus által növekvő fosmocsárban, kisbaltámmal vágom az indákat, próbálom megfékezni, hogy túlterjedjen az erdő, de kurva nehéz, mert úgy növekszik a legacy fosmocsara, mintha muszáj lenne. Szorgosan tolják bele a jó híg fost, csak úgy öntik!',
+    'Mivel tapasztalt erdész vagy, nem ijedsz meg egy kis fostól: kisbaltáddal olyat baszol a makkjára, hogy egyből visszafordul!',
+    'Ha látnád kik dolgoznak ott, nem kérdeznél ilyet.',
 ];
 var tutik = patrikok;
 
