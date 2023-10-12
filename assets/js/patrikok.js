@@ -556,8 +556,6 @@ var patrikok = [
     'Egyedül harcolok a dilettantizmus által növekvő fosmocsárban, kisbaltámmal vágom az indákat, próbálom megfékezni, hogy túlterjedjen az erdő, de kurva nehéz, mert úgy növekszik a legacy fosmocsara, mintha muszáj lenne. Szorgosan tolják bele a jó híg fost, csak úgy öntik!',
     'Mivel tapasztalt erdész vagy, nem ijedsz meg egy kis fostól: kisbaltáddal olyat baszol a makkjára, hogy egyből visszafordul!',
     'Ha látnád kik dolgoznak ott, nem kérdeznél ilyet.',
-    'Meg se fordult a fejemben, hogy átbasztak. Asszem 5k-t buktam így, de mondom mindenki fizetett. Emlékszem, mamámtól kaptam mikulásra csomag helyett, a büdös kurva anyjukat, remélem gyógyszerre költik!',
-    'Megnézi, hogy működik-e a network, amit leraktam, de lelövöm a poént: működik. Tudod miért? Mondhatnám, hogy én raktam le, de nem azért, hanem azért, mert leteszteltem.',
     'Annyit beszélek arról, hogy mit nem csináltam, hogy még ezt az öreg Balázsbá is megirigyelné! Lehet, hogy most jött el az idő, a padavanból mester lett: a nem dolgozás mestere.',
     'A szesz és a munkakerülés a szakterületem.',
     'Hisz ha nincs customer, nincs issue!',
