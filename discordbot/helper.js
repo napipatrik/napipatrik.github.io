@@ -5,6 +5,7 @@ const https = require('https');
 const sitename = 'napipatrik';
 const domain = sitename + '.hu';
 
+
 exports.fetchContent = function (path) {
   return new Promise((resolve, reject) => {
     const request = https.request('https://' + domain + '/' + path, res => {
