@@ -10,15 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: marceloprado/has-changed-path@v1
+        id: changed-bot
+        with:
+          paths: ./discordbot
       - name: Set up Docker Buildx
+        if: steps.changed-bot.outputs.changed == 'true'
         uses: docker/setup-buildx-action@v2
       - name: Login to Docker Hub
+        if: steps.changed-bot.outputs.changed == 'true'
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       - name: Build and push
+        if: steps.changed-bot.outputs.changed == 'true'
         uses: docker/build-push-action@v4
         with:
+          context: ./discordbot
           push: true
           tags: rutkai/napipatrik-discordbot:latest

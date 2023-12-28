@@ -17,7 +17,6 @@ exports.fetchContent = function (path) {
       res.on('end', () => {
         resolve(response);
       });
-
     });
 
     request.on('error', e => {
