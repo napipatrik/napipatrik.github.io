@@ -559,6 +559,22 @@ var patrikok = [
     'Annyit beszélek arról, hogy mit nem csináltam, hogy még ezt az öreg Balázsbá is megirigyelné! Lehet, hogy most jött el az idő, a padavanból mester lett: a nem dolgozás mestere.',
     'A szesz és a munkakerülés a szakterületem.',
     'Hisz ha nincs customer, nincs issue!',
+    'Úgy ég a pofám: ma dolgoztam 2 órát, a fél napit végigbeszéltem, hogy mit csináltam. Lassan Patrikozni lehet Balázsbát, mert már rég lenyomtam',
+    'Új nagygazda: a gazdám gazdája, az igazi fehér ember.',
+    'Minek? Ahhoz sem értek, amit csinálok!',
+    'Gondolkodom, hogy otthagyom az IT világát, elmegyek traktorozgatni, hisz mindenhez is értek.',
+    'Mikor dilettánsok között félszemű a király...',
+    'Engem azért felkúr. Próbál az ember igényes lenni és akkor erővel telibeszarják.',
+    '...de ami jobban bánt, hogy csak az én szemem csípi. Senki más nem is commentelt, más leszarja. Felteszi a kis csipeszt az orrára, kis munkavédelmi szemüveg és a fos már nem is bántó. Így akár lehetne csokiöntet is.',
+    'Nevethetsz, én nem vagyok vállalati katona.',
+    'Ne azt írd be, hogy kevés a della, hanem hogy az a jó abban, hogy kevés a della, hogy kevesebb inflálódik el belőle! Ez pozitív és konstruktív.',
+    'Lassan beérem Balázsbát: későn kezdtem, hosszú ebéd, most meg már nincs kedvem semmihez.',
+    'Én nem is akarok vállalati katona lenni. Nekem ez egy munkahely, nem a családom, nem a baráti köröm, ha elszaródik, dobbantok.',
+    'Lelkesedjen azért a szarlapátolásért akinek 2 anyja van! (Bocsi Laci, nem rád gondoltam.)',
+    'Egy művészt sosem érthettek meg!',
+    'Én imádok enni, a napom fénypontja.',
+    'Az én zsebembe könnyű pénzt rakni, nah de onnan kivenni, nonono...',
+    'A helyesírást elnézzük, én sem tudok írni.',
 ];
 var tutik = patrikok;
 
