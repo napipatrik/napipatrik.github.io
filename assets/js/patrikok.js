@@ -572,6 +572,18 @@ var patrikok = [
     'Egy művészt sosem érthettek meg!',
     'Én imádok enni, a napom fénypontja.',
     'Az én zsebembe könnyű pénzt rakni, nah de onnan kivenni, nonono...',
+    'Mondom, én művész vagyok. Szavakkal festek.',
+    'Ha megfogadsz egy tanácsot: nem tolsz mindenre pepper xxx jdt, mert ki kell jönnie.',
+    'Utálok itt dolgozni!',
+    'Lassú vagyok ma, mintha csak dolgoznék...',
+    'Úgy szaladtam az erdőbe, mintha csak Laci lennék. Át se gondolom, csak szaladok mélyebbre és mélyebbre, kapkodom a körszakállakat be szorgosan, mintha fizetnének érte.',
+    'Hozhatom a prémium, drága, nagyüveges söröm?',
+    'Sírok. Mikor a hülyeség a szorgalommal párosul...',
+    'Mentek a kis házik, vitték az üzenetet a földekre, hogy a gyapotszedők terjesszék jó hírét a vállalatnak. Csattan az ostor, szaladtak a csillagok glassdoorra!',
+    'Nem érti, mi a baj a túlórával és az ingyen oncallal, így is többet kapunk, mint az indiai testvérei. A mi rizsünk nem üres rizs, van rajta kis só és még a Gangeszbe se kell fosnunk, van vízöblítéses angol wcnk. Telhetetlen magyarok...',
+    'Olyan dilettáns vagyok a zenéhez, hogy nem lehet elmondani.',
+    'Szeretnek nah: András egy kíváló gyapotszedő, aki már házi volt, de nem volt elég jó neki a ház melege, ő viszakívánkozott a sárba a gyapotföldekre.',
+    '...de sajnos kevés, mint bennem a munkakedv.',
 ];
 var tutik = patrikok;
 
