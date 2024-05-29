@@ -1,5 +1,6 @@
 const patrikFn = require('./assets/js/functions');
 const tutik = require('./assets/js/patrikok');
+const fs = require("fs");
 
 const args = process.argv.slice(2);
 
@@ -31,11 +32,33 @@ if (args.length && args[0] === '--image') {
     const text = napituti;
     const lines = Math.ceil(text.length / 28);
 
-    const response = await fetch('https://source.unsplash.com/600x600/?' + imageTags);
-    if (!response.ok) {
-      throw new Error(`unexpected response ${response.statusText}`);
+    if (process.env.PEXELS_API_KEY) {
+      const response = await fetch('https://api.pexels.com/v1/search?per_page=1&query=' + imageTags, {
+        headers: {
+          'Authorization': process.env.PEXELS_API_KEY
+        },
+      });
+      if (!response.ok) {
+        throw new Error(`unexpected response ${response.statusText}`);
+      }
+      const page = await response.json();
+      const responseImg = await fetch(page.photos[0].src.original + '?auto=compress&cs=tinysrgb&h=600&w=600&fit=crop', {
+        headers: {
+          'Authorization': process.env.PEXELS_API_KEY
+        },
+      });
+      if (!responseImg.ok) {
+        throw new Error(`unexpected response ${response.statusText}`);
+      }
+      await streamPipeline(responseImg.body, fs.createWriteStream('./napipatrik.jpg'));
+    } else {
+      const responseImg = await fetch('https://source.unsplash.com/600x600/?' + imageTags);
+      if (!responseImg.ok) {
+        throw new Error(`unexpected response ${response.statusText}`);
+      }
+      await streamPipeline(responseImg.body, fs.createWriteStream('./napipatrik.jpg'));
     }
-    await streamPipeline(response.body, fs.createWriteStream('./napipatrik.jpg'));
+
     const image = await Jimp.read('./napipatrik.jpg');
     const shadow = await Jimp.read(lines < 4 ? './shadow.png' : './shadow_thick.png');
     await image.blit(shadow, 0, 0);
