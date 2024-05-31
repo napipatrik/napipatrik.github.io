@@ -584,6 +584,15 @@ var patrikok = [
     'Olyan dilettáns vagyok a zenéhez, hogy nem lehet elmondani.',
     'Szeretnek nah: András egy kíváló gyapotszedő, aki már házi volt, de nem volt elég jó neki a ház melege, ő viszakívánkozott a sárba a gyapotföldekre.',
     '...de sajnos kevés, mint bennem a munkakedv.',
+    'Olyan flashbackem volt... már szóltak fentről, holnap public release lesz, készüljünk. Óriási megrendelési hulámra lehet számítani! Nem bírják majd a nodeok a hatalmas terhelést.',
+    'Reggel átsétáltam az úton, bementünk az erdőbe, friss levegő, tavacska, napsütés - igaz megtámadott egy akkora szúnyog horda, mintha csak a falloutban lennék, de még ez sem szegte kedvem!',
+    'Hallod, ki van ez találva. Látszik, hogy nem ma kezdték: negatív előre és utána öntik a "pozitív" gondolatokat és aki nem lát át a bullshitbe burkolózó ködön, az meg is eszi jóízűen, pozitívan megy el úgy, hogy leépítés volt.',
+    'Ma allhands 10-től, külön Pestnek. Biztos megmondják, hogy nem azért szüntették meg a berlini officet, mert drága, hanem mert itthon jobb. A gyapotszedők kevesebbet kérnek és nem zavarja semmi az itthoni embereket.',
+    'Elvesznek benefitteket, de kit érdekel?! A család az család!',
+    'Sajnos kicsi voltam, nem értettem hozzá - bár ez most is igaz.',
+    'Mondanám, hogy már dolgoztam, de hazudnék.',
+    'Nem kell megszakadni - csak úgy, mint az öreg. Persze amit elvégzel munka, az nem baj hogy valamivel jobb, bár valljuk be nem nehéz megütni a szintjét.',
+    'Szóval én követem az öreg által kitaposott utat: annyi gyapotot szedek le, amennyit feltétlen muszáj, aztán annyi vizet kortyolok, amennyit csak lehet és szépen eltengődök.',
 ];
 var tutik = patrikok;
 
