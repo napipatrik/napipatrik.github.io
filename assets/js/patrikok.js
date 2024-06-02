@@ -585,7 +585,6 @@ var patrikok = [
     'Szeretnek nah: András egy kíváló gyapotszedő, aki már házi volt, de nem volt elég jó neki a ház melege, ő viszakívánkozott a sárba a gyapotföldekre.',
     '...de sajnos kevés, mint bennem a munkakedv.',
     'Olyan flashbackem volt... már szóltak fentről, holnap public release lesz, készüljünk. Óriási megrendelési hulámra lehet számítani! Nem bírják majd a nodeok a hatalmas terhelést.',
-    'Reggel átsétáltam az úton, bementünk az erdőbe, friss levegő, tavacska, napsütés - igaz megtámadott egy akkora szúnyog horda, mintha csak a falloutban lennék, de még ez sem szegte kedvem!',
     'Hallod, ki van ez találva. Látszik, hogy nem ma kezdték: negatív előre és utána öntik a "pozitív" gondolatokat és aki nem lát át a bullshitbe burkolózó ködön, az meg is eszi jóízűen, pozitívan megy el úgy, hogy leépítés volt.',
     'Ma allhands 10-től, külön Pestnek. Biztos megmondják, hogy nem azért szüntették meg a berlini officet, mert drága, hanem mert itthon jobb. A gyapotszedők kevesebbet kérnek és nem zavarja semmi az itthoni embereket.',
     'Elvesznek benefitteket, de kit érdekel?! A család az család!',
