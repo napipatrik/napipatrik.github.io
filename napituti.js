@@ -32,7 +32,9 @@ if (args.length && args[0] === '--image') {
     const text = napituti;
     const lines = Math.ceil(text.length / 28);
 
-    if (process.env.PEXELS_API_KEY) {
+    let responseImg = await fetch('https://source.unsplash.com/600x600/?' + imageTags);
+    if (process.env.PEXELS_API_KEY && !responseImg.ok) {
+      console.log("Unspash failed, trying Pexels...");
       const response = await fetch('https://api.pexels.com/v1/search?per_page=1&query=' + imageTags, {
         headers: {
           'Authorization': process.env.PEXELS_API_KEY
@@ -42,21 +44,16 @@ if (args.length && args[0] === '--image') {
         throw new Error(`unexpected response ${response.statusText}`);
       }
       const page = await response.json();
-      const responseImg = await fetch(page.photos[0].src.original + '?auto=compress&cs=tinysrgb&h=600&w=600&fit=crop', {
+      responseImg = await fetch(page.photos[0].src.original + '?auto=compress&cs=tinysrgb&h=600&w=600&fit=crop', {
         headers: {
           'Authorization': process.env.PEXELS_API_KEY
         },
       });
-      if (!responseImg.ok) {
-        throw new Error(`unexpected response ${response.statusText}`);
-      }
+    }
+    if (responseImg.ok) {
       await streamPipeline(responseImg.body, fs.createWriteStream('./napipatrik.jpg'));
     } else {
-      const responseImg = await fetch('https://source.unsplash.com/600x600/?' + imageTags);
-      if (!responseImg.ok) {
-        throw new Error(`unexpected response ${response.statusText}`);
-      }
-      await streamPipeline(responseImg.body, fs.createWriteStream('./napipatrik.jpg'));
+      throw new Error(`unexpected response ${responseImg.statusText}`);
     }
 
     const image = await Jimp.read('./napipatrik.jpg');

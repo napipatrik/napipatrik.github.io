@@ -32,6 +32,7 @@ jobs:
         run: ./dump_napituti.sh
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
 
       - name: Setup AWS cli
         uses: aws-actions/configure-aws-credentials@v4
