@@ -592,6 +592,22 @@ var patrikok = [
     'Mondanám, hogy már dolgoztam, de hazudnék.',
     'Nem kell megszakadni - csak úgy, mint az öreg. Persze amit elvégzel munka, az nem baj hogy valamivel jobb, bár valljuk be nem nehéz megütni a szintjét.',
     'Szóval én követem az öreg által kitaposott utat: annyi gyapotot szedek le, amennyit feltétlen muszáj, aztán annyi vizet kortyolok, amennyit csak lehet és szépen eltengődök.',
+    'De várj, az fegyelmi, az nem kell. Tökön rúghattam volna Tamást, akkor is megkapom azt.',
+    'De az arcunkba úgy mondja, mintha csak egy régi-régi dakota közmondás lenne: nem lehet 30%-ot emelni, nem, lehetetlen! Többen cáfoltuk, akkor se hiszi el.',
+    'Látod Csaba, nem is jársz te az igaz úton. Ahhoz alultömöttnek és elégedetlennek kell lenni és tudnod kell különbséget tenni a család és a családod között, mert ha az útra léptél volna, mely igaz és egyetlen, akkor nem járnál el a céges családoddal nyaralgatni, nem pazarolnád a saját időd ilyen BSekre.',
+    'Innen is látszik, hogy messze vagy te az igaz úttól, a család ösvényét járod.',
+    'A saját szabadidődet a vállalatra áldozod azért, mert ihatsz 1-2 sört. Hát ez egy valakinek éri meg, az pedig a vállalat.',
+    '...és mivel ugye együtt söröztetek, ezért a barátodnak gondolod, a jó kollégákat, ezért hát nem hagynád ott az erdőben egyedül az igaz barátod, a veszélyes, körszakállakkal tarkított erdőben.',
+    'A végén, miután megmentettétek együtt a productot, mergveregetitek egymás vállát, mélyen egymás szemébe néztek és látjátok az öröm tüzét fellángolva, majd kebledre öleled barátod és fizetségül kellemes meleg járja át testetek.',
+    'Jó, tudom, gonosz vagyok.',
+    'Próbálom tisztán tartani a kódot, guardianként blockolni mindent, de hát a többiek leszarják.',
+    'Múltkor írtam a reviewt, hogy miért decline, közben belement az autoapprove és már merged volt, mire beküldtem.',
+    'Tudod miért jó mindenhol a magyar kolléga? Ott tesz keresztbe, ahol tud!',
+    'Írnom kéne egy könyvet. Lehetne a címe az, hogy "Dupla örömök, erdész".',
+    'Lehettem volna író is, faszomé nem érdekelt az irodalom. Milyen menő lenne, egész nap valami speciality kávézóban lennék (egy kávéval szigorúan), pergetném az írást a macbookon. Lehetne írói válságom!',
+    'Most teszem le a network securitynk alapjait. Remélem legalább olyan jól fog sikerülni, mint a Jenkins.',
+    'Emlékszem, úgy dobbantottatok, mint az öreg oncall alatt!',
+    'Tudod mi a baj? Hogy megittam egy 10.5%-os sört, de már nyitnám a következőt.',
 ];
 var tutik = patrikok;
 
