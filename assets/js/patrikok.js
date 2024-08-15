@@ -606,6 +606,23 @@ var patrikok = [
     'Lehettem volna író is, faszomé nem érdekelt az irodalom. Milyen menő lenne, egész nap valami speciality kávézóban lennék (egy kávéval szigorúan), pergetném az írást a macbookon. Lehetne írói válságom!',
     'Emlékszem, úgy dobbantottatok, mint az öreg oncall alatt!',
     'Tudod mi a baj? Hogy megittam egy 10.5%-os sört, de már nyitnám a következőt.',
+    'Így vagyok én is a fosmocsárban. Látod, ott megyek mezítelen lábbal, hisz már nincs dellám erdész bakancsra, gondolom gyorsan megpatkolom, hisz csak apróság, kis pocsolya. Átslisszanok, mint a kfc kosár a belemen, de nem, mert ez egy kurva nagy fos és éppen iszom le a mocsarat, hogy kilógjon a fejem! A büdös kurva életbe már!',
+    'Tudod mi epic? A tudásom!',
+    'A rötyin kiváló wifi kell!',
+    'Meg hogy nem élvezed a céges bullshitet. Imádod! Olyan vagy, mint Csaba, csak tagadod, de igazán a vállalatban érzed jól magad, az igazi családoddal.',
+    'Az a baj, kicsit bánom, hogy megfeleztem Gáborkával, annyira finom volt.',
+    'Úgy megyünk ki a szarból, mint ahogy az öreg húzott el az irodából.',
+    'Nah buzi, én most bemegyek az erdőbe.',
+    'Az öreget már tudnám tanítani: ma dolgoztam 2 órát és erről én beszéltem a legtöbbet napin, 20 percet - a 30 perces napin.',
+    'Úgy eltűntél, mint Tamás furikjából a rátömés.',
+    'Elegem van! Erdőt akarok, faházzal, a kis késemmel tüzet rakni és sütni egy kis krumplit, közben meg elkortyolni egy jó hideg sört.',
+    'Érted, az, hogy Laci be akar járni, nem nagy valami. Többet tud dolgozni.',
+    'Már látom buzi, igazából a Lacizmus és a Csabaizmus nem is áll oly távol egymástól, igazából elfér mindkettő benned. Dolgozhatsz sokat motiváltan, miközben a család szerető ölelésében vagy. Teljesen függetlenné tetted magad a romlott anyagias világtól, csak te és a munkád az igazi családoddal.',
+    'Látszik, nem ismersz: nálam sosem üres a wc papír tartó!',
+    'Nekem olyan a hetem, mintha szabin lennék.',
+    'Engem nem motiválna meg a család, de téged a család ölelő szeretete úgy megmotivált, mint Lacit a faszerdő.',
+    'A sok dilettáns: még 5k letöltés, egy deprecated modulera. Te is behúznád, mi?!',
+    'Nah, hogy ne csak negatív legyek: ma csak kétszer kurva anyáztam.',
 ];
 var tutik = patrikok;
 
