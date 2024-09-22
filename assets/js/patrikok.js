@@ -609,7 +609,7 @@ var patrikok = [
     'Így vagyok én is a fosmocsárban. Látod, ott megyek mezítelen lábbal, hisz már nincs dellám erdész bakancsra, gondolom gyorsan megpatkolom, hisz csak apróság, kis pocsolya. Átslisszanok, mint a kfc kosár a belemen, de nem, mert ez egy kurva nagy fos és éppen iszom le a mocsarat, hogy kilógjon a fejem! A büdös kurva életbe már!',
     'Tudod mi epic? A tudásom!',
     'A rötyin kiváló wifi kell!',
-    'Meg hogy nem élvezed a céges bullshitet. Imádod! Olyan vagy, mint Csaba, csak tagadod, de igazán a vállalatban érzed jól magad, az igazi családoddal.',
+    'Még hogy nem élvezed a céges bullshitet. Imádod! Olyan vagy, mint Csaba, csak tagadod, de igazán a vállalatban érzed jól magad, az igazi családoddal.',
     'Az a baj, kicsit bánom, hogy megfeleztem Gáborkával, annyira finom volt.',
     'Úgy megyünk ki a szarból, mint ahogy az öreg húzott el az irodából.',
     'Nah buzi, én most bemegyek az erdőbe.',
