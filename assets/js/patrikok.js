@@ -610,7 +610,6 @@ var patrikok = [
     'Tudod mi epic? A tudásom!',
     'A rötyin kiváló wifi kell!',
     'Még hogy nem élvezed a céges bullshitet. Imádod! Olyan vagy, mint Csaba, csak tagadod, de igazán a vállalatban érzed jól magad, az igazi családoddal.',
-    'Az a baj, kicsit bánom, hogy megfeleztem Gáborkával, annyira finom volt.',
     'Úgy megyünk ki a szarból, mint ahogy az öreg húzott el az irodából.',
     'Nah buzi, én most bemegyek az erdőbe.',
     'Az öreget már tudnám tanítani: ma dolgoztam 2 órát és erről én beszéltem a legtöbbet napin, 20 percet - a 30 perces napin.',
