@@ -640,6 +640,17 @@ var patrikok = [
     'Most egy devvel próbálok együtt dolgozni, de hát nem tudom minek. Itt igénytelenek dolgoznak.',
     'Nah, de mivel ma korán voltam az erdőn, most megyek, megcsinálom a téli előkészületeket az erkélyen.',
     'Szóval nem nézed meg, pedig lehozna az életről, mint az öreg PRja.',
+    '...ha a dilettantizmus szorgalommal párosul.',
+    '2 év szorgalmas munkája elültette, trágyázta rendesen, nem sajnálta az időt és energiát és úgy beérett a faszerdő, hogy most már nincs az az Isten, aki ezt kiírtja.',
+    'Mikor benyitsz és már csípi a szemed a fos szaga, aztán a könnyező szemeid között meglátod a szeplősre fosott budit. Csak itt még le sincs húzva legalább.',
+    'Hallod, most esik le: proDUCT. DUCT. DUCT TAPE!',
+    'De én a kanapén ülök, nézem a HBOt... akarom mondani dolgozom.',
+    'Ezt is megéltük: a Nokiából kerestek meg.',
+    'Megcsináltam az eng surveyt, nem sok pozitív lett benne. Komolyan, lehúztam a céget, a vezetést, a munkát, mindent!',
+    'A jó nyeles fiók. De tudod mire gondolj, mikor sírnál? [Pénzeső gif] és egyből örömkönnyek jönnek.',
+    '2.5mp a ping. Füst jelek...',
+    'Faszomat se érdekli, ez munkaidő, ma még nem dolgoztam, de a héten se sokat.',
+    'Várom Martint, másik csapat managere kérdezi a devet: Csaba, nem ma akartál szabin lenni? Válasz: dede, csak nagyon rövid a sprintünk. A manager mosolyog és minden megy tovább.',
 ];
 var tutik = patrikok;
 
