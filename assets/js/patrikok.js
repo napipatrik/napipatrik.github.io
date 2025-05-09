@@ -647,10 +647,8 @@ var patrikok = [
     'De én a kanapén ülök, nézem a HBOt... akarom mondani dolgozom.',
     'Ezt is megéltük: a Nokiából kerestek meg.',
     'Megcsináltam az eng surveyt, nem sok pozitív lett benne. Komolyan, lehúztam a céget, a vezetést, a munkát, mindent!',
-    'A jó nyeles fiók. De tudod mire gondolj, mikor sírnál? [Pénzeső gif] és egyből örömkönnyek jönnek.',
-    '2.5mp a ping. Füst jelek...',
     'Faszomat se érdekli, ez munkaidő, ma még nem dolgoztam, de a héten se sokat.',
-    'Várom Martint, másik csapat managere kérdezi a devet: Csaba, nem ma akartál szabin lenni? Válasz: dede, csak nagyon rövid a sprintünk. A manager mosolyog és minden megy tovább.',
+    'Tamás, mi volt? Kitágítottak, mint Csaba a tárcáját?',
 ];
 var tutik = patrikok;
 
