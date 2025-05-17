@@ -2,6 +2,7 @@
 
 const helper = require('./helper');
 const handlers = require('./handlers');
+const db = require('./db');
 const {SlashCommandBuilder} = require('@discordjs/builders');
 const {REST, Routes, Client, Events, PermissionsBitField, Partials, GatewayIntentBits, ChannelType} = require('discord.js');
 const client = new Client({partials: [Partials.Channel], intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent, GatewayIntentBits.DirectMessages]});
@@ -80,7 +81,7 @@ client.on(Events.InteractionCreate, interaction => {
       what = 'kep-embed';
     }
 
-    handlers.getTuti(what, ...args)
+    handlers.getTuti(what, args)
       .then(tuti => {
         if (tuti === 'Ilyen nincs bazmeg!') {
           return {
@@ -99,7 +100,9 @@ client.on(Events.InteractionCreate, interaction => {
 });
 
 client.on(Events.MessageCreate, message => {
-  const parts = helper.unaccent(message.content.toLowerCase()).split(' ');
+  const parts = helper.unaccent(message.cleanContent.toLowerCase()).split(' ');
+
+  db.storeMessage(message.guildId, message.channelId, `[${message.createdAt.toLocaleString("hu-HU")}] ${message.author.username}: ${message.cleanContent}`);
 
   if (message.author.bot) {
     return false;
@@ -124,13 +127,15 @@ client.on(Events.MessageCreate, message => {
     args = parts.splice(2);
   }
 
-  handlers.getTuti(what, ...args)
-    .catch(() => 'Hallod, nem értem. Ezt mondjad:\n`' + helper.sitename + '` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat')
+  handlers.getTuti(what, args, message, client.user.username)
+    .catch(err => {
+      console.error(err);
+      return 'Nem működik bazmeg! Szar ez a fos!';
+    })
     .then(tuti => {
       return message.channel
-        .send(tuti);
-    })
-    .catch(console.error);
+        .send(tuti || 'Nem tudom');
+    });
 });
 
 if (!process.env.DISCORD_BOT_TOKEN) {

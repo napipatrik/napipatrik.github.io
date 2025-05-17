@@ -9,9 +9,10 @@ function reloadTutilista() {
     .then(tutilista => {
       eval(tutilista);
       tutik = module.exports;
+      console.log('Tutilista frissítve, bejegyzések: ' + tutik.length);
     })
-    .catch(error => {
-      console.log('Tutilista betöltése sikertelen!');
+    .catch(err => {
+      console.log('Tutilista betöltése sikertelen!', err);
       process.exit(1);
     });
 }
@@ -21,6 +22,10 @@ setInterval(() => reloadTutilista(), 3600 * 1000);
 
 exports.get = function (id) {
   return tutik[id];
+}
+
+exports.all = function () {
+  return tutik;
 }
 
 exports.count = function () {

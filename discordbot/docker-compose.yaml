@@ -1,0 +1,18 @@
+services:
+  napipatrik-discordbot:
+    build: src
+    container_name: napipatrik-discordbot
+    environment:
+      - REDIS_URL=redis://redis:6379
+    env_file:
+      - .env
+    restart: unless-stopped
+    depends_on:
+      - redis
+  redis:
+    image: redis:alpine
+    container_name: napipatrik-redis
+    command: ["redis-server", "--appendonly", "yes"]
+    restart: unless-stopped
+    volumes:
+      - ./redis:/data

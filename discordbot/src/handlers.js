@@ -1,8 +1,11 @@
 const helper = require('./helper');
 const tutik = require('./tutik');
+const db = require('./db');
+const ai = require('./ai');
 
 
-exports.getTuti = async function (what, ...parts) {
+exports.getTuti = async function (what, parts, originalMessage, username) {
+  const helpText = 'Hallod, nem értem. Ezt mondjad:\n`' + helper.sitename + '` -> mai tuti\n`napipatrik kép` -> a mai kép beszúrása\n`napipatrik random` -> véletlen tuti\n`napipatrik <id>` -> adott tuti\n`napipatrik keress <kulcsszavak>` -> beszúr egy véletlen idézetet ami tartalmazza a kulcsszavakat';
   switch (what) {
     case 'napi':
     case 'mai':
@@ -25,8 +28,16 @@ exports.getTuti = async function (what, ...parts) {
       return search(parts);
     case 'id':
       return byId(parts[0]);
+    case 'help':
+    case 'segitseg':
+      return Promise.resolve(helpText);
     default:
-      return Promise.reject();
+      if (!ai.isEnabled()) {
+        return Promise.resolve(helpText);
+      }
+
+      const history = await db.getMessagesForChannel(originalMessage.guildId, originalMessage.channelId);
+      return ai.getResponse(originalMessage.cleanContent.replace(`@${username}`, ""), history);
   }
 }
 
