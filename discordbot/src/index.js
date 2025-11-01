@@ -100,31 +100,26 @@ client.on(Events.InteractionCreate, interaction => {
 });
 
 client.on(Events.MessageCreate, message => {
-  const parts = helper.unaccent(message.cleanContent.toLowerCase()).split(' ');
+  const parts =
+    helper.unaccent(message.cleanContent.replace(`@${client.user.username}`, "").toLowerCase())
+      .split(' ')
+      .filter(s => s);
 
   db.storeMessage(message.guildId, message.channelId, `[${message.createdAt.toLocaleString("hu-HU")}] ${message.author.username}: ${message.cleanContent}`);
 
-  if (message.author.bot) {
-    return false;
-  }
-
-  if (parts[0] !== helper.sitename && !message.mentions.has(client.user.id, {ignoreRoles: true, ignoreRepliedUser: true, ignoreEveryone: true})) {
-    if (message.channel.type === ChannelType.DM) {
-      parts.unshift('napipatrik');
-    } else {
-      return;
-    }
+  if (message.author.bot || !message.mentions.has(client.user.id, {ignoreRoles: true, ignoreRepliedUser: true, ignoreEveryone: true}) && message.channel.type !== ChannelType.DM) {
+    return;
   }
 
   let what, args = [];
-  if (parts.length === 1) {
+  if (!parts.length) {
     what = 'napi';
-  } else if (!isNaN(parts[1].replace('#', ''))) {
+  } else if (!isNaN(parts[0].replace('#', ''))) {
     what = 'id';
-    args = [parts[1].replace('#', '')];
+    args = [parts[0].replace('#', '')];
   } else {
-    what = parts[1];
-    args = parts.splice(2);
+    what = parts[0];
+    args = parts.splice(1);
   }
 
   handlers.getTuti(what, args, message, client.user.username)
