@@ -9,7 +9,7 @@ jobs:
   build-docker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: dorny/paths-filter@v3
         id: changes
         with:
@@ -27,8 +27,8 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       - name: Build and push
         if: steps.changes.outputs.discordbot == 'true'
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
-          context: ./discordbot
+          context: ./discordbot/src
           push: true
           tags: rutkai/napipatrik-discordbot:latest
