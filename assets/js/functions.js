@@ -20,11 +20,11 @@ function showSearch() {
 
 function filterTuti() {
     var input = document.getElementById("tuti-search");
-    var filter = input.value.toUpperCase();
+    var filter = unaccent(input.value.toUpperCase());
     var a = document.getElementById("tutilist").getElementsByTagName("a");
     for (var i = 0; i < a.length; i++) {
         txtValue = a[i].textContent || a[i].innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        if (unaccent(txtValue.toUpperCase()).indexOf(filter) > -1) {
             a[i].style.display = "";
         } else {
             a[i].style.display = "none";
@@ -57,6 +57,10 @@ function shuffle() {
 
 function getDefaultOffset() {
     return (moment().year() - 1970) * 365 + moment().dayOfYear();
+}
+
+function unaccent(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
 if (typeof exports !== 'undefined') {

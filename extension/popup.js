@@ -61,12 +61,12 @@ function loadSearch() {
 
 function searchInList() {
     var input = document.getElementById("tuti-search");
-    var filter = input.value.toUpperCase();
+    var filter = unaccent(input.value.toUpperCase());
     var items = document.getElementById("tutilist").children;
     for (var i = 0; i < items.length; i++) {
     	const p = items[i].querySelector('p');
         txtValue = p.textContent || p.innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        if (unaccent(txtValue.toUpperCase()).indexOf(filter) > -1) {
             items[i].style.display = "";
         } else {
             items[i].style.display = "none";
@@ -98,4 +98,8 @@ function copyTextToClipboard(text) {
   //Remove the textbox field from the document.body, so no other JavaScript nor 
   //other elements can get access to this.
   document.body.removeChild(copyFrom);
+}
+
+function unaccent(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
