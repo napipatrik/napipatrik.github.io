@@ -22,10 +22,10 @@
     "@ai-sdk/anthropic": "^2.0.40",
     "@ai-sdk/openai": "^2.0.59",
     "@discordjs/builders": "^1.13.0",
-    "@discordjs/rest": "^2.6.0",
+    "@discordjs/rest": "^2.6.1",
     "@redis/client": "^5.9.0",
     "ai": "^5.0.86",
     "discord-api-types": "^0.38.31",
-    "discord.js": "^14.24.2"
+    "discord.js": "^14.26.2"
   }
 }
