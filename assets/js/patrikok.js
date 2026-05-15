@@ -704,9 +704,6 @@ var patrikok = [
     'Mert érted, hogy fasz a főnök az egy dolog, de hogy fasz a csapat?',
     'A munkát mindig el kell lökni magadtól!',
     'Patrik: Huu buzi, nem vagyok jó kedvemben\nAndrás: Dolgoztál?\nPatrik: nem, de nem ez a kérdés.',
-    'Együtt zenélnétek, látom is az együttesetek nevét: Mezítelen Erdészek',
-    'Állandóan a plafonon vagyok baszki és még pók sem vagyok.',
-    'Látod buzi, korral jön meg a szépsége az embernek.',
     'Betamásosodsz és beporzod majd a fél céget. Megjön a dilettantizmus és a tesztó, felbújsz principalba és álló fasszal kergeted a csúnya csajokat a vállalatnál.',
     'Patrik: Tudod milyen nap van?\nAndrás: Ma sem dolgozunk szerda?\nHa tudnád, hogy ez a 3. napja a héten...',
     'Patrik (14:05): Én ma most kezdtem el dolgozni.',
@@ -717,8 +714,7 @@ var patrikok = [
     'Ez a jövő a cégben: a managerek promptolnak, de itt jövünk mi a képbe, mert üzemeltetni nem tudják, így lefejlesztik, mi meg kirakjuk.',
     'Úgy szaladok az erdőben, mint Te a vállalati pénzesőben, csak nekem nem a tárcám tágul, hanem az ánuszom.',
     'Mezítláb szaladgálok a kibaszott faszerdőben, de legalább a seggem is szabadon van.',
-    'Így ez ad némi nemű védelmet. Lehet, hogy szakadt az esernyő, de a fospermet egy jelentős részét megtudja fogni és azért lássuk be, nem mindegy, hogy szaladsz az esernyővel és csöppen rád egy kis fos, vagy telemegy a szemed és a szád a kibaszott fossal.',
-    'Emlékszem, mindig mondta: a segg a jövő ponája. Számomra nincs több kérdés, ahogy az öreg mondaná: virágozzék minden virág!',
+    'Így ez ad némi nemű védelmet. Lehet, hogy szakadt az esernyő, de a fospermet egy jelentős részét meg tudja fogni és azért lássuk be, nem mindegy, hogy szaladsz az esernyővel és csöppen rád egy kis fos, vagy telemegy a szemed és a szád a kibaszott fossal.',
     'Bevándorló vagy, egy román szőröstalpú a szemükben. Ne legyenek illúzióid, ha egy testvérnek vagy neked kell adni, nem lesz kérdés. Ezek a cégek csak papíron PCk.',
     'Nem látja be, hogy egy kibaszott managerek Balázsbája.',
     'Én nagyon szeretek napot lopni, de amikor egy csapatot blokkol, akkor azt megcsinálom.',
@@ -728,7 +724,6 @@ var patrikok = [
     'Hallod, ha megnézed a DNS lookupjaim, a reddit már megelőzi a pornhubot.',
     'Én minden munkát elvégzek. Én kalapálom meg amit más nem tud. Dolgozhatnék többet, de minek?',
     'Lássuk be buzi, én optimizálok a saját időmre és ez optimálisabb. Kész a munka ami sürgős vagy blokkolós kurva gyorsan, a többi meg szépen. Van rám panasz?',
-    'Érted, múltkor beültem a kádba, néztem a trasht, meditáltam és csak a gyümiket élveztem.',
 ];
 var tutik = patrikok;
 
