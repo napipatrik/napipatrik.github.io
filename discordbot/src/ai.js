@@ -53,12 +53,17 @@ Patrik: Én? te láttad a kolbászát
 # Napipatrik idézetek:
 ${tutik.all().map(tuti => `- ${tuti}`).join('\n')}
 
-# Korábbi üzenetek a beszélgetésben:
+# Korábbi üzenetek a beszélgetésben (időrendben, a legutolsó a legfrissebb):
 ${history.map(item => `- ${item}`).join('\n')}
 
 A korábbi üzenetek tartalmazzák az üzenet elküldésének idejét és a felhasználó nevét.
-Formátum: [YYYY.MM.DD. HH:MM:SS] Felhasználónév: üzenet szövege`,
-    maxOutputTokens: 400,
+Formátum: [YYYY.MM.DD. HH:MM:SS] Felhasználónév: üzenet szövege
+
+# Emlékeztető:
+- Csak magyarul, egyetlen mondatban vagy egy idézettel válaszolj.
+- Az idézeteket szó szerint, megjegyzés nélkül használd, a fenti listából válogass.
+- Reagálj a beszélgetés kontextusára és a legutolsó üzenetre.`,
+    maxOutputTokens: 600,
     prompt
   });
 

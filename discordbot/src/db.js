@@ -21,7 +21,11 @@ exports.getMessagesForChannel = async function (server, channel) {
     return [];
   }
 
-  return client.lRange(`${server}:${channel}`, 0, -1);
+  // Messages are stored with lPush (newest at head), so lRange returns them
+  // newest-first. Reverse to chronological order so the conversation reads
+  // oldest -> newest, which is what the LLM needs to follow the context.
+  return client.lRange(`${server}:${channel}`, 0, -1)
+    .then(messages => messages.reverse());
 }
 
 function initRedis() {
