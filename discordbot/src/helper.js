@@ -1,30 +1,12 @@
 'use strict';
 
-const https = require('https');
-
 const sitename = 'napipatrik';
 const domain = sitename + '.hu';
 
 
-exports.fetchContent = function (path) {
-  return new Promise((resolve, reject) => {
-    const request = https.request('https://' + domain + '/' + path, res => {
-      var response = "";
-
-      res.on('data', d => {
-        response += d;
-      });
-
-      res.on('end', () => {
-        resolve(response);
-      });
-    });
-
-    request.on('error', e => {
-      reject(e);
-    });
-    request.end();
-  });
+exports.fetchContent = async function (path) {
+  const response = await fetch('https://' + domain + '/' + path);
+  return response.text();
 }
 
 exports.unaccent = function (str) {

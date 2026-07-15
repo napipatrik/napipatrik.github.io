@@ -22,12 +22,8 @@ if ((new Date()).getMonth() === 6 && (new Date()).getDate() === 15) {
 
 if (args.length && args[0] === '--image') {
   (async function () {
-    const Jimp = require('jimp');
-    const fetch = require('node-fetch');
+    const {Jimp, loadFont, HorizontalAlign, VerticalAlign} = require('jimp');
     const fs = require('fs');
-    const util = require('util');
-    const stream = require('stream');
-    const streamPipeline = util.promisify(stream.pipeline);
 
     const text = napituti;
     const lines = Math.ceil(text.length / 28);
@@ -51,16 +47,22 @@ if (args.length && args[0] === '--image') {
       });
     }
     if (responseImg.ok) {
-      await streamPipeline(responseImg.body, fs.createWriteStream('./napipatrik.jpg'));
+      fs.writeFileSync('./napipatrik.jpg', Buffer.from(await responseImg.arrayBuffer()));
     } else {
       throw new Error(`unexpected response ${responseImg.statusText}`);
     }
 
     const image = await Jimp.read('./napipatrik.jpg');
     const shadow = await Jimp.read(lines < 4 ? './shadow.png' : './shadow_thick.png');
-    await image.blit(shadow, 0, 0);
-    const font = await Jimp.loadFont('./assets/Serif.fnt');
-    await image.print(font, 100, 300 - lines * 22, {text: text, alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER, alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE}, 400);
+    await image.blit({src: shadow, x: 0, y: 0});
+    const font = await loadFont('./assets/Serif.fnt');
+    image.print({
+      font,
+      x: 100,
+      y: 300 - lines * 22,
+      text: {text: text, alignmentX: HorizontalAlign.CENTER, alignmentY: VerticalAlign.MIDDLE},
+      maxWidth: 400,
+    });
     await image.write('napipatrik.jpg');
   })();
 } else if (args.length && args[0] === '--index') {
@@ -76,10 +78,7 @@ if (args.length && args[0] === '--image') {
         process.exit(10);
       }
 
-      return response.blob();
-    })
-    .then(blob => {
-      return blob.text();
+      return response.text();
     })
     .then(data => {
       parser.parseString(data, function (err, rss) {
