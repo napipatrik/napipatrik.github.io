@@ -724,6 +724,18 @@ var patrikok = [
     'Hallod, ha megnézed a DNS lookupjaim, a reddit már megelőzi a pornhubot.',
     'Én minden munkát elvégzek. Én kalapálom meg amit más nem tud. Dolgozhatnék többet, de minek?',
     'Lássuk be buzi, én optimizálok a saját időmre és ez optimálisabb. Kész a munka ami sürgős vagy blokkolós kurva gyorsan, a többi meg szépen. Van rám panasz?',
+    'Hogy ne lenne igazam? Ha van valami, amit imádok, az a network.',
+    'Sosem gombáztam, nem is mernék. Az én lelki világommal tuti bad trippem lenne...',
+    'Lehet balanceba napot lopni, az életfilozófiám, de ha munka van, azt meg kell csinálni.',
+    'Tegnap akartam napot lopni, de nem tudtam. A Jenkinssel para volt.',
+    'Pont ezen gondolkodtam, hogy Bükkszéken megszüntettem a pottyantóst, de az az indiai lyukakhoz képest full extrás dolog volt: ajtó, papír, ülőke, zárt, mégis nyitott, friss levegő.',
+    'Laci: van saját fizetésed, nem? Az nem elég jó?\nPatrik: van elég jó?',
+    'Nem vagyok hülye, annyit kell napot lopni, amennyit lehet. Ha nem lehet, akkor nem lopom.',
+    'Rájöttem, hogy dilettáns vagyok.',
+    'Mellesleg most a devops kurva jó helyen van: a pénz közvetlen közelében, dashboard és manufacturing. Ettől még Csaba sem volt közelebb a pénz energiához.',
+    'Tudod miért? Mert értek hozzá!',
+    'Money driven development: kis munkával minél nagyobb tömést elérni!',
+    'Ez már nem Balázsbá-i magaslatok, buzi, már rég leköröztem az öreget, mert ő bár nem dolgozott, annak meg is volt a látszata. Én úgy minimalizálóm már a munkát, hogy maximalizáljam a profitot.',
 ];
 var tutik = patrikok;
 
