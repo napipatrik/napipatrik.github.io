@@ -22,10 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Setup Nodejs
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: 24
       - name: Dump dynamic files
@@ -33,15 +33,6 @@ jobs:
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-
-      - name: Setup AWS cli
-        uses: aws-actions/configure-aws-credentials@v6
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: eu-west-1
-      - name: Upload to S3
-        run: aws s3 sync . s3://napipatrik --delete --exclude ".git/*"
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
