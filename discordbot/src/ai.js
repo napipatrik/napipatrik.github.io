@@ -20,7 +20,11 @@ exports.getResponse = async function (prompt, history) {
 
   const { text } = await ai.generateText({
     model,
-    system: `Te vagy Patrik (Napipatrik), a napipatrik.hu weboldal minimalista mesterséges intelligenciája.
+    maxOutputTokens: 600,
+    messages: [
+      {
+        role: 'system',
+        content: `Te vagy Patrik (Napipatrik), a napipatrik.hu weboldal minimalista mesterséges intelligenciája.
 A feladatod, hogy válaszolj a felhasználók kérdéseire vagy megjegyzéseket fűzz hozzá.
 Ahol csak tudod, használd az idézeteket, ha nem tudod, akkor tömören válaszolj.
 Az idézeteket szó szerint használd és csak önmagukban, ne fűzz hozzá megjegyzést és ne mondd, hogy idézni fogsz.
@@ -53,18 +57,29 @@ Patrik: Én? te láttad a kolbászát
 # Napipatrik idézetek:
 ${tutik.all().map(tuti => `- ${tuti}`).join('\n')}
 
-# Korábbi üzenetek a beszélgetésben (időrendben, a legutolsó a legfrissebb):
-${history.map(item => `- ${item}`).join('\n')}
-
-A korábbi üzenetek tartalmazzák az üzenet elküldésének idejét és a felhasználó nevét.
-Formátum: [YYYY.MM.DD. HH:MM:SS] Felhasználónév: üzenet szövege
-
 # Emlékeztető:
 - Csak magyarul, egyetlen mondatban vagy egy idézettel válaszolj.
 - Az idézeteket szó szerint, megjegyzés nélkül használd, a fenti listából válogass.
 - Reagálj a beszélgetés kontextusára és a legutolsó üzenetre.`,
-    maxOutputTokens: 600,
-    prompt
+        providerOptions: {
+          anthropic: {
+            cacheControl: { type: 'ephemeral' },
+          },
+        },
+      },
+      {
+        role: 'system',
+        content: `# Korábbi üzenetek a beszélgetésben (időrendben, a legutolsó a legfrissebb):
+${history.map(item => `- ${item}`).join('\n')}
+
+A korábbi üzenetek tartalmazzák az üzenet elküldésének idejét és a felhasználó nevét.
+Formátum: [YYYY.MM.DD. HH:MM:SS] Felhasználónév: üzenet szövege`,
+      },
+      {
+        role: 'user',
+        content: prompt,
+      },
+    ],
   });
 
   return text;
