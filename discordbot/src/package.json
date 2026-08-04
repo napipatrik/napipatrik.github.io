@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/napipatrik/napipatrik.github.io#readme",
   "dependencies": {
-    "@ai-sdk/mistral": "^2.0.22",
     "@ai-sdk/anthropic": "^2.0.40",
     "@ai-sdk/openai": "^2.0.59",
     "@discordjs/builders": "^1.13.0",

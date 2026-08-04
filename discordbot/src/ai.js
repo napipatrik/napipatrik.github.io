@@ -86,7 +86,7 @@ Formátum: [YYYY.MM.DD. HH:MM:SS] Felhasználónév: üzenet szövege`,
 }
 
 function getModel() {
-  return getOpenAiModel() || getAnthropicModel() || getMistralModel();
+  return getOpenAiModel() || getAnthropicModel();
 }
 
 function getOpenAiModel() {
@@ -115,18 +115,4 @@ function getAnthropicModel() {
 
   const anthropic = require('@ai-sdk/anthropic').createAnthropic(options);
   return anthropic(process.env.ANTHROPIC_API_MODEL ?? 'claude-sonnet-4-5');
-}
-
-function getMistralModel() {
-  if (!process.env.MISTRAL_API_KEY) {
-    return null;
-  }
-
-  const options = {};
-  if (process.env.MISTRAL_BASE_URL) {
-    options.baseURL = process.env.MISTRAL_BASE_URL;
-  }
-
-  const mistral = require('@ai-sdk/mistral').createMistral(options);
-  return mistral(process.env.MISTRAL_API_MODEL ?? 'mistral-large-latest');
 }
