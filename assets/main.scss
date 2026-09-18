@@ -275,7 +275,7 @@ blockquote::after {
 
 .button {
   border: 1px solid white;
-  background: transparent;
+  background-color: rgba(0, 0, 0, .5);
   color: #fff;
   padding: 12px 24px;
   border-radius: 8px;
@@ -290,7 +290,11 @@ blockquote::after {
   line-height: normal;
 }
 
-.button:hover, .button:visited, .button:focus {
+.button:visited {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.button:hover, .button:focus {
   background-color: rgba(255, 255, 255, .4);
   transition: 325ms ease-out;
   color: #fff;
