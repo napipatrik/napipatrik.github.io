@@ -122,12 +122,16 @@ client.on(Events.MessageCreate, message => {
     args = parts.splice(1);
   }
 
+  const stopTyping = helper.startTyping(message.channel);
+
   handlers.getTuti(what, args, message, client.user.username)
     .catch(err => {
       console.error(err);
       return 'Nem működik bazmeg! Szar ez a fos!';
     })
     .then(tuti => {
+      stopTyping();
+
       return message.channel
         .send(tuti || 'Nem tudom');
     });
