@@ -1,5 +1,6 @@
 'use strict';
 
+const helper = require('./helper');
 const tutik = require('./tutik');
 
 const model = getModel();
@@ -18,7 +19,7 @@ exports.getResponse = async function (prompt, history) {
     return null;
   }
 
-  const { text } = await ai.generateText({
+  const result = await ai.generateText({
     model,
     maxOutputTokens: 600,
     messages: [
@@ -81,9 +82,22 @@ Formátum: [YYYY.MM.DD. HH:MM:SS] Felhasználónév: üzenet szövege`,
         content: prompt,
       },
     ],
+  }).catch(err => {
+    console.error('AI request failed' + promptForLog(prompt), err);
+    throw err;
   });
 
-  return text;
+  if (!result.text || !result.text.trim()) {
+    const warnings = result.warnings?.length ? `, warnings: ${JSON.stringify(result.warnings)}` : '';
+    console.error(`AI returned no response${promptForLog(prompt)} (finish reason: ${result.finishReason}${warnings})`);
+    return null;
+  }
+
+  return result.text;
+}
+
+function promptForLog(prompt) {
+  return helper.isDebugLogEnabled() ? `, prompt: ${prompt}` : '';
 }
 
 function getModel() {

@@ -34,6 +34,10 @@ exports.startTyping = function (channel) {
   };
 }
 
+exports.isDebugLogEnabled = function () {
+  return String(process.env.DEBUG_LOG_ENABLED).toLowerCase() === 'true';
+}
+
 exports.unaccent = function (str) {
   return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }

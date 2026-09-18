@@ -8,6 +8,7 @@ General runtime vars:
 * `DISCORD_BOT_TOKEN` — Discord token for the bot to use. This is required for the bot to work.
 * `REDIS_URL` — Redis URL for the bot to use (if the project uses Redis for caching or state, recommended for AI).
 * `DB_KEEP_MESSAGES` — Number of messages stored in DB and used as context for AI. Default: `20`.
+* `DEBUG_LOG_ENABLED` — Set to `true` to include AI prompts in the logs. Default: `false`.
 
 AI provider configuration (at least one provider API key must be set to enable AI):
 - OpenAI
