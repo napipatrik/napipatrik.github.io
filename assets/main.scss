@@ -99,13 +99,32 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-  .header h1 {
-    flex-direction: column;
-    font-size: 28px;
+  .site-header h1 {
+    display: block;
+    min-width: 0;
+    font-size: 20px;
+    line-height: 1.3;
   }
 
   .site-header {
+    height: auto;
     padding: 12px 0;
+
+    /* Subtitle drops to its own line instead of running under the menu. */
+    small {
+      display: block;
+      white-space: normal;
+    }
+
+    /* The menu keeps its size; the title absorbs the shrinking. */
+    .site-nav {
+      flex: 0 0 auto;
+    }
+
+    .wrapper {
+      box-sizing: border-box;
+      padding-left: 16px;
+    }
   }
 }
 
@@ -305,6 +324,18 @@ blockquote::after {
     box-shadow: 1px 20px 20px 0 rgba(0, 0, 0, 0.1), 0px -20px 30px 0 rgba(0, 0, 0, 0.2);
   }
 
+  /* Same flex min-width:auto trap as the header: a single long word (or a wide
+     code snippet) would otherwise stretch the page wider than the screen. */
+  .page-content > .wrapper,
+  .post {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .post {
+    overflow-wrap: break-word;
+  }
+
   #napituti {
     padding: 0 6px;
   }
@@ -336,31 +367,95 @@ blockquote::after {
 
 /* Tutikereső */
 
-#tuti-search {
-  box-sizing: border-box;
-  padding: 10px 5px 10px 10px;
-  border: none;
-  border-bottom: 1px solid #ddd;
-  width: 100%;
-  font-size: 18px;
-}
-
-.searchbox {
-  position: relative;
-  display: inline-block;
-}
-
+/* Full-viewport overlay: fixed, so opening it can never grow the document
+   and never adds a scrollbar to the page. */
 .searchbox-content {
   display: none;
-  position: absolute;
-  background-color: rgba(0, 0, 0, 0.7);
-  min-width: 200px;
-  z-index: 1;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  /* If the document overflows, the layout viewport grows past the screen and
+     inset:0 would grow with it - clamp to what is actually visible. */
+  max-width: 100vw;
+  max-height: 100vh;
+  max-height: 100dvh;
+  box-sizing: border-box;
+  padding: 40px 16px;
+  background-color: rgba(0, 0, 0, .6);
+  overscroll-behavior: contain;
 }
 
-.searchbox-content div {
-  overflow-y: scroll;
-  max-height: 260px;
+.searchbox-content.show {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchbox-panel {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 720px;
+  max-height: 100%;
+  border: 1px solid rgba(255, 255, 255, .3);
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, .85);
+  overflow: hidden;
+}
+
+.searchbox-header {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: stretch;
+  border-bottom: 1px solid #ddd;
+}
+
+#tuti-search {
+  box-sizing: border-box;
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 14px 10px 14px 16px;
+  border: none;
+  background: transparent;
+  color: #fff;
+  font-size: 18px;
+  font-family: Arial;
+}
+
+#tuti-search::placeholder {
+  color: rgba(255, 255, 255, .6);
+}
+
+#tuti-search:focus {
+  outline: none;
+}
+
+.searchbox-close {
+  flex: 0 0 auto;
+  padding: 0 18px;
+  border: none;
+  background: transparent;
+  color: #fff;
+  font-size: 30px;
+  line-height: 1;
+  cursor: pointer;
+  font-family: Arial;
+}
+
+.searchbox-close:hover, .searchbox-close:focus {
+  background-color: rgba(255, 255, 255, .2);
+}
+
+/* Only the result list scrolls, inside the panel. */
+#tutilist-inner {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .searchbox-content a,
@@ -368,7 +463,7 @@ blockquote::after {
 .searchbox-content a:visited,
 .searchbox-content a:focus {
   color: white;
-  padding: 5px 10px;
+  padding: 10px 16px;
   text-decoration: none;
   display: block;
   font-size: 16px;
@@ -380,6 +475,18 @@ blockquote::after {
   background-color: rgba(241, 241, 241, 0.7);
 }
 
-.searchbox .show {
-  display:block;
+/* Full screen on mobile. */
+@media only screen and (max-width: 768px) {
+  .searchbox-content {
+    padding: 0;
+  }
+
+  .searchbox-panel {
+    max-width: none;
+    height: 100%;
+    max-height: none;
+    border: none;
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, .92);
+  }
 }

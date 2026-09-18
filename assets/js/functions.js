@@ -11,11 +11,32 @@ function loadSearch() {
 		a.onclick = showTutiSearchFactory(i);
 		list.appendChild(a);
 	}
+
+	var overlay = document.getElementById("tutilist");
+	// Clicking the backdrop (but not the panel itself) cancels the search.
+	overlay.addEventListener("click", function (event) {
+		if (event.target === overlay) {
+			hideSearch();
+		}
+	});
+	document.addEventListener("keydown", function (event) {
+		if (event.key === "Escape" && overlay.classList.contains("show")) {
+			hideSearch();
+		}
+	});
 }
 
 function showSearch() {
-	document.getElementById("tutilist").classList.toggle("show");
+	var overlay = document.getElementById("tutilist");
+	overlay.classList.add("show");
+	overlay.setAttribute("aria-hidden", "false");
 	document.getElementById("tuti-search").focus();
+}
+
+function hideSearch() {
+	var overlay = document.getElementById("tutilist");
+	overlay.classList.remove("show");
+	overlay.setAttribute("aria-hidden", "true");
 }
 
 function filterTuti() {
@@ -35,7 +56,7 @@ function filterTuti() {
 function showTutiSearchFactory(i) {
 	return function () {
 	    showTuti(i);
-	    document.getElementById("tutilist").classList.toggle("show");
+	    hideSearch();
 	    return false;
 	}
 }

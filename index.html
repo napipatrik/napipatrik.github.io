@@ -11,12 +11,16 @@ layout: home
   <button class="button" onclick="shuffle(); return false;">Véletlen tuti</button>
   <a class="button" id="permalink" href="/{% if page.quote_id %}{{ page.quote_id }}{% else %}{% include_relative napipatrik.id %}{% endif %}/">Permalink</a>
   <a class="button" href="/napipatrik.jpg" target="_blank">Napi kép</a>
-  <div class="searchbox">
-    <button class="button" onclick="showSearch(); return false;">Tutikereső</button>
-    <div id="tutilist" class="searchbox-content">
-      <input type="text" placeholder="Keresés.." id="tuti-search" onkeyup="filterTuti()">
-      <div id="tutilist-inner"></div>
+  <button class="button" onclick="showSearch(); return false;">Tutikereső</button>
+</div>
+
+<div id="tutilist" class="searchbox-content" role="dialog" aria-modal="true" aria-label="Tutikereső" aria-hidden="true">
+  <div class="searchbox-panel">
+    <div class="searchbox-header">
+      <input type="text" placeholder="Keresés.." id="tuti-search" onkeyup="filterTuti()" autocomplete="off">
+      <button type="button" class="searchbox-close" id="tuti-search-close" aria-label="Keresés bezárása" onclick="hideSearch(); return false;">&times;</button>
     </div>
+    <div id="tutilist-inner"></div>
   </div>
 </div>
 
